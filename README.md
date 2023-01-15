@@ -19,8 +19,12 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 - Casos de estudios
 
-- 
+- Proyecto integrador I
 
 2. **Cómo son las pruebas?**
 
+- Proyecto integrador II
+
 3. **Poniendo en práctica las pruebas**
+
+- Proyecto integrador III
