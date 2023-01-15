@@ -9,7 +9,7 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 1. [**El mundo del testing**](https://github.com/eugenia1984/QA-Egg/tree/main/01_el_mundo_del_testing)
 
-- Introducción al testing
+- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/01_introduccion_al_testing.md)
 
 - Ciclo de desarrollo de software I
 
