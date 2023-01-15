@@ -15,9 +15,9 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 - [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
 
-- Introducción a las pruebas
+- [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
 
-- Casos de estudios
+- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/05_casos_de_estudios.md)
 
 - Proyecto integrador I
 
