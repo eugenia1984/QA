@@ -39,4 +39,10 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 3. **Poniendo en práctica las pruebas**
 
-- Proyecto integrador III
+- Herramientas para ejecución de pruebas
+
+- Ejecución de pruebas
+
+- Reportes de errores
+
+- Proyecto final integrador
