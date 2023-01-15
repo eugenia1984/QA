@@ -8,8 +8,8 @@
 
 - [1.3 - Ciclo de Desarrollo de Software II](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
 
-- [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
+- [1.4 - Introducción a las pruebas](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
 
-- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/05_casos_de_estudios.md)
+- [1.5 - Casos de estudios](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/05_casos_de_estudios.md)
 
 ---
