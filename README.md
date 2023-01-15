@@ -21,7 +21,7 @@
 
 - Proyecto integrador I
 
-2. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/null/external-qa-agile-flaticons-flat-flat-icons.png"/ **Cómo son las pruebas?**](https://github.com/eugenia1984/QA-Egg/tree/main/02_como_son_las_pruebas)
+2. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Cómo son las pruebas?**](https://github.com/eugenia1984/QA-Egg/tree/main/02_como_son_las_pruebas)
 
 - [2.1 - Plan de prueba](https://github.com/eugenia1984/QA-Egg/blob/main/02_como_son_las_pruebas/01_plan_de_prueba_1.md)
 
@@ -37,7 +37,7 @@
 
 - Proyecto integrador II
 
-3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/null/external-qa-agile-flaticons-flat-flat-icons.png"/ **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA-Egg/new/main/03_poniendo_en_practica_las_pruebas
+3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA-Egg/new/main/03_poniendo_en_practica_las_pruebas
 
 - [3.1 - Herramientas para ejecución de pruebas](https://github.com/eugenia1984/QA-Egg/blob/main/03_poniendo_en_practica_las_pruebas/01_herramientas_para_ejecucion_de_pruebas.md)
 
