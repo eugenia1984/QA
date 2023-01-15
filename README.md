@@ -23,6 +23,18 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 2. **Cómo son las pruebas?**
 
+- Plan de prueba I
+
+- Plan de prueba II
+
+- Historia de usuario
+
+- Casos de prueba I
+
+- Casos de prueba II
+
+- Formularios HTML
+
 - Proyecto integrador II
 
 3. **Poniendo en práctica las pruebas**
