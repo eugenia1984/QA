@@ -7,7 +7,7 @@ Curso de Introducción a QA en Egg de ARG Programa 4.0
 
 ## :book: Temario
 
-1. **El mundo del testing**
+1. [**El mundo del testing**](https://github.com/eugenia1984/QA-Egg/tree/main/01_el_mundo_del_testing)
 
 - Introducción al testing
 
