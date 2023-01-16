@@ -7,6 +7,15 @@
 
 ## :book: Temario
 
+
+### INTRODUCCIÓN A QA
+
+-> Encuentros: 17
+
+-> Horas: 50
+
+**Necesidad de las pruebas**
+
 1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/40/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA-Egg/tree/main/01_el_mundo_del_testing)
 
 - [1.1 - Introducción al testing](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/01_introduccion_al_testing.md)
@@ -46,3 +55,35 @@
 - [3.3 - Reportes de errores](https://github.com/eugenia1984/QA-Egg/blob/main/03_poniendo_en_practica_las_pruebas/03_ejecucion_de_errores.md)
 
 - Proyecto final integrador
+
+### TESTING MANUAL
+
+-> Encuentros: 20
+
+-> Horas: 60
+
+**Análisis, planificación y ejecución de pruebas**
+
+### TESTING AUTOMATION I
+
+-> Encuentros: 30
+
+-> Horas: 90
+
+**Automatización de pruebas web**
+
+### TESTING AUTOMATION II
+
+-> Encuentros: 20
+
+-> Horas: 60
+
+**Automatización de pruebas de APIs**
+
+### PERFORMANCE
+
+-> Encuentros: 15
+
+-> Horas: 45
+
+**Pruebas derendimiento y carga**
