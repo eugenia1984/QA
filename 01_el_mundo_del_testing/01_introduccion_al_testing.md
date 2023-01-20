@@ -236,7 +236,7 @@ Si no lo has descubierto, te sugerimos volver sobre el texto y buscar esas clave
 
 ---
 
-☑️ ### Super pro tip:
+###  ☑️  Super pro tip:
 
 No es lo mismo QA que QC. ¿Qué pasa? Cuando se buscan roles, casi siempre se busca por las siglas QA (o sea, quality assurance que es "garantizador de calidad" o aseguramiento de la calidad). ¡Atención! ¡Es un truco!
 
@@ -355,7 +355,52 @@ Puedes ayudarte con lápiz y papel #oldstyle
 
 ![image](https://user-images.githubusercontent.com/72580574/213809623-32a68dc9-9bba-4e87-b548-10377a273428.png)
 
+## Tarea 3
+
+En medio de la auditoría interna, el equipo está cubriendo a un compañero de trabajo que está de licencia. Su compañero de trabajo ha dejado un mensaje de correo de voz especificando las tareas que tendrá que hacer alguien del equipo por él.
+
+“¡Hola! Muchas gracias por cubrirme. Lo principal que debes hacer es completar la hoja de cálculo de ingresos mensuales. Puedes hacerlo buscando los últimos ingresos publicitarios en los informes de marketing. Después de hacer todo eso, continúa y revisa mi correo electrónico - lo he redirigido en forma automática al @info para que todos lo reciban- y mi correo de voz en mi teléfono de escritorio para ver si hay alguna solicitud de los ejecutivos. Si hay tales solicitudes, hazlas primero a menos que tengas una solicitud de emergencia de otro departamento. Una vez que hayas terminado con la solicitud de cumplimiento, ¿podrías regar la planta de mi escritorio después de apagar la computadora? Ah, espera, debería haber mencionado un par de cosas: debes iniciar sesión con tu usuario de administrador para ver los informes de marketing, y tendrás que enviarme un correo electrónico de actualización justo después de que termines de manejar las solicitudes. Bueno, gracias de nuevo. ¡Eres de gran ayuda! Te debo el almuerzo cuando regrese.”
+
+¿En qué orden colocarías las tareas? ¿Podrías animarte a priorizarlas?
+
+![image](https://user-images.githubusercontent.com/72580574/213812873-9e29e824-d66b-4967-b691-f46b831f787a.png)
+
+
+## Tarea 4
+
+Pablo tiene algunos comprobantes de pago para cargar al sistema digital. También tiene dos personas que lo van a estar asistiendo. Juan y María.
+
+Pablo ya cargó 3 comprobantes de pago y dividió los restantes en partes iguales entre él, Juan y María. Juan y María han cargado la mitad de los comprobantes de pago que han tenido asignadas.
+Entre los 3, tienen 4 comprobantes de pago restantes.
+
+¿Con cuántos comprobantes arrancó Pablo?
+
+¿Ya has realizado las 4 tareas? ¡Bien hecho!
+Completa el formulario y chequea tus respuestas [desde aquí](https://forms.gle/xX3k2AJJ2hzvMnqj6)
+
+![image](https://user-images.githubusercontent.com/72580574/213813007-1a40db29-e06f-40fc-b0c5-1df13af976bd.png)
+
+
+---
+
+ ## ¡Hora de cerrar! 
+ 
+ ¡Lo hemos logrado! Has llegado al final del primer encuentro.
+Tómense 15 minutos como equipo para conversar sobre el ejercicio de atención al detalle.
+
+Les dejamos algunas preguntas disparadoras:
+
+1. ¿Qué pudieron descubrir sobre sus propias habilidades de atención al detalle? ¿Les es familiar esta habilidad?
+
+2. En Egg creemos en la potencia del equipo. ¿Cuántas veces hoy recurrieron a la ayuda de otros integrantes del equipo?   ¿Ayudaron a algún integrante?
+
+Recuerda que los equipos cambian en cada encuentro. En el próximo, no necesariamente te encontrarás con el mismo equipo de hoy.
 
 
 
+¡Gran momento para recordar qué son los pulsos y cómo los pueden aprovechar mientras aprenden! Este breve video les recuerda cómo se utilizan los pulsos para armar los equipos en el futuro.
+
+---
+
+:tv: [Ver Video sobre Pulsos](https://youtu.be/beYoGWOU_bk)
 
