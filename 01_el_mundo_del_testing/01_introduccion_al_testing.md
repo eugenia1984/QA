@@ -236,6 +236,126 @@ Si no lo has descubierto, te sugerimos volver sobre el texto y buscar esas clave
 
 ---
 
+☑️ ### Super pro tip:
+
+No es lo mismo QA que QC. ¿Qué pasa? Cuando se buscan roles, casi siempre se busca por las siglas QA (o sea, quality assurance que es "garantizador de calidad" o aseguramiento de la calidad). ¡Atención! ¡Es un truco!
+
+El acto de testear un software es un acto de QC (o sea, de quality control - controlamos que la calidad sea la que prometimos). Y QA se refiere al responsable de garantizar que todo el proceso desde los requerimientos hasta el final cumpla con los estándares de calidad prometidos. Que incluye, por supuesto, hacer testeos de código, pero también incluye procesos de desarrollo de código, testeos unitarios, testeos estáticos y otros procesos que tal vez un tester no realice nunca, ya que caen bajo la responsabilidad de los desarrolladores de software.
+
+
+---
+
+### ¡MANOS A LA OBRA! 
+
+Vamos a poner a prueba todo lo que hemos leído hoy. Este desafío lo debes resolver en forma individual. ¿Por qué hacemos esto? A veces en equipo, a veces en forma individual. Como te fuimos anticipando, quien debe asimilar los conocimientos eres tú. Y el equipo está para sostenerte cuando tienes una duda.
+
+Hay otros momentos en los que el conocimiento se consolida (se hace real y lo puedes utilizar en nuevas situaciones) solo cuando lo pones en acción en el equipo, e intentas explicar a otros eso que acabas de aprender. Confía en nosotros, sabemos de lo que hablamos.
+
+Listos, preparados, ya… para dar inicio al primer ¡Manos a la obra!
+
+1. Ingresa a la siguiente página (no te dejes engañar por el nombre) haciendo click en el enlace: [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
+
+2. Busca el enlace a la página original: The original twwwe.
+¿Qué tan fácil te resultó encontrarlo? ¿Aún no lo encontraste? La primera palabra de esta consigna es una pista: “Busca”. ¿Dónde buscarías algo que no conoces en la web?
+
+3. Hagan click en el enlace hallado en el punto anterior e ingresen al mismo.
+
+4. Dentro de la página, busca el enlace **amazing colours** y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
+
+5. Haz click en **shocking pictures**. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
+
+6. Busca el enlace para volver a la página de “Inicio”. Vuelve de alguna manera: ¿De qué forma lo has hecho? Prueba que funcione cada una de las alternativas que se te hayan ocurrido.
+
+7. Haz click en el enlace **Our FAV Software**. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
+
+8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
+
+9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
+
+10. ¡Encuentra si hay otro enlace oculto dentro de la página web!
+
+---
+
+### ¡MANOS A LA OBRA!
+
+![image](https://user-images.githubusercontent.com/72580574/213809096-4b27a7f3-8920-463c-9b52-b1e59e510bed.png)
+
+
+[¡Accede a la solución del ejercicio aquí!](https://docs.google.com/document/d/1azoSh8D8mL0V-jpXJ6vydyn4iaRQMs36/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
+
+
+Luego de un esfuerzo individual y personal, nos volvemos a encontrar con nuestros compañeros de equipo del día de hoy.
+
+Les dejamos algunos disparadores para que retomen la conversación:
+
+- ¿Qué buenas prácticas del diseño web pudieron inferir a partir de este ejercicio? (inferir: extraer una conclusión a partir de uno o varios casos particulares)
+
+- ¿Les costó el idioma de la página para resolver el ejercicio?
+
+- ¿Qué sintieron como usuarios al intentar navegar por una página web como la del ejercicio?
+
+
+![image](https://user-images.githubusercontent.com/72580574/213809214-27eec3fb-f1ab-4b15-942e-768340ae4a9a.png)
+
+---
+
+Sabemos que has hecho un gran esfuerzo hoy.
+
+Te adaptaste a un entorno nuevo, conociste otros estudiantes como tú y has asimilado muchas palabras nuevas.
+
+Tal vez no te haya costado tanto, tal vez sí.
+
+Estamos para pedirte un último esfuerzo. ¡Un ejercicio más para hoy!
+
+---
+
+## :star: Atención al detalle
+
+Además de aprender las herramientas y los conceptos fundamentales del testing, vamos a estar trabajando sobre el desarrollo de habilidades esenciales para que nos desempeñemos sin errores desde el primer minuto como testers.
+
+**La atención al detalle** es una habilidad que, como todas las habilidades, se entrena. Les proponemos un pequeño ejercicio de atención al detalle muy propio de las pruebas técnicas que pueden encontrar en una entrevista de trabajo. No se preocupen por cómo les va hoy. Usen sus resultados para entender mejor cuán desarrollada tienen esta habilidad y si tienen oportunidades para mejorarla con el tiempo.
+
+
+Para poder detectar bien en dónde te encuentras con esta habilidad, primero resuelve los ejercicios en forma individual (20 minutos) y luego abre la conversación en la sala (15 minutos) para ver cómo les fue a tus compañer@s.
+
+¿Qué dices? ¿Contamos contigo unos minutos más?
+
+
+### ¿Listos? Arranquemos:
+
+Todos los empleados de una empresa vuelven a trabajar a la oficina luego de unas vacaciones y es hora de revisar los papeles y ponerlos en orden.
+
+La empresa está pasando por un gran momento, y para acompañar este crecimiento es necesario revisar muchos de los procesos realizados por el área administrativa.
+
+El equipo es cada uno de los presentes en la mesa de trabajo del día de hoy. Ya están listos para llevar adelante este desafío y convertirse en auditores internos de la organización. Que esto suceda de forma correcta, depende de cada integrante. **Tienes 4 tareas por realizar**.
+
+¡Atención! Tendrán una restricción: solo cuentan con menos de 20 minutos.
+
+¡Corre el tiempo! ¡Éxitos!
+
+## Tarea 1
+
+Su empresa ha estado trabajando para agregar comprobantes de pago antiguos en papel a su nuevo sistema digital. Se te ha asignado la tarea de verificar la digitalización para asegurarte de que los detalles de la copia en papel se hayan ingresado en el nuevo sistema con precisión.
+
+Compara cada elemento en la lista a continuación para ver si la versión que se muestra en tu pantalla coincide con la copia en papel.
+
+Cualquier detalle cuenta
+
+![image](https://user-images.githubusercontent.com/72580574/213809499-a2c57903-a4f7-4499-98d5-6a6e7ac84afe.png)
+
+
+##  Tarea 2
+
+El equipo de Administración ha enviado los dos informes a continuación, que cubren los datos de ventas y bonificaciones de siete empleados. ¿Qué empleados tienen información diferente listada entre los informes? Seleccione todas las respuestas correctas.
+
+Puedes ayudarte con lápiz y papel #oldstyle
+
+![image](https://user-images.githubusercontent.com/72580574/213809583-49afb8f6-1ab9-40e5-94d4-4e545306d90b.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/213809623-32a68dc9-9bba-4e87-b548-10377a273428.png)
+
+
 
 
 
