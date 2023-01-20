@@ -427,6 +427,8 @@ Cualquier detalle cuenta
 
 ![image](https://user-images.githubusercontent.com/72580574/213809499-a2c57903-a4f7-4499-98d5-6a6e7ac84afe.png)
 
+-> **respuesta**: coinciden todos
+
 
 ##  Tarea 2
 
@@ -438,6 +440,20 @@ Puedes ayudarte con lápiz y papel #oldstyle
 
 
 ![image](https://user-images.githubusercontent.com/72580574/213809623-32a68dc9-9bba-4e87-b548-10377a273428.png)
+
+-> Empleado 705 -> todos los datos iguales
+
+-> Empleado  801 -> todos los datos son iguales
+
+-> -> Empleado 303 -> 1 (ventas)
+
+-> Empleado  207 -> todos los datos son iguales
+
+-> Empleado  406 ->   todos los datos son iguales
+
+-> Empleado  504 -> 2 (% ventas y bonus)
+
+-> Empleado  102 ->  todos los datos son iguales
 
 ## Tarea 3
 
