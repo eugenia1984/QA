@@ -262,6 +262,84 @@ Listos, preparados, ya… para dar inicio al primer ¡Manos a la obra!
 [¡Accede a la solución del ejercicio aquí!](https://docs.google.com/document/d/1azoSh8D8mL0V-jpXJ6vydyn4iaRQMs36/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
 
 
+### Solución ejercicio: the worlds worst website ever
+
+1. Ingresa a la siguiente página (no te dejes engañar por el nombre) haciendo click en el enlace: [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
+
+**Solución**: Ingresar al enlace y recorrer la página.
+
+
+2. Busca el enlace a la página original: The original twwwe.
+
+¿Qué tan fácil te resultó encontrarlo? ¿Aún no lo encontraste? La primera palabra de esta consigna es una pista: “Busca”. ¿Dónde buscarías algo que no conoces en la web?
+
+**Solución**: utilizar el buscador de Google para encontrar el enlace a la página original. En el buscador se debe escribir, como dice en el ejercicio, “The original TWWWE”.
+
+
+3. Hagan click en el enlace hallado en el punto anterior e ingresen al mismo.
+
+**Solución**: acceder a “The original TWWWE”
+
+
+4. Dentro de la página, busca el enlace amazing colours y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
+
+**Solución**: En “The original TWWWE” buscar el enlace de AMAZING COLOURS.
+
+
+5. Haz click en shocking pictures. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
+
+**Solución**: Analizar el comportamiento de “SHOCKING PICTURES!” y pensar desde su perspectiva y experiencia qué conciben sobre el comportamiento de esa “sección”.
+
+
+6. Busca el enlace para volver a la página de “Inicio”. Vuelve de alguna manera: ¿De qué forma lo has hecho? Prueba que funcione cada una de las alternativas que se te hayan ocurrido.
+
+**Solución**: Hay dos URL para volver a la página inicial: (1) https://www.twwwe.com/ y (2) https://www.theworldsworstwebsiteever.com/ 
+
+Si se hace click en el enlace donde dice “click here” te llevará a una lista de errores de la página.
+
+![image](https://user-images.githubusercontent.com/72580574/213815187-48afe145-eaa3-4e2d-b55f-402ca4c46a4e.png)
+
+
+En el punto 49, menciona que existen dos opciones para ir a la página inicial: 
+
+
+Una vez que descubrimos esto, podemos volver al hacer click en estos links, o copiando y pegando la URL en nuestro navegador.
+
+
+7. Haz click en el enlace Our FAV Software. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
+
+**Solución**: Dentro de https://www.theworldsworstwebsiteever.com o https://www.twwwe.com/ (dependiendo cuál enlace hayas utilizado en el punto 6), tenemos que hacer click en el enlace que dice “Our FAV Software”
+
+![image](https://user-images.githubusercontent.com/72580574/213815253-d70374af-e98b-48ed-ae24-f0589423acc6.png)
+
+No se observan enlaces de descarga del software mostrado.
+
+En el encabezado, la letra “P” de “Phab Fonts” ya no es blanca. 
+
+Al inicio luce así:
+
+![image](https://user-images.githubusercontent.com/72580574/213815295-5eb90311-36c2-4321-bff1-1b4602d167aa.png)
+
+Pero dentro de “Our fav software” luce así:
+
+![image](https://user-images.githubusercontent.com/72580574/213815319-344cfc52-9507-4701-8f2e-349993d39cc3.png)
+8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
+
+Solución: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
+
+1- Ingresando la URL de la página en nuestro navegador nuevamente
+
+
+
+2- Utilizando el botón de regresar en el navegador
+
+
+
+
+
+---
+
+
 Luego de un esfuerzo individual y personal, nos volvemos a encontrar con nuestros compañeros de equipo del día de hoy.
 
 Les dejamos algunos disparadores para que retomen la conversación:
