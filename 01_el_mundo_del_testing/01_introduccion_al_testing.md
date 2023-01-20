@@ -81,4 +81,161 @@ En equipo, usen los 10 minutos restantes para compartir los ejemplos que trajo c
 - Podemos compartir pantalla, usar pizarras compartidas como la de [Zoom](https://www.google.com/search?q=crear+jamboard+tutorial+video&ei=uzV-Y-TGEovJ5OUP7de-4Ac&ved=0ahUKEwikkIX7yMT7AhWLJLkGHe2rD3wQ4dUDCA8&uact=5&oq=crear+jamboard+tutorial+video&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgAToKCAAQRxDWBBCwA0oECEEYAEoECEYYAFCrDljyE2DVFWgBcAF4AIABeIgBtASSAQM1LjGYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:762084e8,vid:JF05K9FzlxQ), [Jamboard](https://jamboard.google.com/) o [Excalidraw](https://excalidraw.com/).
 
 
+![image](https://user-images.githubusercontent.com/72580574/213807369-fed21868-2509-4e26-8787-bc9bee9074e1.png)
+
+
+Ya estarás descubriendo un poco el ritmo. Usamos el encuentro en vivo para leer, ejercitar, aprender de la experiencia de otros y poder resolver dudas junto a otros estudiantes que están aprendiendo junto a tí.
+
+Ahora vamos a dedicar unos 35 minutos a la lectura de material. Nuestra sugerencia es que lo hagas en forma silenciosa y que junto a tu equipo del día indiquen a qué horario desean volver a interactuar.
+
+Tendrás lectura y también una ejercitación.
+
+¿Por qué sugerimos hacerlo en forma individual?
+
+- Porque todos tenemos distintos estilos de aprendizaje y al variar las formas, le damos lugar a la diversidad.
+
+- Porque no solo se trata de aprender a cooperar, también se trata de que cada uno incorpore el material en forma efectiva.
+
+De a poco vamos introduciéndonos en el mundo del Testing. Seguro que habrán podido inferir la necesidad de hacer pruebas de calidad en la producción de software.
+
+Calidad es una de esas palabras que damos por sentado y tal vez no reparamos en su significado más preciso.
+
+
+**La calidad es una medida de excelencia. Se refiere a un estado libre de defectos, deficiencias o variaciones significativas de un producto o resultado que se entrega para satisfacer los requerimientos específicos de un proyecto o cliente.**
+
+---
+
+## :book: MATERIAL DE LECTURA
+
+### Introducción al testing y a la industria del software
+
+Para comprender esta definición en contexto, es importante revisar cómo se produce software.
+
+Ciclo de vida de producción de software (o SDLC, software development lifecycle, por sus siglas en inglés).
+
+### El inglés es una necesidad de la industria
+
+Si no lo han observado todavía, verán que la industria de la tecnología ha elegido al inglés como su lengua franca, o sea, el idioma universal en el cual se escribe, se produce y se trabaja en software y tecnología.
+
+A medida que presentemos terminología específica de testing haremos especial hincapié en integrar los conceptos en inglés ya que en el mundo laboral serán muy necesarios. Les sugerimos, también, utilizar fuentes de estudio en inglés. Videos en YouTube con subtítulos activados y sitios web que los asistan a reforzar estos conceptos en inglés.
+
+
+**La producción de software se puede iniciar por una de dos vías**:
+
+- **Proyecto**
+
+- **Producto**
+
+
+**Proyecto**: existe un cliente particular con una necesidad específica para su negocio. Ej: Una peluquería que trabaja con turnos que desea además cobrar en el momento en el que se gestiona el turno.
+
+El cliente entonces contacta a un proveedor de software y le detalla sus necesidades. El desarrollador (puede ser un individuo o una compañía, muchas veces llamadas software factories) toma nota de los requerimientos, hace las preguntas necesarias para entender mejor aquellas cuestiones que el cliente no sabe especificar - si desea que sea posible tomar turnos en feriados, por ejemplo - y luego realiza un cotización en base al esfuerzo - horas y cantidad de desarrolladores necesarios. Si el cliente lo acepta, se inicia el proyecto.
+
+Entonces: un proyecto es una solución particular para un cliente con necesidades específicas. Típicamente nos encontramos a entidades financieras, bancos, gobiernos y grandes empresas entre los clientes que solicitan soluciones a medida, con alto grado de confidencialidad y exigencia.
+
+**Producto**:
+
+La propuesta de software para un producto se inicia con la detección de una necesidad en el mercado. Por ejemplo, podemos decir que la compra remota es una necesidad que puede ser satisfecha a gran escala. Soluciones como Amazon, Ebay, Mercado Libre pretenden dar solución a esta necesidad. El camino es un poco distinto ya que el que produce el software responde casi siempre a un esfuerzo de un equipo (muchas veces una start up) que trabaja para entender cómo resolver ese problema de forma que muchos usuarios en el mundo deseen utilizar ese software. Entonces un producto pretende resolver un problema a gran escala y sus usuarios habitualmente van directo a consumirlo.
+
+Para el ciclo de vida de desarrollo de software, ser un proyecto o ser un producto no cambia el orden en el que ocurren los pasos.
+
+El ciclo de vida del desarrollo de software luce así:
+
+1. **Estrategia**: Recopilación de requisitos y planificación /Strategy: requirements specification and planning
+
+2. **Diseño de software** (**Software design**)
+
+3. **Desarrollo de software** (**Software development**)
+
+4. **Prueba e Integración** (**Testing and integration**)
+
+5. **Despliegue** (**Deployment**)
+
+6. **Operacionalización y Mantenimiento** (**Operation and maintenance**)
+
+
+![image](https://user-images.githubusercontent.com/72580574/213807949-e3010f4c-1be8-4a18-848b-3f67176db410.png)
+
+
+Imagen 1.2: Ciclo de vida de Producción de Software. Fuente: [https://www.itview.in/blog/indispensable-role-significance-of-testing-in-software-development-life-cycle-sdlc/ ](https://www.itview.in/blog/indispensable-role-significance-of-testing-in-software-development-life-cycle-sdlc/ )
+
+
+### Secreto de la industria:
+
+Existen varias versiones del gráfico o los pasos del ciclo de vida de la producción de software. La idea es que comiences a familiarizarte con la idea de que el momento del testing es un paso previo a la entrega del producto al cliente. Lo más probable es que en un proyecto real, estos pasos estén superpuestos. Por ejemplo: mientras se termina de desarrollar la fase 2, puede que el equipo de testing ya esté trabajando en las pruebas de la fase 1 y que también el cliente vaya viendo entregas parciales. Vamos a profundizar sobre este tema cuando veamos "Producción ágil de software" en encuentros futuros.
+
+---
+
+### ¿NECESITAS UN EJEMPLO? 
+
+**¡Pongámosle vida al ciclo de desarrollo de software!**
+
+Iniciamos un emprendimiento con unos amigos. Cocinamos snacks de origen vegetal, aptos para intolerantes al gluten y dietas vegetarianas y veganas. Deseamos tener algo de presencia en la web y en las redes sociales. Nos acercamos a un conocido que tiene una empresa de desarrollo de software especializada en páginas web.
+
+
+### Lee atentamente la secuencia e intenta identificar cada uno de los pasos del ciclo de producción de software. Verás que una vez puesto en práctica, cada una de estas fases se vuelven simples de recordar y cobran sentido.
+
+
+**Día 1**: Nos acercamos a la empresa. Nos citan a un encuentro y nos entrevistan.
+
+*Compañía* - *Vamos a comenzar por la página web. ¿Tienen una idea de la imagen que desean proyectar? ¿Ya tienen algún diseño con el que están produciendo sus productos?*
+
+*Nosotros* - *¡Sí! Nuestra marca ya es conocida y tenemos logo, packaging y hasta la frase con la que nos identifica el público: "Aptos para la pausa de cada uno."*
+
+*Compañía* - *Excelente. Entonces les vamos a dejar un cuestionario para que nos cuenten en detalle sobre sus clientes. Quiénes son, qué edad tienen, qué les gusta. ¿Además de los clientes, alguien más va a usar esta web? - aquí inicia la exploración más técnica. La que tal vez nosotros como clientes no sabemos hacer porque no tenemos el conocimiento. Nos preguntan si va a haber más de un usuario (ej, administrador de stock?), si vamos a realizar transacciones en la página (compra y venta), si vamos a tener stock de nuestros productos, si tenemos una base de datos con la cual ya trabajamos. Cuántos usuarios esperamos de tráfico a nuestra web. No es lo mismo esperar un crecimiento lento y orgánico, que desarrollar una solución para sostener 10,000 clicks en un minuto. Todos hemos visto esos tickets de nuestra banda preferida irse en segundos a la madrugada en la que se pusieron a la venta.*
+
+Con esta información, la compañía promete volver a nosotros con una propuesta económica, una idea de tiempos de resolución y prometen hacer más preguntas si se encuentran con falta de información.
+
+**Días 2 y 3**:
+
+La compañía se reúne con su equipo multidisciplinario y evalúan el proyecto. Cada responsable de área calcula el costo en tiempo y esfuerzo de cada uno de los requerimientos identificados por el cliente y los identificados durante la entrevista. Producen un documento técnico que incluye:
+
+- Especificación de requisitos funcionales
+
+- Especificación de requisitos comerciales
+
+- Requerimientos del cliente
+
+- Requerimientos de usuarios/roles
+
+- Requerimientos de seguridad y análisis de riesgos
+
+- Esquema de testeo
+
+¿Puedes identificar qué fases ya se han cumplido en este escenario?
+
+**Día 4**: Nos presentan la documentación y los planes de pago. Nos satisface el nivel de detalle y la velocidad con la que han cumplido con esta fase del proyecto y rápidamente nos ponemos de acuerdo para que comiencen a trabajar. Estiman unos 3 meses antes de poder concretar con el proyecto, pero nos dicen que estarán presentando avances o muestras (mock-ups es la palabra que se utiliza en la industria tech y se refiere a las maquetas visuales o funcionales con las que los desarrolladores nos pueden acercar una idea que nosotros podamos entender, ya que la hacen lo más parecido al producto final posible).
+
+**Día 15**: Nos convocan a una reunión para mostrar avances. Nos muestran un mock-up del wireframe (¡este te toca googlear a tí!). Nos gusta mucho. Hacemos algunas observaciones de elementos que no nos imaginábamos que iban a mostrarse así. Damos feedback de la parte visual y jugamos a ser usuarios que llegan a nuestra página. Nos avisan que nada de esto que vemos está en el mundo real, sino que es tan solo una maqueta para que podamos dar nuestra opinión sin que ellos hayan invertido mucho tiempo en desarrollar el total de la propuesta.
+
+**-Metodologías ágiles ha ingresado a la habitación-**
+
+![image](https://user-images.githubusercontent.com/72580574/213808519-d5c1f137-94bb-45a1-b502-9cee03565da3.png)
+
+**Día 30**: Nos envían un prototipo para que veamos. Nos envían una URL que no está listada al público y que tiene acceso con usuario y contraseña. Nos cuentan que ya está armado el esqueleto funcional de los que solicitamos y que por favor probemos las funcionalidades que habíamos solicitado. Nos aseguran que funcionan todas pero quieren ver si a nosotros nos satisfacen.
+
+**Día 31??: Probamos todo con nuestro equipo. Usamos distintos nombres, realizamos distintas acciones. Nos encanta lo que han hecho... aunque todavía luce como un documento word hecho página web. Nos aseguran que así es el proceso. Que en breve, una vez que confirmemos que nos gusta así, se pondrán a trabajar con la parte de diseño de imagen.
+
+**¿Cómo vienes? ¿Has podido adivinar algunos de los pasos que la compañía realiza aún cuando el cliente no se entera?**
+
+Haremos de cuenta que todo siguió bien, que no se descubrieron errores, que no hubo atrasos, que el cliente estuvo satisfecho con cada paso hasta el momento de lanzar la página al mercado, abierta y con una URL comercial.
+
+*Spoiler*: los proyectos raramente son lineales y la relación con el cliente (o producto, si estamos trabajando en forma interna en nuestra propia organización) suelen estar llenas de desafíos comunicacionales. No es fácil armar una lista de requerimientos exhaustiva y que cumpla con todos los deseos del cliente y no es fácil para el cliente transmitir todos esos deseos.
+
+### ¿Qué es lo importante aquí?
+
+Retrocedamos un segundo en el tiempo. Días 2 y 3. ¿Pudieron detectar el momento en el que el equipo de QA participó de la redacción de la propuesta?
+
+**Día 30**: ¿Pudieron identificar el rol del equipo de testing antes de presentar un prototipo funcional al cliente?
+
+Si no lo has descubierto, te sugerimos volver sobre el texto y buscar esas claves que hemos dejado para tí. Entender este proceso llevará varios intentos pero ganas mucho si ya desde el día 1 pones atención a cuál es la importancia de testear software lo antes posible y en la mayor cantidad de situaciones posibles.
+
+**Descansa unos dos minutos**. Te lo has ganado.
+
+¡Prepárate para tu primera ejercitación como tester!
+
+---
+
+
+
 
