@@ -199,7 +199,7 @@ La compañía se reúne con su equipo multidisciplinario y evalúan el proyecto.
 
 **Día 30**: Nos envían un prototipo para que veamos. Nos envían una URL que no está listada al público y que tiene acceso con usuario y contraseña. Nos cuentan que ya está armado el esqueleto funcional de los que solicitamos y que por favor probemos las funcionalidades que habíamos solicitado. Nos aseguran que funcionan todas pero quieren ver si a nosotros nos satisfacen.
 
-**Día 31??: Probamos todo con nuestro equipo. Usamos distintos nombres, realizamos distintas acciones. Nos encanta lo que han hecho... aunque todavía luce como un documento word hecho página web. Nos aseguran que así es el proceso. Que en breve, una vez que confirmemos que nos gusta así, se pondrán a trabajar con la parte de diseño de imagen.
+**Día 31**: Probamos todo con nuestro equipo. Usamos distintos nombres, realizamos distintas acciones. Nos encanta lo que han hecho... aunque todavía luce como un documento word hecho página web. Nos aseguran que así es el proceso. Que en breve, una vez que confirmemos que nos gusta así, se pondrán a trabajar con la parte de diseño de imagen.
 
 **¿Cómo vienes? ¿Has podido adivinar algunos de los pasos que la compañía realiza aún cuando el cliente no se entera?**
 
