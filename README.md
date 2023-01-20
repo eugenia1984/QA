@@ -86,4 +86,16 @@
 
 -> Horas: 45
 
-**Pruebas derendimiento y carga**
+**Pruebas de rendimiento y carga**
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/213815418-ca29c5c5-5883-4d78-b983-e6c7f313bf10.png)
+
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/213815442-0a5650e3-2f45-4123-a092-2c1b597f91c1.png)
+
+---
+
