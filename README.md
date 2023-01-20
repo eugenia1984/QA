@@ -99,10 +99,14 @@
 
 ---
 
-##:book: Aprendizaje cooperativo
+## :book: Aprendizaje cooperativo
 
 ![image](https://user-images.githubusercontent.com/72580574/213815541-6cb288ae-f1a0-4c39-a91f-218302e79bf5.png)
 
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/213816202-ab2a558e-06a0-4413-a12d-e8787e1fc154.png)
 
 ---
 
