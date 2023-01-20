@@ -8,6 +8,13 @@
 
 ---
 
+### ¿Que haremos hoy ?
+
+![image](https://user-images.githubusercontent.com/72580574/213816298-81a11e11-6dd2-4545-8ac6-2fbb2bcf8353.png)
+
+
+---
+
 ## :star: Introducción y rompehielo
 
 ¡Te damos la bienvenida a nuestras guías de trabajo!
