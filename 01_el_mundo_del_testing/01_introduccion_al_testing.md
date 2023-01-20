@@ -427,7 +427,24 @@ Cualquier detalle cuenta
 
 ![image](https://user-images.githubusercontent.com/72580574/213809499-a2c57903-a4f7-4499-98d5-6a6e7ac84afe.png)
 
--> **respuesta**: coinciden todos
+-> **respuesta**:
+
+A continuación, detallaremos todos los items para que respondas si coincide o no la copia en papel con la copia digital.
+
+![image](https://user-images.githubusercontent.com/72580574/213823360-7cddc833-e22c-414b-ba0f-86917af45d66.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/213823456-acdceb79-6b77-4f86-a1c9-e8ca1fb856fb.png)
+
+![image](https://user-images.githubusercontent.com/72580574/213823644-58c4ca7b-3627-47c6-85c8-e108bd67f0d8.png)
+
+![image](https://user-images.githubusercontent.com/72580574/213823696-2698a2f2-69d9-4710-b211-50f6b6beaddf.png)
+
+![image](https://user-images.githubusercontent.com/72580574/213823729-9a917f66-1a53-49f8-852c-ea6ebd13c16b.png)
+
+![image](https://user-images.githubusercontent.com/72580574/213823745-f3ef7052-2cbe-4274-aaf4-49b8b998cda7.png)
+
+![image](https://user-images.githubusercontent.com/72580574/213823759-30f71672-82c2-486b-a4b5-b8edc8539ce5.png)
 
 
 ##  Tarea 2
@@ -441,17 +458,17 @@ Puedes ayudarte con lápiz y papel #oldstyle
 
 ![image](https://user-images.githubusercontent.com/72580574/213809623-32a68dc9-9bba-4e87-b548-10377a273428.png)
 
--> Empleado 705 -> todos los datos iguales
+-> Empleado 705 -> NO COINCIDEN TODOS
 
 -> Empleado  801 -> todos los datos son iguales
 
--> -> Empleado 303 -> 1 (ventas)
+-> -> Empleado 303 -> NO COINDIDEN TODOS (ventas)
 
 -> Empleado  207 -> todos los datos son iguales
 
 -> Empleado  406 ->   todos los datos son iguales
 
--> Empleado  504 -> 2 (% ventas y bonus)
+-> Empleado  504 -> NO COINCIDEN TODOS (% ventas y bonus)
 
 -> Empleado  102 ->  todos los datos son iguales
 
@@ -465,6 +482,8 @@ En medio de la auditoría interna, el equipo está cubriendo a un compañero de 
 
 ![image](https://user-images.githubusercontent.com/72580574/213812873-9e29e824-d66b-4967-b691-f46b831f787a.png)
 
+![image](https://user-images.githubusercontent.com/72580574/213823861-fb15bdae-2053-4a9d-b9a2-03b1130201f6.png)
+
 
 ## Tarea 4
 
@@ -474,6 +493,9 @@ Pablo ya cargó 3 comprobantes de pago y dividió los restantes en partes iguale
 Entre los 3, tienen 4 comprobantes de pago restantes.
 
 ¿Con cuántos comprobantes arrancó Pablo?
+
+**Respuesta** : 9
+---
 
 ¿Ya has realizado las 4 tareas? ¡Bien hecho!
 Completa el formulario y chequea tus respuestas [desde aquí](https://forms.gle/xX3k2AJJ2hzvMnqj6)
