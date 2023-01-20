@@ -246,6 +246,7 @@ Listos, preparados, ya… para dar inicio al primer ¡Manos a la obra!
 
 7. Haz click en el enlace **Our FAV Software**. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
 
+
 8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
 
 9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
@@ -323,17 +324,37 @@ Al inicio luce así:
 Pero dentro de “Our fav software” luce así:
 
 ![image](https://user-images.githubusercontent.com/72580574/213815319-344cfc52-9507-4701-8f2e-349993d39cc3.png)
+
 8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
 
 Solución: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
 
 1- Ingresando la URL de la página en nuestro navegador nuevamente
 
+![image](https://user-images.githubusercontent.com/72580574/213815801-f9061c04-ecc6-4611-877c-ac30610784c4.png)
 
 
 2- Utilizando el botón de regresar en el navegador
 
+![image](https://user-images.githubusercontent.com/72580574/213815822-61e65fe0-6f4d-44d7-8337-5398c985112e.png)
 
+
+9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
+
+**Solución**: Este es el reproductor:
+
+![image](https://user-images.githubusercontent.com/72580574/213816058-2fc782fb-74fa-4b4e-9fd6-304130bb2a13.png)
+
+
+Se visualiza correctamente.
+
+Se puede utilizar el comando de volumen.
+
+Si tratas de hacer doble click en el volumen, queda completamente visible. Pero si uno ingresa a las opciones, se visualizan incorrectamente la velocidad de reproducción.
+
+10. ¡Encuentra si hay otro enlace oculto dentro de la página web!
+
+**Solución**: ¡Si encuentras uno, coméntalo con tu equipo!
 
 
 
