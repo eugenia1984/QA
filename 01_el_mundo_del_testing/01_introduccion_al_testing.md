@@ -157,7 +157,7 @@ Imagen 1.2: Ciclo de vida de Producción de Software. Fuente: [https://www.itvie
 
 ### Secreto de la industria:
 
-Existen varias versiones del gráfico o los pasos del ciclo de vida de la producción de software. La idea es que comiences a familiarizarte con la idea de que el momento del testing es un paso previo a la entrega del producto al cliente. Lo más probable es que en un proyecto real, estos pasos estén superpuestos. Por ejemplo: mientras se termina de desarrollar la fase 2, puede que el equipo de testing ya esté trabajando en las pruebas de la fase 1 y que también el cliente vaya viendo entregas parciales. Vamos a profundizar sobre este tema cuando veamos "Producción ágil de software" en encuentros futuros.
+Existen varias versiones del gráfico o los pasos del ciclo de vida de la producción de software. La idea es que comiences a familiarizarte con la idea de que **el momento del testing es un paso previo a la entrega del producto al cliente**. Lo más probable es que en un proyecto real, estos pasos estén superpuestos. Por ejemplo: mientras se termina de desarrollar la fase 2, puede que el equipo de testing ya esté trabajando en las pruebas de la fase 1 y que también el cliente vaya viendo entregas parciales. Vamos a profundizar sobre este tema cuando veamos "Producción ágil de software" en encuentros futuros.
 
 ---
 
@@ -181,6 +181,8 @@ Iniciamos un emprendimiento con unos amigos. Cocinamos snacks de origen vegetal,
 
 Con esta información, la compañía promete volver a nosotros con una propuesta económica, una idea de tiempos de resolución y prometen hacer más preguntas si se encuentran con falta de información.
 
+-> **1 - STRATEGY** : requerimientos 
+
 **Días 2 y 3**:
 
 La compañía se reúne con su equipo multidisciplinario y evalúan el proyecto. Cada responsable de área calcula el costo en tiempo y esfuerzo de cada uno de los requerimientos identificados por el cliente y los identificados durante la entrevista. Producen un documento técnico que incluye:
@@ -197,17 +199,87 @@ La compañía se reúne con su equipo multidisciplinario y evalúan el proyecto.
 
 - Esquema de testeo
 
+-> **2 - SOFTWARE DESIGN** : presupuesto
+
 ¿Puedes identificar qué fases ya se han cumplido en este escenario?
 
 **Día 4**: Nos presentan la documentación y los planes de pago. Nos satisface el nivel de detalle y la velocidad con la que han cumplido con esta fase del proyecto y rápidamente nos ponemos de acuerdo para que comiencen a trabajar. Estiman unos 3 meses antes de poder concretar con el proyecto, pero nos dicen que estarán presentando avances o muestras (mock-ups es la palabra que se utiliza en la industria tech y se refiere a las maquetas visuales o funcionales con las que los desarrolladores nos pueden acercar una idea que nosotros podamos entender, ya que la hacen lo más parecido al producto final posible).
 
+-> **3 - SOFTWARE DEVELOPMENT**: comienzan con el desarrollo.
+
 **Día 15**: Nos convocan a una reunión para mostrar avances. Nos muestran un mock-up del wireframe (¡este te toca googlear a tí!). Nos gusta mucho. Hacemos algunas observaciones de elementos que no nos imaginábamos que iban a mostrarse así. Damos feedback de la parte visual y jugamos a ser usuarios que llegan a nuestra página. Nos avisan que nada de esto que vemos está en el mundo real, sino que es tan solo una maqueta para que podamos dar nuestra opinión sin que ellos hayan invertido mucho tiempo en desarrollar el total de la propuesta.
 
-**-Metodologías ágiles ha ingresado a la habitación-**
+---
+
+
+### Wireframes vs. mockups vs. prototypes
+
+When designing an app or webpage, UX and UI designers and developers use a number of planning tools to iterate their ideas and outline their solutions. There are three main levels of visual outlines:
+
+- Wireframes
+
+- Mockups
+
+- Prototypes
+
+Each solution helps designers map and visualize their design plans at varying degrees of detail and functionality through the development phase.
+
+#### What is a wireframe?
+
+A wireframe is a skeletal blueprint or framework that outlines the basic design and functions of a user interface (such as a website or application). 
+
+The goal of a wireframe is to quickly and easily communicate: 
+
+- The contents of the page
+
+- The page structure and layout
+
+- The app’s functions
+
+In other words, a wireframe describes the basic structure, functions, and content of the page. 
+
+Wireframes can be low-fidelity or high-fidelity, depending on your needs and preferences. A low-fidelity wireframe is often sketched out on paper or a whiteboard and is a useful way to brainstorm the basic outline for your design. A high-fidelity wireframe has more detail and may include simple workflows and interactions. 
+
+![image](https://user-images.githubusercontent.com/72580574/213882727-498dbb61-608f-48a6-87f4-d483e6054e08.png)
+
+#### What is a mockup?
+
+A mockup is the next, more in-depth iteration of the wireframe outline. A mockup is a static wireframe that includes more stylistic and visual UI details to present a realistic model of what the final page or application will look like. 
+
+A good way to think of it is that a wireframe is a blueprint and a mockup is a visual model. 
+
+A mockup typically includes additional visual details such as:
+
+- Colors, styles, graphics, and typography
+
+- Styled buttons and text
+
+- Navigation graphics
+
+- Component spacing
+
+Mockups are useful tools for understanding and communicating what the final interface should look like and gives stakeholders a chance to preview design and style choices before committing to building the app in a functional prototype.
+
+#### What is a prototype?
+
+A prototype is an early model of a product or design built to test the concept. 
+
+A prototype is typically a functional and interactive simulation that includes all the stylistic details intended for the final deliverable. This model allows developers to see how their product works in a real environment and test the usability of their designs.
+
+The main purpose is to test the design before investing time and money to develop the full product. A prototype can help developers work out any bugs or design flaws, see the user flow and interactions in practice, and build support and engagement from stakeholders. 
+
+
+---
+
+## Metodologías ágiles ha ingresado a la habitación
 
 ![image](https://user-images.githubusercontent.com/72580574/213808519-d5c1f137-94bb-45a1-b502-9cee03565da3.png)
 
+-> **TESTING INTEGRATION** and **DEPLOYMENT**
+
 **Día 30**: Nos envían un prototipo para que veamos. Nos envían una URL que no está listada al público y que tiene acceso con usuario y contraseña. Nos cuentan que ya está armado el esqueleto funcional de los que solicitamos y que por favor probemos las funcionalidades que habíamos solicitado. Nos aseguran que funcionan todas pero quieren ver si a nosotros nos satisfacen.
+
+-> **OPERATION AND MANTENANCE**
 
 **Día 31**: Probamos todo con nuestro equipo. Usamos distintos nombres, realizamos distintas acciones. Nos encanta lo que han hecho... aunque todavía luce como un documento word hecho página web. Nos aseguran que así es el proceso. Que en breve, una vez que confirmemos que nos gusta así, se pondrán a trabajar con la parte de diseño de imagen.
 
@@ -233,134 +305,115 @@ Si no lo has descubierto, te sugerimos volver sobre el texto y buscar esas clave
 
 ###  ☑️  Super pro tip:
 
-No es lo mismo QA que QC. ¿Qué pasa? Cuando se buscan roles, casi siempre se busca por las siglas QA (o sea, quality assurance que es "garantizador de calidad" o aseguramiento de la calidad). ¡Atención! ¡Es un truco!
+No es lo mismo QA que QC. ¿Qué pasa? Cuando se buscan roles, casi siempre se busca por las siglas **QA** (o sea, **quality assurance** que es "garantizador de calidad" o aseguramiento de la calidad). ¡Atención! ¡Es un truco!
 
-El acto de testear un software es un acto de QC (o sea, de quality control - controlamos que la calidad sea la que prometimos). Y QA se refiere al responsable de garantizar que todo el proceso desde los requerimientos hasta el final cumpla con los estándares de calidad prometidos. Que incluye, por supuesto, hacer testeos de código, pero también incluye procesos de desarrollo de código, testeos unitarios, testeos estáticos y otros procesos que tal vez un tester no realice nunca, ya que caen bajo la responsabilidad de los desarrolladores de software.
+El acto de testear un software es un acto de **QC** (o sea, de **quality control** - controlamos que la calidad sea la que prometimos). Y QA se refiere al responsable de garantizar que todo el proceso desde los requerimientos hasta el final cumpla con los estándares de calidad prometidos. Que incluye, por supuesto, hacer testeos de código, pero también incluye procesos de desarrollo de código, testeos unitarios, testeos estáticos y otros procesos que tal vez un tester no realice nunca, ya que caen bajo la responsabilidad de los desarrolladores de software.
 
 
 ---
 
-### ¡MANOS A LA OBRA! 
+### <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
-Vamos a poner a prueba todo lo que hemos leído hoy. Este desafío lo debes resolver en forma individual. ¿Por qué hacemos esto? A veces en equipo, a veces en forma individual. Como te fuimos anticipando, quien debe asimilar los conocimientos eres tú. Y el equipo está para sostenerte cuando tienes una duda.
+Vamos a poner a prueba todo lo que hemos leído hoy. Este desafío lo debes resolver en forma individual.
+
+¿Por qué hacemos esto? A veces en equipo, a veces en forma individual. Como te fuimos anticipando, quien debe asimilar los conocimientos eres tú. Y el equipo está para sostenerte cuando tienes una duda.
 
 Hay otros momentos en los que el conocimiento se consolida (se hace real y lo puedes utilizar en nuevas situaciones) solo cuando lo pones en acción en el equipo, e intentas explicar a otros eso que acabas de aprender. Confía en nosotros, sabemos de lo que hablamos.
 
-Listos, preparados, ya… para dar inicio al primer ¡Manos a la obra!
+Listos, preparados, ya… para dar inicio al primer **¡Manos a la obra!**
 
 1. Ingresa a la siguiente página (no te dejes engañar por el nombre) haciendo click en el enlace: [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
 
-2. Busca el enlace a la página original: The original twwwe.
-¿Qué tan fácil te resultó encontrarlo? ¿Aún no lo encontraste? La primera palabra de esta consigna es una pista: “Busca”. ¿Dónde buscarías algo que no conoces en la web?
-
-3. Hagan click en el enlace hallado en el punto anterior e ingresen al mismo.
-
-4. Dentro de la página, busca el enlace **amazing colours** y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
-
-5. Haz click en **shocking pictures**. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
-
-6. Busca el enlace para volver a la página de “Inicio”. Vuelve de alguna manera: ¿De qué forma lo has hecho? Prueba que funcione cada una de las alternativas que se te hayan ocurrido.
-
-7. Haz click en el enlace **Our FAV Software**. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
-
-
-8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
-
-9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
-
-10. ¡Encuentra si hay otro enlace oculto dentro de la página web!
-
----
-
-### ¡MANOS A LA OBRA!
-
-![image](https://user-images.githubusercontent.com/72580574/213809096-4b27a7f3-8920-463c-9b52-b1e59e510bed.png)
-
-
-[¡Accede a la solución del ejercicio aquí!](https://docs.google.com/document/d/1azoSh8D8mL0V-jpXJ6vydyn4iaRQMs36/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
-
-
-### Solución ejercicio: the worlds worst website ever
-
-1. Ingresa a la siguiente página (no te dejes engañar por el nombre) haciendo click en el enlace: [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
 
 **Solución**: Ingresar al enlace y recorrer la página.
 
-
 2. Busca el enlace a la página original: The original twwwe.
-
 ¿Qué tan fácil te resultó encontrarlo? ¿Aún no lo encontraste? La primera palabra de esta consigna es una pista: “Busca”. ¿Dónde buscarías algo que no conoces en la web?
 
 **Solución**: utilizar el buscador de Google para encontrar el enlace a la página original. En el buscador se debe escribir, como dice en el ejercicio, “The original TWWWE”.
 
-
 3. Hagan click en el enlace hallado en el punto anterior e ingresen al mismo.
 
-**Solución**: acceder a “The original TWWWE”
+**Solución**: acceder a “The original TWWWE”.
 
-
-4. Dentro de la página, busca el enlace amazing colours y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
+4. Dentro de la página, busca el enlace **amazing colours** y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
 
 **Solución**: En “The original TWWWE” buscar el enlace de AMAZING COLOURS.
 
+Hay que hacer scroll horizontal para tener mas opciones del NavBar y llegar a AMAZING COLORS 
 
-5. Haz click en shocking pictures. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
+![image](https://user-images.githubusercontent.com/72580574/213883344-a6a3ed8f-6887-45b8-a004-4355996e8da9.png)
+
+
+Haciendole click lleva aca 
+
+![image](https://user-images.githubusercontent.com/72580574/213883428-4152b168-7e81-487e-a7e6-f1717816cef3.png)
+
+
+Inspeccionando la web se ve que el NavBar ni siquiera es semnaticamente eso, ya que es una TABLA, por lo que el href lleva a cualquier lado¨
+```
+<td class="menuitemz">*<a href="colors.htm">Amazing Colors</a></td>
+```
+
+Y la parte de Amzing colors de nuevo esta con un div arriba y abajo paa la parte negra con las luces blancas, sin id, ni nada, sin significado semantido y la parte del texto de nuevo es una table.
+
+5. Haz click en **shocking pictures**. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
 
 **Solución**: Analizar el comportamiento de “SHOCKING PICTURES!” y pensar desde su perspectiva y experiencia qué conciben sobre el comportamiento de esa “sección”.
 
+Ni siquiera se puede encontrar el ink, ni con ctrl+f y buscando la palabra.
 
 6. Busca el enlace para volver a la página de “Inicio”. Vuelve de alguna manera: ¿De qué forma lo has hecho? Prueba que funcione cada una de las alternativas que se te hayan ocurrido.
 
-**Solución**: Hay dos URL para volver a la página inicial: (1) https://www.twwwe.com/ y (2) https://www.theworldsworstwebsiteever.com/ 
+**Solución**: Hay dos URL para volver a la página inicial: (1) [https://www.twwwe.com/](https://www.twwwe.com/) y (2) [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
 
 Si se hace click en el enlace donde dice “click here” te llevará a una lista de errores de la página.
 
-![image](https://user-images.githubusercontent.com/72580574/213815187-48afe145-eaa3-4e2d-b55f-402ca4c46a4e.png)
+![image](https://user-images.githubusercontent.com/72580574/213883636-4dfedb0f-a958-4efe-9352-eeeb7a2501ca.png)
 
 
-En el punto 49, menciona que existen dos opciones para ir a la página inicial: 
+Es muy dificil, arriba donde esta el nombre, que bien podria ser el logo, no tiene link a la home principal ydonde se lee MAIN MENU no hay un link a home, y cuando bajas en cada seccion tampoco tenes un volver.
+
+7. Haz click en el enlace **Our FAV Software**. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
+
+**Solución**: Dentro de [https://www.theworldsworstwebsiteever.com](https://www.theworldsworstwebsiteever.com) o [https://www.twwwe.com/](https://www.twwwe.com/) (dependiendo cuál enlace hayas utilizado en el punto 6), tenemos que hacer click en el enlace que dice “Our FAV Software”
 
 
-Una vez que descubrimos esto, podemos volver al hacer click en estos links, o copiando y pegando la URL en nuestro navegador.
-
-
-7. Haz click en el enlace Our FAV Software. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
-
-**Solución**: Dentro de https://www.theworldsworstwebsiteever.com o https://www.twwwe.com/ (dependiendo cuál enlace hayas utilizado en el punto 6), tenemos que hacer click en el enlace que dice “Our FAV Software”
-
-![image](https://user-images.githubusercontent.com/72580574/213815253-d70374af-e98b-48ed-ae24-f0589423acc6.png)
+![image](https://user-images.githubusercontent.com/72580574/213883687-8e83af00-6911-4b34-8546-f53c3eb0a7b8.png)
 
 No se observan enlaces de descarga del software mostrado.
 
-En el encabezado, la letra “P” de “Phab Fonts” ya no es blanca. 
+En el encabezado, la letra “P” de “Phab Fonts” ya no es blanca.
 
 Al inicio luce así:
 
-![image](https://user-images.githubusercontent.com/72580574/213815295-5eb90311-36c2-4321-bff1-1b4602d167aa.png)
+![image](https://user-images.githubusercontent.com/72580574/213883703-aa601d82-1502-42a2-a002-14944afd4e56.png)
 
 Pero dentro de “Our fav software” luce así:
 
-![image](https://user-images.githubusercontent.com/72580574/213815319-344cfc52-9507-4701-8f2e-349993d39cc3.png)
+![image](https://user-images.githubusercontent.com/72580574/213883716-d124bc72-1a23-4762-ae00-a3a699e61b41.png)
+
 
 8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
 
-Solución: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
+**Solución**: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
 
 1- Ingresando la URL de la página en nuestro navegador nuevamente
 
-![image](https://user-images.githubusercontent.com/72580574/213815801-f9061c04-ecc6-4611-877c-ac30610784c4.png)
-
+![image](https://user-images.githubusercontent.com/72580574/213883731-5bee0e88-351a-4a15-99db-53f3a72ee750.png)
 
 2- Utilizando el botón de regresar en el navegador
 
-![image](https://user-images.githubusercontent.com/72580574/213815822-61e65fe0-6f4d-44d7-8337-5398c985112e.png)
+![image](https://user-images.githubusercontent.com/72580574/213883747-f700ddba-0ea1-42e3-b929-5b091e6ce91d.png)
 
 
 9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
 
+
 **Solución**: Este es el reproductor:
 
-![image](https://user-images.githubusercontent.com/72580574/213816058-2fc782fb-74fa-4b4e-9fd6-304130bb2a13.png)
+![image](https://user-images.githubusercontent.com/72580574/213883785-09e04776-b01d-48aa-af2f-97b649e5fb99.png)
+
 
 
 Se visualiza correctamente.
@@ -373,7 +426,14 @@ Si tratas de hacer doble click en el volumen, queda completamente visible. Pero 
 
 **Solución**: ¡Si encuentras uno, coméntalo con tu equipo!
 
+---
 
+### ¡MANOS A LA OBRA!
+
+![image](https://user-images.githubusercontent.com/72580574/213809096-4b27a7f3-8920-463c-9b52-b1e59e510bed.png)
+
+
+[¡Accede a la solución del ejercicio aquí!](https://docs.google.com/document/d/1azoSh8D8mL0V-jpXJ6vydyn4iaRQMs36/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
 
 ---
 
@@ -403,7 +463,7 @@ Estamos para pedirte un último esfuerzo. ¡Un ejercicio más para hoy!
 
 ---
 
-## :star: Atención al detalle
+## :star: ATENCIÓN AL DETALLE 
 
 Además de aprender las herramientas y los conceptos fundamentales del testing, vamos a estar trabajando sobre el desarrollo de habilidades esenciales para que nos desempeñemos sin errores desde el primer minuto como testers.
 
