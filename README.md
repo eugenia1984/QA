@@ -90,7 +90,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/bubbles/40/null/question-mark.png"/> ¿ Qué necesito para finalizar el curso ?
+## <img src="https://img.icons8.com/bubbles/50/null/question-mark.png"/> ¿ Qué necesito para finalizar el curso ?
 
 - **Cumplir con el 80 % de las asistencia**: hasta 4 inasistencias de as 17 encuentros totales del curso de Introducción a QA.
 
@@ -101,7 +101,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/dusk/40/null/rules.png"/> Código de consuta
+## <img src="https://img.icons8.com/dusk/50/null/rules.png"/> Código de conducta
 
 ![image](https://user-images.githubusercontent.com/72580574/213880231-1a633351-e515-4229-afb6-bbc504ecd49c.png)
 
@@ -115,7 +115,7 @@
 
 ---
 
-##  <img src="https://img.icons8.com/bubbles/40/null/question-mark.png"/> ¿Quiénes me acompañan durante el curso ?
+##  <img src="https://img.icons8.com/bubbles/50/null/question-mark.png"/> ¿Quiénes me acompañan durante el curso ?
 
 - **Equipos del día**: coopera con tus compañeros para resolver los ejercicios.
 
