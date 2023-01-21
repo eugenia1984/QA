@@ -25,13 +25,15 @@ En los primeros encuentros, verás que nuestras guías también te indican cómo
 
 A medida que avances en el recorrido, verás que ya no tendremos tanto para indicarte y que tendrás suficiente autonomía para tomar decisiones de cómo usar el tiempo cada día.
 
+---
+
 ![image](https://user-images.githubusercontent.com/72580574/213806829-c3f4f732-151e-482f-aa3d-986b1124d833.png)
 
 **¡Demos comienzo a la actividad del día de hoy!**
 
----
 
-## 1. Presentación del equipo:
+
+## 1. PRESENTACIÓN DEL EQUIPO:
 
 Si no lo han hecho todavía o eres de las personas que prefiere que otro comience, te sugerimos comenzar indicando tu nombre y de dónde vienes. Lo puedes hacer en el chat o usando tu micrófono. Hoy compartes el encuentro con una pequeña porción de una gran comunidad que irás conociendo poco a poco.
 
@@ -40,14 +42,17 @@ Si no lo han hecho todavía o eres de las personas que prefiere que otro comienc
 Utilicen unos 10 minutos para compartir estas breves presentaciones. ¡Animate! Quienes están contigo en el equipo del día pueden ser tus colegas en el futuro.
 
 
+---
+
 ![image](https://user-images.githubusercontent.com/72580574/213806982-b431c4b7-6e9c-483c-b3fe-9db3bfc2d41a.png)
 
 
 ![image](https://user-images.githubusercontent.com/72580574/213807035-5d0259aa-de3f-44cc-8b89-7cd570abf3ad.png)
 
----
 
-## 2. Vamos a iniciarnos rápidamente en el mundo del testing. 
+
+## 2. VAMOS A INICIARNOS RÁPIDAMENTE EN EL MUNDO DEL TESTING
+ 
 
 Para ello debemos comprender un principio elemental de la industria de la tecnología. Un software es un programa que debe completar una cierta tarea. En ocasiones, ese software puede no realizar la tarea que se le encomendó o puede tener errores durante la ejecución de esa tarea.
 
@@ -65,6 +70,7 @@ En equipo, usen los 10 minutos restantes para compartir los ejemplos que trajo c
 
 - Podemos compartir pantalla, usar pizarras compartidas como la de [Zoom](https://www.google.com/search?q=crear+jamboard+tutorial+video&ei=uzV-Y-TGEovJ5OUP7de-4Ac&ved=0ahUKEwikkIX7yMT7AhWLJLkGHe2rD3wQ4dUDCA8&uact=5&oq=crear+jamboard+tutorial+video&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAEyBQghEKABMgUIIRCgAToKCAAQRxDWBBCwA0oECEEYAEoECEYYAFCrDljyE2DVFWgBcAF4AIABeIgBtASSAQM1LjGYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:762084e8,vid:JF05K9FzlxQ), [Jamboard](https://jamboard.google.com/) o [Excalidraw](https://excalidraw.com/).
 
+---
 
 ![image](https://user-images.githubusercontent.com/72580574/213807369-fed21868-2509-4e26-8787-bc9bee9074e1.png)
 
@@ -73,30 +79,32 @@ Ya estarás descubriendo un poco el ritmo. Usamos el encuentro en vivo para leer
 
 Ahora vamos a dedicar unos 35 minutos a la lectura de material. Nuestra sugerencia es que lo hagas en forma silenciosa y que junto a tu equipo del día indiquen a qué horario desean volver a interactuar.
 
-Tendrás lectura y también una ejercitación.
+Tendrás lectura ( :book: ) y también una ejercitación.
 
-¿Por qué sugerimos hacerlo en forma individual?
+**¿Por qué sugerimos hacerlo en forma individual?**
 
 - Porque todos tenemos distintos estilos de aprendizaje y al variar las formas, le damos lugar a la diversidad.
 
 - Porque no solo se trata de aprender a cooperar, también se trata de que cada uno incorpore el material en forma efectiva.
 
-De a poco vamos introduciéndonos en el mundo del Testing. Seguro que habrán podido inferir la necesidad de hacer pruebas de calidad en la producción de software.
+De a poco vamos introduciéndonos en el mundo del Testing. 
+
+Seguro que habrán podido inferir la necesidad de hacer pruebas de calidad en la producción de software.
 
 Calidad es una de esas palabras que damos por sentado y tal vez no reparamos en su significado más preciso.
 
 
-**La calidad es una medida de excelencia. Se refiere a un estado libre de defectos, deficiencias o variaciones significativas de un producto o resultado que se entrega para satisfacer los requerimientos específicos de un proyecto o cliente.**
+**La CALIDAD es una medida de excelencia. Se refiere a un estado libre de defectos, deficiencias o variaciones significativas de un producto o resultado que se entrega para satisfacer los requerimientos específicos de un proyecto o cliente.**
 
 ---
 
-## :book: MATERIAL DE LECTURA
+## :book: MATERIAL DE LECTURA :book:
 
-### Introducción al testing y a la industria del software
+### INTRODUCCIÓN AL TESTING Y A LA INDUSTRIA DEL SOFTWARE
 
 Para comprender esta definición en contexto, es importante revisar cómo se produce software.
 
-Ciclo de vida de producción de software (o SDLC, software development lifecycle, por sus siglas en inglés).
+**Ciclo de vida de producción de software** (o **SDLC**, **software development lifecycle**, por sus siglas en inglés).
 
 ### El inglés es una necesidad de la industria
 
@@ -112,21 +120,23 @@ A medida que presentemos terminología específica de testing haremos especial h
 - **Producto**
 
 
-**Proyecto**: existe un cliente particular con una necesidad específica para su negocio. Ej: Una peluquería que trabaja con turnos que desea además cobrar en el momento en el que se gestiona el turno.
+**Proyecto**: 
 
-El cliente entonces contacta a un proveedor de software y le detalla sus necesidades. El desarrollador (puede ser un individuo o una compañía, muchas veces llamadas software factories) toma nota de los requerimientos, hace las preguntas necesarias para entender mejor aquellas cuestiones que el cliente no sabe especificar - si desea que sea posible tomar turnos en feriados, por ejemplo - y luego realiza un cotización en base al esfuerzo - horas y cantidad de desarrolladores necesarios. Si el cliente lo acepta, se inicia el proyecto.
+Existe un **cliente particular** con una **necesidad específica** para su negocio. Ej: Una peluquería que trabaja con turnos que desea además cobrar en el momento en el que se gestiona el turno.
 
-Entonces: un proyecto es una solución particular para un cliente con necesidades específicas. Típicamente nos encontramos a entidades financieras, bancos, gobiernos y grandes empresas entre los clientes que solicitan soluciones a medida, con alto grado de confidencialidad y exigencia.
+El cliente entonces contacta a un **proveedor de software** y le detalla sus **necesidades**. El desarrollador (puede ser un individuo o una compañía, muchas veces llamadas software factories) toma nota de los **requerimientos**, hace las **preguntas** necesarias para entender mejor aquellas cuestiones que el cliente no sabe especificar - si desea que sea posible tomar turnos en feriados, por ejemplo - y luego realiza un **cotización** en base al esfuerzo - horas y cantidad de desarrolladores necesarios. Si el cliente lo acepta, se inicia el proyecto.
+
+Entonces: un **proyecto** es una **solución particular** para un **cliente** con **necesidades específicas**. Típicamente nos encontramos a entidades financieras, bancos, gobiernos y grandes empresas entre los clientes que solicitan soluciones a medida, con alto grado de confidencialidad y exigencia.
 
 **Producto**:
 
-La propuesta de software para un producto se inicia con la detección de una necesidad en el mercado. Por ejemplo, podemos decir que la compra remota es una necesidad que puede ser satisfecha a gran escala. Soluciones como Amazon, Ebay, Mercado Libre pretenden dar solución a esta necesidad. El camino es un poco distinto ya que el que produce el software responde casi siempre a un esfuerzo de un equipo (muchas veces una start up) que trabaja para entender cómo resolver ese problema de forma que muchos usuarios en el mundo deseen utilizar ese software. Entonces un producto pretende resolver un problema a gran escala y sus usuarios habitualmente van directo a consumirlo.
+La **propuesta de software** para un **producto** se inicia con la **detección de una necesidad en el mercado**. Por ejemplo, podemos decir que la compra remota es una necesidad que puede ser satisfecha a gran escala. Soluciones como Amazon, Ebay, Mercado Libre pretenden dar solución a esta necesidad. El camino es un poco distinto ya que **el que produce el software responde casi siempre a un esfuerzo de un equipo** (muchas veces una start up) que trabaja para **entender cómo resolver ese problema de forma que muchos usuarios en el mundo deseen utilizar ese software**. Entonces un **producto** pretende **resolver un problema a gran escala y sus usuarios habitualmente van directo a consumirlo**.
 
-Para el ciclo de vida de desarrollo de software, ser un proyecto o ser un producto no cambia el orden en el que ocurren los pasos.
+Para el CICLO DE VIDA DE DESARROLLO DE SOFTWARE, ser un proyecto o ser un producto no cambia el orden en el que ocurren los pasos.
 
 El ciclo de vida del desarrollo de software luce así:
 
-1. **Estrategia**: Recopilación de requisitos y planificación /Strategy: requirements specification and planning
+1. **Estrategia**: Recopilación de requisitos y planificación (**Strategy**: requirements specification and planning)
 
 2. **Diseño de software** (**Software design**)
 
