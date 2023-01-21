@@ -125,8 +125,6 @@
 
 - **Coaches**: será tu guía durante los encuentros en vivo.
 
----
-![image](https://user-images.githubusercontent.com/72580574/213816202-ab2a558e-06a0-4413-a12d-e8787e1fc154.png)
 
 ---
 
