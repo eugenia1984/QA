@@ -529,7 +529,7 @@ Puedes ayudarte con lápiz y papel #oldstyle
 
 -> Empleado  801 -> todos los datos son iguales
 
--> -> Empleado 303 -> NO COINDIDEN TODOS (ventas)
+->  Empleado 303 -> NO COINDIDEN TODOS (ventas)
 
 -> Empleado  207 -> todos los datos son iguales
 
@@ -562,6 +562,7 @@ Entre los 3, tienen 4 comprobantes de pago restantes.
 ¿Con cuántos comprobantes arrancó Pablo?
 
 **Respuesta** : 9
+
 ---
 
 ¿Ya has realizado las 4 tareas? ¡Bien hecho!
