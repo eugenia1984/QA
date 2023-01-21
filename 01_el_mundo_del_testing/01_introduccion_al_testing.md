@@ -501,20 +501,17 @@ Cualquier detalle cuenta
 
 A continuación, detallaremos todos los items para que respondas si coincide o no la copia en papel con la copia digital.
 
-![image](https://user-images.githubusercontent.com/72580574/213823360-7cddc833-e22c-414b-ba0f-86917af45d66.png)
-
-
-![image](https://user-images.githubusercontent.com/72580574/213823456-acdceb79-6b77-4f86-a1c9-e8ca1fb856fb.png)
-
-![image](https://user-images.githubusercontent.com/72580574/213823644-58c4ca7b-3627-47c6-85c8-e108bd67f0d8.png)
-
-![image](https://user-images.githubusercontent.com/72580574/213823696-2698a2f2-69d9-4710-b211-50f6b6beaddf.png)
-
-![image](https://user-images.githubusercontent.com/72580574/213823729-9a917f66-1a53-49f8-852c-ea6ebd13c16b.png)
-
-![image](https://user-images.githubusercontent.com/72580574/213823745-f3ef7052-2cbe-4274-aaf4-49b8b998cda7.png)
-
-![image](https://user-images.githubusercontent.com/72580574/213823759-30f71672-82c2-486b-a4b5-b8edc8539ce5.png)
+```
+     item           coincide
+----------------   ----------
+nombre                 si
+nª de orden            no
+monto total            si
+código de descuento    si
+dirección de entrega   no
+nª de seguimiento      no
+n! de cuenta           si
+```
 
 
 ##  Tarea 2
