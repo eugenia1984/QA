@@ -21,19 +21,24 @@ Esperamos que hayas tenido un excelente equipo en tu primera sesión. Hoy conoce
 
 **¡Demos comienzo a la actividad del día de hoy!**
 
-### Presentación del equipo:
+### <img src="https://img.icons8.com/ios/50/null/people-working-together.png"/>  PRESENTACIÓN DEL EQUIPO:
 
 No dejes de hacer la pequeña ceremonia de presentación. Toma tan solo unos minutos y cambia la experiencia de todo el equipo. Indica tu nombre y de dónde vienes. Ya sabes: puedes hacerlo en el chat si no deseas romper el hielo tú primero.
 
 Les dejamos una pregunta para abrir la sesión (si lo desean):
 
-¿Tienen alguna experiencia con programación? ¿Saben por qué es relevante saber algo de programación para dedicarse al testing?
-Utilicen unos 10 minutos para compartir estas breves presentaciones. ¡Anímate! Quienes están contigo en el equipo de hoy son parte de la gran comunidad que está aprendiendo junto a tí.
+¿Tienen alguna experiencia con programación? 
+
+¿Saben por qué es relevante saber algo de programación para dedicarse al testing?
+
+Utilicen unos 10 minutos para compartir estas breves presentaciones. 
+
+¡Anímate! Quienes están contigo en el equipo de hoy son parte de la gran comunidad que está aprendiendo junto a tí.
 
 
 ---
 
-## :star: MANOS A LA OBRA
+## <img src="https://img.icons8.com/emoji/48/null/writing-hand.png"/> MANOS A LA OBRA
 
 ![image](https://user-images.githubusercontent.com/72580574/214074404-a2d33ca9-7859-436e-a1c0-7ba0566ed504.png)
 
@@ -58,7 +63,12 @@ Pueden acordar como equipo destinar, por ejemplo, unos 20 min a entender la ejer
 
 ¿Te interesa ahondar un poco más en los conceptos de la programación? Aquí te dejamos un Anexo con algunas definiciones. Recuerda que este es material extra, su lectura no está contemplada en el desarrollo de la jornada.
 
-:computer: -> [BASES DE LA PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
+---
+
+:computer: -> [BASES DE LA PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true), al final de esta guía está toda la teoría detallada.
+
+
+---
 
 ## ▶️ EJERCICIO #1
 
@@ -70,29 +80,31 @@ Nota: no es necesario crearte un usuario, puedes ir directo a la sección "CREAR
 
 
 - **Descripción del desafío general**: Lograr que el personaje realice una serie de acciones que le indicamos. Para ello debemos generar una lista de comandos para que el personaje realice acciones precisas.
-- 
-A- Que se desplace de izquierda a derecha unos 30 pasos y pregunte tu nombre.
 
-B- Que repita la acción anterior 6 veces y se detenga por si solo.
+- A - Que se desplace de izquierda a derecha unos 30 pasos y pregunte tu nombre.
+
+- B - Que repita la acción anterior 6 veces y se detenga por si solo.
 
 
 ¿Lo has logrado? No dejes de ver los tutoriales de Scratch, ya que son breves y muy claros.
 
-¿Para qué estamos haciendo este ejercicio? Lo que estamos resolviendo son algoritmos muy básicos. Esto nos permite comprender cómo está hecho el código en un programa o software. Y luego como testers tendremos la posibilidad de identificar mejor en dónde es que esta serie de instrucciones está fallando. Podremos ser más precisos y efectivos, entregando informes muy valiosos para mejorar el producto para el que estemos trabajando.
+¿Para qué estamos haciendo este ejercicio? 
+
+Lo que estamos resolviendo son algoritmos muy básicos. Esto nos permite comprender cómo está hecho el código en un programa o software. Y luego como testers tendremos la posibilidad de identificar mejor en dónde es que esta serie de instrucciones está fallando. Podremos ser más precisos y efectivos, entregando informes muy valiosos para mejorar el producto para el que estemos trabajando.
 
 **Un algoritmo es una serie de guías que describen cómo realizar una tarea. Piensa en un algoritmo como una serie de instrucciones paso a paso que crean un patrón predecible en una serie de números o unas líneas de código.**
 
 ## ▶️ EJERCICIO #2
 
-A- Lograr que el gatito dé 3 vueltas alrededor de la pantalla. ¿No sabes cómo debería lucir? Aquí tienes un [link](https://scratch.mit.edu/projects/556056325/) a una muestra del resultado final esperado.
+- A - Lograr que el gatito dé 3 vueltas alrededor de la pantalla. ¿No sabes cómo debería lucir? Aquí tienes un [link](https://scratch.mit.edu/projects/556056325/) a una muestra del resultado final esperado.
 
-B- Accede a este [link](https://scratch.mit.edu/projects/556059221/editor/). Analiza el código y realiza los siguientes cambios:
+- B - Accede a este [link](https://scratch.mit.edu/projects/556059221/editor/). Analiza el código y realiza los siguientes cambios:
 
-b.1. Cambia el gatito por un personaje que te represente a ti.
+-b.1. Cambia el gatito por un personaje que te represente a ti.
 
-b.2. Cambia el obstáculo por uno más realista.
+-b.2. Cambia el obstáculo por uno más realista.
 
-b.3. Cambia el texto de lo que dice el personaje por un texto que desees o consideres apropiado para compartir con el equipo de hoy.
+-b.3. Cambia el texto de lo que dice el personaje por un texto que desees o consideres apropiado para compartir con el equipo de hoy.
 
 
 ## ▶️ EJERCICIO #3 - DESAFÍO OFICIAL DE SCRATCH
@@ -146,9 +158,9 @@ Nota: ¿Realizaron alguna secuencia de testing en la resolución de los ejercici
 
 ---
 
-## 📘 MATERIAL DE LECTURA
+## 📘 MATERIAL DE LECTURA 📘
 
-### Ciclo de producción de software: testing
+### CICLO DE PRODUCCIÓN DE SOFTWARE: TESTING
 
 Cuando el código es pequeño y no es complejo es relativamente sencillo hacer un pequeño test para comprobar que esté funcionando. Cuando somos desarrolladores a eso lo llamamos unit testing.
 
@@ -156,11 +168,11 @@ Si durante la resolución de los desafíos en Scratch, realizaron pruebas interm
 
 En programación, una **prueba unitaria** o **test unitario** es una forma efectiva de comprobar el correcto funcionamiento de las unidades individuales más pequeñas de los programas informáticos. Por ejemplo, una función o un procedimiento.
 
-En el ciclo de vida de producción de software, ese tipo de testing se realiza durante la etapa de development o desarrollo y la realizan los equipos de desarrolladores.
+En el ciclo de vida de producción de software, ese tipo de testing se realiza durante la **etapa de development o desarrollo** y la realizan los equipos de desarrolladores.
 
 ### Etapa de testing:
 
-Una vez que el código ha sido chequeado por parte del equipo de desarrollo, se envía al equipo de Quality control (QC) para que revisen si funciona. Aquí nos adentramos en el corazón del trabajo de un equipo de testing.
+Una vez que el código ha sido chequeado por parte del equipo de desarrollo, se envía al equipo de **Quality control** (**QC**) para que revisen si funciona. Aquí nos adentramos en el corazón del trabajo de un equipo de testing.
 
 #### ¿Cómo se prueba el software?
 
@@ -202,10 +214,10 @@ A medida que avanza el desarrollo, se realizan pruebas más detalladas sobre car
 ---
 
 
-## 📘 MATERIAL DE LECTURA
+## 📘 MATERIAL DE LECTURA 📘
 
 
-### Introducción al lenguaje unificado de modelado (UML)
+### INTRODUCCIÓN AL LENGUAJE UNIFICADO DE MODELADO (UML)
 
 
 *¡Pro tip alert!* Esta introducción a UML es tan solo eso. Para poder utilizarlo correctamente se necesita ir más profundo y estudiar. Si es de tu interés, no dudes en hacer una rápida búsqueda en Google para aprender más sobre cómo y cuándo usarlo.
@@ -233,7 +245,7 @@ Este diseño utiliza UML para explicar las relaciones entre los datos, los roles
 
 ---
 
-## :star: MANOS A LA OBRA
+## <img src="https://img.icons8.com/emoji/48/null/writing-hand.png"/>  MANOS A LA OBRA
 
 ##  ▶️  EJERCICIO · 4
 
@@ -249,7 +261,7 @@ Este diseño utiliza UML para explicar las relaciones entre los datos, los roles
 
 ---
 
-## :star: HORA DE CERRAR
+## <img src="https://img.icons8.com/material-two-tone/40/null/wall-clock.png"/> HORA DE CERRAR
 
 ### Consolidación de cierre:
 
@@ -274,19 +286,19 @@ No olvides agradecer a tus compañer@s de hoy. Recuerda sus nombres ya que posib
 
 ## :star2: [BASES DE PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit)
 
-## ¿Qué es la Programación?
+## <img src="https://img.icons8.com/bubbles/50/null/console.png"/> ¿Qué es la Programación?
 
 En informática el término programación se refiere a la acción de crear programas y programar es la serie de instrucciones, que le vamos a dar a nuestra computadora para lograr que nuestro programa funcione.
 
 Las partes que componen a nuestro programa son el lenguaje de programación y los algoritmos. 
 
-## 1 - ¿Qué es un lenguaje de programación?
+## <img src="https://img.icons8.com/bubbles/50/null/console.png"/> 1 - ¿Qué es un lenguaje de programación?
 
 Es un lenguaje formal que, mediante una serie de instrucciones, le permite a un programador escribir un conjunto de órdenes, acciones consecutivas, datos y algoritmos para, de esa forma, resolver problemas.
 
 Las instrucciones que sigue la computadora para la creación de programas están escritas en un lenguaje de programación y luego son traducidas a un lenguaje de máquina que puede ser interpretado y ejecutado por el hardware del equipo.
 
-## 2 - ¿Qué es un algoritmo?
+## <img src="https://img.icons8.com/bubbles/50/null/console.png"/> 2 - ¿Qué es un algoritmo?
 
 Las instrucciones que le vamos a dar a nuestro programa, se conocen como algoritmos. Un algoritmo es un método para darle instrucciones a nuestro programa y resolver un problema.
 
@@ -301,7 +313,7 @@ El programador debe constantemente resolver problemas de manera algorítmica, lo
 ![image](https://user-images.githubusercontent.com/72580574/214079578-91aa4176-8000-40b2-a547-0162f1cb9715.png)
 
 
-## Programa
+## <img src="https://img.icons8.com/bubbles/50/null/console.png"/>  Programa
 
 ¿Dónde se van a ver reflejados los lenguajes de programación y los algoritmos? En nuestro programa.
 
@@ -315,11 +327,11 @@ Un programa puede ser lineal (secuencial) o no lineal. Un programa es lineal si 
 ![image](https://user-images.githubusercontent.com/72580574/214080017-ce3973b1-d48b-420f-b3b7-07321b94ca70.png)
 
 
-## Codificación
+## <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Codificación
 
 Una vez que tenemos las especificaciones de un programa pasaremos a la codificación del programa. La codificación es la operación de escribir la solución del problema (de acuerdo a la lógica del pseudocódigo), en una serie de instrucciones detalladas, en un código reconocible por la computadora. La serie de instrucciones detalladas se conoce como código fuente, el cual se escribe en un lenguaje de programación o lenguaje de alto nivel.
 
-### ¿Cómo deben escribirse los algoritmos/programas?
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> ¿Cómo deben escribirse los algoritmos/programas?
 
 Ya sabemos que es un programa, el diseño de un programa, las especificaciones de un programa y su codificación. Ahora vamos a ver como es la escritura de estos algoritmos / programas.
 
@@ -348,7 +360,7 @@ Los elementos de un programa, son básicamente, los componentes que conforman la
 
 Los elementos de un programa son: identificadores, variables, constantes, operadores, palabras reservadas.
 
-###  Identificadores
+###  <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Identificadores
 
 Un identificador es un conjunto de caracteres alfanuméricos de cualquier longitud que sirve para identificar las entidades del programa (nombre del programa, nombres de variables, constantes, subprogramas, etc.). 
 
@@ -357,7 +369,7 @@ En la mayoría de los lenguajes de programación los identificadores deben const
 Otra cosa que es súper importante a la hora de pensar identificadores, es poner nombres claros, por ejemplo, si queremos tener una frase, que el identificador sea frase o si queremos una suma, le pondremos suma.
 
 
-### Variables y Constantes
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Variables y Constantes
 
 Los programas de computadora necesitan información para la resolución de problemas. Está información puede ser un número, un nombre, etc. Para que podamos guardar esta información en algún lugar y que no esté “suelta”, para no perderla o poder acceder a ella cuando lo necesitemos es crucial que guardemos  la información en algo llamado, variables y constantes. 
 
@@ -365,7 +377,7 @@ Las variables y constantes vendrían a ser como pequeñas cajas, que guardan alg
 
 Dentro de toda la información que vamos a manejar, a veces, necesitaremos información que no cambie. Tales valores son constantes. De igual forma, existen otros valores que sí necesitaremos que cambien durante la ejecución del programa; esas van a ser nuestras variables.  
 
-### Tipos de datos en general (1)
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Tipos de datos en general (1)
 
 Las variables y constantes como previamente habíamos mencionado, van a guardar información dependiendo del tipo de dato que le digamos que guarde esa variable. Por ejemplo, si digo que mi variable va a guardar números enteros, significa que el tipo de dato de esa variable es entero.
 
@@ -385,7 +397,7 @@ Los tipos de datos que podemos usar son:
 (1)  Los tipos de datos dependen del lenguaje utilizado para programar. Aquí sólo hablaremos de generalidades
 
 
-### ¿Cómo se crean las Variables?
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> ¿Cómo se crean las Variables?
 
 La definición de variables es relativa de acuerdo al lenguaje de programación que se utiliza.  A continuación veremos una forma genérica de hacerlo.
 
@@ -405,7 +417,7 @@ Definir varNumero Como Entero
 **varNumero** se convierte en una variable de tipo entero.
 
 
-### Tipos de instrucciones
+###<img src="https://img.icons8.com/bubbles/50/null/console.png"/>  Tipos de instrucciones
 
 Las instrucciones —acciones— básicas que se pueden implementar de modo general en un algoritmo y que esencialmente soportan todos los lenguajes son las siguientes:
 
@@ -439,7 +451,7 @@ Esta entrada se conoce como operación de lectura (leer). Los datos de entrada s
 En este ejemplo definimos una variable de tipo entero llamada num y le asignamos un valor a través de la instrucción Leer.
 
 
-#### ¿Cómo asignamos valores a las variables?
+#### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> ¿Cómo asignamos valores a las variables?
 
 La instrucción de asignación permite almacenar un valor en una variable (previamente definida). Esta es nuestra manera de guardar información en una variable, para utilizar ese valor en otro momento.  Se puede realizar con el signo igual: 
 
@@ -457,7 +469,7 @@ Al ejecutarse la asignación, primero se evalúa la expresión de la derecha y l
 
 En este ejemplo estamos definiendo una variable como entero y después asignándole un valor, en este caso el número 4.
 
-### Operadores
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Operadores
 
 Este pseudolenguaje dispone de un conjunto básico de operadores que pueden ser utilizados para la construcción de expresiones más o menos complejas.
 
@@ -468,7 +480,7 @@ Los operadores algebraicos o también conocidos como operadores aritméticos. Re
 ![image](https://user-images.githubusercontent.com/72580574/214081645-9b719519-8d36-45a6-902c-57a2c30bd8b3.png)
 
 
-### Estructura de Control
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Estructura de Control
 
 Las Estructuras de Control determinan el orden en que deben ejecutarse las instrucciones de un algoritmo, es decir, si serán recorridas una después de la otra (estructuras secuenciales), si habrá que tomar decisiones sobre si ejecutar o no alguna acción (estructuras selectivas o de decisión) o si habrá que realizar repeticiones (estructuras repetitivas). Esto significa que una estructura de control permite que se realicen unas instrucciones y omitir otras, de acuerdo a la evaluación de una condición.
 Esto hace que las estructuras de control se puedan dividir en tres:
@@ -496,7 +508,7 @@ Por lo que una condición sirve para discernir entre una opción u otra, y en el
 
 Para determinar condiciones, precisamos utilizar Operadores.
 
-#### ¿Qué son los operadores?
+#### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> ¿Qué son los operadores?
 
 Las condiciones que usaremos en las estructuras selectivas y el resto de nuestras estructuras de control se realizan con la ayuda de los operadores relacionales y lógicos.
 
@@ -535,7 +547,7 @@ x!=y, significa “si x es distinto de y”
 (x==y) O (x==z), significa “si x es igual a j O x igual a z”
 ```
 
-### Estructuras selectivas
+###  <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Estructuras selectivas
 
 Entendemos que las estructuras selectivas son utilizadas para tomar decisiones lógicas, es por esto que también se denominan estructuras de decisión o selectivas. Pero, ¿cuáles son las estructuras selectivas? 
 
@@ -566,7 +578,7 @@ La selección si-entonces evalúa la condición y luego:
 
 Si fuera cocinar un huevo, tenemos solo la opción de freírlo y si no lo queremos frito, se va servir crudo en el plato. Esto es una Condición Simple.
 
-### Condición Doble
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Condición Doble
 
 La estructura anterior es muy limitada y normalmente se necesitará una estructura que permita elegir entre dos opciones o alternativas posibles, en función del cumplimiento o no de una determinada condición. Si la condición es verdadera, se ejecuta la acción S1 y, si es falsa, se ejecuta la acción S2.
 
@@ -584,7 +596,7 @@ La selección si-entonces-sino evalúa la condición y luego:
 
 En este caso, si fuera cocinar un huevo, tenemos opción de freírlo y si no lo queremos frito, tendremos la opción de hervirlo. Esto es una Condición Doble.
 
-### Condición Múltiple
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/> Condición Múltiple
 
 Muchas veces vamos a tener más de dos alternativas para elegir, o una variable que puede tomar varios valores. Para solucionar esto, usamos la condición múltiple. En esta estructura, se evalúa una condición o expresión que puede tomar n valores. Según el valor que la expresión tenga en cada momento se ejecutan las acciones correspondientes al valor.
 
