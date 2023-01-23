@@ -270,3 +270,36 @@ Tómense estos últimos 25 minutos del encuentro de hoy para comparar los result
 No olvides agradecer a tus compañer@s de hoy. Recuerda sus nombres ya que posiblemente los vuelvas a ver pronto. Y si deseas valorar el aporte de alguien en particular, ¡entrégale un pulso!
 
 ---
+---
+
+## :star2: [BASES DE PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit)
+
+## ¿Qué es la Programación?
+
+En informática el término programación se refiere a la acción de crear programas y programar es la serie de instrucciones, que le vamos a dar a nuestra computadora para lograr que nuestro programa funcione.
+
+Las partes que componen a nuestro programa son el lenguaje de programación y los algoritmos. 
+
+## 1 - ¿Qué es un lenguaje de programación?
+
+Es un lenguaje formal que, mediante una serie de instrucciones, le permite a un programador escribir un conjunto de órdenes, acciones consecutivas, datos y algoritmos para, de esa forma, resolver problemas.
+
+Las instrucciones que sigue la computadora para la creación de programas están escritas en un lenguaje de programación y luego son traducidas a un lenguaje de máquina que puede ser interpretado y ejecutado por el hardware del equipo.
+
+## 2 - ¿Qué es un algoritmo?
+
+Las instrucciones que le vamos a dar a nuestro programa, se conocen como algoritmos. Un algoritmo es un método para darle instrucciones a nuestro programa y resolver un problema.
+
+Este consiste en la realización de un conjunto de pasos lógicamente ordenados tal que, partiendo de la información que le demos, permite obtener ciertos resultados que conforman la solución del problema.  
+
+Los algoritmos son independientes tanto del lenguaje de programación en que se expresan como de la computadora que los ejecuta. En cada problema el algoritmo se puede expresar en un lenguaje diferente de programación y ejecutarse en una computadora distinta; sin embargo, el algoritmo será siempre el mismo. Así, por ejemplo, en una analogía con la vida diaria, una receta de un plato de cocina se puede expresar en español, inglés o francés, pero cualquiera que sea el lenguaje, los pasos para la elaboración del plato se realizan sin importar el idioma del cocinero.
+
+Los algoritmos son más importantes que los lenguajes de programación o las computadoras. Un lenguaje de programación es sólo un medio para expresar un algoritmo y una computadora es solo un procesador para ejecutarlo. Tanto el lenguaje de programación como la computadora son los medios para obtener un fin: conseguir que el algoritmo se ejecute y se efectúe el proceso correspondiente.
+
+El programador debe constantemente resolver problemas de manera algorítmica, lo que significa plantear el problema de forma tal que queden indicados los pasos necesarios para obtener los resultados pedidos, a partir de los datos conocidos. Lo anterior implica que un algoritmo básicamente consta de tres elementos: Datos de Entrada o Información de entrada, Procesos y la Información de Salida.
+
+![image](https://user-images.githubusercontent.com/72580574/214079578-91aa4176-8000-40b2-a547-0162f1cb9715.png)
+
+
+
+
