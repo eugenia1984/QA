@@ -60,7 +60,7 @@ Pueden acordar como equipo destinar, por ejemplo, unos 20 min a entender la ejer
 
 :computer: -> [BASES DE LA PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
 
-## Ejercicio #1
+## ▶️ EJERCICIO #1
 
 - Accede a Scratch - [https://scratch.mit.edu/](https://scratch.mit.edu/)
 
@@ -82,7 +82,7 @@ B- Que repita la acción anterior 6 veces y se detenga por si solo.
 
 **Un algoritmo es una serie de guías que describen cómo realizar una tarea. Piensa en un algoritmo como una serie de instrucciones paso a paso que crean un patrón predecible en una serie de números o unas líneas de código.**
 
-## Ejercicio #2
+## ▶️ EJERCICIO #2
 
 A- Lograr que el gatito dé 3 vueltas alrededor de la pantalla. ¿No sabes cómo debería lucir? Aquí tienes un [link](https://scratch.mit.edu/projects/556056325/) a una muestra del resultado final esperado.
 
@@ -95,7 +95,7 @@ b.2. Cambia el obstáculo por uno más realista.
 b.3. Cambia el texto de lo que dice el personaje por un texto que desees o consideres apropiado para compartir con el equipo de hoy.
 
 
-## Ejercicio #3 - Desafío oficial de Scratch
+## ▶️ EJERCICIO #3 - DESAFÍO OFICIAL DE SCRATCH
 
 [https://scratch.mit.edu/projects/114805446/](https://scratch.mit.edu/projects/114805446/)
 
@@ -146,7 +146,7 @@ Nota: ¿Realizaron alguna secuencia de testing en la resolución de los ejercici
 
 ---
 
-## :star: MATERIAL DE LECTURA
+## 📘 MATERIAL DE LECTURA
 
 ### Ciclo de producción de software: testing
 
@@ -201,3 +201,72 @@ A medida que avanza el desarrollo, se realizan pruebas más detalladas sobre car
 
 ---
 
+
+## 📘 MATERIAL DE LECTURA
+
+
+### Introducción al lenguaje unificado de modelado (UML)
+
+
+*¡Pro tip alert!* Esta introducción a UML es tan solo eso. Para poder utilizarlo correctamente se necesita ir más profundo y estudiar. Si es de tu interés, no dudes en hacer una rápida búsqueda en Google para aprender más sobre cómo y cuándo usarlo.
+
+### Contexto
+
+Uno de los mayores desafíos en el diseño y producción de software es poder entenderse entre equipos de distintas disciplinas. El cliente pide requerimientos en lenguaje cotidiano, los ingenieros lo pasan a lenguaje técnico y los testers deben poder entender ambos lenguajes para poder controlar que lo que se pidió esté realmente presente en el producto o proyecto que se va a entregar.
+
+Una de las estrategias que se utilizan para diagramar los requerimientos es el uso de esquemas realizados en UML o unified modelling language - lenguaje unificado de modelado. Cuenta la leyenda que en el año 1997 un grupo de ingenieros entusiastas, cansados de intentar leer dibujos en servilletas, decidieron poner fin al castigo y armaron este sistema de símbolos y códigos que es independiente de los lenguajes de programación. ¿Qué significa eso? Que no importa el nivel de requerimientos o la dificultad del lenguaje a utilizar, las funcionalidades y casos de uso se pueden representar utilizando UML.
+
+Como UML es un lenguaje y no una metodología, se puede utilizar sin necesidad de tener guías o ceremonias(2).
+
+(2) En el caso de las metodologías ágiles se llaman así porque son metodologías y requieren que aprendamos ceremonias, pasos y procesos para llevarlas a cabo correctamente y que nos brinden los mayores beneficios al ser implementadas. Con solamente saber que las metodologías ágiles existen no alcanza.
+
+
+### ¿NECESITAS UN EJEMPLO? 
+
+El director de un Centro de educación Física, los ha contratado para desarrollar un sistema, pero solo cuenta con una gráfica del diseño preliminar:
+
+![image](https://user-images.githubusercontent.com/72580574/214077872-5c2d6f20-863d-4a62-8b87-adc6172c9ed1.png)
+
+Este diseño utiliza UML para explicar las relaciones entre los datos, los roles, las transacciones y la dirección de flujo de datos. A continuación tienen una ayuda memoria para poder analizar en profundidad el diagrama.
+
+![image](https://user-images.githubusercontent.com/72580574/214078006-e4d67a40-b7c2-4ee4-84b2-763ee77a86e0.png)
+
+---
+
+## :star: MANOS A LA OBRA
+
+##  ▶️  EJERCICIO · 4
+
+1. Analiza en forma individual el gráfico de requerimientos. Considera el cuadro con el ayuda-memoria de UML.
+
+2. Describe los requerimientos del sistema en formato de lista completa y siguiendo las secuencias completas. Controla que no falte ningún dato ni acciones.
+
+![image](https://user-images.githubusercontent.com/72580574/214078501-ddede79c-5aa8-4af2-b412-0fefc6e389f6.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214078690-560c3f51-6cb9-4010-a233-b7287aca7932.png)
+
+
+---
+
+## :star: HORA DE CERRAR
+
+### Consolidación de cierre:
+
+Tómense estos últimos 25 minutos del encuentro de hoy para comparar los resultados en el ejercicio que realizaron recién.
+
+- Uno de ustedes puede compartir pantalla mostrando su resolución y el resto puede aportar:
+
+1. Lo que hicieron igual
+
+2. Lo que resolvieron distinto
+
+3. Evaluar si alguna versión es superadora y tomar nota de por qué. ¿Qué elementos de esa versión nos llaman la atención por su claridad?  ¿Será la forma de comunicarlos?
+
+4. ¿Algún integrante del equipo de hoy tenía ya experiencia con este lenguaje y puede hacer aportes que le sirvan al resto?
+
+¡Hora de regresar a la sala general!
+
+No olvides agradecer a tus compañer@s de hoy. Recuerda sus nombres ya que posiblemente los vuelvas a ver pronto. Y si deseas valorar el aporte de alguien en particular, ¡entrégale un pulso!
+
+---
