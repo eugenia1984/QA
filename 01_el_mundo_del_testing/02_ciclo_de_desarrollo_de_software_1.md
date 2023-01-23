@@ -61,9 +61,12 @@ Esto es lo que nosotros sugerimos: que comiences en forma individual para poder 
 
 Pueden acordar como equipo destinar, por ejemplo, unos 20 min a entender la ejercitación e intentar resolverla en forma individual y luego dedicar unos 25 minutos a resolver punto por punto en equipo, apoyándose en las fortalezas que traiga cada integrante del equipo de hoy.
 
-¿Te interesa ahondar un poco más en los conceptos de la programación? Aquí te dejamos un Anexo con algunas definiciones. Recuerda que este es material extra, su lectura no está contemplada en el desarrollo de la jornada.
-
 ---
+
+### ¿Te interesa ahondar un poco más en los conceptos de la programación? 
+
+Aquí te dejamos un Anexo con algunas definiciones. Recuerda que este es material extra, su lectura no está contemplada en el desarrollo de la jornada.
+
 
 :computer: -> [BASES DE LA PROGRAMACION](https://docs.google.com/document/d/1P51kCox48lHC13M__HAKENGVY9Akgvfn/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true), al final de esta guía está toda la teoría detallada.
 
