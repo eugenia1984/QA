@@ -417,7 +417,7 @@ Definir varNumero Como Entero
 **varNumero** se convierte en una variable de tipo entero.
 
 
-###<img src="https://img.icons8.com/bubbles/50/null/console.png"/>  Tipos de instrucciones
+### <img src="https://img.icons8.com/bubbles/50/null/console.png"/>  Tipos de instrucciones
 
 Las instrucciones —acciones— básicas que se pueden implementar de modo general en un algoritmo y que esencialmente soportan todos los lenguajes son las siguientes:
 
