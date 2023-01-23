@@ -301,5 +301,15 @@ El programador debe constantemente resolver problemas de manera algorítmica, lo
 ![image](https://user-images.githubusercontent.com/72580574/214079578-91aa4176-8000-40b2-a547-0162f1cb9715.png)
 
 
+## Programa
+
+¿Dónde se van a ver reflejados los lenguajes de programación y los algoritmos? En nuestro programa.
+
+Un programa no es más que una serie de algoritmos escritos en algún lenguaje de programación de computadoras. Un programa es, por lo tanto, un conjunto de instrucciones —órdenes dadas a la computadora— que producirán la ejecución de una determinada tarea. En esencia, un programa es un medio para conseguir un fin. El fin será probablemente definido como la información necesaria para solucionar un problema.
+
+### Especificaciones de un programa
+
+Tras la decisión de desarrollar un programa, el programador debe establecer el conjunto de especificaciones que debe contener el programa: entrada, salida y algoritmos de resolución, que incluirán las técnicas para obtener las salidas a partir de las entradas.
+Un programa puede ser lineal (secuencial) o no lineal. Un programa es lineal si las instrucciones (acciones) se ejecutan secuencialmente como los ejercicios propuestos en esta guía, es decir, sin bifurcaciones, decisión ni comparaciones.
 
 
