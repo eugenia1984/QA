@@ -59,7 +59,7 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar lo
 ## :book: MATERIAL DE LECTURA ⏰ (20min)
 
 
-### :dtar: 2. Introducción 
+### :star: 2. Introducción 
 
 En los encuentros anteriores estuvimos analizando el contexto de la producción de software y en qué momentos es posible hacer pruebas o diseñar la mejor estrategia para realizarlas. También, descubrimos en qué momentos es posible interactuar con el equipo de desarrollo.
 
