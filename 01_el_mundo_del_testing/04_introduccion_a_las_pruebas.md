@@ -219,9 +219,48 @@ Este tipo de errores ocurre cuando un comando esperado está ausente. Observa el
 
 
 
-
-
 Imagen 4.5: Pantalla “Completa tu perfil”. Fuente: producción propia.
 
 Esta pantalla permite que el usuario complete su perfil. Pero, no hay opción para que el usuario se vaya de esta pantalla sin completar su perfil. Ya que el botón “Cancelar” no se le provee al usuario, este es un error de comando faltante.
 
+
+### 4 - Errores de sintaxis e idioma
+
+Los errores de sintaxis corresponden a palabras mal escritas (ortografía o error de tipeado simple) u oraciones que son incorrectas desde lo gramatical. 
+
+En el caso de software en español, también encontramos en esta categoría errores de herencia de inglés. Verás muchas veces que algunos textos todavía conservan el idioma en el que fueron escritos originalmente. Observa las siguientes imágenes a ver si puedes identificar todos los errores que puedas. 
+
+Recuerda, ¡atención al detalle es una habilidad que debes desarrollar como si fueras investigador profesional!
+
+Dato: estos errores generalmente se ven al testear un software que ya tiene su GUI o UI lista. (4)
+
+<img width="660" alt="Screen Shot 2023-01-24 at 15 24 30" src="https://user-images.githubusercontent.com/72580574/214376575-9607cfa7-6da3-4103-8c43-cff83b6c2caf.png">
+
+(4)  ¿GUI o UI? ¡Hora de googlear un concepto fundamental más! Tip: Saber usar los términos UX, UI y GUI te distingue en el mundo laboral. Muchos principiantes cometen el error de pensar que se refieren al mismo concepto. ¡Destácate desde el día #1! 
+
+**Nota**: estos errores de sintaxis no se refieren a errores en la sintaxis del código. Esos los ven los desarrolladores cuando hacen sus tests funcionales.
+
+**Practica inglés** y tómate una pausa refrescante
+
+[Este artículo](https://www.idyoma.com/blog/funny-translation-fails) recopila algunas de las traducciones fallidas más graciosas. Y si tu nivel de inglés es intermedio a avanzado, puedes leer [este artículo](https://euro-com.net/en/the-8-biggest-mistakes-in-technical-translations-and-how-to-avoid-them/) que anticipa el problema de hacer traducciones técnicas sin traductores certificados. 
+
+
+### 5 - Errores en el manejo de errores
+
+Cualquier error que ocurra mientras el usuario está interactuando con el software necesita ser manejado en forma clara y con sentido. En otras palabras, el usuario debe comprender qué pasó (en un lenguaje ameno) y debe tener claro qué hacer como siguiente paso. Si esto no ocurre, a estos errores se los denomina “Error en el manejo de errores.”
+
+<img width="234" alt="Screen Shot 2023-01-24 at 15 26 09" src="https://user-images.githubusercontent.com/72580574/214376925-f1fef5db-82c0-4e74-b2ff-d509ddebe589.png">
+
+
+Imagen 4.8: Pantalla “Error 707”. Fuente: producción propia.
+
+
+Siempre que sea posible, el usuario debe tener claro qué pasos debe seguir.
+Si en un formulario, por ejemplo, hay campos obligatorios que necesitan ser llenados, los mensajes de validación deben ser claros e indicar qué acciones debe realizar el usuario. Aquí tienes un ejemplo bien manejado:
+
+<img width="549" alt="Screen Shot 2023-01-24 at 15 26 26" src="https://user-images.githubusercontent.com/72580574/214377014-7427491e-9d0b-4158-8a1e-b82195009574.png">
+
+
+
+
+Imagen 4.9: Pantalla “Completa tus datos”. Fuente: producción propia.
