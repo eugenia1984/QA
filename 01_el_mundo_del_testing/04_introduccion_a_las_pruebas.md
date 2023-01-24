@@ -364,3 +364,25 @@ En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
 
 
 ---
+
+## :book:  MATERIAL DE LECTURA ⏰ (20min)
+
+### Error, defecto y falla
+
+- **Error**: Acción humana que produce un resultado incorrecto
+
+- **Defecto**: Desperfecto en un componente que puede causar que el mismo falle en sus funciones
+
+- **Fallo**: Manifestación visible de un defecto
+
+En el terreno profesional de un tester, normalmente siempre se topará con errores ya que son exactamente lo que está buscando al analizar un producto o un proyecto de software. Los defectos y las fallas se descubren una vez que el producto ya está funcionando del lado del cliente y es éste quien las informa.
+
+La identificación de defectos - poder categorizarlos, reportarlos y que eventualmente se solucionen - es parte de las actividades del equipo de Control y Garantía de calidad. El mayor desafío que tiene este equipo es poder realizar las pruebas necesarias en cada momento de las etapas del Ciclo de vida del Desarrollo de Software (SDLC). El objetivo es poder detectar los errores lo antes posible. ¿Por qué? Porque a medida que se avanza en el proceso, los costos para encontrar y corregir errores crecen en forma exponencial.
+
+El momento más económico para arreglar un error es durante el periodo de análisis de requerimientos, y luego el costo se va incrementando sin excepción en cada etapa subsiguiente, llegando al escenario más costoso de todos que es en el periodo de mantenimiento luego de la implementación. (ver “[Objetivos del testing](https://docs.google.com/document/d/1KB3o5M_RAaBhwVXoB_vAgjNnUySZZbRX/edit#heading=h.ipsj7oezbgag)”)  
+
+### ¿Quieres saber más sobre la diferencia entre un error, un bug y una falla? 
+
+[Este artículo](https://diariobug.com/error-bug-falla/) describe algunos de los desafíos que tenemos al trabajar en español sobre elementos que han sido creados en inglés, y la dificultad que existe para saber cómo nombrar a cada uno de ellos.
+
+---
