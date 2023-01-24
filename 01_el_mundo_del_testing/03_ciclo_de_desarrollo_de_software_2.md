@@ -55,10 +55,11 @@ Y prepárense para el encuentro de hoy: vamos a estar profundizando en los conce
 ## CICLO DE VIDA DE DESARROLLO DE SOFTWARE ⏰ (25MIN)
 
 
-(SDLC o software development life cycle, en inglés, ¿recuerdan?)
+(**SDLC** o **software development life cycle**, en inglés, ¿recuerdan?)
 
 Sabemos que puede sonar repetitivo, pero estamos haciendo algo que se llama consolidación que es cuando recordamos algo que aprendimos y hacemos el intento de ponerlo en práctica y no solamente repetirlo como cuando estudiábamos de memoria... ¡si es que alguien sigue estudiando así!
-Strategy: En el primer paso, ese en el que se toman los requerimientos del cliente y se comienza a pensar la estrategia con la que se va a resolver el proyecto o el producto, aparecen una serie de relaciones entre personas (usuarios, roles) y datos (que ingresan, se almacenan o se entregan al usuario).
+
+**Strategy**: En el primer paso, ese en el que se toman los requerimientos del cliente y se comienza a pensar la estrategia con la que se va a resolver el proyecto o el producto, aparecen una serie de relaciones entre personas (usuarios, roles) y datos (que ingresan, se almacenan o se entregan al usuario).
 
 #### ¿NECESITAS UN EJEMPLO? 
 
