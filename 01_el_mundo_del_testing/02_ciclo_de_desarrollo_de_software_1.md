@@ -10,10 +10,9 @@
 
 ---
 
-## :star: INTRODUCCIÓN Y ROMPEHIELO
+## :star: INTRODUCCIÓN Y ROMPEHIELO ⏰ (10min)
 
 
-![image](https://user-images.githubusercontent.com/72580574/214074127-436bb9a3-675a-4371-8506-09d1781f21d7.png)
 
 **¡Te damos la bienvenida a tu segundo encuentro de trabajo!**
 
