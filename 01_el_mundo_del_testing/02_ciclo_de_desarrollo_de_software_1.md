@@ -245,7 +245,7 @@ Este diseño utiliza UML para explicar las relaciones entre los datos, los roles
 
 ## <img src="https://img.icons8.com/emoji/48/null/writing-hand.png"/>  MANOS A LA OBRA
 
-##  ▶️  EJERCICIO · 4
+##  ▶️  EJERCICIO #4 ⏰ (20 min)
 
 1. Analiza en forma individual el gráfico de requerimientos. Considera el cuadro con el ayuda-memoria de UML.
 
