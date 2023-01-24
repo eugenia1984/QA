@@ -262,5 +262,46 @@ Si en un formulario, por ejemplo, hay campos obligatorios que necesitan ser llen
 
 
 
-
 Imagen 4.9: Pantalla “Completa tus datos”. Fuente: producción propia.
+
+Otros ejemplos de mal manejo de errores pueden lucir como las pantallas a continuación: 
+
+<img width="657" alt="Screen Shot 2023-01-24 at 15 27 17" src="https://user-images.githubusercontent.com/72580574/214377231-cccdbe0a-6caf-4a39-9cd7-271ce57220c9.png">
+
+### 6 - Errores de cálculo
+
+Este tipo de errores ocurre cuando una porción del código del software tiene algún error. Algunos ejemplos son:
+
+- Errores de lógica
+
+- Fórmulas incorrectas
+
+- Tipos de datos no alineados (texto vs números, por ejemplo)
+
+- Errores de código
+
+- Errores en las funciones internas del código
+
+- Bases de datos inexistentes o mal asignadas
+
+En 1999, la NASA perdió su orbitador climático en Marte debido a que uno de los proveedores de la NASA involucrado en su construcción utilizó medidas imperiales (usadas en Inglaterra) en lugar de utilizar el sistema métrico universal (utilizado en todo proyecto científico). Este pequeño error causó que los propulsores del orbitador no funcionen correctamente. Debido a este error, el orbitador se estrelló casi inmediatamente al llegar a Marte.
+
+### 7 - Errores de control de flujo
+
+El control de flujo en un software describe qué hará este en su próximo paso y bajo qué condiciones.
+
+Por ejemplo, consideremos un sistema en el que el usuario debe completar un formulario y las opciones disponibles son: Guardar, Guardar y cerrar y Cancelar. 
+
+Si el usuario hace clic en el botón de Guardar y cerrar, la información del usuario en ese formulario debiera ser guardada y el formulario cerrarse. Si al hacer clic en ese botón, no se cierra el formulario, es un error de control de flujo. 
+
+<img width="521" alt="Screen Shot 2023-01-24 at 15 28 26" src="https://user-images.githubusercontent.com/72580574/214377434-8647c63b-31fa-4bae-bc08-9288a299da8c.png">
+
+
+
+
+Imagen 4.12: Pantalla “Formulario de inscripción”. Fuente: producción propia.
+
+
+Antes de continuar, vamos a poner en práctica tus habilidades de detección de errores.
+
+---
