@@ -170,6 +170,7 @@ En la siguiente tabla, identifica los datos y los metadatos:
 
 <img width="698" alt="Screen Shot 2023-01-24 at 14 41 44" src="https://user-images.githubusercontent.com/72580574/214367860-0c43c942-73d0-43de-bbbc-d73048e39aee.png">
 
+El dato es la celda con la informacion (las filas) y el meta dato es el nombre de cada columna.
 
 Anota tus observaciones. ¿Dices que todo el equipo obtuvo los mismos resultados? Tómate un minuto para revisar por medio del chat y averigua qué piensan tus compañer@s sobre este ejercicio rápido. 
 
@@ -180,9 +181,8 @@ Los metadatos dentro de las páginas web también pueden contener  descripciones
 (1) https://www.ecosia.org/ es el buscador que planta árboles con tus búsquedas. ¿Qué más podemos pedir?
 
 ## Información
+
 <img width="258" alt="Screen Shot 2023-01-24 at 14 42 54" src="https://user-images.githubusercontent.com/72580574/214368105-07e064e0-12bb-4ba2-8b31-e5e7bdb154c0.png">
-
-
 
 
 Los sistemas de información son la integración de componentes para la recopilación, el almacenamiento y el procesamiento de datos para proporcionar información, contribuir al conocimiento y productos digitales que facilitan la toma de decisiones. Poseer información certera y a tiempo permite disminuir riesgos y mejorar la toma de decisiones.
@@ -190,9 +190,9 @@ Los sistemas de información son la integración de componentes para la recopila
 
 La información tiene varias características que es importante que tengamos presentes. Antes de poner la lista, ilustremos la información con un ejemplo.
 
-Ejemplo A: “Los mejores lugares para vacacionar en abril son Brasil y Costa Rica.”
+- Ejemplo A: “Los mejores lugares para vacacionar en abril son Brasil y Costa Rica.”
 
-Ejemplo B: “Los accidentes viales ocurren en su mayoría al amanecer y están protagonizados por jóvenes entre 18 y 15 años.”
+- Ejemplo B: “Los accidentes viales ocurren en su mayoría al amanecer y están protagonizados por jóvenes entre 18 y 15 años.”
 
 Estos son dos ejemplos de información basada en datos. 
 
