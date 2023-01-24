@@ -69,8 +69,7 @@ En el encuentro pasado te pedimos que aprendieras sobre UML y cómo graficar los
 
 **Aplicación web de registro de hábitos:**
 
-<img width="446" alt="Casos de uso para un tracker de hábitos src="https://user-images.githubusercontent.com/72580574/214365956-fb157171-67e9-4b9c-8162-2a967b478d1d.png">
-
+![image](https://user-images.githubusercontent.com/72580574/214429048-6285a50d-8519-4523-97b8-bb02f5f766c1.png)
 
 Imagen 2.1: Casos de uso para un tracker de hábitos. Fuente: adaptado de https://app.diagrams.net/
 
