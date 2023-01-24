@@ -201,3 +201,27 @@ La funcionalidad esperada del botón Cancelar es que el modal de Eliminar public
 
 La funcionalidad es la forma en la que se debe comportar el software. Los errores funcionales son, por ejemplo, si algo que se espera que realice es difícil, resulta confuso y extraño o es directamente imposible.
 
+### 2 - Errores de comunicación o interpretación
+
+El software presenta al usuario opciones o CTA (call to action) que son poco claros o que no realizan la acción que dicen realizar. Por ejemplo, no hay Menú de ayuda o Instrucciones para usuarios nuevos. O acciones que son centrales al software pero no figuran en la sección de Preguntas Frecuentes. Hasta puede ser que un botón lea “Guardar” y esté ejecutando “Eliminar.”
+
+<img width="422" alt="Screen Shot 2023-01-24 at 15 22 26" src="https://user-images.githubusercontent.com/72580574/214376128-3aa16445-8247-4b50-aaf5-9da7e74810c0.png">
+
+Imagen 4.4: Pantalla con copy erróneo en botón Guardar. Fuente: producción propia.
+
+En este ejemplo - Imagen 4.4-, el equipo responsable de la creación visual de este aviso (Front End) transcribió incorrectamente el texto en el botón “Eliminar” y el usuario lee “Guardar” y el software ejecuta eliminar. 
+
+### 3 - Errores de comandos faltantes
+
+Este tipo de errores ocurre cuando un comando esperado está ausente. Observa el siguiente ejemplo:
+
+<img width="227" alt="Screen Shot 2023-01-24 at 15 23 00" src="https://user-images.githubusercontent.com/72580574/214376237-49d43581-a149-4c69-b8be-f1f9d0d19dbf.png">
+
+
+
+
+
+Imagen 4.5: Pantalla “Completa tu perfil”. Fuente: producción propia.
+
+Esta pantalla permite que el usuario complete su perfil. Pero, no hay opción para que el usuario se vaya de esta pantalla sin completar su perfil. Ya que el botón “Cancelar” no se le provee al usuario, este es un error de comando faltante.
+
