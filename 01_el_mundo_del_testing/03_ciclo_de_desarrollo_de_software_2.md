@@ -127,7 +127,7 @@ Y probablemente el *include* sea para una inteface, que lo incluye, es la herenc
 
 #### Datos
 
-Los datos son representaciones simbólicas de determinados atributos, variables  cuanti o cualitativas. Podemos considerar que son una descripción codificada de un suceso o una entidad. En tecnología digital, estos valores son recibidos por la computadora a través de distintos medios, y son manipulados a través de distintos procesamientos.
+Los **DATOS** son **representaciones simbólicas de determinados atributos, variables  cuanti o cualitativas**. Podemos considerar que son una **descripción codificada de un suceso o una entidad**. En tecnología digital, estos valores son recibidos por la computadora a través de distintos medios, y son manipulados a través de distintos procesamientos.
 
 ¿Cómo puede ser que hablemos de datos todos los días y nunca hayamos dicho que son una descripción codificada de un suceso?
 
