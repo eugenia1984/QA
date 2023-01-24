@@ -143,10 +143,6 @@ Compartan pantalla, analicen en dónde hicieron las cosas distinto.
 
 ---
 
-![image](https://user-images.githubusercontent.com/72580574/214076320-14c4f6e3-3240-4176-ac0c-2cb44bd92f08.png)
-
-
----
 
 **ATENCIÓN: antes de seguir, hagan un check de tiempo. ¿Cómo vienen? ¿Necesitan apurarse? ¿O resultaron ser unos genios de la organización?**
 
@@ -160,7 +156,7 @@ Nota: ¿Realizaron alguna secuencia de testing en la resolución de los ejercici
 
 ---
 
-## 📘 MATERIAL DE LECTURA 📘
+## 📘 MATERIAL DE LECTURA ⏰ (30 min)
 
 ### CICLO DE PRODUCCIÓN DE SOFTWARE: TESTING
 
@@ -216,7 +212,7 @@ A medida que avanza el desarrollo, se realizan pruebas más detalladas sobre car
 ---
 
 
-## 📘 MATERIAL DE LECTURA 📘
+## 📘 MATERIAL DE LECTURA :book:
 
 
 ### INTRODUCCIÓN AL LENGUAJE UNIFICADO DE MODELADO (UML)
