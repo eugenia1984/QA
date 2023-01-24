@@ -385,4 +385,51 @@ El momento más económico para arreglar un error es durante el periodo de anál
 
 [Este artículo](https://diariobug.com/error-bug-falla/) describe algunos de los desafíos que tenemos al trabajar en español sobre elementos que han sido creados en inglés, y la dificultad que existe para saber cómo nombrar a cada uno de ellos.
 
+
+Aquí te dejamos un esquema para que recuerdes la secuencia de producción de un error:
+
+<img width="657" alt="Screen Shot 2023-01-24 at 15 37 11" src="https://user-images.githubusercontent.com/72580574/214379486-2ca96257-80e3-4874-a15f-36ebdfb6dc26.png">
+
+
+Un tester detecta defectos y explica cómo fallan, acompañando el reporte con un análisis de los efectos negativos. El tester no siempre puede saber cuál es el error que dio lugar a ese defecto.  
+
+
+### ¿NECESITAS UN EJEMPLO? 
+
+Windows XP tiene aproximadamente 45 millones de líneas de código. ¿Cuántos errores piensas que puede tener un software con esa cantidad de código?
+
+Aproximadamente, unos 100 mil errores. Es por eso que en 2008, Microsoft contaba con 90 mil empleados, muchos de los cuales se dedicaban a escribir, arreglar y testear esas millones de líneas de código. En la década del 90, Microsoft implementó el reporte automatizado de errores. 
+
+<img width="657" alt="Screen Shot 2023-01-24 at 15 37 11" src="https://user-images.githubusercontent.com/72580574/214379590-19471f6d-7a1f-4886-9153-f5d85531b95b.png">
+
+Hoy en día estamos muy acostumbrados a ver este tipo de soluciones y rastreo de errores, pero para ese entonces era una idea muy innovadora. 
+
+Una vez que Windows XP ya estaba funcionando en más de 1000 millones de computadoras personales, cada error que ocurría se cargaba automáticamente en este sistema (6) y los equipos de soluciones trabajaban directamente con los reportes que se generaban a partir de los millones de reportes enviados por los usuarios. 
+
+Uno de los miembros del equipo de investigación de errores descubrió un reporte que le llamó la atención. Y levantó la alarma. Parece que Windows XP tenía una vulnerabilidad que podía ser utilizada para que terceras personas ingresaran al sistema de un usuario vía Windows y luego pudieran infectar toda la computadora, llevándose datos y haciendo que las computadoras crashearan sin arreglo. Este error se conoció como MS08-067. Fue publicado por Microsoft (MS) en su reporte interno del año 2008 y ese reporte era el número 67 ese año. Por ello se lo conoce como el MS08-067.
+
+¿Puedes imaginar lo que costó arreglar este defecto? Si quieres saber más, ¡prepárate! El material es abundante. Podemos darte algunas pistas para que sepas qué leer primero. Busca MS08-067 y Conficker.(7)
+
+
+(6) Quieres saber más? Se llama WER, Windows error reporting
+
+(7) Solo podemos adelantarte que esto ocurrió en 2008… y en 2019 el total de sistemas afectados rondaba las 500.000 computadoras.
+
+
+---
+
+
+## ¡Hora de cerrar! 
+
+¡Lo hemos logrado! Has llegado al final del cuarto encuentro.
+Tómense 5 minutos como equipo para conversar sobre el ejercicio de clasificación de errores.
+
+Les dejamos algunas preguntas disparadoras - no necesariamente tienen una sola respuesta correcta:
+
+1. ¿Todos los errores entran en una sola categoría? O sea, ¿si es un error de sintaxis, eso anula que pueda ser parte de otra categoría o tipo de error?
+
+2. ¿Hasta qué punto es importante clasificar el error en una categoría correcta? ¿Cómo ayuda a su resolución que tenga categoría?
+
+¡Gran momento para recordar y agradecer a nuestro equipo de hoy! ¿Ya se han vuelto a encontrar con alguien de los equipos anteriores?
+
 ---
