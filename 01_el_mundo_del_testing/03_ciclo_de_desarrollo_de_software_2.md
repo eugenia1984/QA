@@ -149,9 +149,9 @@ Apenas entendemos lo que es un dato, y tenemos que hablar de metadatos. Es neces
 
 
 
-Los metadatos son la descripción de los datos. Podemos considerarlo como “datos sobre datos”. Describen qué sabemos sobre el dato. 
+Los **metadatos** son la **descripción de los datos**. Podemos considerarlo como **“datos sobre datos”**. Describen qué sabemos sobre el dato. 
 
-Se definen como los datos que proporcionan información sobre uno o más aspectos de los datos; se utilizan para resumir información básica sobre datos que pueden facilitar el seguimiento y el trabajo con datos específicos.
+Se definen como **los datos que proporcionan información sobre uno o más aspectos de los datos**; se utilizan para resumir información básica sobre datos que pueden facilitar el seguimiento y el trabajo con datos específicos.
 
 Una situación cotidiana puede ser: buscar en nuestro disco rígido todos los archivos que sean .pdf (metadato: tipo de archivo) para luego ordenarlos por tamaño (metadato: bytes que ocupan) y así eliminar aquellos que consuman mucho espacio de almacenamiento. 
 
