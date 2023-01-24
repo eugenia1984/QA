@@ -254,7 +254,7 @@ Este diseño utiliza UML para explicar las relaciones entre los datos, los roles
 ![image](https://user-images.githubusercontent.com/72580574/214078501-ddede79c-5aa8-4af2-b412-0fefc6e389f6.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/214078690-560c3f51-6cb9-4010-a233-b7287aca7932.png)
+
 
 
 ---
