@@ -28,7 +28,7 @@
 
 ---
 
-## :star: INTRODUCCION Y ROMPEHIELO(15MIN)
+## :star: INTRODUCCION Y ROMPEHIELO ⏰ (15 MIN)
 
 **¡Te damos la bienvenida a tu tercer encuentro de trabajo!**
 
@@ -52,7 +52,7 @@ Y prepárense para el encuentro de hoy: vamos a estar profundizando en los conce
 
 ---
 
-## CICLO DE VIDA DE DESARROLLO DE SOFTWARE (25MIN)
+## CICLO DE VIDA DE DESARROLLO DE SOFTWARE ⏰ (25MIN)
 
 
 (SDLC o software development life cycle, en inglés, ¿recuerdan?)
@@ -72,5 +72,37 @@ En el encuentro pasado te pedimos que aprendieras sobre UML y cómo graficar los
 
 
 Imagen 2.1: Casos de uso para un tracker de hábitos. Fuente: adaptado de https://app.diagrams.net/
+
+---
+
+## :star: ¡MANOS A LA OBRA! 
+
+### Ejercicio #1
+
+Instrucciones:
+
+1. Observa detenidamente el gráfico de la imagen 2.1 y toma notas sobre lo que ocurre. Es una plataforma de registro de hábitos.
+
+A- ¿Cuántos roles puedes identificar? (Un rol es un tipo de usuario con acceso diferenciado)
+
+B-Identifica en qué situaciones hay intercambio de datos. Ej: usuario ingresa sus datos en el momento del login [nombre] y [contraseña].
+
+2. Toma nota de lo que no sabes. Ej: no sé qué significa “include”. 
+
+Cuando decimos “toma nota”, lo decimos de verdad. Anótalo de la forma que te sirva (papel, dibujos, notepad, word) pero haz el esfuerzo de capturar aquello que en este momento no entiendes.
+
+---
+
+## :book: MATERIAL DE LECTURA ⏰ (15MIN)
+
+### Manejo y transacción de datos:
+
+#### Datos
+
+Los datos son representaciones simbólicas de determinados atributos, variables  cuanti o cualitativas. Podemos considerar que son una descripción codificada de un suceso o una entidad. En tecnología digital, estos valores son recibidos por la computadora a través de distintos medios, y son manipulados a través de distintos procesamientos.
+
+¿Cómo puede ser que hablemos de datos todos los días y nunca hayamos dicho que son una descripción codificada de un suceso?
+
+¡A por un ejemplo se ha dicho! Cuando vemos la siguiente imagen:
 
 ---
