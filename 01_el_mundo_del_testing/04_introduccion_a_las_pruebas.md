@@ -42,7 +42,7 @@ Ya estás en camino: si este es tu primer estudio luego de la escuela, sentará 
 
 ---
 
-## ¡Demos comienzo a la actividad del día de hoy! :clock: (10min)
+## ¡Demos comienzo a la actividad del día de hoy! ⏰ (10min)
 
 ### 1. Presentación del equipo:
 
@@ -52,7 +52,7 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar lo
 
 ---
 
-## :book: MATERIAL DE LECTURA :clock: (20min)
+## :book: MATERIAL DE LECTURA ⏰ (20min)
 
 
 ### 2. Introducción 
@@ -129,7 +129,7 @@ Toma nota o escribe estos objetivos e intenta recordar si has visto errores de e
 
 ---
 
-## :star: BENEFICIOS DEL TESTING :clock: (15min)
+## :star: BENEFICIOS DEL TESTING ⏰ (15min)
 
 
 Estos son los beneficios de usar pruebas de software:
@@ -159,3 +159,45 @@ Si tuviéramos que explicar a soporte técnico qué nos pasó, ¿podrías hacerl
 Estamos por explorar una variedad de elementos que “aparecen” en la pantalla de los usuarios. Si deseas explorar más, aquí te dejamos un artículo que explica la diferencia entre un pop up, un modal, un tool tip y una light box. [Leer](https://blog.ida.cl/diseno/ldiferencia-modal-pop-up-pop-over-light-box/)
 
 ---
+
+## :star: MATERIAL DE LECTURA   ⏰  (45 min)
+
+### Errores de software y bugs
+
+Un error es una desviación de lo que se esperaba como exacto o correcto. En software, un bug es un error, defecto o falla en un programa o sistema que causa “un resultado inesperado o incorrecto o un comportamiento no deseado.“
+
+Podemos inferir lo siguiente:
+
+- Un error es una variante inesperada del resultado esperado
+
+- Los errores son una categoría de bugs de software
+
+Los errores pueden surgir de:
+
+-requerimientos incompletos o incorrectos
+
+-falla humana en el momento de la codificación (programación)
+
+### Categorías comunes de errores de software:
+
+#### 1 - Errores funcionales
+
+La funcionalidad es la forma en la que se debe comportar el software. Los errores funcionales son, por ejemplo, si algo que se espera que realice es difícil, resulta confuso y extraño o es directamente imposible.
+
+
+
+Mira esta pantalla de ejemplo:
+
+<img width="405" alt="Screen Shot 2023-01-24 at 15 20 28" src="https://user-images.githubusercontent.com/72580574/214375714-58fb10e4-3fe3-4167-9cb1-8e2ee4aaa872.png">
+
+
+
+Imagen 4.3: Pantalla “Eliminar publicación”. Fuente: producción propia.
+
+
+La funcionalidad esperada del botón Cancelar es que el modal de Eliminar publicación se cierre y que se regrese a la página original de la publicación, sin eliminarla. Si el botón de cancelar no es clicable, estamos frente a un error de funcionalidad.
+
+
+
+La funcionalidad es la forma en la que se debe comportar el software. Los errores funcionales son, por ejemplo, si algo que se espera que realice es difícil, resulta confuso y extraño o es directamente imposible.
+
