@@ -37,9 +37,9 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones.
 
 ---
 
-## <img src="https://img.icons8.com/emoji/48/null/writing-hand.png"/> MANOS A LA OBRA
+## <img src="https://img.icons8.com/emoji/48/null/writing-hand.png"/> MANOS A LA OBRA ⏰ (60 min)
 
-![image](https://user-images.githubusercontent.com/72580574/214074404-a2d33ca9-7859-436e-a1c0-7ba0566ed504.png)
+
 
 Hoy vamos a tomar un pequeño desvío por el mundo de la creación de software. Para ello, estaremos utilizando **Scratch** que será necesario para resolver las actividades del encuentro de hoy.
 
