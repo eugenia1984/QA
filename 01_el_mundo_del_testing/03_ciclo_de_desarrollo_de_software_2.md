@@ -143,7 +143,7 @@ Eso que ha salido de tu cabeza es un dato. Frente a un evento (te mostramos una 
 
 #### Metadatos
 
-Apenas entendemos lo que es un dato, y tenemos que hablar de metadatos. Es necesario para quue no exista confusión entre uno y el otro. 
+Apenas entendemos lo que es un dato, y tenemos que hablar de metadatos. Es necesario para que no exista confusión entre uno y el otro. 
 
 <img width="674" alt="Screen Shot 2023-01-24 at 14 40 09" src="https://user-images.githubusercontent.com/72580574/214367511-5c98a0d9-dc39-42ae-abd7-449f143ac83f.png">
 
