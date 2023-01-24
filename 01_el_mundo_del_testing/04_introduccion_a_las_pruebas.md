@@ -32,13 +32,13 @@
 
 ## :star: INTRODUCCION
 
-¡Te damos la bienvenida a tu cuarto encuentro de trabajo!
+**¡Te damos la bienvenida a tu cuarto encuentro de trabajo!**
 
-Check de 1 minuto: ¿Cómo te sientes hoy? Tómate un minuto y dedícalo a agradecerte a ti mism@ por hacer este esfuerzo de aprender algo nuevo. Ese futuro del que hablan todos ya está aquí: una persona cambiará de carrera de 5 a 7 veces en su vida. No es una frase de marketing, es real. Si no nos crees, [aquí tienes un artículo en inglés](https://careers-advice-online.com/career-change-statistics) y [aquí uno en español](https://www.businesstribe.com.mx/inicio/mitos-mas-grandes-sobre-cambiar-de-profesion/). 
+- **Check de 1 minuto**: ¿Cómo te sientes hoy? Tómate un minuto y dedícalo a agradecerte a ti mism@ por hacer este esfuerzo de aprender algo nuevo.  Ese futuro del que hablan todos ya está aquí: una persona cambiará de carrera de 5 a 7 veces en su vida. No es una frase de marketing, es real. Si no nos crees, [aquí tienes un artículo en inglés](https://careers-advice-online.com/career-change-statistics) y [aquí uno en español](https://www.businesstribe.com.mx/inicio/mitos-mas-grandes-sobre-cambiar-de-profesion/). 
 
-Ya estás en camino: si este es tu primer estudio luego de la escuela, sentará las bases de los que sigan. Y si estás aquí complementando estudios anteriores, este programa enriquecerá tus conocimientos. 
+- **Ya estás en camino**: si este es tu primer estudio luego de la escuela, sentará las bases de los que sigan. Y si estás aquí complementando estudios anteriores, este programa enriquecerá tus conocimientos. 
 
-¡Demos comienzo a la actividad del día de hoy!
+**¡Demos comienzo a la actividad del día de hoy!**
 
 ---
 
@@ -46,16 +46,20 @@ Ya estás en camino: si este es tu primer estudio luego de la escuela, sentará 
 
 ### 1. Presentación del equipo:
 
-¡Listos, preparados, ya! A esta altura conoces bien cómo funciona este momento. ¿Ya se han presentado con el equipo? ¿Te has encontrado nuevamente con alguien? ¿Qué conceptos o nuevo vocabulario has incorporado sobre QA en el encuentro anterior?
+¡Listos, preparados, ya! 
 
-Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar los conceptos que han aprendido en el encuentro anterior. ¡Seguro recuerdas más de lo que crees!
+A esta altura conoces bien cómo funciona este momento. ¿Ya se han presentado con el equipo? ¿Te has encontrado nuevamente con alguien? ¿Qué conceptos o nuevo vocabulario has incorporado sobre QA en el encuentro anterior?
+
+Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar los conceptos que han aprendido en el encuentro anterior. 
+
+¡Seguro recuerdas más de lo que crees!
 
 ---
 
 ## :book: MATERIAL DE LECTURA ⏰ (20min)
 
 
-### 2. Introducción 
+### :dtar: 2. Introducción 
 
 En los encuentros anteriores estuvimos analizando el contexto de la producción de software y en qué momentos es posible hacer pruebas o diseñar la mejor estrategia para realizarlas. También, descubrimos en qué momentos es posible interactuar con el equipo de desarrollo.
 
