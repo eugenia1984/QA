@@ -105,4 +105,50 @@ Los datos son representaciones simbólicas de determinados atributos, variables 
 
 ¡A por un ejemplo se ha dicho! Cuando vemos la siguiente imagen:
 
+<img width="215" alt="Screen Shot 2023-01-24 at 14 38 19" src="https://user-images.githubusercontent.com/72580574/214367023-7b7d79d0-31df-492b-9331-e315a57976ca.png">
+
+¿Puedes decir qué estás viendo?
+
+Eso que ha salido de tu cabeza es un dato. Frente a un evento (te mostramos una imagen), regresa un dato (en este caso, el dato es un gato).
+
+*Tip de Inglés* (que en realidad es un tip de latín): **Dato** en singular es datum y casi nadie lo sabe y se usa muy poco. Pero lo que sí se usa y mucho es su plural: **DATA**. Entonces vamos a encontrar muchas veces que “datos” se presenta como data en inglés - y a veces también en español.
+
+#### Metadatos
+
+Apenas entendemos lo que es un dato, y tenemos que hablar de metadatos. Es necesario para quue no exista confusión entre uno y el otro. 
+
+<img width="674" alt="Screen Shot 2023-01-24 at 14 40 09" src="https://user-images.githubusercontent.com/72580574/214367511-5c98a0d9-dc39-42ae-abd7-449f143ac83f.png">
+
+
+
+Los metadatos son la descripción de los datos. Podemos considerarlo como “datos sobre datos”. Describen qué sabemos sobre el dato. 
+
+Se definen como los datos que proporcionan información sobre uno o más aspectos de los datos; se utilizan para resumir información básica sobre datos que pueden facilitar el seguimiento y el trabajo con datos específicos.
+
+Una situación cotidiana puede ser: buscar en nuestro disco rígido todos los archivos que sean .pdf (metadato: tipo de archivo) para luego ordenarlos por tamaño (metadato: bytes que ocupan) y así eliminar aquellos que consuman mucho espacio de almacenamiento. 
+
+
+
 ---
+
+
+## :star: ¡MANOS A LA OBRA! 
+
+### Ejercicio #2 ⏰ (35MIN)
+
+¡Entrada en calor rápida! 
+
+En la siguiente tabla, identifica los datos y los metadatos:
+
+<img width="698" alt="Screen Shot 2023-01-24 at 14 41 44" src="https://user-images.githubusercontent.com/72580574/214367860-0c43c942-73d0-43de-bbbc-d73048e39aee.png">
+
+
+Anota tus observaciones. ¿Dices que todo el equipo obtuvo los mismos resultados? Tómate un minuto para revisar por medio del chat y averigua qué piensan tus compañer@s sobre este ejercicio rápido. 
+
+#### Impacto comercial de los metadatos
+
+Los metadatos dentro de las páginas web también pueden contener  descripciones del contenido de la página, así como palabras clave vinculadas al contenido que hacen que al buscar algo online, los buscadores como Google o Ecosia (1) puedan entender mejor dónde encontrar lo que estás buscando. 
+
+(1) https://www.ecosia.org/ es el buscador que planta árboles con tus búsquedas. ¿Qué más podemos pedir?
+
+
