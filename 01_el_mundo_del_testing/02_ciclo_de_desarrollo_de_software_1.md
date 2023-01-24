@@ -255,7 +255,31 @@ Este diseño utiliza UML para explicar las relaciones entre los datos, los roles
 
 
 
+-> Requerimientos del sistema
 
+- Matricular al alumno
+
+a- Registrar datos personales (DNI, etc)
+
+b- Efectuar la matricula
+
+- Rematricular la alumno
+
+a- Registrar datos personales (DNI, etc)
+
+b- Efectuar la matricula
+
+- Registrar deporte
+
+a- Registrar datos del deporte
+
+- Inscribir deporte
+
+A- registrar datos del deporte
+
+- Confeccionar lista
+
+a- Generar lista de deporte
 
 ---
 
