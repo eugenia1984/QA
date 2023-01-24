@@ -305,3 +305,37 @@ Imagen 4.12: Pantalla “Formulario de inscripción”. Fuente: producción prop
 Antes de continuar, vamos a poner en práctica tus habilidades de detección de errores.
 
 ---
+
+## :star: MANOS A LA OBRA ⏰ (40 min)
+
+Tenemos dos ejemplos de errores para que comiences a practicar. 
+
+- Ejemplos tipo 1: los preparamos para ustedes, basados en documentación real.
+
+- Ejemplos tipo 2: los traemos del mundo real, así como vienen. Verán que están en inglés o español y puede que les falte contexto. 
+
+### Ejercicio
+
+Para cada uno de los ejemplos presentados a continuación, completa [una tabla como esta](https://docs.google.com/document/d/1VBZqJ7hs48AbapsU42OueCKdvymO1YhnBZbQeTj6hi4/edit?usp=sharing) indicando el tipo de error que visualizas (de los 7 tipos vistos), si tienes suficiente información para documentarlo o tienes preguntas y si existe superposición de errores (más de un tipo al mismo tiempo en un ejemplo). 
+
+- Ejemplo 1: Error de sistema
+
+
+<img width="318" alt="Screen Shot 2023-01-24 at 15 30 29" src="https://user-images.githubusercontent.com/72580574/214377828-91d880df-a8d0-4af3-9c17-7f94966b9b17.png">
+
+- Ejemplo 2: El misterio del teclado
+
+<img width="331" alt="Screen Shot 2023-01-24 at 15 30 47" src="https://user-images.githubusercontent.com/72580574/214377897-79904c33-cafe-40df-b97e-282b1ea2beae.png">
+
+
+- Ejemplo 3: El inesperado de siempre
+
+<img width="456" alt="Screen Shot 2023-01-24 at 15 31 22" src="https://user-images.githubusercontent.com/72580574/214378130-378f9f8c-574a-4707-bf3b-4df8abe5f7eb.png">
+
+
+- Ejemplo 4: Eliminando publicaciones
+
+<img width="458" alt="Screen Shot 2023-01-24 at 15 31 35" src="https://user-images.githubusercontent.com/72580574/214378272-65806db1-d625-4864-a6ca-5b9ea2386b28.png">
+
+
+---
