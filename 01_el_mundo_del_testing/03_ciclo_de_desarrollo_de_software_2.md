@@ -79,17 +79,45 @@ Imagen 2.1: Casos de uso para un tracker de hábitos. Fuente: adaptado de https:
 
 ### Ejercicio #1
 
-Instrucciones:
+#### Instrucciones:
 
 1. Observa detenidamente el gráfico de la imagen 2.1 y toma notas sobre lo que ocurre. Es una plataforma de registro de hábitos.
 
 A- ¿Cuántos roles puedes identificar? (Un rol es un tipo de usuario con acceso diferenciado)
 
+*Respuesta*: Tres roles: USER, COACH, ADMIN.
+
 B-Identifica en qué situaciones hay intercambio de datos. Ej: usuario ingresa sus datos en el momento del login [nombre] y [contraseña].
+
+*Respuesta*: 
+
+Cuando el coach...
+
+... agrega un comentario
+
+Cuando el admin...
+
+... elimina un usuario
+
+... actualiza la lista de habitos
+
+Cuando el usuario...
+
+... agrega un habito
+
+... elimina un habito
+
+... marca un habito como hecho en el dia
 
 2. Toma nota de lo que no sabes. Ej: no sé qué significa “include”. 
 
 Cuando decimos “toma nota”, lo decimos de verdad. Anótalo de la forma que te sirva (papel, dibujos, notepad, word) pero haz el esfuerzo de capturar aquello que en este momento no entiendes.
+
+
+Supongo que es similar a Java entonces el**Extend** es que *extiende* que *hereda de*, es decir que está la relación entre Clase Padre/Madre/super y clase hija.
+
+Y probablemente el *include* sea para una inteface, que lo incluye, es la herencia multiple que ne realidad no tiene Java, es decir para ACTUALIZAR el historial dle habito se puede AGREGAR, BORRAR o MARCAR COMO REALIZADO dicho habito.
+
 
 ---
 
