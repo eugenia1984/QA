@@ -337,5 +337,30 @@ Para cada uno de los ejemplos presentados a continuación, completa [una tabla c
 
 <img width="458" alt="Screen Shot 2023-01-24 at 15 31 35" src="https://user-images.githubusercontent.com/72580574/214378272-65806db1-d625-4864-a6ca-5b9ea2386b28.png">
 
+- Ejemplo 5: Guardar y compartir
+
+<img width="383" alt="Screen Shot 2023-01-24 at 15 32 41" src="https://user-images.githubusercontent.com/72580574/214378547-0ec6f1f6-623e-4cb4-a039-badce1521b75.png">
+
+
+- Ejemplo 6: El server no coopera
+
+<img width="346" alt="Screen Shot 2023-01-24 at 15 33 14" src="https://user-images.githubusercontent.com/72580574/214378660-9087ead3-513e-40fe-832d-1c983a13a005.png">
+
+
+- Ejemplo 7: Microsoft Visual Studio
+
+<img width="385" alt="Screen Shot 2023-01-24 at 15 33 40" src="https://user-images.githubusercontent.com/72580574/214378717-79049957-053a-40ec-9340-625f1dc30122.png">
+
+
+### Pregunta bonus:
+
+¿Por qué no podemos mostrar ejemplos de todos los tipos de errores? 
+
+- Accede al ANSWER KEY de este ejercicio desde [aquí](https://docs.google.com/document/d/1XVk_IbwhOz14MEcZ0VQ0R0DElVFvOfBM/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
+
+¿Cómo vienes? ¿Cómo están tus poderes de observación?
+
+En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
+
 
 ---
