@@ -366,7 +366,7 @@ En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
 
 | Ejemplo |Tipo de error (Si hay superposición de errores, numéralos) | Explica tu categorización (¿Con qué evidencia cuentas para elegir una categoría?) | ¿Hay suficiente información? Si la respuesta es no, ¿qué preguntas necesitarías resolver? |
 | ------- | -------- | --------- | --------------------|
-| 1 |  |   |   |
+| 1 |  de sintaxis, manejo de error, comando faltante |  no esta claro como debe comportarse, falta el boton que permite saber que hacer, una parte esta en ingles,  el usuario no sabe como continuar | no, no sabe como continuar    |
 | 2 |  |   |   |
 | 3 |  |   |   |
 | 4 |  |   |   |
