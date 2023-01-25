@@ -364,6 +364,16 @@ Para cada uno de los ejemplos presentados a continuación, completa [una tabla c
 
 En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
 
+| Ejemplo |Tipo de error (Si hay superposición de errores, numéralos) | Explica tu categorización (¿Con qué evidencia cuentas para elegir una categoría?) | ¿Hay suficiente información? Si la respuesta es no, ¿qué preguntas necesitarías resolver? |
+| ------- | -------- | --------- | --------------------|
+| 1 |  |   |   |
+| 2 |  |   |   |
+| 3 |  |   |   |
+| 4 |  |   |   |
+| 5 |  |   |   |
+| 6 |  |   |   |
+| 7 |  |   |   |
+
 
 ---
 
