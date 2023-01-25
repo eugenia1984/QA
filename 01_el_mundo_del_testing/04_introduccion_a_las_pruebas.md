@@ -203,8 +203,6 @@ La funcionalidad esperada del botón Cancelar es que el modal de Eliminar public
 
 
 
-La funcionalidad es la forma en la que se debe comportar el software. Los errores funcionales son, por ejemplo, si algo que se espera que realice es difícil, resulta confuso y extraño o es directamente imposible.
-
 ### 2 - Errores de comunicación o interpretación
 
 El software presenta al usuario opciones o CTA (call to action) que son poco claros o que no realizan la acción que dicen realizar. Por ejemplo, no hay Menú de ayuda o Instrucciones para usuarios nuevos. O acciones que son centrales al software pero no figuran en la sección de Preguntas Frecuentes. Hasta puede ser que un botón lea “Guardar” y esté ejecutando “Eliminar.”
