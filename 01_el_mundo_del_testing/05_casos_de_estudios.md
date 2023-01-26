@@ -248,6 +248,166 @@ Más información: Si es necesario aclarar el contexto para replicar el error
 
 ---
 
+## :star: ¡MANOS A LA OBRA! 
+
+### Ejercicio #2 
+
+Te presentaremos una serie de imágenes. En el encuentro anterior te alcanzamos [este artículo](https://diariobug.com/error-bug-falla/) que creemos que será de gran ayuda para ir consolidando el lenguaje con el que hablamos de los defectos o bugs. 
+
+- A - ¿Puedes documentar los defectos que ves en las imágenes a continuación? Te dejamos [una copia del reporte](https://docs.google.com/document/d/1uu-j02GruDZ-jSQ9dEPOGa2_4jUHmDjpN14ahjWnGiQ/edit?usp=sharing) para que puedas usar. 
+
+*Tickets: en general para dar seguimiento a los bugs se utilizan sistemas como Trello, Atlassian o ClickUp. Si quieres comenzar a investigar estas herramientas, te invitamos a hacerlo ya que es una ventaja competitiva para tí conocerlas en profundidad. Más adelante las estaremos poniendo en práctica con algunos ejercicios.*
 
 
+- B - ¿Puedes incluir el tipo de error que ves? Si no los recuerdas, son estos que vimos en el encuentro anterior.
+
+Ejemplo 1: Trip Advisor
+
+![image](https://user-images.githubusercontent.com/72580574/214967311-31edc8d0-db8f-4c5d-91f8-1781f82c8959.png)
+
+
+Ejemplo 3: Facebook
+
+
+![image](https://user-images.githubusercontent.com/72580574/214967412-07f74e21-1131-4f1c-ac52-670847b72a32.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214967449-51dd5da7-22f9-454c-b2e2-2e70f7d3eeea.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214967451-b8c6f4ac-7920-4f45-9161-0fdc45eb9f7e.png)
+
+
+---
+
+## :star:  5. Colección cooperativa de defectos in the wild ⏰ (15min)
+
+Estuvimos viendo muchos ejemplos. Casi todos recuperados de la vida real, de anécdotas de testers y de nuestras experiencias personales. Es hora de que te sumes y comiences tu propia colección de errores que han atravesado barreras de supervisión y testeo para llegar directamente al usuario final. 
+
+
+### ¡MANOS A LA OBRA! 
+
+#### Ejercicio #3 
+
+En nuestro Discord, ve al canal de [WANTED - Errores infraganti](https://discord.com/channels/1042107558485311619/1052702755585794079) y comienza a postear defectos que hayas encontrado en estos días. 
+Puedes practicar hacer el reporte en tu mismo posteo y explicar qué tipo de defecto has encontrado, cómo replicarlo y si el productor de ese software tiene algún sistema de recolección de errores, como el WER de Windows que vimos en el encuentro pasado.  
+
+¡Entre tod@s los estudiantes de la comunidad podremos lograr una colección enorme de defectos encontrados in the wild! Y si hoy no tienes ninguno a mano, no te preocupes, puedes volver cuando quieras y dejar tu aporte. 
+
+
+---
+
+## :star: Ejercitación de casos ⏰ (40min)
+
+Tenemos una serie de ejercicios que te ayudarán a poner en práctica todos los conceptos aprendidos hasta hoy. 
+Puedes hacerlos en forma individual o como equipo. Sabemos que el esfuerzo es grande. 
+
+### Ejercicio #4
+
+¡Tip! Ten a mano las guías de los encuentros anteriores ya que estarás usando conceptos que ya hemos visto.
+
+A continuación, podrás ver algunos casos de interacción con sistemas informáticos (software).
+
+- A - Identifica todas las funcionalidades y selecciona aquellas que consideres críticas para ser analizadas y déjalo asentado en un cuadro como este. Allí verás un ejemplo para ayudarte desde el principio. 
+
+- B - En equipo, comparen sus análisis y debatan las razones por las que eligieron esas transacciones como críticas. No olviden hacer referencia a las instancias de verificación que se vieron en la sesión de hoy.
+
+**Caso 1**. El usuario utiliza su tarjeta de crédito en una empresa de electrodomésticos que posee el servicio de postnet para las compras. Se cargan los datos que validen que quien compra es el dueño de esa tarjeta, y el sistema se conecta con el sistema de la Tarjeta de Crédito MasterCompra para validar que puede venderle a ese cliente y que dispone de margen de crédito para comprar. 
+
+El sistema actúa habilitando la operación para la compra de un producto porque tiene un valor inferior al límite total que la tarjeta. Luego, el sistema guarda los datos de la compra vinculados a los del cliente y almacena los datos en la base de datos e imprime la factura y el ticket de compra a través del mismo postnet. De esta forma lo desarrollado cumple con todas las especificaciones para realizar una compra con una tarjeta de crédito.
+
+
+**Caso 2**. El sistema AsisteMed solicita desarrollar un sistema para agendar citas de pacientes con médicos en una clínica. Sus funciones son: alta, modificación y baja de los médicos con su especialidad; alta y baja de un turno o cita; alta y modificación de los consultorios. 
+Cuando los médicos acceden al sistema, al presionar el botón de actualizar horarios de cada uno de ellos, no pueden indicar los días en que los médicos no se encuentran por operaciones, emergencias, viajes, vacaciones u otras situaciones, por lo que no pueden indicar qué citas se deben reprogramar.
+
+**Caso 3**. La empresa Aión se dedica a fabricar y recargar de manera mayorista matafuegos o extinguidores. Tu consultora está desarrollando el sistema Kairos que tiene por objetivo manejar el stock de entrada y salida. El stock de entrada es cuando piden recargas de extinguidores y el stock de salida son los productos nuevos que venden a comercios del rubro y a comercios que venden repuestos para autos. La funcionalidad de carga de los datos de entrada: recibe información de un sistema (Lector de datos), que toma la lectura de todos los códigos de barra de cada matafuego/extintor a ser recargado. Esta información es enviada al sistema Kairos para llevar el registro de todos los matafuegos a recargar en la base de datos del sistema.
+
+**Caso 4**. El sistema Cronos se está desarrollando para diseñar, confeccionar y vender ropa de jean a medida. Para ello se utiliza un scanner especial para tomar las medidas de una persona y fotos 360 grados para mostrar en pantalla sobre el cuerpo real del usuario cómo quedaría el modelo diseñado o elegido. 
+
+El sistema, hasta el momento permite tomar los datos del cliente y ofrece los diseños de pantalones, bermudas, shorts, camisas, polleras, tops y camperas para que el cliente pueda elegir los productos a confeccionar. El sistema recibe del scanner los datos de las medidas guardándolos en la ficha del cliente. 
+
+Cuando se intenta simular cómo quedaría en la persona con las fotos 360 tomadas por el mismo, el botón de simulación solo muestra las prendas elegidas del catálogo, pero no con las medidas y el escaneo de la persona.
+
+---
+
+## :star: MATERIAL DE LECTURA 
+
+Las pruebas son necesarias para reducir el riesgo de detectar errores pero muchas veces no logran anticipar todos los casos posibles de uso. 
+
+Cuanto mejores y más adecuadas sean las pruebas de software, menor será el riesgo de encontrar errores durante la fase de operación o producción, y ya sabemos que no todos los errores son iguales. No es lo mismo un error crítico y urgente que un error trivial que puede esperar. El problema con los errores en producción es que están a la vista de todos.  
+
+La ejecución anticipada de las pruebas reduce el riesgo de que los errores provoquen fallas críticas en el sistema. 
+
+### ¿Qué puede causar un error y/o un defecto en un programa de software?
+
+Ya hemos visto errores y defectos. Veamos cuáles son las causas posibles de los errores y defectos en software 
+
+1. Error Humano
+
+Las personas a cargo de un proyecto pueden equivocar alguno de los puntos a resolver. Desde una fecha de entrega incorrecta (“Era para hoy?”), hasta enviar a producción una porción de código que no estaba testeada todavía. Los memes abundan, dando cuenta de cuántas veces se pierden los detalles en la comunicación incompleta de requerimientos o en la falta de procesos de verificación.  
+
+
+2. Condiciones Ambientales 
+
+Existen causas ambientales que tienen impacto directo sobre la tecnología. Algunos ejemplos son la radiación, el magnetismo, campos electromagnéticos, polución, tormentas solares, rayos cósmicos. Y luego algunas fallas en el hardware (los componentes duros de la tecnología) causadas por elementos externos. Algunos ejemplos son: 
+
+fallos de discos duros debido a fluctuaciones en el suministro de energía eléctrica, temblores, terremotos, inundaciones, y otros elementos de la naturaleza que puedan afectar directamente a la estructura más visible de una computadora. 
+
+3. Defectos de fabricación (Defects)
+
+Estos son desperfectos en un componente que pueden causar que el sistema falle en desempeñar las funciones requeridas, por ejemplo, una sentencia o una definición de datos incorrectos. Failure (Fallo) es una desviación funcional de un componente o sistema respecto de la prestación, servicio o resultado esperados.
+
+4. Errores en el código
+
+Errores al escribir código por parte de un programador que no hayan sido detectados en la fase de pruebas. No son errores de malos entendidos (como en el caso de los errores humanos) sino que son errores de la lógica interna que hacen que el código no pueda ser ejecutado. Por ejemplo, ingresar una edad “negativa” (-18) puede generar que una aplicación no funcione o que un usuario pueda pedir 1 millón de hamburguesas mediante una app de pedidos a domicilio.  
+
+---
+
+## :star: ¡MANOS A LA OBRA! 
+
+### Ejercicio #5
+
+¡Tip antes de empezar! Te recordamos una máxima del testing: “El testing puede probar la presencia de errores, pero no la ausencia de ellos”.
+Antes de avanzar con este ejercicio, ¿quieres acceder a las posibles soluciones del ejercicio anterior (#4)? Hazlo [desde aquí](https://docs.google.com/document/d/1-afW7Kw8FjXH_LIZC5zvq6hhM24Aw7ZL50_vJwO_Mu0/edit?usp=sharing). Sabemos que la atención al detalle implicó un gran esfuerzo pero queremos que puedas validar si has podido observar bien al detalle.
+
+
+En la siguiente tabla, tienes algunos defectos para iniciarte en tu detección de causas. Aquí hemos preparado [una copia de la tabla](https://docs.google.com/document/d/1-tEmRPEC9NGQpf4vibgANVSCQ0eZWbV3GcGHFHXPn9w/edit?usp=sharing) para que puedas trabajar directamente en ella. 
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968322-7c664e5c-6624-463a-a40f-2ffd9a2ef24a.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968342-21cc4858-0a50-406e-8892-653960162398.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968361-349d0811-f544-4d7f-ae9d-e99674678fd1.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968389-66a2f83c-a0a9-488d-99a3-c8203d8ddf50.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968425-2c085bda-eb3a-4a46-8808-e117af55ca80.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968449-5a134e1a-4c4c-4d9b-8905-b440f096cb0f.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/214968475-a3bffccb-7cfa-43b6-b8c4-2be38897162f.png)
+
+
+---
+
+## :star: ¡Hora de cerrar! 
+
+¡Lo hemos logrado! Has llegado al final del quinto encuentro.
+
+Tómense 5 minutos como equipo para conversar sobre la dificultad de priorizar: ¿qué es urgente? ¿Qué es crítico pero no urgente?
+Este tipo de discusiones ocurren en todas las organizaciones y es una gran deuda de los equipos cuando no cuentan con esta habilidad para diferenciar entre lo que es crítico y urgente y lo que es urgente y no crítico.
+
+Poder ejecutar este análisis te ayuda a desarrollar el juicio crítico, habilidad altamente solicitada en el mercado laboral. 
+
+¡Gran momento para recordar y agradecer a nuestro equipo de hoy! En el próximo encuentro estaremos poniendo a prueba lo aprendido hasta hoy. Si tienes tiempo de sobra, es hora de recorrer el material de estos primeros 5 encuentros. También te sugerimos hacer preguntas en tu equipo y en el foro de Discord sobre este encuentro. Tus preguntas o tus respuestas son de gran ayuda para el aprendizaje de la comunidad. 
+
+
+---
 
