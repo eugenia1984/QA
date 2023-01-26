@@ -23,3 +23,38 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar lo
 
 ---
 
+## :book: MATERIAL DE LECTURA ⏰ (30min)
+
+## 2. Evaluación de criticidad y prioridad
+
+Hemos explorado ampliamente el mundo de los errores (¡y todavía falta!) pero nos detendremos hoy a entender cómo clasificar a un error o defecto en el momento en el que lo encontramos(1). 
+
+
+(1)  Error es lo que comete el desarrollador al escribir el código, defecto es lo que vemos de manifiesto en el software.
+
+
+Si el ciclo de producción de software está funcionando correctamente el equipo de testing (QA) podrá identificar o alertar de errores a tiempo antes de que salgan a la luz, frente a los clientes o usuarios finales. Como bien sabemos esto sería una descripción del escenario ideal. Lo habitual es que haya muchas líneas de código y muchas personas colaborando al mismo tiempo (grandes empresas con procesos de trabajo muy establecidos) o pocas personas haciendo muchas tareas superpuestas (contexto de empresas pequeñas o en estadío de startup). Es en esa superposición de muchas personas o muchas tareas que a veces vemos cómo los errores salen a la luz (bugs o defectos). O los descubrimos con muy poco tiempo antes de que sea necesario entregar el producto y ya no hay margen para cambios. 
+
+En la siguiente imagen vemos una simple matriz de análisis que nos puede servir de ayuda para saber qué hacer al descubrir un defecto. 
+
+![image](https://user-images.githubusercontent.com/72580574/214962980-dcd2e457-01d9-42ea-849e-b534e041a4fb.png)
+
+Imagen 5.1: Matriz de priorización de defectos, basada en la matriz de toma de decisiones de Eisenhower. Fuente: producción propia.
+
+
+---
+
+## :star: MANOS A LA OBRA
+
+### Ejercicio #1
+
+Vamos a poner en práctica la matriz de priorización y le vamos a sumar un componente: identificar el tipo de error que vemos. 
+
+- A - En el cuadro a continuación verás distintas descripciones de un reporte en el que el equipo de QA detecta varios defectos en una app mobile (para teléfonos celulares).
+
+- B - Clasifica cada uno de los defectos detectados. En la columna de Criticidad/gravedad clasifícalos en torno a su impacto en la funcionalidad. Y en prioridad asígnales un valor basándote en cuánto afectan al valor de la empresa.
+
+[Aquí tienes una copia de la tabla](https://docs.google.com/document/d/1oH_G2MjeZDJp4mgD85O-uH-BmdloriPLF-g1ZAFz34k/edit?usp=sharing) para poder trabajar.
+
+---
+
