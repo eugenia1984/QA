@@ -56,5 +56,15 @@ Vamos a poner en práctica la matriz de priorización y le vamos a sumar un comp
 
 [Aquí tienes una copia de la tabla](https://docs.google.com/document/d/1oH_G2MjeZDJp4mgD85O-uH-BmdloriPLF-g1ZAFz34k/edit?usp=sharing) para poder trabajar.
 
+
+![image](https://user-images.githubusercontent.com/72580574/214963433-b417b363-5895-4ace-992f-7082c24f57d3.png)
+
+- C - Si no lo han hecho todavía, es un buen momento para compartir el ejercicio y cómo lo resolvieron. Estos son casos reales y muchas veces no hay consenso sobre qué funcionalidad se debe resolver primero. Lo más importante es poder traer evidencias de impacto. ¿Qué están viendo ustedes como testers que los otros equipos no han logrado identificar? Cuanto más eficientes sean al explicar por qué estos defectos son relevantes, más rápido se podrá proceder a solucionarlos y más valor tendrá cada uno de ustedes en los equipos. 
+
+
+- D - BONUS: ¿Se animan a catalogar qué tipo de error es cada uno? 
+
+- E - BONUS #2: ¿Tienen ejemplos gráficos de defectos parecidos? Vale usar Google, no es necesario que los hayan encontrado ustedes.
+
 ---
 
