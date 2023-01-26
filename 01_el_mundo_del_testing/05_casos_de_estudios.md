@@ -167,8 +167,87 @@ El extraño caso del UAT (User Acceptance Test). El UAT es el último test del p
 Si en el campo profesional estos dos procesos se superponen, ¿por qué es importante que aprendamos estos conceptos? 
 Volviendo al punto de partida inicial: la verificación sirve para saber si estamos construyendo el producto correctamente (de acuerdo a lo pedido) y la validación nos sirve para saber si hemos construido el producto correcto (el que necesita el mercado o el cliente y que va a generar valor).
 
+![image](https://user-images.githubusercontent.com/72580574/214965634-7843b9c2-1dda-45fb-ab1a-29dc81d0d755.png)
 
 
---
+### ¿NECESITAS UN EJEMPLO? 
+
+¡Por supuesto que sí! La teoría es útil pero solamente cuando sabemos en dónde utilizarla y para qué. 
+
+Vamos a dar un paseo por una verificación. Estaremos verificando un automóvil y una aplicación de software al mismo tiempo. 
+
+1. **Inspección**: se refiere a examinar un producto o sistema sin intervenir en él. Puede ser la simple manipulación física o tomar medidas, por ejemplo.
+
+-Automóvil: inspeccionar visualmente el automóvil para asegurarnos de que cumpla con los requerimientos especificados: levanta cristales eléctrico, asientos ajustables, aire acondicionado, sistema de navegación a bordo, kit de remolque, etc.
+
+-Software: examinar visualmente el software para constatar que existan las pantallas solicitadas, chequear que estén los campos necesarios para el ingreso de datos (nombre de usuario, por ejemplo), verificar que existan todos los botones para las funcionalidades solicitadas, etc.
+
+2. **Demostración**: es la manipulación del producto como se espera que sea usado, para verificar que se comporte como se planificó o de acuerdo a las expectativas.
+
+-Automóvil: poner en uso los comandos de las ventanas y los asientos para verificar que funcionen correctamente, encender el vehículo para corroborar que el aire acondicionado produzca aire frío, dar una vuelta con el automóvil para tener una idea de aceleración y rango de maniobras como fue descrito en los requerimientos.
+
+-Software: ingresar todos los campos en las pantallas y seleccionar los botones que cumplan con lo solicitado, esperando la respuesta específica. Asegurar que los datos devueltos son del tipo requerido.
+
+3. **Prueba**: es la verificación del producto o sistema utilizando una serie de estímulos, datos o ingresos predeterminados para corroborar que el producto produzca un resultado específico y predefinido en los requerimientos.  
+	
+-Automóvil: acelerar el automóvil de cero a 100 km/h. Verificar que pueda ser realizado en 5.2 segundos. Acelerar en una curva bajo condiciones de control, produciendo 0.8 fuerza G, sin que el vehículo pierda tracción.
+
+-Software: ingresar el tipo y modelo de automóvil, con levanta cristales eléctrico, dirección asistida, y el resto de las opciones definidas en el plan de pruebas, seleccionar el botón de “obtener precio ya” y que la aplicación devuelva el valor preciso de “$43.690”.
+
+4. **Análisis**: es la verificación del producto o sistema utilizando modelos, cálculos y equipos de pruebas especializados. Esta etapa permite que se puedan hacer predicciones sobre el desempeño o performance típicos del producto o software basados en resultados confirmados de las pruebas. También se pueden combinar estos resultados para ofrecer mayor información sobre el producto para poder estimar los rangos límites de performance. 
+
+
+-Automóvil: completar una serie de aceleraciones a unas revoluciones/m por un tiempo determinado, mientras se monitorea la vibración del motor y su temperatura, verificando que se logran los resultados deseados. Utilizar esta información para predecir el punto de falla del motor. Ej, las rev/m máximas toleradas por un tiempo estimado.
+
+-Software: completar una serie de pruebas en las que un número predeterminado de usuarios ingresan las características del automóvil que están intentando cotizar e inician la función “obtener precio” al mismo tiempo. Se mide el tiempo de respuesta para corroborar que la función devuelve un precio dentro de los límites de tiempo preestablecidos. Se analiza la relación entre el incremento de usuarios en el sistema y el tiempo que le toma a la función devolver el precio. Se documentan los resultados y el tiempo de cada prueba para ver si se degrada la performance a medida que el sistema recibe mayor carga para detectar cuándo es el momento en el que el sistema deja de cumplir con las expectativas definidas en los requerimientos.
+
+---
+
+## ¡MANOS A LA OBRA! 
+
+### Ejercicio optativo
+
+Es mucho material para absorber y seguro volverás en el futuro a leerlo con mayor entendimiento de su importancia. 
+
+Les proponemos un ejercicio optativo como equipo. Si vienen bien con los tiempos de hoy, si estos temas ya los tienen claros o si prefieren el camino de “probar y luego entender”, este ejercicio es para ustedes. 
+
+En Egg debemos realizar todas estas pruebas, y a medida que nuestra tecnología va adquiriendo complejidad, estas pruebas se realizan para sostener nuevas funcionalidades y nuevos desafíos de cantidad de usuarios. 
+
+¿Se animan a diseñar un plan de pruebas simple para la tecnología de Egg, siguiendo los 4 pasos de verificación que vimos en el ejemplo anterior?
+
+
+---
+
+## :book: MATERIAL DE LECTURA ⏰ (25min)
+
+### 4. Introducción a la documentación de defectos (bugs)
+
+Ya estamos afilando nuestras herramientas de detección de defectos. Ya sabemos cómo clasificarlos y hasta nos aventuramos a entender un poco del mundo de la UX. ¿Cómo podemos iniciarnos en la documentación clara y efectiva de un defecto?
+
+Si bien vamos a estar explorando varias técnicas y matrices de documentación, es importante saber que hay una estructura básica que incluye todos los datos necesarios para que un equipo de desarrolladores sepa a qué error nos referimos, en qué contexto del software está y qué esperamos de la solución. Reportar defectos en forma clara también ayuda a que puedan resolverse rápidamente.
+
+
+```
+Reporte #125
+
+Defecto: La palabra “Settings” está mal escrita en el menú de Configuración en la versión en inglés.
+
+Descripción del defecto (¿Cuál es el bug?): Falta la letra “g” en la palabra “Settings”
+
+Comportamiento esperado (¿Cómo debería verse?): Cambiar la palabra “Settins” por “Settings”
+
+Enlaces relacionados: Ver imágenes a continuación
+
+Más información: Si es necesario aclarar el contexto para replicar el error
+```
+
+* UX: user experience o experiencia de usuario se refiere a la navegación intuitiva y sensación de claridad que tienen los usuarios al interactuar con soluciones de software. A pesar de que la UX (User Experience) y la UI (User Interface) tienen nombres parecidos son completamente diferentes. La UI o interfaz de usuario está dirigida hacia el lado más racional de la navegación y la arquitectura de cómo se presentan los elementos.*
+
+![image](https://user-images.githubusercontent.com/72580574/214966226-9a5c4a8c-d7cd-4415-b809-3557208874f5.png)
+
+
+---
+
+
 
 
