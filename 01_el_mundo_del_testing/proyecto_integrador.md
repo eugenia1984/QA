@@ -51,3 +51,23 @@ Dentro de “Control Stock”, se realiza:
 
 ---
 
+![image](https://user-images.githubusercontent.com/72580574/215212623-b6e57563-97bc-4085-acec-f4063250600a.png)
+
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/215212880-93e93c22-bd3b-4599-a6bd-a8d3a4a28e8f.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215212974-2a49c656-b2e3-4bef-8202-43dfdb32a0d6.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/215213094-48b30174-a0a5-4ed2-bf51-7d1e83e8bbcd.png)
+
+
+---
+
+## 7 
+
+![image](https://user-images.githubusercontent.com/72580574/215213333-da356bf3-05e8-4a57-b2c1-90cae4eb5d98.png)
+
+---
