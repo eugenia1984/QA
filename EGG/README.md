@@ -30,7 +30,7 @@
 
 ---
 
-2. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Cómo son las pruebas?**](https://github.com/eugenia1984/QA-Egg/tree/main/02_como_son_las_pruebas)
+2. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Cómo son las pruebas?**](https://github.com/eugenia1984/QA/tree/main/EGG/02_como_son_las_pruebas)
 
 - [2.1 - Plan de prueba](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/01_plan_de_prueba_1.md)
 
