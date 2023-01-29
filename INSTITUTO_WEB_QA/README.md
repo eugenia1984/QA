@@ -18,7 +18,7 @@
 
 7. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba): información que contiene, forma de escritura
 
-8. **RESULTADOS DE UNA PRUEBA**: ejemplos prácticos, informes
+8. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): ejemplos prácticos, informes
 
 9. **TIPOS DE TEST**: ejemplos prácticos, detalle
 
