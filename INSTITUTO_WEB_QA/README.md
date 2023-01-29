@@ -1,0 +1,4 @@
+# :star: TESTING MANUAL EN CALIDAD DE SOFTWARE
+
+---
+
