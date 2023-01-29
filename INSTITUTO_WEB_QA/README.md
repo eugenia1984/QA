@@ -14,9 +14,9 @@
 
 5. [**PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
 
-6. **REQUERIMIENTOS**: concepto, funcionalidad y no funcionalidad
+6. [**REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos): concepto, funcionalidad y no funcionalidad
 
-7. **CASOS DE PRUEBA**: información que contiene, forma de escritura
+7. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba): información que contiene, forma de escritura
 
 8. **RESULTADOS DE UNA PRUEBA**: ejemplos prácticos, informes
 
