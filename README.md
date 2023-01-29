@@ -101,3 +101,36 @@ Buenas, aca reuní los cursos realizados de QA:
 -> Aprendizaaje: **Pruebas de rendimiento y carga**
 
 ---
+---
+
+# :star2: INSTITUTO WEB QA :star2:
+
+## :book: TEMAS
+
+-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> INTRODUCCION: ¿qué es el testing?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
+
+ROLES: gestión de calidad - QA, sector de QC
+
+PRACTICAS CON HERRAMIENTAS DE TESTING: práctica - chequear la velocidad de carga de una web, práctica - test visual de página web, chequear inconsistencias del código, chequear links.
+
+HISTORIA DE USUARIO: registración
+
+PLANES DE PUREBA: ejemplos, información que contiene
+
+REQUERIMIENTOS: concepto, funcionalidad y no funcionalidad
+
+CASOS DE PRUEBA: información que contiene, forma de escritura
+
+RESULTADOS DE UNA PRUEBA: ejemplos prácticos, informes
+
+TIPOS DE TEST: ejemplos prácticos, detalle
+
+SCRUM EN TESTING
+
+CALIDAD EN PROCESOS INTERNOS: mejora continua, transición del servicio.
+
+ESTRUCTURA DE UNA PAGINA WEB: anatomía HTML básica
+
+ESTIMACION DE DESARROLLO DE PRUEBAS
+
+MATERIAL EXTRA
