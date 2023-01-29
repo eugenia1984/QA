@@ -103,7 +103,7 @@ Buenas, aca reuní los cursos realizados de QA:
 ---
 ---
 
-# :star2: INSTITUTO WEB QA :star2:
+# :star2: [INSTITUTO WEB QA](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA) :star2:
 
 ## :book: TEMAS
 
