@@ -127,7 +127,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**10 - SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **11 - CALIDAD EN PROCESOS INTERNOS**: mejora continua, transición del servicio.
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**11 - CALIDAD EN PROCESOS INTERNOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/11_calidad_en_procesos_internos): mejora continua, transición del servicio.
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **12 - ESTRUCTURA DE UNA PAGINA WEB**: anatomía HTML básica
 
