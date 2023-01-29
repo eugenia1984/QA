@@ -12,7 +12,7 @@
 
 4. [**HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): registración
 
-5. **PLANES DE PUREBA**: ejemplos, información que contiene
+5. [**PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
 
 6. **REQUERIMIENTOS**: concepto, funcionalidad y no funcionalidad
 
