@@ -20,7 +20,7 @@
 
 8. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): ejemplos prácticos, informes
 
-9. **TIPOS DE TEST**: ejemplos prácticos, detalle
+9. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): ejemplos prácticos, detalle
 
 10. **SCRUM EN TESTING**
 
