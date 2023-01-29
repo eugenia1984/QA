@@ -22,7 +22,7 @@
 
 9. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): ejemplos prácticos, detalle
 
-10. **SCRUM EN TESTING**
+10. [**SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
 11. **CALIDAD EN PROCESOS INTERNOS**: mejora continua, transición del servicio.
 
