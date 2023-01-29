@@ -26,8 +26,8 @@
 
 11. [**CALIDAD EN PROCESOS INTERNOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/11_calidad_en_procesos_internos): mejora continua, transición del servicio.
 
-12. **ESTRUCTURA DE UNA PAGINA WEB**: anatomía HTML básica
+12. [**ESTRUCTURA DE UNA PAGINA WEB**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/12_estructuras_de_una_pagina_web): anatomía HTML básica
 
-13. **ESTIMACION DE DESARROLLO DE PRUEBAS**
+13. [**ESTIMACION DE DESARROLLO DE PRUEBAS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/13_estimacion_de_desarrollo_de_pruebas)
 
-14. **MATERIAL EXTRA**
+14. [**MATERIAL EXTRA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/14_material_extra)
