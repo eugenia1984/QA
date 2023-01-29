@@ -113,7 +113,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**3 - PRACTICAS CON HERRAMIENTAS DE TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/03_practicas_con_herramientas_de_testing): práctica - chequear la velocidad de carga de una web, práctica - test visual de página web, chequear inconsistencias del código, chequear links.
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **4 - HISTORIA DE USUARIO**: registración
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**4 - HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): registración
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **5 -PLANES DE PUREBA**: ejemplos, información que contiene
 
