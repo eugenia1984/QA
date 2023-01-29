@@ -4,7 +4,7 @@
 
 ## :book: TEMAS:
 
-1. **INTRODUCCION**: ¿quñe es el testin?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
+1. **INTRODUCCION**: ¿qé es el testing?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
 
 2. **ROLES**: gestión de calidad - QA, sector de QC
 
