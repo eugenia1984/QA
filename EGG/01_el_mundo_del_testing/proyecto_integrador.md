@@ -1,4 +1,4 @@
-# :star2: ENCUENTRO 6 / 17
+# :star2: MODULO 1 * ENCUENTRO 6 / 17 * PROYECTO INTEGRADOR 1
 
 ---
 
