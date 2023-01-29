@@ -28,7 +28,7 @@
 
 - [1.5 -Casos de estudios](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/05_casos_de_estudios.md)
 
--> [**PROYECTO INTEGRADOR**](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/QA%20E6-%20Integrador%20M%C3%B3dulo%201.pdf) -> [RESOLUCION](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/proyecto_integrador.md)
+-> [PROYECTO INTEGRADOR Y SU RESOLUCION](https://github.com/eugenia1984/QA-Egg/blob/main/01_el_mundo_del_testing/proyecto_integrador.md)
 
 ---
 
