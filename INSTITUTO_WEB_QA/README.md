@@ -8,7 +8,7 @@
 
 2. [**ROLES**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/02_roles): gestión de calidad - QA, sector de QC
 
-3. **PRACTICAS CON HERRAMIENTAS DE TESTING**: práctica - chequear la velocidad de carga de una web, práctica - test visual de página  web, chequear inconsistencias del código, chequear links.
+3. [**PRACTICAS CON HERRAMIENTAS DE TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/03_practicas_con_herramientas_de_testing): práctica - chequear la velocidad de carga de una web, práctica - test visual de página  web, chequear inconsistencias del código, chequear links.
 
 4. **HISTORIA DE USUARIO**: registración
 
