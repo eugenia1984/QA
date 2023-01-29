@@ -4,9 +4,9 @@
 
 Buenas, aca reuní los cursos realizados de QA:
 
-1. [**EGG**]
+1. [**EGG**](https://github.com/eugenia1984/QA/tree/main/EGG)
 
-2. **INSTITUTO WEB QA**
+2. [**INSTITUTO WEB QA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA)
 
 ---
 
