@@ -107,7 +107,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :book: TEMAS
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **1 - INTRODUCCION**: ¿qué es el testing?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**1 - INTRODUCCION**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/01_introduccion): ¿qué es el testing?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **2 -ROLES**: gestión de calidad - QA, sector de QC
 
