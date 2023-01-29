@@ -46,7 +46,7 @@
 
 - Proyecto integrador II
 
-3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA-Egg/new/main/03_poniendo_en_practica_las_pruebas)
+3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/03_poniendo_en_practica_las_pruebas)
 
 - [3.1 - Herramientas para ejecución de pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/01_herramientas_para_ejecucion_de_pruebas.md)
 
