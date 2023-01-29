@@ -24,7 +24,7 @@
 
 10. [**SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
-11. **CALIDAD EN PROCESOS INTERNOS**: mejora continua, transición del servicio.
+11. [**CALIDAD EN PROCESOS INTERNOS**]: mejora continua, transición del servicio.
 
 12. **ESTRUCTURA DE UNA PAGINA WEB**: anatomía HTML básica
 
