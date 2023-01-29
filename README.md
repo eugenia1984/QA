@@ -115,7 +115,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**4 - HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): registración
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **5 -PLANES DE PUREBA**: ejemplos, información que contiene
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**5 -PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> **6- REQUERIMIENTOS**: concepto, funcionalidad y no funcionalidad
 
