@@ -15,3 +15,9 @@
 - **PROYECTO INTEGRADOR 2**
 
 ---
+
+
+![image](https://user-images.githubusercontent.com/72580574/215607121-a82cc61c-4dbd-48ce-acde-0f9d0e14d62d.png)
+
+
+---
