@@ -143,7 +143,7 @@ Un tipo de prueba es un procedimiento de prueba estándar que proporciona un res
 
 Los tipos de prueba comúnmente utilizados son pruebas de caja negra (black-box testing), pruebas basadas en la experiencia de usuario, pruebas basadas en requerimientos y especificaciones y pruebas de caja blanca (white-box testing).
 
-### Cómo elegir el tipo de prueba más apropiado
+###· Cómo elegir el tipo de prueba más apropiado
 
 Existe una amplia variedad de pruebas para probar productos de software. Puede que un equipo no tenga suficientes esfuerzos y/o recursos para manejar todos los tipos de pruebas disponibles. Como administrador de pruebas, debes establecer la prioridad de los tipos de pruebas. Usa estas preguntas como guía:
 
@@ -154,5 +154,168 @@ Existe una amplia variedad de pruebas para probar productos de software. Puede q
 - ¿Con qué tipos de pruebas ya trabajaste y te sientes a gusto?
 
 - ¿Con qué recursos cuentas para probar pruebas nuevas?
+
+
+**Pro tip**: existen estándares de calidad en procesos (4) regulados por las normas ISO. Para el testing de software estas normas se llaman ISO/IEC/IEEE 29119 e indican el orden y la seguridad necesarios para llevar a cabo pruebas robustas. No es algo que debas manejar ni saber en este momento de tu formación, pero consideramos que es lenguaje que debes saber en caso de querer profundizar algunos conocimientos. 
+
+
+(4) Hacemos hincapié en que son estándares de calidad de procesos porque suelen confundirse con estándares de calidad en los productos. Para darte un ejemplo concreto: puedes estar fabricando lápices. Si tus lápices son los mejores del mercado, tienes un producto de excelente calidad. La calidad en los procesos habla de cómo fabricas ese producto. Dicho de otra manera, puedes tener procesos de una calidad excepcional y sin embargo tus lápices no son los mejores del mercado. ¿Te ha pasado estar en una organización que implemente alguna de las normas ISO?
+
+### 2.3  Documentar riesgos y problemas
+
+El riesgo es un evento incierto del futuro con una probabilidad de ocurrencia y un potencial de pérdida. Cuando el riesgo realmente ocurre, se convierte en el "problema".
+
+En el plan de prueba de control de calidad, documentarás aquellos riesgos que puedas identificar: 
+
+![image](https://user-images.githubusercontent.com/72580574/215890398-d54ab5ce-35c5-4bcf-8753-cca2edb1df33.png)
+
+
+#### 2.4 -  Crear logística de prueba
+
+El Test Manager debe responder a las siguientes preguntas:
+
+- ¿Quién hará la prueba?
+
+- ¿Cuándo ocurrirá la prueba?
+
+Aún cuando no estén definidas las personas del equipo que llevarán a cabo las pruebas, el manager decidirá qué perfil de especialidad debe llevarlas a cabo.
+
+Para seleccionar el miembro correcto para una tarea específica, debe considerar si su habilidad está calificada para la tarea o no, y también estimar el presupuesto del proyecto. 
+
+¿Recuerdas atención al detalle? Es tu habilidad crítica a desarrollar. Sin embargo, te recomendamos tener una actitud de curiosidad y apertura en estas situaciones:
+Habilidad para entender el punto de vista de los clientes.
+
+- Fuerte deseo de calidad.
+
+- Comunicación efectiva
+
+
+En el desarrollo de las pruebas, todos los perfiles de personas tendrán una fuerte formación técnica, pero son aquellas personas que se dedican a completar su perfil quienes tienen mejor desempeño laboral y mayor crecimiento.
+
+En este caso, el miembro que se hará cargo de la ejecución de la prueba es el probador. Según el presupuesto del proyecto, puede elegir un miembro interno o externo como probador.
+
+####  ¿Cuándo ocurrirá la prueba?
+
+Las actividades de prueba deben coincidir con el calendario de entregas de las actividades de desarrollo asociadas.
+
+Comenzará a probar cuando tenga todos los elementos requeridos que se muestran en la siguiente figura.
+
+![image](https://user-images.githubusercontent.com/72580574/215890597-8735d6b7-aa23-4130-a53c-263c9d6274cc.png)
+
+
+## 3 - Definición de objetivos
+
+Esta fase define los objetivos y los resultados esperados de la ejecución de la prueba. Dado que todas las pruebas pretenden identificar tantos defectos como sea posible, los objetivos deben incluir:
+
+Una lista de todas las características del software (funcionalidad, GUI (5), estándares de rendimiento) que deben probarse.
+
+(5) ¿Recuerdas? Graphic User Interface o muchas veces UI (pronunciada en inglés como “iuai”)
+
+El resultado ideal o punto de referencia para cada aspecto del software que necesita pruebas. Este es el punto de referencia con el que se compararán todos los resultados reales.
+ 
+## 4. 	Establecer criterios de prueba
+
+Los criterios de prueba se refieren a los estándares o reglas que rigen todas las actividades en un proyecto de prueba. Los dos principales criterios de prueba son:
+
+- **Criterios de Suspensión**: define los puntos de referencia para suspender todas las pruebas. Por ejemplo, si los miembros del equipo de control de calidad encuentran que el 50 % de todos los casos de prueba han fallado, todas las pruebas se suspenden hasta que los desarrolladores resuelvan todos los errores identificados hasta el momento
+
+- **Criterios de salida**: define los puntos de referencia que significan la finalización exitosa de una fase de prueba o proyecto. Los criterios de salida son los resultados esperados de las pruebas y deben cumplirse antes de pasar a la siguiente etapa de desarrollo. Por ejemplo, el 80 % de todos los casos de prueba deben marcarse como exitosos antes de que una función o parte del software en particular pueda considerarse adecuada para uso público.
+
+## 5 - Asignación de recursos de planificación
+
+Esta fase crea un desglose detallado de todos los recursos necesarios para la finalización del proyecto. Los recursos incluyen el esfuerzo humano, el equipo y toda la infraestructura necesaria para realizar pruebas precisas y completas.
+
+Esta parte del plan de prueba decide la medida de los recursos (número de testers y equipos) que requiere el proyecto. Esto también ayuda a los gerentes de pruebas a formular un cronograma y una estimación correctamente calculados para el proyecto.
+Veamos una tabla de ejemplo para determinar los recursos humanos:
+
+![image](https://user-images.githubusercontent.com/72580574/215890879-9e4e6db1-2d4a-4eff-b8f7-5aa3073f7fd8.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215890915-dadc533a-1f32-4ead-b102-ed4ad5ec6a21.png)
+
+Veamos una tabla de ejemplo para determinar los recursos de sistemas:
+
+![image](https://user-images.githubusercontent.com/72580574/215890988-8d2b7a4b-6fe5-47ac-9abe-773c0feecdec.png)
+
+
+## 6 -  Planificación de la configuración del entorno de prueba
+
+El entorno de prueba se refiere a la configuración de software y hardware en la que los QA ejecutan sus pruebas. Idealmente, los entornos de prueba deberían ser dispositivos reales para que los testers puedan monitorear el comportamiento del software en condiciones reales de usuario. Ya sea que se trate de pruebas manuales o pruebas de automatización, nada supera a los dispositivos reales, instalados con navegadores reales y los sistemas operativos no son negociables como entornos de prueba. No comprometa los resultados de sus pruebas con emuladores o simuladores.
+
+###  ¿Cómo configurar el entorno de prueba?
+
+Para finalizar esta tarea, se necesita una fuerte cooperación entre el equipo de prueba y el equipo de desarrollo.
+
+Debe hacerle algunas preguntas al desarrollador para comprender claramente la aplicación web que se está probando. Aquí hay algunas preguntas recomendadas. Por supuesto, puede hacer las otras preguntas si lo necesita.
+
+- ¿Cuál es la conexión máxima de usuarios que este sitio web puede manejar al mismo tiempo?
+
+- ¿Cuáles son los requisitos de hardware/software para instalar este sitio web?
+
+- ¿El ordenador del usuario necesita alguna configuración en particular para navegar por el sitio web?
+ 
+## 7 -  Determinar el programa de prueba y la estimación.
+
+Para la estimación de pruebas, el proyecto se dividirá en tareas más pequeñas y se asignará el tiempo y el esfuerzo necesarios para cada una.
+
+Luego, se creará un cronograma para completar estas tareas en el tiempo designado con la cantidad específica de esfuerzo.
+
+Sin embargo, la creación del cronograma requiere aportes desde múltiples perspectivas:
+
+- Disponibilidad de empleados, número de días laborables, plazos de los proyectos, disponibilidad diaria de recursos.
+
+- Riesgos asociados al proyecto que ha sido evaluado en una etapa anterior.
+
+## ¿NECESITAS UN EJEMPLO? 
+
+![image](https://user-images.githubusercontent.com/72580574/215891261-d9e349e3-9230-4ad6-a284-4d329fa82a5d.png)
+
+Luego se crea el cronograma para completar estas tareas. Hacer un cronograma es un término común en la gestión de proyectos. Al crear un cronograma sólido en la Planificación de pruebas, el Gerente de pruebas puede usarlo como herramienta para monitorear el progreso del proyecto y controlar los sobrecostos.
+Para crear el cronograma del proyecto, el administrador de pruebas necesita varios tipos de entrada, como se muestra a continuación:
+
+- **Fecha límite del empleado y del proyecto**: los días hábiles, la fecha límite del proyecto, la disponibilidad de recursos son los factores que afectaron el cronograma
+
+- **Estimación del proyecto**: en base a la estimación, el administrador de pruebas sabe cuánto tiempo lleva completar el proyecto. Para que pueda hacer el cronograma del proyecto apropiado
+
+- **Riesgo del proyecto**: Comprender el riesgo ayuda a Test Manager a agregar suficiente tiempo adicional al cronograma del proyecto para lidiar con los riesgos.
+ 
+## 8 -  	Establecer entregables de prueba
+
+Los entregables de prueba se refieren a una lista de documentos, herramientas y otros equipos que deben crearse, proporcionarse y mantenerse para respaldar las actividades de prueba en un proyecto.
+
+Se requiere un conjunto diferente de entregables antes, durante y después de la prueba. 
+
+- Entregables requeridos antes de la prueba. Documentación sobre:
+
+o   Plan de prueba
+
+o   Diseño de prueba 
+
+- Entregables requeridos durante la prueba. Documentación sobre:
+
+o   Guiones de prueba
+
+o   Simuladores o emuladores (en etapas iniciales)
+
+o   Datos de prueba
+
+o   Registros de errores y ejecuciones
+
+- Entregables requeridos después de la prueba. Documentación sobre:
+
+o   Resultados de la prueba
+
+o   Informes de defectos
+
+o   Notas de lanzamiento
+
+Un plan de pruebas en software es la columna vertebral sobre la que se construye todo el proyecto. Sin un plan lo suficientemente amplio y bien elaborado, los controles de calidad se confundirán con objetivos y plazos vagos e indefinidos. Esto dificulta innecesariamente las pruebas rápidas y precisas, y retrasa los ciclos de lanzamiento. 
+
+---
+
+
+
+
+
+
 
 
