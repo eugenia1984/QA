@@ -143,7 +143,7 @@ Un tipo de prueba es un procedimiento de prueba estándar que proporciona un res
 
 Los tipos de prueba comúnmente utilizados son pruebas de caja negra (black-box testing), pruebas basadas en la experiencia de usuario, pruebas basadas en requerimientos y especificaciones y pruebas de caja blanca (white-box testing).
 
-###· Cómo elegir el tipo de prueba más apropiado
+### Cómo elegir el tipo de prueba más apropiado
 
 Existe una amplia variedad de pruebas para probar productos de software. Puede que un equipo no tenga suficientes esfuerzos y/o recursos para manejar todos los tipos de pruebas disponibles. Como administrador de pruebas, debes establecer la prioridad de los tipos de pruebas. Usa estas preguntas como guía:
 
