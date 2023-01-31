@@ -718,3 +718,60 @@ Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasa
 
 
 ---
+
+## PRACTICA
+
+- 1) Identificar los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:
+
+![image](https://user-images.githubusercontent.com/72580574/215900996-ae72bbd2-100e-4996-82ee-49b5bb56f156.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901030-03f62d45-b7e0-48cb-acf4-43a4a4df6a4b.png)
+
+- 2) Identifica los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:
+
+![image](https://user-images.githubusercontent.com/72580574/215901130-db5a2ccf-7ed0-4aaa-9966-63dbbe32994a.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901165-d4a14de3-b352-4628-81a5-511f4f062674.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901215-4c772cd6-5ac9-4a9e-b376-c27520a27895.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/215901259-cdaf7d3d-e790-4a92-904f-e42708a89006.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901294-babc7d63-82b3-44e1-83c8-d45e961831ff.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901315-5c541208-a5ca-4cec-bf44-e5ce44ccc7e4.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901338-db11c0c8-8c0a-44c9-8539-33eb12145229.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901370-f6f1ad36-9b94-43f4-bf9b-1e16694c976a.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901405-ed5f0ac2-9f2c-40d9-9689-4fd8c557f6a2.png)
+
+- 11) Identifica los tipos de prueba y selecciona sus correspondientes características:
+
+![image](https://user-images.githubusercontent.com/72580574/215901506-8f848b65-ff06-4241-b8d8-d3999c35fa1c.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901552-06a22d55-b888-4432-b223-771163520082.png)
+
+
+## DESARROLLO
+
+![image](https://user-images.githubusercontent.com/72580574/215901605-0c976ce5-38ba-4837-9f61-9a1dbd9e1037.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/215901649-c6023d23-fc16-4608-8320-e60d93413c6a.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/215901665-d00cd5e8-f259-4aea-bb94-c4ec1b83e270.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901697-aedf2509-83a2-430a-8b12-632f925c74ab.png)
+
+![image](https://user-images.githubusercontent.com/72580574/215901723-36b4d2f1-ae43-4b33-9a20-b2bf6cbf70fc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/72580574/215901769-52f81170-4bc6-47c3-8a04-73898f19b785.png)
+
+
+---
