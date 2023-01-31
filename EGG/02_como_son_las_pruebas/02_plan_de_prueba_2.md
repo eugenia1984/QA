@@ -312,10 +312,409 @@ Un plan de pruebas en software es la columna vertebral sobre la que se construye
 
 ---
 
+## MANOS A LA OBRA
+
+## 7.1  Escenarios de análisis
+
+Te presentamos varios escenarios de análisis en donde veremos aplicados algunos de los conceptos que vimos en el material de hoy. Te invitamos a que los resuelvas desde tu punto de vista.
+
+Luego, podrás evaluar la discusión de estos puntos con tu equipo del día. ¡Te sorprenderá que haya más de un punto de vista!
+
+Cada uno podrá exponer las razones por las que eligió cada opción. 
+
+En el [formulario de fin de guía](https://forms.gle/S8VQWn2JPxHSsnGcA) encontrarás estos mismos escenarios y sus respuestas. Lo pueden resolver en forma individual y enviar cada uno su respuesta.
+
+**1)** Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La decisión de Ana es:
+
+a)  	Correcta, porque los diseñadores no son tan fundamentales como el cliente y los desarrolladores.
+
+b) 	Incorrecta, lo ideal sería que entreviste a clientes, diseñadores y desarrolladores.
+
+c)  	Correcta, porque sólo debe entrevistar a los clientes del producto, ya que son los consumidores finales.
+
+d) 	Correcta, ya que por su grado de experiencia sabe a quién es necesario entrevistar.
+ 
+**2)** 	Juan es administrador de pruebas y debe desarrollar el documento de estrategia de prueba. En el mismo solo define la cantidad de esfuerzo y costo requerido para la prueba. Esto es:
+
+a)  	Correcto, ya que la cantidad de esfuerzo y costo requerido para la prueba son necesarios para un buen resultado.
+
+b) 	Incorrecto, ya que el doc. de estrategia de prueba lo tiene que realizar un programador.
+
+c)  	Incorrecto, ya que Juan también debería definir objetivos del proyecto y cómo alcanzarlos.
+
+d) 	Incorrecto, ya que Juan no cuenta con las capacidades necesarias para hacer dicha tarea.
+
+
+**3)** Sofía, que comenzó su recorrido en QA hace poco tiempo, debe determinar el programa de prueba y la estimación de un proyecto. Si tuvieras que darle un consejo sería:
+
+a)  	Que dedique el tiempo que considere necesario, sin documentar ni avisar a nadie.
+
+b) 	Que no divida el proyecto en tareas más pequeñas ya que esto será una pérdida de tiempo para su ejecución.
+
+c)  	Que divida el proyecto en tareas más pequeñas y asigne el tiempo y el esfuerzo necesarios para cada una. Luego, cree un cronograma para completar estas tareas en el tiempo designado con la cantidad específica de esfuerzo.
+
+d) 	Que sí divida el proyecto en tareas más pequeñas, pero no asigne el tiempo y esfuerzo ya que son variables. 
+
+**4)** 	 Gino, quien es QA Semi senior de una multinacional IT, es la persona encargada de entregar el plan de prueba de un proyecto de Software. Por situaciones personales no pudo dedicarle el tiempo correspondiente, por lo cual, hizo el plan de prueba a último momento, sin repasarlo o ultimar detalles. En esta situación, ¿Qué crees que debería haber hecho Gino?
+
+a)  	Nada, lo que hizo está bien porque el diseño de pruebas es más importante que el plan de pruebas.
+
+b) 	Debería haber avisado a su equipo de trabajo sobre su inconveniente y pedir más tiempo para poder realizar un plan de prueba amplio y bien elaborado. Ya que el plan de prueba es la estructura principal sobre la que se construirá todo el proyecto.
+
+c)  	Debería haber entregado el diseño de prueba antes que el plan de prueba.
+
+d) 	Debería desestimar cualquier tipo de reclamo hacia su trabajo, ya que su grado y experiencia se lo permiten. 
+
+
+**5)** 	María debe realizar un análisis de prueba de un sistema de Software y recurre a la experiencia de un usuario experimentado como base de información. La información no está documentada, pero María decide avanzar de todas maneras. Lo que hizo María es:
+
+a)  	Incorrecto, ya que debe basarse en los documentos de base de prueba preexistentes y documentados. De lo contrario, el análisis carecerá de autenticidad y veracidad.
+
+b) 	Correcto, ya que la base de la prueba incluye cualquier cosa en la que se basen las pruebas. En este caso, aunque dicha información no esté documentada, el conocimiento del usuario sobre el sistema puede aportar mucho al análisis que debe realizar María.
+
+c)  	Ninguna de estas opciones es correcta.
+
+
+**6)** 	Axel debe crear un análisis de prueba específico, pero decide no avanzar hasta que se terminen de definir las condiciones de prueba y se disponga de suficiente información para la creación de los casos de prueba. Lo que hizo Axel es:
+
+a)  	Incorrecto, ya que el tiempo es esencial en esta etapa y debe avanzar, aunque los demás procesos no estén completados.
+
+b) 	Correcto, ya que este orden de ejecución aplica para cualquier caso de prueba.
+
+c)  	Incorrecto, ya que su tarea nada tiene que ver con los procesos anteriores.
+
+d) 	Correcto, ya que, sólo en casos excepcionales como la creación de datos de prueba, se puede alterar este orden. Lo demás, por regla, debe respetar el orden y proceso para obtener un buen resultado.
+
+
+---
+
+## :book: MATERIAL DE LECTURA
+
+## Análisis y diseño
+
+Factores que determinan los niveles de detalles de las condiciones de prueba:
+
+1. Nivel de prueba, el nivel de detalle y la calidad de la base de prueba.
+
+2. Complejidad del sistema/software y ciclo de vida de desarrollo utilizado.
+
+3. Riesgos asociados a proyectos y productos.
+
+4. La relación entre los conceptos básicos de las pruebas, lo que debe probarse y cómo debe probarse.
+
+5. Una herramienta de gestión de pruebas.
+
+6. Madurez del proceso de evaluación, así como de las habilidades y conocimientos de los analistas.
+
+7. El nivel de especificidad del Diseño de Prueba y otras implicaciones de la tarea de prueba.
+
+8. Disposición de los clientes a participar en la consulta.
+
+Las siguientes son las diversas fuentes para recopilar información de prueba:
+
+
+1. **Requisitos de software**: la especificación de requisitos de software (documento SRS) establece cómo debe construirse el sistema de software. En pocas palabras, SRS proporciona una ruta de proyecto para todos los involucrados. Proporciona descripciones avanzadas de especificaciones de software activas e inactivas, así como condiciones de funcionamiento que indican cómo el usuario puede interactuar con el sistema una vez completado. Las siguientes son características comunes de SRS:
+
+¿Cuál es el propósito del software que se está construyendo?
+
+o   Todas las revisiones de software.
+
+o   Rendimiento del software, o para qué está diseñado.
+
+o   Rendimiento del software en el entorno de producción.
+
+o   Detalles válidos y no válidos.
+
+o   Conectores visuales externos, o cómo el software interactuará con el hardware u otro software.
+
+o  Restricciones en el diseño del software o las establecidas en el entorno operativo.
+
+
+2. **Requisitos comerciales**: muestra los detalles del software de alto rendimiento. Este es un documento oficial que describe las necesidades del cliente (escrito, oral). Por lo general, lo produce un analista comercial que trabaja con los clientes y se basa en la interacción y las necesidades de los clientes. Business Process es una descripción detallada de cómo nuestros socios comerciales pretenden cumplir con sus roles, construir relaciones comerciales y compartir tareas para participar de manera efectiva con la ayuda de sus sistemas de información.
+
+
+3. **Documento de diseño funcional**: la especificación de diseño funcional, o FDS, es un documento que describe cómo funcionará un proceso o sistema de control. Explica cómo funcionará el sistema planificado, cómo interactuará la gente con él y qué se puede esperar de una variedad de condiciones operativas. La especificación de diseño específico ayuda por una variedad de razones. Una de las principales razones es que lleva mucho tiempo producir dibujos o escribir un código de PLC sin algún tipo de acuerdo escrito sobre lo que debe lograr el sistema. Las especificaciones de diseño funcional se pueden compartir con los miembros del equipo, los compradores y las partes interesadas relevantes para obtener comentarios y revisiones hasta que se acuerde y firme el documento final. Este proceso de revisión y los cambios son importantes para garantizar que el diseño final sea objetivo y satisfaga las necesidades de los participantes. Posteriormente, el documento se entrega a los equipos de ingenieros para el diseño técnico y los programas, con detalles operativos que sirven de guía. Los ingenieros sabrán qué dibujar, los desarrolladores sabrán qué debe hacer el código y los clientes sabrán qué traer cuando se complete la especificación de diseño funcional. La especificación de diseño específico identifica lo que debe usarse en el ciclo de vida de la ingeniería de software industrial.
+
+4. **Requisitos operativos**: los requisitos de rendimiento son importantes para su producto porque, como dicen, proporcionan algunos tipos de funcionalidad. Hágase la pregunta "¿esto afecta el rendimiento de mi herramienta?" O "¿Cuál es el significado de esto?" puede ayudar con este programa. Esas necesidades específicas pueden tener un conjunto menor de riesgos y requisitos. También puede tener requisitos que expliquen cómo su sistema de software interactuará con diferentes herramientas, lo que nos lleva a las necesidades de las interacciones externas.
+
+5. **Requisitos de relación externa**: los requisitos de interacción externa son la variedad más precisa de necesidades con propósito. Estos son especialmente importantes cuando se trabaja con sistemas integrados. Describen cómo su producto interactuará con diferentes componentes.
+
+---
+
+## MANOS A LA OBRA
+
+### 7.2  Te proponemos una serie de desafíos para poner en práctica lo visto en el encuentro anterior y consolidar lo visto en el encuentro de hoy.
+
+Tendrás que poner en práctica todas las habilidades que llevas entrenando, ya que deberás:
+
+- Organizar la información
+
+- Armar un flujo de uso (en UML si deseas, pero puede ser a modo de boceto)
+
+- Distinguir las tareas a testear. Cada flujo debe ser probado por separado
+
+- Revisar que los requerimientos estén bien definidos (7)
+
+- Responde a las preguntas de cada caso
+
+
+(7) Un requisito bien desarrollado debe tener estas características: 
+
+Atómico
+
+Identificado de forma única
+
+Completo
+
+Coherente y sin ambigüedades
+
+Trazable
+
+Priorizado
+
+Comprobable
+
+
+### Desafío 7.2.1. : Ejercicio de análisis de casos borde
+
+Caso: Si tomas el tren antes de las 9:30 am o en la tarde, luego de las 16:00 (4 pm) y hasta las 19:30 (7:30 pm), debes pagar el precio total ya que te encuentras viajando en hora pico. Tienes un ticket “ahorro” que está disponible para los viajes entre las 9:30 am y las 4:00 pm y luego de las 7:30 pm.
+
+¿Cómo testearías este sistema de venta de tickets? ¿Puedes anticipar cuáles son los casos “borde”? ¿Si compro mi ticket a las 15:58 para subir al tren de las 16:01, qué tarifa debería pagar?
+
+¿Qué preguntas sumarías al caso para poder armar un plan de pruebas que contemple todos los casos claros + los casos de borde, o en los que pueden surgir dudas en los pasajeros? ¿El sistema tiene contemplados los casos borde?
+
+### Desafío 7.2.2. - Ejercicio de tabla de decisiones
+
+Caso: Si tienes una tarjeta de pasajero senior (60+ años), tienes un 35% de descuento en cualquier ticket que compres. Si viajas con un niño menor a 16 años, tienes un descuento del 50% en cualquier ticket si tienes una tarjeta de “Familia viajera”. Si no la tienes, recibes un 10% de descuento en el ticket para menores de 16 años. Solo puedes poseer un tipo de tarjeta de viajero frecuente.
+
+Arma una tabla de decisiones mostrando todas las combinaciones posibles de tickets y los descuentos resultantes. Propone casos de prueba que se derivan de esta tabla.
+
+En estos ejercicios hay desafíos que todavía no saben resolver. Les sugerimos sumar todos los puntos de vista del equipo del encuentro de hoy para intentar resolverlos. Se ponen en juego muchas habilidades extra como la atención al detalle, la capacidad de secuenciar procesos y poder definir casos de uso novedosos para ustedes. 
+
+###  Desafío 7.2.3. - Statement and decision testing exercise
+
+Caso: una máquina expendedora entrega bebidas calientes o frías. Si eliges una bebida caliente (café o té), pregunta si lo deseas con leche. Agrega la leche en caso de que sea requerida. Luego pregunta si deseas azúcar, y agrega el azúcar de ser requerida. Luego, entrega la bebida terminada.
+
+- a. Dibuja un diagrama de flujo para este caso. Ayudita: la elección de la bebida es una sola decisión.
+
+- b. Realizarás estas dos pruebas:
+
+-Prueba 1: selecciona una bebida fría
+
+-Prueba 2: selecciona un café con leche sin azúcar
+
+¿Has cubierto todos los casos posibles?
+
+Si tu respuesta es no, ¿qué porcentaje de casos has cubierto con estas pruebas? (Ayudita: haz una tabla con todos los casos posibles)
+
+¿Qué pruebas deberías sumar para cubrir el total de los casos?
+
+
+---
+
+## :book: MATERIAL DE LECTURA 
+
+### ¿Cuándo crear un diseño de prueba?
+
+Una vez que se definen las condiciones de prueba y se dispone de suficiente información para crear los casos de prueba de alto o bajo nivel, se puede crear el diseño de prueba para un nivel específico.
+
+Hay algunas actividades que se llevan a cabo de forma rutinaria cuando se implementa la prueba. Estas actividades también pueden incorporarse al proceso de diseño cuando las pruebas se crean de forma iterativa.
+
+Un ejemplo de tal caso es la creación de datos de prueba.
+
+Los datos de prueba definitivamente se crearán durante la implementación de la prueba. Por lo tanto, es mejor incorporarlo en el propio diseño de la prueba.
+Este enfoque permite la optimización del alcance de las condiciones de prueba mediante la creación automática de casos de prueba de bajo o alto nivel.
+
+### Tipos de prueba
+
+Los tipos de prueba vistos a continuación son una clasificación sencilla, adaptada al nivel del curso.
+
+### PRUEBAS DE CAJA BLANCA (8):
+
+(8) ¿Recuerdas? WBT (white box testing) y BBT (black box testing) por sus siglas en inglés. 
+
+Las técnicas de prueba de caja blanca analizan las estructuras internas, las estructuras de datos utilizadas, el diseño interno, la estructura del código y el funcionamiento del software en lugar de solo la funcionalidad como en las pruebas de caja negra. También se denomina prueba de caja de vidrio o prueba de caja transparente o prueba estructural.
+Proceso de trabajo de las pruebas de caja blanca:
+
+1.   	Entrada: requisitos, especificaciones funcionales, documentos de diseño, código fuente.
+
+2. 	Tramitación: Realización de análisis de riesgos para orientar a lo largo de todo el proceso.
+
+3. 	Planificación adecuada de las pruebas: diseñar casos de prueba para cubrir todo el código. Ejecute enjuague-repetir hasta que se alcance el software sin errores. Comunique los resultados.
+
+4. 	Salida: Elaboración de informe final de todo el proceso de ensayo.
+Ventajas:
+
+o   Las pruebas de caja blanca son muy exhaustivas ya que se prueban todo el código y las estructuras.
+
+o   Da como resultado la optimización del error de eliminación de código y ayuda a eliminar líneas adicionales de código.
+
+o   Puede comenzar en una etapa anterior, ya que no requiere ninguna interfaz como en el caso de las pruebas de caja negra.
+
+o   Fácil de automatizar.
+
+Desventajas:
+
+o   La principal desventaja es que es muy costoso.
+
+o   El rediseño del código y la reescritura del código necesitan que los casos de prueba se escriban nuevamente.
+
+o   Se requiere que los evaluadores tengan un conocimiento profundo del código y el lenguaje de programación en lugar de las pruebas de caja negra.
+
+o   Las funcionalidades que faltan no se pueden detectar ya que se prueba el código existente.
+
+o   Resulta muy complejo y a veces poco realista en el contexto de los tiempos de entrega de un proyecto.
+
+###  PRUEBAS DE CAJA NEGRA:
+
+La técnica de prueba en la que el tester no tiene acceso al código fuente del software y se lleva a cabo en la interfaz del software sin preocuparse por la estructura lógica interna del software se conoce como prueba de caja negra.
+
+o   **PRUEBA FUNCIONAL**: Son aquellas que se llevan a cabo para comprobar las especificaciones críticas para el negocio, la funcionalidad y la usabilidad. Este tipo de pruebas garantizan que las características y funcionalidades del software se comporten según lo esperado sin ningún problema. Valida principalmente toda la aplicación con respecto a las especificaciones mencionadas en el documento Software Requirement Specification (SRS). Los tipos de pruebas funcionales incluyen pruebas unitarias, pruebas de interfaz, pruebas de regresión, entre otras.
+o   PRUEBAS NO FUNCIONALES:
+ Son pruebas similares a las funcionales, sin embargo, evalúan características como fiabilidad, usabilidad, escalabilidad, etc. Las pruebas no funcionales, como las pruebas de carga y esfuerzo, normalmente se llevan a cabo mediante herramientas y soluciones de automatización. Además de las pruebas de rendimiento, los tipos de pruebas no funcionales incluyen pruebas de instalación, pruebas de confiabilidad y pruebas de seguridad. Se cree que, al ser No funcionales, no deben realizarse, pero deben ejecutarse tan pronto como sea posible. Los errores no funcionales pueden desencadenar en el fracaso del proyecto.
+ 
+o   **PRUEBA DE REGRESIÓN**: Se define como un tipo de prueba de software para confirmar que un programa reciente o un cambio de código no ha afectado negativamente a las funciones existentes. La prueba de regresión no es más que una selección total o parcial de casos de prueba ya ejecutados que se vuelven a ejecutar para garantizar que las funcionalidades existentes funcionen bien.
+
+Esta prueba se realiza para asegurarse de que los nuevos cambios de código no tengan efectos secundarios en las funcionalidades existentes. Garantiza que el código antiguo siga funcionando una vez que se hayan realizado los últimos cambios en el código.
+Tipos de pruebas de regresión
+
+o   **Pruebas de regresión finales**: se realiza para validar la compilación que no ha sufrido cambios durante un período de tiempo. Esta compilación se implementa o envía a los clientes.
+
+o   **Pruebas de regresión normal**: se realiza para verificar si la compilación NO ha roto ninguna otra parte de la aplicación debido a los cambios recientes en el código para corregir defectos o mejorar.
+
+![image](https://user-images.githubusercontent.com/72580574/215895747-fd2e378a-4414-45fc-bf40-20d2e6ef8ee9.png)
 
 
 
+![image](https://user-images.githubusercontent.com/72580574/215895769-57ed1c1c-aa5f-4659-bd59-94ce277cee87.png)
 
 
+###  Niveles de prueba
+
+Las pruebas de nivel de software se pueden clasificar principalmente en 4 niveles:
 
 
+![image](https://user-images.githubusercontent.com/72580574/215895839-37b67658-2d7b-4fa8-9a4d-7b17d6e800c3.png)
+
+
+1. **Pruebas unitarias**: un nivel del proceso de prueba de software donde se prueban unidades/componentes individuales de un software/sistema. El propósito es validar que cada unidad del software funcione según lo diseñado. Las realizan los desarrolladores sobre el mismo código.
+
+2. **Pruebas de integración**: un nivel del proceso de prueba de software donde las unidades individuales se combinan y prueban como un grupo. El propósito de este nivel de prueba es exponer fallas en la interacción entre unidades integradas. Las realizan los desarrolladores, cuando deben integrar más de un sistema de datos, por ejemplo.
+
+3. **Prueba del sistema**: un nivel del proceso de prueba de software en el que se prueba un sistema/software completo e integrado. El propósito de esta prueba es evaluar el cumplimiento del sistema con los requisitos especificados. Las realizan los testers.
+
+4. **Pruebas de aceptación (UAT)**: un nivel del proceso de prueba de software en el que se prueba la aceptabilidad de un sistema. El propósito de esta prueba es evaluar el cumplimiento del sistema con los requisitos comerciales y evaluar si es aceptable para la entrega. Suele ser realizada por testers, usuarios beta y a veces por usuarios especiales del cliente (sus project managers, por ejemplo).
+
+
+---
+
+## MANOS A LA OBRA
+
+### EJERCICIO
+
+*Este es un ejercicio de alto grado de esfuerzo
+
+Para consolidar lo aprendido durante el día de hoy, armaremos un plan de prueba.
+
+### Consigna:
+
+Te hemos dejado un ejemplo completo en el que hemos descrito los objetivos, alcance, equipo, estrategia, criterios, ambientes, entregables, incidentes, riesgos y tareas que se mencionan tomando como caso de prueba a un mouse. Sabemos que estás aprendiendo y este ejemplo te guiará y servirá de apoyo.
+
+### Desafío:
+
+En esta actividad te proponemos que elijas un ejemplo diferente al mouse y puedas describir todos los elementos mencionados.
+
+Para resolver el ejercicio, utiliza esta [plantilla](https://docs.google.com/document/d/1gR03cYSOfdiE17EA5bco8pFmeC0VKNXeAYBg7zycwj8/edit?usp=sharing) para practicar de forma individual y consolidar el proceso de armado de pruebas. Tienes espacios en blanco en las tablas para ir complementando con tus respuestas. Aquí debajo tienes la resolución de la actividad utilizando el mouse como ejemplo.
+
+## Prueba funcional: MOUSE (hardware periférico con conexión USB)
+
+### Objetivo de las pruebas: ¿Para qué voy a probar?
+
+Evaluar las funcionalidades del mouse para verificar y validar que el producto satisfaga las expectativas del cliente y de los usuarios. Así como también reducir la probabilidad de que aparezcan defectos en producción
+
+### Alcance
+
+Se verificará la funcionalidad del mouse así como también su compatibilidad con otros hardwares y su portabilidad en diferentes plataformas. También estará dentro del alcance de las pruebas verificar su ergometría y los tiempos de respuesta. 
+Quedarán fuera del alcance de las pruebas las comprobaciones de seguridad.
+
+### Equipo
+El equipo de pruebas estará conformado por un tester junior full time y un tester semi-senior part time. Ambos testers estarán prestando servicios desde Argentina. Debido a que se estará trabajando con hardware, será necesario asistir a la oficina cada vez que se lance una nueva versión. 
+ 
+### Estrategia
+
+El equipo de desarrollo implementará pruebas unitarias de los drivers asociados al mouse como parte de su pipeline. 
+
+El equipo de testing realizará pruebas funcionales y no funcionales de forma manual. Cada vez que una nueva versión llegue a testing se hará una prueba de regresión sobre aquellos escenarios que se consideren de prioridad alta. 
+Dentro de las pruebas no funcionales se ejecutarán pruebas de performance, portabilidad, compatibilidad y usabilidad. 
+
+Al finalizar cada sprint se realizarán pruebas de aceptación de usuario. Al mismo tiempo, se aprovecharán esas reuniones para hacer pruebas de usabilidad. 
+
+### Criterios
+
+Las pruebas del equipo de testing comenzarán cuando hayan pasado satisfactoriamente las pruebas unitarias.
+
+El criterio de finalización de las pruebas será cuando se hayan ejecutado todas las pruebas planificadas o, si el tiempo apremia, al menos se hayan ejecutado los casos de prueba de prioridad alta y media. 
+
+El criterio para pasar a producción será que no haya errores bloqueantes o críticos sin resolver. 
+
+### Ambientes
+
+Nuestros ambientes de prueba serán:
+
+1 notebook mac
+
+1 notebook lenovo con windows 10
+
+1 notebook samsung con ubuntu 22.04 LTS
+
+Superficies de madera, plástico y vidrio.
+
+### Entregables
+
+Los entregables que se generarán son: 
+
+- Plan de pruebas
+
+- Lista de escenarios de pruebas ejecutadas 
+
+- Informe de estado al finalizar cada sprint
+
+- Reporte de defectos
+
+### Gestión de incidentes
+
+Se utilizará el siguiente workflow para la gestión de defectos:
+
+![image](https://user-images.githubusercontent.com/72580574/215896319-e3e75cbd-1e05-4115-bb8d-2fd4663f31fa.png)
+
+La severidad será asignada por el tester y la prioridad por el product owner. 
+
+Las severidades que se utilizarán serán: 
+
+- Bloqueante: cuando una funcionalidad no se pueda utilizar y no haya otra forma de realizar esa misma acción.
+
+- Crítica: cuando una funcionalidad no se pueda utilizar pero exista un camino alternativo para realizar eso mismo. 
+
+- Alta: cualquier defecto sobre una funcionalidad prioritaria del sistema o que tiene impacto secundario en una funcionalidad prioritaria del mismo.
+
+- Medio: cualquier defecto que impacte en una funcionalidad secundaria. 
+
+- Bajo: cualquier defecto cosmético o errores de ortografía.
+
+![image](https://user-images.githubusercontent.com/72580574/215896482-53d4788b-0082-4929-a940-399683a63e82.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/215896513-fa016b2d-fc03-46e0-9495-90f72a4d9d65.png)
+
+---
+
+## EXTRA: ¿Quieres ver un caso explicado?
+
+[Este video](https://www.youtube.com/watch?v=5jEPXychPZs) tiene una duración mayor a 60 minutos.
+
+¿Por qué deberías verlo? Porque si tienes tiempo, es una excelente introducción al trabajo de un tester en una compañía pequeña, realizando todo el proceso de pruebas por sí mismo. Este es el escenario más común para un tester junior.
+
+Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasar conceptos.
+
+
+---
