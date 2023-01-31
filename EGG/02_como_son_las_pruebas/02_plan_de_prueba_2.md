@@ -536,13 +536,13 @@ Los tipos de prueba vistos a continuación son una clasificación sencilla, adap
 Las técnicas de prueba de caja blanca analizan las estructuras internas, las estructuras de datos utilizadas, el diseño interno, la estructura del código y el funcionamiento del software en lugar de solo la funcionalidad como en las pruebas de caja negra. También se denomina prueba de caja de vidrio o prueba de caja transparente o prueba estructural.
 Proceso de trabajo de las pruebas de caja blanca:
 
-1.   	Entrada: requisitos, especificaciones funcionales, documentos de diseño, código fuente.
+1. Entrada: requisitos, especificaciones funcionales, documentos de diseño, código fuente.
 
-2. 	Tramitación: Realización de análisis de riesgos para orientar a lo largo de todo el proceso.
+2. Tramitación: Realización de análisis de riesgos para orientar a lo largo de todo el proceso.
 
-3. 	Planificación adecuada de las pruebas: diseñar casos de prueba para cubrir todo el código. Ejecute enjuague-repetir hasta que se alcance el software sin errores. Comunique los resultados.
+3. Planificación adecuada de las pruebas: diseñar casos de prueba para cubrir todo el código. Ejecute enjuague-repetir hasta que se alcance el software sin errores. Comunique los resultados.
 
-4. 	Salida: Elaboración de informe final de todo el proceso de ensayo.
+4. Salida: Elaboración de informe final de todo el proceso de ensayo.
 Ventajas:
 
 o   Las pruebas de caja blanca son muy exhaustivas ya que se prueban todo el código y las estructuras.
