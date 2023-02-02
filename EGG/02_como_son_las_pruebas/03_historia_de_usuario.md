@@ -264,3 +264,55 @@ Un componente clave del desarrollo ágil de software es poner a las personas pri
 Las historias de usuario son uno de los componentes centrales de un programa ágil. Ayudan a proporcionar un marco centrado en el usuario para el trabajo diario, lo que impulsa la colaboración, la creatividad y un mejor producto en general.
 
 ---
+
+## Check de conocimiento - Historias de Usuario
+
+![image](https://user-images.githubusercontent.com/72580574/216455229-ca2d2457-dc1b-4553-9d8b-cbc340b467a6.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455264-f258b88f-22af-49a1-9e0d-f3117101b041.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455307-6a0f00a7-c050-4925-8b92-44e5daa21ad8.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455357-593139c1-5d6f-44bb-b25b-42212350fc74.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455408-4583c416-6e0c-4754-96bf-cfa0e2d07a4e.png)
+
+
+### DESARROLLO
+
+En este espacio te ayudaremos a aplicar lo aprendido en la guía.
+
+![image](https://user-images.githubusercontent.com/72580574/216455474-477aa320-7fcc-4eef-a36f-d9adb5c1ef98.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/216455499-02ed50fe-56c7-44d3-985e-3e326eef7512.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455534-cc5408ec-9482-43eb-bf5e-96ef97b5de76.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455590-e06f7b66-35e8-4b8d-93cf-e2a70cc3d27a.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455621-bf418c47-5ad9-4991-b8d1-233df9394a29.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455669-65ba3deb-6725-4ab7-a72c-92e897e4fb9f.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455725-159672cf-045a-4edd-96a6-01c28a7bd2d3.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455766-53a9067f-fe2f-461e-8561-9822346351cd.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216455816-6d06f39e-36a3-42ec-9f24-61c75bac2968.png)
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
