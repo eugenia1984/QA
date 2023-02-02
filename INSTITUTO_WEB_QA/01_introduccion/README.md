@@ -10,9 +10,7 @@
 
 - 3 - ¿Cuál es el alcance del testing? 
 
-- 4 - Práctica - probando mi velocidad de conexión, desarrollo de software 
 
-- 5 - ¿Cómo funciona internet?
 
 ---
 
