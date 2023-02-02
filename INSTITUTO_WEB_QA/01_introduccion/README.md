@@ -41,3 +41,25 @@ Entre las cualidades que debe tener un tester de software figuran: ser curioso, 
 -> Respuesta: Notificar los errores encontrados.
 
 ---
+
+## 2 - ¿Para qué sirve el testing?
+
+### Beneficios del Testing
+
+1. Ahorra dinero y apuros en corregir errores.
+
+2. Previene emergencias como el borrado de datos.
+
+3. Mejora la relación con el usuario.
+
+
+4. Reduce los tiempos y costos de desarrollo.
+
+
+5.Promueve la eficiencia.
+
+6. Aumenta la productividad y el trabajo en equipo.
+
+7. Garantiza un software al que se le realizaron pruebas.
+
+---
