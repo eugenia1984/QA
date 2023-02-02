@@ -265,6 +265,279 @@ Las historias de usuario son uno de los componentes centrales de un programa ág
 
 ---
 
+
+## Trabajando con historias de usuario
+
+Una vez que se ha escrito una historia, es hora de integrarla en su flujo de trabajo. Por lo general, una historia la escribe el propietario del producto, el gerente del producto o el gerente del programa y la envía para su revisión.
+
+Durante una reunión de planificación de sprint o iteración, el equipo decide qué historias abordarán en ese sprint. En ese momento, los equipos discuten los requisitos y la funcionalidad que requiere cada historia de usuario. Esta es una oportunidad para ser técnico y creativo en la implementación de la historia por parte del equipo. Una vez acordados, estos requisitos se agregan a la historia.
+
+Otro paso común en esta reunión es calificar las historias en función de su complejidad o el tiempo de finalización. Los equipos usan tallas de camisetas, la secuencia de Fibonacci o el póquer de planificación para hacer las estimaciones adecuadas. Se debe dimensionar una historia para que se complete en un sprint, de modo que, a medida que el equipo especifica cada historia, se asegura de dividir las historias que superarán ese horizonte de finalización.
+
+### ¿Viene aprendiendo a un ritmo veloz en el día de hoy? 
+
+Te dejamos un video extra para aprender los aspectos más importantes al crear tus propias historias de usuario.
+
+Puedes ver el [próximo video](https://youtu.be/FJuq_lrM5Cc), tiene una duración de 12 minutos. 
+
+
+##  ¿Cómo escribir historias de usuario?
+
+Tenga en cuenta lo siguiente al escribir historias de usuario:
+
+- **Definición de "hecho"**: la historia generalmente está "hecha" cuando el usuario puede completar la tarea descripta, pero asegurate de definir qué es eso.
+
+- **Resumí subtareas o tareas**: decide qué pasos específicos deben completarse y quién es responsable de cada uno de ellos.
+
+- **Personas de usuario**: ¿para quién? Si hay varios usuarios finales, considera crear varias historias.
+
+- **Pasos ordenados**: escribe una historia para cada paso en un proceso más grande.
+
+- **Escucha los comentarios**: habla con los usuarios y captura el problema o la necesidad en sus palabras. No es necesario adivinar las historias cuando puedes obtenerlas de sus clientes.
+
+- **Tiempo**: el tiempo es un tema delicado. Muchos equipos de desarrollo evitan por completo las discusiones sobre el tiempo y confían en cambio en sus marcos de estimación. Dado que las historias deben poder completarse en un sprint, las historias que pueden tardar semanas o meses en completarse deben dividirse en historias más pequeñas o deben considerarse su propia épica.
+
+
+-> *Super tip: Una vez que las historias de usuario estén claramente definidas, asegúrate de que estén visibles para todo el equipo*.
+
+---
+
+## ¿Cómo pruebo las historias de usuario?
+
+En la mayoría de las actividades de software, las historias de los usuarios son un breve recordatorio de las conversaciones entre el propietario del producto, el desarrollador y el tester. Si bien las historias de los usuarios son muy breves, el formulario suele usarse incorrectamente y esto genera ambigüedad, discusiones innecesarias, reelaboración y pérdida de tiempo. Ahora veremos cómo probar las historias de usuario para que puedas asegurarte de que sean de alta calidad y reduzcan el trabajo repetido y acorten los plazos.
+
+#### Diez pruebas para escribir satisfactorias historias de usuario
+
+1. **CLARIDAD**: Tus historias de usuario deben ser claras e inequívocas. El propietario del producto, el desarrollador y el evaluador deben tener un entendimiento común de lo que se entregará a partir del texto de la historia. A medida que escribas tus historias, asume que, si es posible que se malinterpreten, se malinterpretarán. Además, asegúrate de que tus historias incluyan toda la funcionalidad necesaria (excluyendo la navegación).
+
+2. **CONCISO**: Las historias no necesitan ser largas para transmitir el significado funcional esencial. Una o más oraciones cortas pueden ser suficientes. Recuerda que los criterios de aceptación son complementarios a la historia.
+Sugerencia: evite la descripción sobre la navegación, los detalles de implementación, los criterios de aceptación y los atributos de los objetos.
+
+3. **ORIENTADO AL USUARIO**: Una historia debe escribirse desde la perspectiva del usuario. La típica recomendación ágil es el formato:
+
+Como User_type, quiero realizar_algo, por tal motivo.
+
+En algunos casos, el tipo_usuario puede ser otra pieza de software, o quizás incluso un dispositivo que interactúa con el software, como un sensor.
+
+Sugerencia: Nunca escribas tus historias desde la perspectiva del desarrollador y evita el término general usuario.
+
+4. **COMPROBABLE**: Una historia puede ser comprobable si contiene declaraciones claras de funcionalidad. Utiliza frases que infieran el movimiento, el almacenamiento y la recuperación de datos. Los ejemplos de historias comprobables incluyen frases como "actualizar perfil", "mostrar informe de ventas", "enviar correo electrónico". Escribir sus historias de esta manera asegurará que la intención funcional central sea clara. Esto proporciona la base a partir de la cual se pueden generar escenarios de prueba. El conjunto de pruebas completo generalmente dependerá de criterios de aceptación detallados complementarios.
+
+Sugerencia: Los criterios de aceptación detallados son complementarios a la historia de usuario principal, no incrustes criterios de aceptación en el texto de la historia de usuario.
+
+5. **MEDIBLE**: Nos referimos aquí a la capacidad de medición del tamaño, utilizando específicamente el punto de función COSMIC (CFP) como base para el dimensionamiento. Es un estándar ISO maduro de segunda generación, adecuado para todo tipo de trabajo de software. Las historias de usuarios solo se pueden medir si contienen expresiones claras de todos los movimientos de datos que se necesitarán y medirán. La mensurabilidad ayuda significativamente tanto con la planificación como con el aseguramiento de la calidad. El tamaño funcional no es el único atributo medible de una historia de usuario, sin embargo, es uno de los más importantes dado que se relaciona con el esfuerzo de construirlo.
+
+Sugerencia: No medir el tamaño agrega incertidumbre a tu trabajo de software.
+
+6. **CONSISTENTE**: Usa palabras coherentes tanto para tipos_de_usuarios como para tipos_de_objetos en un conjunto de historias de usuarios. La nomenclatura coherente reducirá la confusión, los defectos, la repetición del trabajo y el desperdicio. Los sistemas complejos y los entornos con mucha jerga tienden a ser propensos a que los miembros del equipo le den diferentes términos al mismo usuario u objeto.
+
+7. **COMPLETA**: La falta de requisitos es una de las mayores causas de fallas en los proyectos de software. La mayoría de los proyectos crecen en tamaño a medida que se hacen evidentes las necesidades adicionales. Este aumento en el alcance conduce a más trabajo, más reelaboración, cronogramas extendidos, sobrecostos presupuestarios y, en algunos casos, fallas en el proyecto. Aunque el enfoque Agile desalienta el trabajo inicial excesivo, es esencial un trabajo de alcance inicial. Busca cuidadosamente los requisitos que faltan cuando escribas historias de usuario.
+
+8. **ÙNICO**: Todos los requisitos deben ser únicos. Los requisitos duplicados son un problema que tiende a ser más frecuente en proyectos más grandes.
+
+9. **VALIOSO**: Todas las historias de usuario deben ser valiosas para el "negocio". Es apropiado desafiar el valor y la importancia de cada historia de usuario, de modo que solo se entregue la funcionalidad más importante. Si no se puede rastrear una historia de usuario hasta la entrega de un resultado comercial medible, es posible que no sea valiosa y tal vez deba excluirse del alcance. El valor financiero real de la historia puede ser difícil de medir, utilizando el tamaño funcional (CFP) como base para el valor (especialmente para la medición del valor ganado EVM).
+
+10. **SIN DISEÑO**: Las historias de usuario no deben hacer referencia a la tecnología utilizada para entregarlas. Este nivel de detalle se puede incluir como complemento a la historia del usuario para ayudar a proporcionar contexto sobre "cómo" se debe entregar. Esto es particularmente adecuado para aspectos no funcionales de cómo se logrará la funcionalidad.
+
+---
+
+## MANOS A LA OBRA!!
+
+### Escenarios de análisis
+
+Te presentamos varios escenarios de análisis en donde veremos aplicados algunos de los conceptos que aprendimos hoy. Te invitamos a que tomes algunos minutos de reflexión con tu equipo y discutas cada escenario y su respuesta. Cada uno deberá exponer las razones por las que elige cada opción. Podrán coincidir o no entre ustedes, no se preocupen. Intenten llegar a una opinión unánime, pero de no hacerlo cada uno enviará sus propias respuestas. 
+
+En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas, envíenlas de forma individual luego de haberlo discutido. 
+
+
+1. 1.   	Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente:
+
+ÉPICA: Mejorar la visualización de los medios de pago en el sitio e-commerce.
+
+- Historia 1: Los usuarios de escritorio necesitan aumentar el tamaño de las imágenes que informan los medios de pago autorizados.
+
+- Historia 2: Aumentar la resolución.
+
+- Historia 3: Hablar con ventas para agregar más opciones a los medios de pago.
+
+Esto es:
+
+a.  	Correcto. Las tres historias contribuyen a la realización de la épica.
+
+b.  	Incorrecto.  La épica habla de VISUALIZACIÓN por lo que la historia 3 no contribuye a la realización.
+
+c.  	Incorrecto. La historia 2 está incompleta ya que no sabemos a qué usuario está dirigida pero sólo agregando el usuario queda corregida.
+
+d.  	Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios ni está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
+
+
+2. 2.  	Analice la siguiente Historia de Usuario: “Como alumno quiero más ejercicios”. Podemos decir qué:
+
+a.  	La historia está incompleta, ya que precisamos el beneficio o el “para qué” de la historia.
+
+b.  	La historia está bien.
+
+c.  	La historia está incompleta, no sólo está faltando el beneficio o “para qué” sino también determinar de cuáles ejercicios.
+
+d.  	La historia está incompleta, debe especificarse también el tipo de alumnos, cómo de qué curso son, y qué ejercicios desean.
+
+3. 3.  	Constanza está realizando las historias de usuario, pero ha decidido cifrar el documento para que sólo ella tenga acceso. Las historias de usuario sólo son necesarias para los tester, asi que no tendrá problemas. Esto es:
+
+a.  	Incorrecto, el equipo de desarrolladores también debe verlas.
+
+b.  	Incorrecto. Las historias de usuario sirven para todos los involucrados en el proceso de testing y desarrollo del software. Deben ser públicas ya que colaboran a que el equipo tome decisiones más participativas.
+
+c.  	Correcto, siempre puede compartir aquellas historias de usuario que se relacione con el área que las solicite.
+
+d.  	Correcto, le servirán para crear un plan de pruebas más detallado.
+
+4. 4.  	Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desea escribirlas, deberán cambiar la metodología de trabajo.
+
+a.  	Manuel está equivocado, sólo deben escribir el plan de pruebas.
+
+b.  	Enrique tiene razón, no serán necesarias.
+
+c.  	Manuel está en lo cierto, pueden utilizar esta herramienta a pesar de no trabajar con metodologías ágiles.
+
+d.  	Deberían cambiar la metodología de trabajo, ya que al ser un proyecto chico, es mejor utilizar metodologías ágiles.
+
+5. 5.  	Jorge redactó sus historias de usuario. Agregar a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identificó correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.
+
+a.  	Jorge debe dividir esas historias en tareas más pequeñas que sólo duren un Sprint.
+
+b.  	Jorge debe pedir una reunión con el equipo para explicar bien cuáles son historias de más de un Sprint y cuáles no, mientras el equipo lo entienda, lo harán bien.
+
+c.  	Siempre y cuando las historias estén claras su duración pierde importancia.
+
+d.  	Jorge sabe lo que hace, seguramente ya han trabajado así con el equipo y se entienden bien.  
+---
+
+## EJERCICIO
+
+De manera individual:
+
+- A - Leer los 4 casos que se encuentran a continuación.
+
+- B - Armar según cada caso los User Stories.
+
+- C - Añadir al menos dos Criterios de aceptación para cada historia.
+
+NOTA: Al existir contradicciones o duplicaciones de soluciones o errores en los requerimientos, propongan una solución para mejorar y agregar valor.
+
+Puedes usar esta tabla como plantilla para completar el ejercicio.
+
+- D - De forma grupal, una vez que hayas completado la parte individual, compara con tu equipo tus respuestas para verificar cómo te ha ido en el ejercicio. ¿Tu equipo te pudo validar tus respuestas? ¿Has encontrado en tu equipo opiniones diferentes a las que tú has propuesto?
+
+
+## CASO 1. STAR 
+
+Su equipo está desarrollando un sistema de gestión on-line para la cadena de hoteles 5 estrellas llamadas Star. la cajados tipos de clientes, el que es socio y el no-socio. Según los requerimientos del cliente, el sistema deberá poseer opciones, registrándose de forma automática si es socio o por medio de un formulario a completar si es no-socio. En el caso de ser socio registrado, cuyo número sólo son 150 y según la categoría del socio, es el tipo de habitación, descuentos y categorías de servicios a los que podrá acceder si hay disponibilidad. El sistema ofrecerá propuestas en diferentes locaciones, simulando opciones que el cliente puede tomar, no se deben aceptar los que no existan en el sistema y no podrán acceder a estas propuestas especiales, pero sí a otros tipos de descuentos/paquetes. El sistema validará la disponibilidad/opciones e informará inmediatamente. En el caso en que no haya disponibilidad, informará las opciones al no socio.
+ 
+![image](https://user-images.githubusercontent.com/72580574/216459091-f71977c7-5851-4be1-94a2-1de3336806c0.png)
+
+
+## CASO 2. 4A
+
+La Empresa 4A posee cuatro almacenes minoristas muy bien ubicados, donde desea llevar el control de la mercadería, pagos a proveedores y cuentas corrientes de sus clientes. Se ha revelado que un ítem de un producto se describe por su nombre, marca, tamaño, unidad, costo, precio unitario y cantidad en existencia. Pero se distribuyen según ventas y temporada. Por ejemplo el café, té y yerba mate se venden más en invierno y otoño. Los jugos en polvo y en caja en las épocas de verano, excepto los jugos pequeños que se venden en época escolar. Por lo cual deben agregar un análisis de estacionalidad por grupos de productos para mejorar las compras y evitar los vencimientos de los mismos.
+
+Los productos se identifican por un código y con la inicial del fabricante, donde hay ya generado un diccionario (por ejemplo: Bagley= BAG, Arcor=ARC, Bimbo=BIM, etc. Si se repiten se pone la letra siguiente diferente, como es el caso de Baggio=BAI y Bagley=BAG). EJ: ARC001, "Arcor, Criollitas x 50", 50, "Paq.100gr", 0.40, 0.60, 100. Actualmente quieren poder agregar a los códigos uno que identifique el tipo de productos y si son perecederos o no (caso de algunos productos como muchos de los productos de limpieza que no se vencen).
+
+En los pagos a proveedores, cada uno de ellos se identifica por su número de proveedor y, además, se describe por su nombre, domicilio, Código Postal, CUIT, tipo de IVA, código de área, teléfono, y deuda que el almacén tiene con él. EJ: 007, "BAGLEY", "San Martín 565, San Rafael", "5600", "23-32591232-0","RI, 260, 4426767, 5682$. Cada una de las cuentas corrientes se identifica con el código del cliente, y se describe mediante el nombre, domicilio, teléfono, saldo, deuda máxima admitida y fecha de la última compra. No existe ningún producto que se pueda obtener de más de un proveedor.
+
+
+### CASO 3.Bus Centro
+
+La empresa de transportes BusCentro de colectivos de larga distancia nacional e internacional desea tener un sistema en el cual se puedan hacer reservas y compras de pasajes por Web o dispositivo móvil. La empresa posee servicios: Premium, diferencial y común. También alquilan colectivos para eventos especiales, tipo charter. En este caso se debe completar un formulario para poder armar una cotización de dicho servicio, según el destino y los requerimientos solicitados, como por ejemplo disponer del servicio de colectivo, choferes y asistentes durante su estadía en destino. Si se desean realizar paradas en el camino o estadía transitoria, etc. De esta forma se pueden armar viajes especiales con otros tipos de costos y precios finales. También debe coordinarse los servicios a bordo para poder tener servicio normal o de lujo. Están evaluando realizar viajes de egresados y deben pensar si el sistema se adaptaría.
+
+El sistema debe permitir llenar un formulario de reserva, siempre que el cliente sea mayor de edad y resida en la provincia, indicando el nombre y apellido, la cantidad de asientos solicitados, tarifa, forma de pago y el tipo de servicio. A su vez si el servicio incluye cena/almuerzo, pudiendo elegir el tipo de menú, es decir, carne, pastas, vegetariano, diabético o vegano. De esta manera, se pueden hacer las compras de los menús en forma automática, pudiendo acceder los proveedores autorizados a los pedidos. Se pueden reservar tramos parciales de los recorridos, teniendo entonces que considerar también la tarifa y horarios del tramo. El sistema debe poseer el plano o layout para que el cliente pueda elegir el asiento que desee, viendo las tarifas, sus comodidades, y servicios.
+
+
+## CASO 4. Torneo de Tenis Grand Slam
+
+El sistema debe memorizar todos los encuentros que se han desarrollado desde que existe el torneo, así como las siguientes características de estos: El Grand Slam se compone de cuatro torneos anuales que se celebran en Gran Bretaña, Estados Unidos, Francia y Australia. En cada país se pueden desarrollar en distintos lugares (ej., en EE. UU. Puede desarrollarse en Forest Hill o en Flashing Meadows). Cada partido tiene asociado un premio de consolación para el perdedor que dependerá de la fase en que se encuentre el torneo (p. ej., el perdedor de octavos de final puede ganar 5.000dólares). El ganador de la final recibirá el premio correspondiente al torneo.
+
+Cada torneo tiene cinco modalidades: Individual masculino, individual femenino, dobles masculino, dobles femenino y dobles mixtos. También hay que tener en cuenta la nacionalidad de un jugador, de forma que éste puede ser apátrida o tener varias nacionalidades. Resultados a considerar: El sistema debe dar respuesta a las siguientes preguntas:
+
+
+1. Dado un año y un torneo, composición y resultado de los partidos.
+
+2. Lista de árbitros que participaron en el torneo.
+
+3. Ganancias percibidas en premios por un jugador a lo largo del torneo.
+
+4. Lista de entrenadores que han entrenado a un jugador a lo largo del torneo y fechas en las que lo hizo.
+
+Ejemplos de acceso a la base de datos. Connors ganó a Gerulaitis en Roland Garros en 1979 en cuartos de final en individuales masculinos por 6-3 4-6/7-5 6-0.2. El señor Wilkinson arbitró ese partido. Alemania ha ganado dos veces las individuales masculinas de Wimbledon. Borg ha ganado 2.000.000 de dólares a lo largo de su participación en el Grand Slam. El ganador de Roland Garros de 1987 ganó 20.000 dólares. Noah ha jugado cuatro veces en dobles mixtos con Mandlikova.
+
+Por otra parte, se quiere conocer la cantidad de personas que asistieron y en cuantos países fue retransmitido.
+
+
+---
+
+¿Todavía no ha finalizado el encuentro en vivo y ya has llegado hasta aquí? Sigue leyendo 🤓
+
+## :book: MATERIAL EXTRA
+
+### El lugar de una historia de usuario dentro de una épica
+
+#### Historias, épicas e iniciativas
+
+Estas estructuras simples ayudan a los equipos ágiles a gestionar con elegancia el alcance y la estructura del trabajo.
+
+Digamos que con su equipo quieren hacer algo ambicioso, como lanzar un cohete al espacio. Para hacerlo, deberán estructurar el trabajo: desde los objetivos más grandes hasta los detalles minuciosos. Querrán poder responder a los cambios, informar su progreso y ceñirse a un plan. Épicas, historias e iniciativas son precisamente las herramientas que necesitarás para hacerlo.
+Al comprender cómo estas populares metodologías ágiles y DevOps ayudan a organizar el trabajo, su equipo puede lograr un equilibrio saludable entre la estructura, la flexibilidad y el lanzamiento de cohetes al espacio.
+
+¿Qué son?
+
+- Las historias, también llamadas "historias de usuarios", son requisitos breves o solicitudes escritas desde la perspectiva de un usuario final.
+
+- Las épicas son grandes cuerpos de trabajo que se pueden dividir en varias tareas más pequeñas (llamadas historias).
+
+- Las iniciativas son colecciones de épicas que conducen hacia un objetivo común.
+
+![image](https://user-images.githubusercontent.com/72580574/216459608-8b9bd6ef-89a9-46de-8944-83963b13992a.png)
+
+
+### Épica ágil vs. historia
+
+En cierto sentido, las historias y épicas en ágil son similares a las historias y épicas en el cine o la literatura. Una historia es una narración simple; una serie de historias relacionadas e interdependientes constituye una épica. Lo mismo ocurre con la gestión de su trabajo, donde la finalización de historias relacionadas conduce a la finalización de una épica. Las historias cuentan el arco del trabajo completado, mientras que la épica comparte una visión de alto nivel del objetivo unificador.
+
+En un equipo ágil, las historias son algo que el equipo puede comprometerse a terminar en un sprint de una o dos semanas. A menudo, los desarrolladores trabajaban en docenas de historias al mes. Las épicas, por el contrario, son pocas y tardan más en completarse. Los equipos a menudo tienen dos o tres épicas en las que trabajan para completar cada trimestre.
+
+Si su empresa estaba lanzando cohetes al espacio y deseaba mejorar el servicio de transmisión para sus lanzamientos, podría estructurar sus historias como las siguientes.
+
+#### ¿NECESITAS UN EJEMPLO? 
+
+Ejemplos de una historia ágil:
+
+- Los usuarios de iPhone necesitan acceso a una vista vertical de la transmisión en vivo cuando usan la aplicación móvil.
+
+- Los usuarios de escritorio necesitan un botón de "ver pantalla completa" en la esquina inferior derecha del reproductor de video.
+
+- Los usuarios de Android deben estar vinculados al Play Store.
+
+Todas las historias anteriores están relacionadas y podrían considerarse tareas individuales que conducen a la finalización de un cuerpo de trabajo más grande (una épica). En este caso, la épica podría ser "Mejorar el servicio de transmisión para el lanzamiento del primer trimestre".
+
+Organizar el trabajo en historias y épicas también les ayuda a usted y a su equipo a comunicarse de manera efectiva dentro de la organización. Si estuviera informando el progreso de su equipo al jefe de Ingeniería, estaría hablando en épicas. Si estuviera hablando con un colega en su equipo de desarrollo, hablaría a nivel de historia.
+
+---
+
+## Ágil Épica vs Iniciativa
+
+Así como las épicas se componen de historias, las iniciativas se componen de épicas. Las iniciativas ofrecen otro nivel de organización por encima de las épicas. En muchos casos, una iniciativa compila épicas de varios equipos para lograr un objetivo mucho más amplio y más grande que cualquiera de las épicas en sí. Si bien una épica es algo que puede completar en un mes o un trimestre, las iniciativas a menudo se completan en varios trimestres o un año.
+
+![image](https://user-images.githubusercontent.com/72580574/216459829-a49a3c5a-6a58-4066-8874-0d1d595318af.png)
+
+
+### ¿NECESITAS UN EJEMPLO? 
+
+Ejemplo de épicas en una iniciativa:
+
+Supongamos que su compañía de cohetes quiere reducir el costo por lanzamiento en un 5 % este año. Es una gran opción para una iniciativa, ya que ninguna épica podría lograr un objetivo tan grande. Dentro de esa iniciativa, habría épicas como "Reducir el consumo de combustible en la fase de lanzamiento en un 1 %", "Aumentar los lanzamientos por trimestre de 3 a 4" y "Bajar todos los termostatos de 71 a 69 grados".
+
+
+---
+
 ## Check de conocimiento - Historias de Usuario
 
 ![image](https://user-images.githubusercontent.com/72580574/216455229-ca2d2457-dc1b-4553-9d8b-cbc340b467a6.png)
