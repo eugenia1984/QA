@@ -63,3 +63,10 @@ Entre las cualidades que debe tener un tester de software figuran: ser curioso, 
 7. Garantiza un software al que se le realizaron pruebas.
 
 ---
+
+## 3 - ¿Cuál es el alcance del testing? 
+
+"La prueba de un software solo puede mostrar la presencia de defectos, no su ausencia."
+*Edsger Dijkstra* (1930 -2002)
+
+---
