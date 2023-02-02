@@ -146,3 +146,121 @@ Supongamos que estamos desarrollando una funcionalidad de “autogestión de TV 
 
 
 ---
+
+## ¡MANOS A LA OBRA! 
+
+Pongamos manos a la obra y pensemos un poco sobre lo que ya hemos aprendido hoy acerca de las historias de usuario. Ya te hemos dado ejemplos, pero llegó la hora en que tú pienses sobre uno nuevo.
+
+Primero piensa sobre una funcionalidad que se quiera desarrollar. Luego, piensa todas las historias de usuario que podrían surgir de ella. ¿Se te ocurren? Puedes conversarlas junto a tu equipo. Tienes esta tabla para completar con tus respuestas.
+
+#### Tabla:
+
+![image](https://user-images.githubusercontent.com/72580574/216451089-18c66f17-af94-4bbb-873e-667d921a9f91.png)
+
+### ¿NECESITAS UN EJEMPLO? 
+
+Esta sería otra manera de mostrar la historia de usuario más completa, pues le agregamos criterios de validación, prioridad y tiempo:
+
+
+![image](https://user-images.githubusercontent.com/72580574/216451178-c47a45d5-159e-4a67-8d62-17fdc4bd713f.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/216451215-145ef063-0070-40c3-ba14-ad707eebc143.png)
+
+ 
+Una historia de usuario Agile debe ser breve, por lo general cabe en una nota adhesiva o una tarjeta de notas. Las historias de usuario deben ser escritas por la empresa en el idioma del cliente para que quede claro tanto para la empresa como para el equipo de desarrollo lo que quiere el cliente y por qué lo quiere.
+
+En algunos casos, a las historias de usuario también se les asigna un identificador único y un nivel de esfuerzo/prioridad. El identificador único suele ser un número y permite a los desarrolladores realizar un seguimiento de cuántas historias de usuario hay y cuándo se completan. El nivel de esfuerzo o prioridad está más personalizado para el equipo, pero normalmente es un rango que indica cuánto tiempo llevará la función, cuántos desarrolladores se necesitarán o cuántos requisitos tiene la función.
+
+Por último, las historias de usuario deben asociarse con criterios de aceptación predefinidos. Los criterios de aceptación se utilizan para identificar los límites de una historia de usuario y lo que se debe hacer para que la historia se considere completa. Esto también podría incluir cualquier prueba que deba realizarse para verificar una historia de usuario.
+
+---
+
+## :book: MATERIAL DE LECTURA :book:
+
+### ¿Para qué se utilizan?
+
+El propósito de una historia de usuario es articular cómo un elemento de trabajo entregará un valor particular al cliente. Ten en cuenta que los "clientes" no tienen porqué ser usuarios finales externos en el sentido tradicional, también pueden ser clientes internos o colegas dentro de tu organización que dependen de tu equipo.
+
+#### Principios básicos
+
+Los principios básicos de requerimientos ágiles son:
+
+- Son peticiones concretas y pequeñas
+
+- Contienen la información imprescindible, ¡menos es más!
+
+- Apoyan la cooperación, colaboración y conversación entre los miembros del equipo
+
+- Potencian la participación del equipo en la toma de decisiones
+
+- Se crean y evolucionan a medida que el proyecto se desarrolla
+
+
+#### Modelo INVEST
+
+El siguiente modelo nos guía para escribir buenas historias de usuario. La palabra INVEST es un acrónimo que marca las características para tener en cuenta al definir las historias de usuario:
+
+
+![image](https://user-images.githubusercontent.com/72580574/216451468-96a2e701-be9a-4e57-a47d-888c22564bf6.png)
+
+
+---
+
+## Errores comunes al escribir historias de usuario
+
+- **Describir historias de usuario muy generales**, del estilo “Como usuario quiero manejar distintas cotizaciones para poder seleccionar la más conveniente”. Si bien a primera vista cumple el patrón esperado de una Historia de Usuario, el rol de esta no está bien especificado. ¿Quién es el usuario observando las cotizaciones? Es distinta la funcionalidad detrás si es el administrador del sitio, o un usuario visualizando datos.
+
+- **Especificar lo más detalladamente posible el usuario detrás de cada user story**. De manera similar para una user story que comienza con “Como Product Owner…” o “Como desarrollador”. Una buena Historia de Usuario refleja la visión desde el punto de vista del usuario del producto final, y no desde el líder o integrante del equipo de desarrollo.
+
+- **Ignorar la parte de para qué quiero la funcionalidad de la Historia de Usuario**. Parece trivial, pero poder justificar la funcionalidad pedida es un ejercicio útil para mejorar el proceso de identificar requerimientos. 
+
+
+*Tip*:  Si no es posible formular de manera simple para qué se quiere una determinada funcionalidad del producto, es probable que no sea necesaria implementarla.
+
+
+- **La necesidad de especificar criterios de aceptación**. Una manera de verlos es como casos de prueba para el código que implementa la user story, y por su papel, debe prestarse atención en su formulación. Por ejemplo, para una user story que describe la funcionalidad de buscar un determinado producto en un catálogo, un criterio de aceptación podría describir el escenario donde no se encuentre el producto al realizar la búsqueda y especificar en este caso que se espera que aparezca en pantalla un texto del estilo “Actualmente no se posee el producto en stock ¡Vuelva a consultar pronto!”
+
+Un error muy frecuente es cuando no hay acumulación en absoluto. Se ve con demasiada frecuencia cuando es prácticamente desconocido lo que sucederá después del sprint actual. El propietario del producto puede ser muy consciente de ello en su cabeza, pero todos los demás no tienen idea de estos planes.
+
+- **No hay suficientes detalles**. Demasiadas cosas parecen ser obvias cuando no lo son. Lo que puede ser evidente para una persona, puede ser una sorpresa total para otra. Debes asegurarte de detallar explícitamente los aspectos esenciales sin importar cuán triviales creas que son. Sin embargo, debemos tener cuidado con no sobrepasarse con detalles: un backlog desordenado tiene poco valor.
+
+- **Escribir tareas técnicas en lugar de las historias^^. Tener demasiadas funciones técnicas puede resultar en tener un software que no funcione como usted espera o, peor aún, que no funcione en absoluto. Deje que el equipo tome la decisión final sobre los aspectos técnicos.
+
+---
+
+### Beneficios de las historias de usuario
+
+Las historias de usuario brindan a los equipos de desarrollo un contexto importante incluso antes de que comience un proyecto. Ponen énfasis en el usuario y se enfocan en resolver situaciones reales a las que se puede enfrentar un cliente. Esto puede ayudar a los equipos de desarrollo a pensar de forma más crítica y creativa.
+
+Las historias de usuario brindan una serie de beneficios clave:
+
+- **Mantienen el foco en el usuario**. Una lista de tareas mantiene al equipo enfocado en tareas que necesitan ser marcadas, pero una colección de historias mantiene al equipo enfocado en resolver problemas para usuarios reales.
+
+- **Permiten la colaboración**. Con el objetivo final definido, el equipo puede trabajar en conjunto para decidir cómo atender mejor al usuario y cumplir ese objetivo.
+
+- **Impulsan soluciones creativas**. Las historias alientan al equipo a pensar de manera crítica y creativa sobre cómo resolver mejor un objetivo final.
+
+- **Crean impulso**. Con cada historia que pasa, el equipo de desarrollo disfruta de un pequeño desafío y una pequeña victoria, impulsando el impulso.
+
+-> ¡Atención! Es tentador pensar que las historias de usuario son, simplemente, requisitos del sistema de software. Pero como ya te contamos, no lo son.
+
+
+Los beneficios adicionales de usar historias de usuario incluyen:
+
+- Mayor visibilidad y colaboración en todo el equipo de desarrollo.
+
+- Mejor uso de los comentarios de los usuarios finales o de los clientes.
+
+- Posible ahorro de tiempo al priorizar el desarrollo de requisitos y funcionalidad.
+
+- Ayuda a evitar las restricciones que se producen cuando los detalles de las especificaciones se definen demasiado pronto.
+
+- Mayor claridad en torno al valor comercial y la entrega de productos que los usuarios finales realmente necesitan.
+
+
+Un componente clave del desarrollo ágil de software es poner a las personas primero, y una historia de usuario coloca a los usuarios finales en el centro de la conversación. Estas historias utilizan un lenguaje no técnico para brindar contexto al equipo de desarrollo y sus esfuerzos. Después de leer una historia de usuario, el equipo sabe por qué está construyendo, qué está construyendo y qué valor crea.
+
+Las historias de usuario son uno de los componentes centrales de un programa ágil. Ayudan a proporcionar un marco centrado en el usuario para el trabajo diario, lo que impulsa la colaboración, la creatividad y un mejor producto en general.
+
+---
