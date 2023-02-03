@@ -557,6 +557,109 @@ D - Incorrecto, él sólo escribe los casos de prueba, no los ejecuta
 ---
 
 
+## CHECKPOINT
+
+
+- 1) Un caso de prueba es el modo en el que ejecutaremos una prueba en un aspecto específico de un software
+
+->Verdadero
+
+- 2 ) Caso de prueba es distinto de escenario de prueba porque el caso define la prueba en sí y el escenario la situación que requiere probarse.
+
+-> Verdadero 
+
+- 3) Caso de prueba y Script de prueba son dos formas de referirse a lo mismo
+
+-> Falso
+
+- 4 ) 4) Podemos dividir los casos de prueba en formales e informales. Siendo los primeros, aquellos donde no tenemos certidumbre respecto a las entradas y salidas y los segundos aquellos donde existe esta certeza.
+
+-> Falso
+
+- 5 ) Los casos de prueba deben comenzar a planificarse lo antes posible para evitar que sean influenciados por las estrategias de solución.
+
+-> Verdadero
+
+- 6 ) Al planificar, debo pensar Casos de pruebas para todas y cada una de las combinaciones de datos posibles.
+
+-> Falso
+
+- 7 ) Las Matrices de Trazabilidad son una gran herramienta para elaborar casos de prueba
+
+-> Verdadero
+
+- 8 )  Definir la prioridad de la prueba no es importante a la hora de hacer casos de prueba
+
+-> Falso
+
+- 9 ) Para gestionar correctamente casos de prueba debo revisarlos levemente.
+
+-> Falso
+
+- 10 ) Las historias de usuario pueden convertirse en casos de prueba
+
+-> Verdadero
+
+#### DESARROLLO
+
+- Clasifique en: CASO DE PRUEBA  O ESCENARIO DE PRUEBA las siguientes afirmaciones en base a una CALCULADORA
+
+
+![image](https://user-images.githubusercontent.com/72580574/216704817-06ffd2b0-fde8-4b75-bb38-1fb34939fdad.png)
+
+
+- Clasifiquen los siguientes casos de prueba
+
+-Verificar que al iniciar sesión cuando ve los productos, al pasar al carrito de compras el usuario continúe logeado -> Casos de prueba de integración
+
+-Chequear que los menús desplegables se vean correctamente -> Casos de prueba de interfaz de usuario
+
+-Pedirle a mis usuarios que prueben realizar una suma en mi calculadora -> Casos de prueba de usabilidad
+
+-Verificar que sólo se puedan visualizar los datos personales si el usuario esta logeado -> Casos de prueba seguridad	
+
+-Ver si al suscribirte llega el sms confirmando la operación -> Casos de prueba de aceptación de usuario -> Casos de prueba de interfaz de usuario
+
+-Validar un cierre de sesión -> Casos de prueba de funcionalidad
+
+-Verificar la ortografía y gramática del sitio -> Casos de prueba de interfaz de usuario
+
+-Verificar que al completar los datos en el form, se guarde el usuario -> Casos de prueba de base de datos
+
+
+- Determinar los resultados de estas pruebas
+
+![image](https://user-images.githubusercontent.com/72580574/216705728-2245b511-a155-4021-9c8d-8298c293f402.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216705757-aa036a58-f0c3-4996-985e-0b9ffff26337.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216705800-3ae46c25-21e5-44dd-aa7e-79c4ab3c5c63.png)
+
+
+- John está redactando casos de prueba. Se le ocurren varias ideas para encontrar todos los errores posibles, pero duda al ver la cantidad de casos que acumula. ¿Qué consejo le darías?
+
+-> Que procure crear casos de prueba que sean más abarcativos y prueben varias funcionalidades de una sola vez
+
+- 
+A Carlos le han encargado el diseño de los casos de prueba, para comenzar está esperando que le envíen los requisitos y el plan de pruebas. Esto es:
+
+-> Incorrecto. Sólo con el prototipo ya puede empezar a realizar los casos de prueba.
+
+- Javier está en una encrucijada. Ha creado casos de prueba muy buenos pero se dio cuenta que los mismos sólo servirán la primera vez. Esto es:
+
+-> Correcto, pero el diseño sería más efectivo si fuera repetible y reutilizable.
+
+- 
+Galia esta ejecutando casos de prueba. Los está ejecutando en el orden que piensa encontrará más errores. Esto es:
+
+-> Incorrecto, al ejecutar los casos de prueba debe tenerse en cuenta la prioridad.
+
+
+- Valentino está redactando casos de prueba. Al redactar algunas pruebas de usabilidad, se da cuenta que su tiempo se agota por lo que para ejecutarlas, las realiza él mismo. Esto es:
+
+-> Incorrecto, las pruebas de usabilidad deben ser ejecutadas por usuarios finales
+
+---
 
 
 
