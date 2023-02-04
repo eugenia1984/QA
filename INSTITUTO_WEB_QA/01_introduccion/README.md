@@ -14,7 +14,7 @@
 
 ---
 
-## 1- ¿Qué es el testing?
+## :star: 1- ¿Qué es el testing?
 
 Es la tarea de planificar y llevar a cabo las pruebas de software en las computadoras. 
 
@@ -40,7 +40,7 @@ Entre las cualidades que debe tener un tester de software figuran: ser curioso, 
 
 ---
 
-## 2 - ¿Para qué sirve el testing?
+## :star:  2 - ¿Para qué sirve el testing?
 
 ### Beneficios del Testing
 
@@ -62,7 +62,7 @@ Entre las cualidades que debe tener un tester de software figuran: ser curioso, 
 
 ---
 
-## 3 - ¿Cuál es el alcance del testing? 
+## :star: 3 - ¿Cuál es el alcance del testing? 
 
 "La prueba de un software solo puede mostrar la presencia de defectos, no su ausencia."
 *Edsger Dijkstra* (1930 -2002)
