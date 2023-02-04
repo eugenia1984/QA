@@ -14,7 +14,7 @@
 
 - 5 - Práctica: Test Visual de Página Web
 
-- Práctica - test visual de página web, chequear inconsistencias del código, chequear links.
+- 6 - Práctica de Contenido n° 4
 
 ---
 
@@ -137,7 +137,15 @@ Algo similar pasa con WhatFont, voy haciendo click en los titulos, textos, etc, 
 
 Es para ver que se cumpla con el diseño planteado.
 
+Es un **Test visual** y de **Relación del usuario con la pantalla**.
+
+
 ---
+
+## :star: 6 - Práctica de Contenido n° 4
+
+
+![image](https://user-images.githubusercontent.com/72580574/216791541-a77d6259-5f58-4fea-aed2-928c644f6c41.png)
 
 
 ---
