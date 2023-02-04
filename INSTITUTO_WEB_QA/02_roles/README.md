@@ -12,7 +12,7 @@
 
 ## Gestión de calidad (QA) y Control de calidad (QC)
 
-Aunque el término**QA** es relativamente nuevo, ya que el mundo de «testing», «automatización de pruebas», etc. encontró salida en el mundo IT a mediados del año 2.008.
+Aunque el término **QA** es relativamente nuevo, ya que el mundo de «testing», «automatización de pruebas», etc. encontró salida en el mundo IT a mediados del año 2.008.
 
 Muchísima gente confunde **Control de Calidad** (**QC**) con el término **QA** (**Quality Assurance**) que en sus siglas en inglés viene a significar **Garantìa de calidad**.
 
