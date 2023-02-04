@@ -10,6 +10,8 @@
 
 - 3 - Práctica: Buscando Links Rotos
 
+- 4 - Práctica: Solicitud de Validación de Código de una web
+
 - Práctica - test visual de página web, chequear inconsistencias del código, chequear links.
 
 ---
@@ -56,7 +58,7 @@ Se usa para un **testeo de estrés** y para una **prueba de velocidad** de una p
 
 ## 3 - Práctica: Buscando Links Rotos
 
--> Veamos como automatizar la búsqueda de links sin funcionamiento en una página web.
+- Veamos como automatizar la búsqueda de links sin funcionamiento en una página web.
 
 El chequeo de los links, de todo lo que tiene que ver con botones y derivaciones a la misma web o a otra página.
 
@@ -74,5 +76,24 @@ Como ejemplo queremos analizar la web de la revista Caras -> [https://caras.perf
 
 
 -> Me marca 9 links invalidos, son con error 404 (page not found)
+
+---
+
+## :star: 4 - Práctica: Solicitud de Validación de Código de una web
+
+
+- Mediante el "validator" podemos obtener un rápido informe sobre errores o faltantes en el código de la página, aunque no sepamos codificar ni que significan estos errores, simplemente ejecutar el proceso y derivarlo al sector de desarrollo es una de las responsabilidades del tester.
+
+-Es una **Revisión del código** con la **W3C**, la fundación sin fines de lucro que lleva la definición de los estándares para las páginas webs. Tienen un validador de código: [**https://validator.w3.org/**]([)](https://validator.w3.org/)
+
+![image](https://user-images.githubusercontent.com/72580574/216790888-03945521-a4f7-400e-9928-996c696b0769.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216790899-9d16cd71-e892-41f1-9f83-3ee94832931a.png)
+
+![image](https://user-images.githubusercontent.com/72580574/216790921-b22e8074-70af-4097-8909-29c01cfa4752.png)
+
+
+-> Son errores de código que se pueden informar.
+
 
 ---
