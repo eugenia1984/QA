@@ -12,6 +12,8 @@
 
 - 4 - Práctica: Solicitud de Validación de Código de una web
 
+- 5 - Práctica: Test Visual de Página Web
+
 - Práctica - test visual de página web, chequear inconsistencias del código, chequear links.
 
 ---
@@ -94,6 +96,48 @@ Como ejemplo queremos analizar la web de la revista Caras -> [https://caras.perf
 
 
 -> Son errores de código que se pueden informar.
+
+
+---
+
+## :star: 5 - Práctica: Test Visual de Página Web
+
+- Testeando que las fuentes y colores sean correctos.
+
+Son pruebas iniciales, que no se suelen hacer.
+
+Vemos la web de Mercado Libre y comprobamos:
+
+- Que la tipografía que se use en la página es la que seleccionó la gente de diseño. Para ello debemos tener la especificación.
+
+- Que los colores matcheen con el diseño, vemos el logo y los colores.
+
+Usamos dos extensiones:
+
+- [**WhatFont**](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en), para las tipografías
+
+![image](https://user-images.githubusercontent.com/72580574/216791180-41e3c926-9ddb-4ec7-a9aa-019de3f2643f.png)
+
+- [**ColorZilla**](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es-419)
+
+![image](https://user-images.githubusercontent.com/72580574/216791226-dd7fcbae-7bfd-4e4c-a2d0-2fb6694a402e.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/216791239-308f772b-20a0-4f22-94aa-54a94237b0d4.png)
+
+Trabajan sobre páginas que no estuvieran ya abiertas.
+
+ColorZilla tiene el **color picker** y voy a ir pasando por la web y me va mostrando el código de color en RGB y en HEXADECIMAL.
+
+Los colores son parte del **Branding** de la marca.
+
+Algo similar pasa con WhatFont, voy haciendo click en los titulos, textos, etc, aca lo vemos con ejemplo:
+
+![image](https://user-images.githubusercontent.com/72580574/216791405-d037f038-34b0-4b3e-974f-8c68e925cbc2.png)
+
+Es para ver que se cumpla con el diseño planteado.
+
+---
 
 
 ---
