@@ -10,7 +10,7 @@
 
 ---
 
-## Gestión de calidad (QA) y Control de calidad (QC)
+## :star: Gestión de calidad (QA) y Control de calidad (QC)
 
 Aunque el término **QA** es relativamente nuevo, ya que el mundo de «testing», «automatización de pruebas», etc. encontró salida en el mundo IT a mediados del año 2.008.
 
@@ -25,7 +25,7 @@ Los nombres son muy parecidos pero se refieren a procesos completamente distinto
 
 ---
 
-### Práctica
+### :star: Práctica
 
 ![image](https://user-images.githubusercontent.com/72580574/216789530-a73ebfed-afe8-497b-8b7d-6b69bd3f024a.png)
 
