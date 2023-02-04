@@ -8,6 +8,8 @@
 
 - 2 - Práctica: Chequeando Velocidad de carga de una Web
 
+- 3 - Práctica: Buscando Links Rotos
+
 - Práctica - test visual de página web, chequear inconsistencias del código, chequear links.
 
 ---
@@ -49,5 +51,28 @@ Se usa para un **testeo de estrés** y para una **prueba de velocidad** de una p
 -> Es parecido al **LightHouse** de las Tools de Desarrolladores de Chrome
 
 -> Para poder analizar si la página comienza desde el inicio con problemas de carga.
+
+---
+
+## 3 - Práctica: Buscando Links Rotos
+
+-> Veamos como automatizar la búsqueda de links sin funcionamiento en una página web.
+
+El chequeo de los links, de todo lo que tiene que ver con botones y derivaciones a la misma web o a otra página.
+
+A veces si los links son muchos, el chequeo se complica.
+
+Como ejemplo queremos analizar la web de la revista Caras -> [https://caras.perfil.com/](https://caras.perfil.com/), que al ser de noticias, tiene muchos links.
+
+¿Cómo podemos quechear todos los links para confirmar que todos funcionan bien? ¿Que no tengamos un link que nos lleva a una web que no existe? ¿Qué todos los links lleven a algùn lugar?
+
+- Existe un plugging(**extension de Chorme**) que se llama [**CheckMyLinks**](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en)
+
+
+
+![image](https://user-images.githubusercontent.com/72580574/216790466-2dd0ed91-021a-4e52-88a7-c8028f5be187.png)
+
+
+-> Me marca 9 links invalidos, son con error 404 (page not found)
 
 ---
