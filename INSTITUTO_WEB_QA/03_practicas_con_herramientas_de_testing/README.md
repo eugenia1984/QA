@@ -161,7 +161,7 @@ Se ve la página del banco Ciudad que despliega un cartel, y uno tiene la posibi
 
 La **cookie** es el único archivo permitido, para que el navegador acceda al disco rígido.
 
--> Al limpiar el historia, se orran las cookies.
+-> Al limpiar el historia, se borran las cookies.
 
 -> Si entramos en modo incógnito NO HAY COOKIES.
 
@@ -173,5 +173,30 @@ La **cookie** es el único archivo permitido, para que el navegador acceda al di
 
 Un ejemplo es al entrar a Mercado Libre por primera vez, que uno selecciona el pais, eso se guarda en una cookie, entonces ya no se vuelve a preguntar.
 
+Otro ejemplo, es cuando uno hace una búsqueda de un producto, y luego al entrar de nuevo me muestra ese producto o cosas relacioandas.
+
+-> Se supone que las cookies no pueden tener cosas ejecutables.
+
+- Hay una extensión [**Cookie-Editor**](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?hl=en) de Google Chrome.
+
+![image](https://user-images.githubusercontent.com/72580574/216792064-bc3b9a97-bf70-4f7c-9e23-a959e299c9c1.png)
+
+
+-> Al hacer click en el ícono de **cookie-editor** me aparece la lista de todas las cookies que tiene la web. Tengo la opción de poder **borrar todas las cookies**.
+
+
+-Las **Extensiones** son programas que se instalan y nos dan una funcionalidad extra en el navegador.
+
+-> La difernecia del cache es que guarda imagenes y datos de la web para que luego se abra más rápido. En cambio las cookies va guardando el paso a paso nuestro en la web.
+
+- Detrás de las páginas hay tecnología. Y como testers vamos a consultar: ¿Tiene cookies? ¿Qué valores va a responder la cookie? ¿Qué actividad cumple la cookie? ¿En qué momento tiene que hacer algo la cookie? Todo esto es una documentación que nos tienen que dar.
+
+-> Al testear estas webs nos podemos encontrar con dos cosas...
+
+... **bloqueadores** de carteles
+
+... **captchas**
+
+Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean. 
 
 ---
