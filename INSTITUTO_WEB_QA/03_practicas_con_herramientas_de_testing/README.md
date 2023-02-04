@@ -9,3 +9,7 @@
 - Práctica - test visual de página web, chequear inconsistencias del código, chequear links.
 
 ---
+
+## :star: Práctica: Prueba de Velocidad de Tu Conexión a Internet
+
+---
