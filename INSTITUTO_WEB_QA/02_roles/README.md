@@ -24,3 +24,10 @@ Los nombres son muy parecidos pero se refieren a procesos completamente distinto
 ![image](https://user-images.githubusercontent.com/72580574/216789319-6033cd12-8511-4de5-b3e8-7470b8e92bc8.png)
 
 ---
+
+### Práctica
+
+![image](https://user-images.githubusercontent.com/72580574/216789530-a73ebfed-afe8-497b-8b7d-6b69bd3f024a.png)
+
+
+---
