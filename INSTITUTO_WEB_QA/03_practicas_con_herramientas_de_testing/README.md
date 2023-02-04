@@ -197,6 +197,9 @@ Otro ejemplo, es cuando uno hace una búsqueda de un producto, y luego al entrar
 
 ... **captchas**
 
-Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean. 
+Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean.  Por eso está en **entorno de testing**
+
+
+- Con **JMetter** se pueden hacer **pruebas de estress**, se le envía información a una web, hasta que la misma ya no pueda más. Y la **prueba de fuerza** es para saber hasta que momento la página pudo soportar toda esa acumulación de información que le llegó. Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 usuarios por hora*.
 
 ---
