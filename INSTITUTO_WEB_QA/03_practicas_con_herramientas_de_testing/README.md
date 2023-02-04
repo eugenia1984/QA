@@ -16,6 +16,8 @@
 
 - 6 - Práctica de Contenido n° 4
 
+- 7 - Clase 1 en vivo. Curso de Testing. Transmisión en vivo de Instituto Web
+
 ---
 
 ## :star: 1 - Práctica: Prueba de Velocidad de Tu Conexión a Internet
@@ -146,6 +148,30 @@ Es un **Test visual** y de **Relación del usuario con la pantalla**.
 
 
 ![image](https://user-images.githubusercontent.com/72580574/216791541-a77d6259-5f58-4fea-aed2-928c644f6c41.png)
+
+
+---
+
+
+## :star: 7 - Clase 1 en vivo. Curso de Testing. Transmisión en vivo de Instituto Web
+
+Se ve la página del banco Ciudad que despliega un cartel, y uno tiene la posibilidad de seleccionar de **Recordar màs tarde**, al hacer click, el cartel desaparece por un tiempo.
+
+¿Y cómo se hace esto? Por medio de **cookies**, un archivo que va contando la cantidad de veces en que nosotros ingresamos en la página. Cuando ese valor llegue  acierto número el cartel vuelve a salir. La idea de la cookie es **guardar información del usuario**.
+
+La **cookie** es el único archivo permitido, para que el navegador acceda al disco rígido.
+
+-> Al limpiar el historia, se orran las cookies.
+
+-> Si entramos en modo incógnito NO HAY COOKIES.
+
+-> Depende del navegador, las coookies se guardan en distintos lugares. En Chrome se guarda todo en un único archivo.
+
+-> El testing debe realizar análisis de las cookies, que están programadas por un desarrollador del proyecto.
+
+-> Las cookies se guardan en carpetas donde están los navegadores de la pc.
+
+Un ejemplo es al entrar a Mercado Libre por primera vez, que uno selecciona el pais, eso se guarda en una cookie, entonces ya no se vuelve a preguntar.
 
 
 ---
