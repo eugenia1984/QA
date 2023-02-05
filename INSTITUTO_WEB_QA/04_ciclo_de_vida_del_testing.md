@@ -27,7 +27,7 @@ Una vez que esta idea es aceptada se hace el **análisis del desarrollo**: ¿ten
 
 Pasamos a generar el **Requerimiento de cada historia de usauri**, esa idea se la separa en partes, en tarjetas donde se anota que hay que hacer.
 
-Esos requerimientos **llegan a desarrollo** y a su vez se va **Realizando testing**.
+Esos requerimientos **llegan a desarrollo** y a su vez se va **Realizando testing**. 
 
 Al llegar a testing, la gente de testing debe **Desarrollar el caso de prueba**, en base al requerimiento ¿Que voy a probar?¿Cual es el resultado esperado?. Este caso de prueba **se le asigna a un teeter**, el cual debe **analizar el caso de prueba**, para saber si se podrá realizar.¿Tenemos la Mac?¿Tenemos el celular?¿Estan todos los datos completos?¿Se entiende?
 
@@ -39,7 +39,7 @@ Al llegar a testing, la gente de testing debe **Desarrollar el caso de prueba**,
 
 Suponemos que el **Caso de prueba puede realizarse**, entonces se ejecuta y tenemos dos posibles escenarios...
 
-... la prueba no pasa -> **vuelve a desarrollo**
+... la prueba no pasa -> **vuelve a desarrollo**. Y se repten los pasos: llaga a desarrollo -> se envia a testing , etc, etc -> es un **Caso de regresión**(porque regresa a desarrollo).
 
 ... la prueba pasa ok -> **documentación de la prueba** -> **Test finalizado y cerrado**
 
