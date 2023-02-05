@@ -24,6 +24,6 @@
 
 ---
 
-@@ :star:  3 - Clase 2 en Vivo. Curso de Testing. Transmisión en vivo de Instituto Web
+## :star:  3 - Clase 2 en Vivo. Curso de Testing. Transmisión en vivo de Instituto Web
 
 ---
