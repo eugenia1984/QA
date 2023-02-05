@@ -39,7 +39,7 @@ Al llegar a testing, la gente de testing debe **Desarrollar el caso de prueba**,
 
 Suponemos que el **Caso de prueba puede realizarse**, entonces se ejecuta y tenemos dos posibles escenarios...
 
-... la prueba no pasa
+... la prueba no pasa -> **vuelve a desarrollo**
 
 ... la prueba pasa ok -> **documentación de la prueba** -> **Test finalizado y cerrado**
 
