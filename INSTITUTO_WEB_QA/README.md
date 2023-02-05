@@ -10,7 +10,7 @@
 
 3. [**PRACTICAS CON HERRAMIENTAS DE TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/03_practicas_con_herramientas_de_testing): práctica - chequear la velocidad de carga de una web, práctica - test visual de página  web, chequear inconsistencias del código, chequear links.
 
-4. [**CICLO DE VIDA DEL TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_ciclo_de_vida_del_testing)
+4. [**CICLO DE VIDA DEL TESTING**](https://github.com/eugenia1984/QA/blob/main/INSTITUTO_WEB_QA/04_ciclo_de_vida_del_testing.md)
 
 5. [**HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_historia_de_usurio): registración
 
