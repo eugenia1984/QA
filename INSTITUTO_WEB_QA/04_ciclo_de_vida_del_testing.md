@@ -47,6 +47,11 @@ Suponemos que el **Caso de prueba puede realizarse**, entonces se ejecuta y tene
 
 ## :star: 2 - Práctica de Contenido n° 5.
 
+Componentes del Ciclo de Desarrollo
+
+![image](https://user-images.githubusercontent.com/72580574/216836077-d589916f-c929-4baa-8b06-008f2a084d26.png)
+
+
 ---
 
 ## :star:  3 - Clase 2 en Vivo. Curso de Testing. Transmisión en vivo de Instituto Web
