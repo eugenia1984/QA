@@ -200,6 +200,13 @@ Otro ejemplo, es cuando uno hace una búsqueda de un producto, y luego al entrar
 Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean.  Por eso está en **entorno de testing**
 
 
-- Con **JMetter** se pueden hacer **pruebas de estress**, se le envía información a una web, hasta que la misma ya no pueda más. Y la **prueba de fuerza** es para saber hasta que momento la página pudo soportar toda esa acumulación de información que le llegó. Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 usuarios por hora*.
+- Con **JMetter** se pueden hacer **pruebas de estress**, se le envía información a una web, hasta que la misma ya no pueda más. Y la **prueba de fuerza** es para saber hasta que momento la página pudo soportar toda esa acumulación de información que le llegó. Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 usuarios por hora. Cuendo llega al 3.001 se cae. Entonces 3001 es el punto de estress.*
+
+JMetter tiene cosas de automatización.
+
+- Siempre hay que dejar bien documentado **la velocidad que tenemos nosotros en el momento de hacer las pruebas**. Porque si tenemos internet lenta nos puede dar malos resultados. Por eso se utiliza [https://www.speedtest.net/](https://www.speedtest.net/). Da el ANCHO DE BANDA CONTRATADO, lo cual NO ES LA VELOCIDAD. La VELOCIDAD la marca LA LATENCIA, los números chicos abajo de los números grandes de descarga y salida.
+
+Con 10mega es suficiente para una prueba de estress.
+
 
 ---
