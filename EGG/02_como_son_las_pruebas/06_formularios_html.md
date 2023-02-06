@@ -429,6 +429,136 @@ Como podemos ver en la url se puede ver que ingresó el usuario en cada campo, a
 
 ---
 
+![image](https://user-images.githubusercontent.com/72580574/217096432-4edca2e8-d814-472d-87dc-cb9245d65eaf.png)
+
 
 ---
 
+## Video Validación de inputs en formularios HTML
+
+En el siguiente video encontrarás lo que hemos estado viendo pero puesto en práctica. Nos interesa que usen el video con el fin de tener un ejemplo para que puedan entender la estructura de los formularios HTML, para poder hacer pruebas sobre ellos y encontrar posibles errores.
+
+[Ver Video inputs en formularios HTML](https://youtu.be/C_ib-py8PEE)
+
+---
+
+##  MANOS A LA OBRA!!
+
+### Ejercicio formulario HTML
+
+Teniendo en cuenta lo que hemos visto en la guía sobre todas las validaciones necesarias para dejar un formulario de la mejor manera posible, vamos a revisar formulario para validarlo.
+
+El formulario van a poder validarlo en la web para que sea de manera dinámica, nosotros les entregaremos un listado de las cosas que deben validar si o si de cada campo y deberán escribir si el campo cumple con los requerimientos especificados o no. 
+
+Además, deberemos revisar según el tipo de formulario que les daremos, si tiene todos los campos necesarios para cumplir con el propósito del formulario. Por ejemplo, si tenemos una página web con un formulario para comprar ropa y que existe el campo para elegir el talle.
+
+Recomendamos que también realicen las validaciones que estaban en la guía para todos los tipos de campos.
+
+
+### Formulario de suscripción
+
+Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro para una suscripción a una página que te envía quesos todos los meses a tu domicilio para que hicieras una degustación. Esta suscripción es paga, por lo que debemos permitir que el usuario tenga a disposición todos los métodos de pago necesarios para elegir y que pueda ingresar los datos de dicho método de pago. Además, al ser paga solo es para gente mayor a 18 años.
+
+**¿Cuáles son los campos cruciales para que este formulario esté completo y con un funcionamiento correcto de cada campo?**
+
+[Haz click aquí para acceder al formulario de suscripción ](https://eggcooperation.github.io/EjercicioFormularioHTMLQA/)
+
+### Campos a validar: 
+
+1. Campo nombre, cosas a validar: 
+
+-El campo tiene que admitir un máximo de 20 caracteres.
+
+-El campo tiene que admitir mayúsculas y minúsculas.
+
+-El campo no debería admitir el ingreso números
+
+-El formulario no debería admitir que se envíe el campo vacío 
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+2. Campo apellido, cosas a validar: 	
+
+-El campo tiene que admitir un máximo de 20 caracteres.
+
+-El campo tiene que admitir mayúsculas y minúsculas.
+
+-El campo no debería admitir el ingreso números
+
+-El formulario no debería admitir que se envíe el campo vacío 
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+3. Campo edad, cosas a validar:
+
+-El campo solo tiene que admitir edad mayores a 18 años .
+
+-El campo no debería admitir el ingreso de texto.
+
+-El formulario no debería admitir que se envíe el campo vacío.
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+4. Campo email, cosas a validar: 	
+
+-El campo tiene que admitir el ingreso de mails usando mayúsculas, minúsculas, números y caracteres especiales.
+
+-El campo tiene que admitir cualquier tipo de dominio de mail (Gmail - Yahoo - etc)
+
+-El formulario no debería admitir como válido un mail sin @
+
+-El formulario no debería admitir que se envíe el campo vacío.
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+5. Lista de opción método de pago, cosas a validar: 	
+
+-La lista de opciones debería tener todos los tipos de pago posibles. 
+
+-La lista de opciones no debería admitir la selección de dos opciones.
+
+-El formulario no debería admitir que se envíe el campo vacío.
+
+¿Qué problemas pudiste encontrar en este campo?
+
+ 
+
+6. Campo vencimiento de tarjeta, cosas a validar: 	
+
+-El campo no tiene que admitir una fecha menor a la fecha actual, ya que significa que la tarjeta está vencida.
+
+-El campo no tiene que admitir texto.
+
+-El formulario debería admitir que se envíe el campo vacío.
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+7. Campo documento de identidad, cosas a validar	
+
+-El campo solo tiene que admitir un documento de un máximo 8 dígitos y un mínimo de 7
+
+-El campo debería admitir el ingreso del documento con puntos entre los números
+
+-El campo no debería admitir el ingreso de texto.
+
+-El campo no debería admitir el ingreso de números negativos.
+
+-El formulario no debería admitir que se envíe el campo vacío.
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+8. Campo desea suscribirse…, cosas a validar
+
+-El campo tiene que tener la opción de aceptar o negarse a suscribirse.
+
+¿Qué problemas pudiste encontrar en este campo? 
+
+9. Botón de envío y de restaurar, cosas a validar: 
+
+-Validar que ambos botones funcionan correctamente
+
+¿Funcionan correctamente? Si la respuesta es no, ¿por qué ?
+
+10. Teniendo en cuenta el tipo de página y los campos que tenemos en el formulario, ¿sentís que hay algún campo importante que falte? Si es así, ¿cuál o cuáles? 
+
+---
