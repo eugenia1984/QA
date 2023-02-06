@@ -403,3 +403,32 @@ Cuando nosotros enviamos nuestro formulario, toda la información que estaba en 
 ### ¿Qué peligro conlleva eso? 
 
 Además de que hace que el usuario probablemente no esté muy contento con esto, el riesgo real es que los usuarios pueden ver exactamente qué parámetros se envían a su servidor y no solo pueden guardar esa URL con un marcador (para volver a enviar) sino que también pueden modificar la URL para enviar otros parámetros, potencialmente sin sentido, a nuestra base de datos / servidor.
+
+### ¿Por qué sucede esto? 
+
+Esto sucede porque a la hora de enviar nuestro formulario se envía a través de una petición HTTP, las peticiones HTTP son básicamente la manera en la que la página se comunica con el servidor. 
+
+Vamos a poner un ejemplo muy sencillo, el usuario teclea en su url www.ejemplo.com, el navegador en ese momento envía una petición HTTP al servidor para que traiga la página web. El servidor envía la petición con la página para que el navegador la cargue y por último la muestre. 
+Estas peticiones también se usan para enviar la información, cuando nosotros le damos al botón de submit en nuestro formulario, enviamos una petición HTTP con toda nuestra información para que el servidor la guarde.
+
+#### Get y Post
+
+Como podemos ver hay dos tipos de peticiones, una que es de traer (get) información del servidor y otra que es enviar (post) información al servidor. Estos dos métodos, llamados get y post, nos ayudan a definir cada acción que se realiza en nuestro servidor, los programadores definen según necesidad si hacen que “x” acción sea get o post. 
+
+El problema con nuestro formulario aparece cuando en vez de poner el formulario con un método post, lo ponemos con un método get y ahí vamos a ver toda nuestra información en la url.
+
+
+### ¿Cómo se vería esto? 
+
+![image](https://user-images.githubusercontent.com/72580574/217096301-a3a1dbd8-6a77-4684-90c1-b3e64d5da2bd.png)
+
+Como podemos ver en la url se puede ver que ingresó el usuario en cada campo, ahora podría guardar esa url y enviar otros parámetros sin sentido.
+
+![image](https://user-images.githubusercontent.com/72580574/217096356-b70f84b9-3ff6-40a6-b830-6a9c5dd319c7.png)
+
+
+---
+
+
+---
+
