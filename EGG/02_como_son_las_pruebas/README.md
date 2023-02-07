@@ -12,7 +12,7 @@
 
 - [2.5 - Casos de prueba II](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/05_casos_de_prueba_2.md)
 
-- **PROYECTO INTEGRADOR 2**
+- [**PROYECTO INTEGRADOR 2**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
 
 ---
 
