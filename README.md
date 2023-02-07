@@ -56,7 +56,8 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [2.6 - Formularios HTML](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/06_formularios_html.md)
 
-- Proyecto integrador II
+- [**Proyecto integrador II**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
+
 
 3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas)
 
