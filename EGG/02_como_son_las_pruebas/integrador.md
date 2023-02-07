@@ -162,3 +162,23 @@ Entregables
 
 ---
 
+## :Star: 7 - Check de conocimiento integrador
+
+Responde a todas las preguntas que se encuentran en el siguiente formulario: https://forms.gle/jrqa3wTDRJmEgScU9
+
+---
+
+## ¡Hora de cerrar! 
+
+¡Lo has logrado! Has llegado al final del segundo ejercicio integrador.
+
+Tómense 5 minutos como equipo para conversar sobre el encuentro de hoy. Les dejamos algunas preguntas disparadoras que no necesariamente deben usarlas:
+
+¿Cómo se sintieron al poner en común la resolución de los ejercicios?
+
+¿Cómo se sintieron con la dificultad extra que presentaron los desafíos de hoy?
+
+¡Gran momento para destacar a quien cooperó más con un pulso y agradecer a nuestro equipo de hoy! Han sido unas horas muy intensas de trabajo junt@s.
+
+---
+
