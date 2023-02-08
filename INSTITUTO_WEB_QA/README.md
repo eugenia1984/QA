@@ -14,9 +14,9 @@
 
 5. [**HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): concepto de Historia de Usuario, como registrar una Historia de Usuario, relación con los usuarios
 
-6. [**PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
+6. [**PLANES DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
 
-7. [**REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos): concepto, funcionalidad y no funcionalidad
+7. [**REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos): Requisitos Funcionales y No Funcionales, Validación y Verificación y Test de los requerimientos
 
 8. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba): información que contiene, forma de escritura
 
