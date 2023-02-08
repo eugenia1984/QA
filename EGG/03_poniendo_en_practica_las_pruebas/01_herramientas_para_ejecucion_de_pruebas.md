@@ -159,4 +159,111 @@ Luego puedes comparar con las respuestas de tu equipo. ¿Han anotado las mismas 
 
 ## ✋ ¡MANOS A LA OBRA! 
 
+Ahora que ya comprendes la importancia y usos de esta herramienta, es momento de instalarla para conocerla en profundidad.
+Verás que además de instalar TestLink, realizamos la instalación de XAMPP. 
+
+Testlink es una aplicación web, por lo que requiere tener un servidor web y una base de datos para funcionar. Precisamente requiere PHP(Un lenguaje de programación de uso general que se adapta especialmente al desarrollo web) y MySQL(MySQL es un sistema de gestión de bases de datos). Para evitar complicaciones y tener que instalar todo de cero una buena solución es la que brinda xampp, que permite fácilmente levantar el server web y mysql sin tener que complicarse.
+
+### Links de descarga:
+
+🚨 ¡ALERTA! Debes descargar la versión de XAMPP indicada en el tutorial. ¡No descargues la versión más reciente!🚨
+
+
+XAMPP: Browse /XAMPP Windows/5.6.36 at SourceForge.net
+
+TestLink: TestLink download | SourceForge.net
+
+Puedes pedir ayuda a tu equipo si la instalación te presenta alguna dificultad.  Sigue el paso a paso de este tutorial para realizarlo:
+
+https://youtu.be/So4V1FH_g4A
+
+¿Tienes dificultades para seguir el video tutorial? Aquí hay un paso a paso mostrando con capturas de pantalla: [QA E14 - Instalación de TestLink.docx](https://docs.google.com/document/d/1PQ-9mlt4y09uIx59FFcn0MUpVbDqYLbU/edit)
+
+
+CONFIGURACIÓN DE LA BASE DE DATOS
+
+- Database admin login: root
+
+- Database admin password:
+
+- Testlink DB login: testlink
+
+- Testlink DB password: testlink
+
+- Clickear en Process Testlink Setup
+
+Tocar el link para entrar en testlink usando 
+
+- User: admin
+
+- Password: admin
+
+Guardar la contraseña en el navegador y listo.
+
+
+-> XAMPP es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl. El nombre es en realidad un acrónimo: X, Apache, MariaDB/MySQL, PHP, Perl.
+
+---
+
+## ¿NECESITAS UN EJEMPLO? 
+
+En el siguiente documento podrás encontrar un paso a paso mostrando las distintas funcionalidades de TestLink (no te asustes con la cantidad de páginas del documento, eso significa que está bien detallado con imágenes y texto todas las funcionalidades): [QA E14 - Funcionalidades de TestLink.docx](https://docs.google.com/document/d/1Oa8Evtc2gHokgQk1BtRvQya_kd-3azFY/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
+
+## Ejercicio
+
+### ¡MANOS A LA OBRA! 
+
+Ahora que ya has instalado la herramienta, pruébala realizando el siguiente ejercicio:
+“Sos el nuevo encargado del área de calidad. Has decidido usar TestLink para probar un <Sistema de Facturación Electrónica>. Deberás realizar las siguientes tareas:
+
+1. Crear el Proyecto <Facturación Electrónica>
+
+2. Crear los usuarios con los siguientes roles (si los roles no existen en el Testlink deberán de crearlos)
+
+![image](https://user-images.githubusercontent.com/72580574/217640437-3ae2a773-6052-4630-9631-fd8d94cbf9e6.png)
+
+
+3. Diseñar el test plan que se llamará <Plan de Pruebas – Sprint 02> con el usuario Jefe.
+
+4. Crear los test suites con el usuario Jefe:
+
+- A - Mantenimiento de Sede
+
+1) Registrar Sede
+
+2) Actualizar Sede
+
+3) Eliminar Sede
+
+5) Listar Sede
+
+5. Crear los test case con el usuario Jefe:
+
+A- Registrar Sede – Criterio de Aceptación 1
+
+B- Registrar Sede – Criterio de Aceptación 2
+
+C - Registrar Sede – Criterio de Aceptación 3
+
+D - Actualizar Sede – Criterio de Aceptación 1
+
+E - Actualizar Sede – Criterio de Aceptación 2
+
+F - Actualizar Sede – Criterio de Aceptación 3
+
+G - Eliminar Sede – Criterio de Aceptación 1
+
+H - Eliminar Sede – Criterio de Aceptación 2
+
+I - Buscar Sede – Criterio de Aceptación 1
+
+J - Buscar Sede – Criterio de Aceptación 2
+
+6. Asignar test cases a un test plan y que lo ejecute la mitad de test case el usuario Tester 01 y la otra mitad el Tester 02.
+
+7. Ejecutar los test cases con sus respectivos responsables.
+
+8. Mostrar el reporte gráfico de resultados.
+
+
 ---
