@@ -12,7 +12,7 @@ En los encuentros anteriores pudimos analizar en el **plan de pruebas** las prim
 ---
 
 
-##:book: MATERIAL DE LECTURA :book:
+## :book: MATERIAL DE LECTURA :book:
 
 ### Implementación
 
