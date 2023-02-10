@@ -165,131 +165,320 @@ En este proyecto, el valor recomendado de relación aceptable es 5 ~ 10%. Signif
 ---
 
 ## :stars:  Reportar un defecto paso a paso
-1.       Definir el error
+
+1. **Definir el error**
+
 El primer paso es definir el error escribiendo un resumen en el título y proporcionando una descripción general del problema. Al escribir un resumen en el título del defecto, incluya el área y la función donde ocurre el problema. ¿Por qué? Porque la mayoría de las aplicaciones están altamente integradas y, por lo tanto, son complejas. Además, no puede asumir que los desarrolladores u otros revisores de defectos saben cómo funciona la aplicación en todos los casos.
-¿NECESITAS UN EJEMPLO? 
+
+**¿NECESITAS UN EJEMPLO?**
+
 Por ejemplo, encontré un defecto en una aplicación de administración de medicamentos; un usuario puede ingresar un medicamento al que el registro del paciente mostró una alergia grave. El botón de alergia no se resalta en rojo para indicar visualmente la alergia y, lo que es peor, le permite al usuario ingresar el medicamento en cuestión, independientemente. 
+
 En mi título de resumen, ingresará el área y la función general:
+
 El botón de alergia no está resaltado en rojo y el usuario puede ingresar el medicamento.
 Esta es una breve declaración del problema en una oración concisa y comprensible. A continuación, debe agregar una breve descripción en el cuerpo del informe del defecto:
+
 El botón de alergia no se resalta en rojo cuando se guarda una alergia en el registro del paciente. Además, la entrada de alergia está configurada para no permitir la entrada de medicación de la medicación que interactúa. El usuario puede ingresar y guardar el medicamento al que el paciente es alérgico.
+
 La descripción irá seguida de detalles adicionales, así que sé breve y ve al grano. Puede ser lo único que leen muchos revisores, por lo que es esencial describir el problema de manera efectiva.
-2.      Investiga la causa raíz
-La investigación significa asegurarse de que el error sea realmente un error. Querrá verificar los ajustes de configuración, los ajustes del usuario, cualquier cosa en la aplicación que afecte su funcionamiento. Haga todo lo posible para asegurarse de haber establecido una base precisa. Busque declaraciones de registro de errores, si es posible. 
+
+2. **Investiga la causa raíz**
+
+La investigación significa asegurarse de que el error sea realmente un error. Querrá verificar los ajustes de configuración, los ajustes del usuario, cualquier cosa en la aplicación que afecte su funcionamiento. Haga todo lo posible para asegurarse de haber establecido una base precisa. Busque 
+declaraciones de registro de errores, si es posible. 
+
 Asegúrese de agregar cualquier investigación realizada al final de su informe de defectos en un formato de nota. 
-¿NECESITAS UN EJEMPLO? 
+
+**¿NECESITAS UN EJEMPLO?**
+
 Siguiendo el ejemplo anterior, podrías redactar la siguiente nota:
+
 NOTA: Configuración configurada para bloquear la entrada de medicamentos cuando existe alguna alergia relacionada en el registro del paciente, independientemente del valor de gravedad. El usuario es un MD con acceso completo. La tabla de la base de datos muestra el valor de alergia correcto en el paciente. No se generaron errores en el registro de errores.
+
 Las "notas" son buenas maneras de comunicar a los desarrolladores la investigación que ha realizado para que puedan determinar dónde deben comenzar. 
-3.      Agregar documentación de respaldo
+
+3. **Agregar documentación de respaldo**
+
 Agrega o adjunta un archivo de grabación de pasos o un video del defecto siempre que sea posible. Si usa productos de Microsoft, hay una aplicación gratuita de grabadora de pasos que puede usar para solucionar el problema. Creará una vista de captura de pantalla por captura de pantalla de dónde hizo clic y la ubicación del código. Esto ayuda a los desarrolladores a resolver el problema de manera más eficiente. Además, enumere los resultados de las consultas de la base de datos o los archivos de registro de errores. Similar a agregar una nota, esto brinda soporte de respaldo de que el defecto existe y no es solo un problema de UI. Los cinco tipos de documentación de respaldo que se debe considerar usar son:
-Archivos de la grabadora de pasos de Microsoft
-Video grabado de los pasos que toma y la reacción de la aplicación (elija entre varios programas de video gratuitos disponibles en línea o simplemente use su teléfono inteligente)
-Consulta de base de datos y captura de pantalla de los resultados.
-Capturas de pantalla o texto completo de los mensajes de error en la descripción o como archivo adjunto
-Registros de errores, que existen para la mayoría de las aplicaciones, independientemente de si son móviles, web o heredadas; adjunte una copia del registro o copie y pegue el texto en su descripción; asegúrese de identificar qué archivo de registro, si hay más de uno
+
+- Archivos de la grabadora de pasos de Microsoft
+
+- Video grabado de los pasos que toma y la reacción de la aplicación (elija entre varios programas de video gratuitos disponibles en línea o simplemente use su teléfono inteligente)
+
+- Consulta de base de datos y captura de pantalla de los resultados.
+
+- Capturas de pantalla o texto completo de los mensajes de error en la descripción o como archivo adjunto
+
+- Registros de errores, que existen para la mayoría de las aplicaciones, independientemente de si son móviles, web o heredadas; adjunte una copia del registro o copie y pegue el texto en su descripción; asegúrese de identificar qué archivo de registro, si hay más de uno
  
-4.      Formatee su informe para una alta legibilidad
+4. **Formatee su informe para una alta legibilidad**
+
 Proporcionar un formato comprensible hace que su defecto sea más fácil de revisar y más probable que sea aceptado. Dé formato al texto del defecto separándolo en las siguientes secciones:
-Resumen (título)
-Descripción
-Compilación/plataforma
-Pasos para reproducir
-Resultados previstos
-Resultados actuales
-Investigar
-Documentación de soporte
+
+- Resumen (título)
+
+- Descripción
+
+- Compilación/plataforma
+
+- Pasos para reproducir
+
+- Resultados previstos
+
+- Resultados actuales
+
+- Investigar
+
+- Documentación de soporte
 
 La sección "compilación/plataforma" es opcional, según la aplicación que se esté probando. Incluya esta sección cada vez que la aplicación se ejecute en más de una plataforma o navegador, y anote la versión específica. 
 
 La sección "pasos para reproducir" debe ser precisa. Si no puede reproducir el defecto cada vez, incluilo en el informe. Repetí los pasos para reproducir varias veces y verifique que tiene los pasos y acciones correctos en el orden correcto que son necesarios para reproducir el defecto. Al escribir los pasos para reproducir, tene en cuenta que es posible que los desarrolladores no sepan cómo funciona la aplicación en general. Dales pasos detallados pero concisos para que puedan reproducir el defecto.
-¿NECESITAS UN EJEMPLO? 
-Configuración: Establezca la configuración de alergias en SIEMPRE BLOQUEAR y guarde.
-Inicie sesión como usuario de MD con acceso completo.
-Seleccione un paciente con una alergia existente guardada a la penicilina.
-Vea el botón de alerta de alergia en la esquina superior derecha.
-Ingrese una orden de medicación para penicilina, q4h durante 30 días. Ahorrar.
-Sea directo y al grano. Si son posibles varias formas de realizar una acción, asegúrese de anotar cuál usó. Por ejemplo:
-Haga clic en el botón Ingresar medicamento del menú principal para agregar un medicamento. Utilice la ventana Buscar/Seleccionar para elegir la penicilina. Haga clic en Aceptar en la ventana emergente para confirmar la selección del medicamento.
+
+**¿NECESITAS UN EJEMPLO?**
+
+1 - Configuración: Establezca la configuración de alergias en SIEMPRE BLOQUEAR y guarde.
+
+2 - Inicie sesión como usuario de MD con acceso completo.
+
+3 - Seleccione un paciente con una alergia existente guardada a la penicilina.
+
+4 - Vea el botón de alerta de alergia en la esquina superior derecha.
+
+5 - Ingrese una orden de medicación para penicilina, q4h durante 30 días. Ahorrar.
+
+6 - Sea directo y al grano. Si son posibles varias formas de realizar una acción, asegúrese de anotar cuál usó. Por ejemplo:
+
+7 - Haga clic en el botón Ingresar medicamento del menú principal para agregar un medicamento. Utilice la ventana Buscar/Seleccionar para elegir la penicilina. Haga clic en Aceptar en la ventana emergente para confirmar la selección del medicamento.
 
 
-Elementos importantes en el informe de errores
+## Elementos importantes en el informe de errores
+
 A continuación, se presentan las características importantes en el informe de error:
-1.       Número/id de error
-Un número de error o un número de identificación (como swb001) hace que el informe de errores y el proceso de referencia a errores sean mucho más fáciles. El desarrollador puede verificar fácilmente si un error en particular se ha corregido o no. Hace que todo el proceso de prueba y repetición sea más fluido y fácil.
-2.      Título del error
-Los títulos de errores se leen con más frecuencia que cualquier otra parte del informe de errores. Esto debería explicar todo sobre lo queincluye el error. El título del error debe ser lo suficientemente sugerente para que el lector pueda entenderlo. Un título de error claro hace que sea fácil de entender y el lector puede saber si el error se informó anteriormente o se solucionó.
-3.      Prioridad
-Según la gravedad del error, se puede establecer una prioridad para él. Un error puede ser un Bloqueador, Crítico, Mayor, Menor, Trivial o una sugerencia. Las prioridades de errores se pueden dar de P1 a P5 para que los importantes se vean primero.
-4.      Plataforma/Entorno
-La configuración del sistema operativo y del navegador es necesaria para un informe de error claro. Es la mejor manera de comunicar cómo se puede reproducir el error.
-Sin la plataforma o el entorno exactos, la aplicación puede comportarse de manera diferente y es posible que el error del lado del tester no se replique del lado del desarrollador. Por lo tanto, es mejor mencionar claramente el entorno en el que se detectó el error.
-5.      Descripción
-La descripción del error ayuda al desarrollador a comprender el error. Describe el problema encontrado. Una descripción deficiente creará confusión y hará perder el tiempo a los desarrolladores y testers.
-Es necesario comunicar claramente sobre el efecto de la descripción. Siempre es útil usar oraciones completas. Es una buena práctica describir cada problema por separado en lugar de desmenuzarlos por completo. No utilice términos como “Creo” o “Creo”.
-6.      Pasos para reproducir
-Un buen informe de error debe mencionar claramente los pasos para reproducir. Estos pasos deben incluir acciones que puedan causar el error. No haga declaraciones genéricas. Sea específico en los pasos a seguir.
-7.      Resultado esperado y real
-La descripción de un error está incompleta sin los resultados esperados y reales. Es necesario delinear cuál es el resultado de la prueba y qué debe esperar el usuario. El lector debe saber cuál es el resultado correcto de la prueba. Claramente, mencione lo que sucedió durante la prueba y cuál fue el resultado.
-8.      Captura de pantalla
-Una imagen vale más que mil palabras. Tome una captura de pantalla de la instancia de falla con los subtítulos adecuados para resaltar el defecto. Resalte los mensajes de error inesperados con color rojo claro. Esto llama la atención sobre el área requerida.
-¿NECESITAS UN EJEMPLO? 
-Aquí te dejamos un reporte de ejemplo: QA E16 - Ejemplo Reporte de error.docx
 
-¡Pro tip alert! Conviértete en un escritor excepcional de informes de defectos.
+1. **Número/id de error**: Un número de error o un número de identificación (como swb001) hace que el informe de errores y el proceso de referencia a errores sean mucho más fáciles. El desarrollador puede verificar fácilmente si un error en particular se ha corregido o no. Hace que todo el proceso de prueba y repetición sea más fluido y fácil.
+
+2. **Título del error**: Los títulos de errores se leen con más frecuencia que cualquier otra parte del informe de errores. Esto debería explicar todo sobre lo queincluye el error. El título del error debe ser lo suficientemente sugerente para que el lector pueda entenderlo. Un título de error claro hace que sea fácil de entender y el lector puede saber si el error se informó anteriormente o se solucionó.
+
+3. **Prioridad**: Según la gravedad del error, se puede establecer una prioridad para él. Un error puede ser un Bloqueador, Crítico, Mayor, Menor, Trivial o una sugerencia. Las prioridades de errores se pueden dar de P1 a P5 para que los importantes se vean primero.
+
+4. **Plataforma/Entorno**: La configuración del sistema operativo y del navegador es necesaria para un informe de error claro. Es la mejor manera de comunicar cómo se puede reproducir el error.
+Sin la plataforma o el entorno exactos, la aplicación puede comportarse de manera diferente y es posible que el error del lado del tester no se replique del lado del desarrollador. Por lo tanto, es mejor mencionar claramente el entorno en el que se detectó el error.
+
+5.  **Descripción**: La descripción del error ayuda al desarrollador a comprender el error. Describe el problema encontrado. Una descripción deficiente creará confusión y hará perder el tiempo a los desarrolladores y testers.
+Es necesario comunicar claramente sobre el efecto de la descripción. Siempre es útil usar oraciones completas. Es una buena práctica describir cada problema por separado en lugar de desmenuzarlos por completo. No utilice términos como “Creo” o “Creo”.
+
+6. **Pasos para reproducir**
+Un buen informe de error debe mencionar claramente los pasos para reproducir. Estos pasos deben incluir acciones que puedan causar el error. No haga declaraciones genéricas. Sea específico en los pasos a seguir.
+
+7.  **Resultado esperado y real**: La descripción de un error está incompleta sin los resultados esperados y reales. Es necesario delinear cuál es el resultado de la prueba y qué debe esperar el usuario. El lector debe saber cuál es el resultado correcto de la prueba. Claramente, mencione lo que sucedió durante la prueba y cuál fue el resultado.
+
+8.  **Captura de pantalla**: Una imagen vale más que mil palabras. Tome una captura de pantalla de la instancia de falla con los subtítulos adecuados para resaltar el defecto. Resalte los mensajes de error inesperados con color rojo claro. Esto llama la atención sobre el área requerida.
+
+**¿NECESITAS UN EJEMPLO?**
+
+Aquí te dejamos un reporte de ejemplo: [QA E16 - Ejemplo Reporte de error.docx](https://docs.google.com/document/d/1HlzehsNhSCzFMuJ7Isiqr79DFkK0_ctI/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
+
+---
+
+#### Ejemplo de informe completo de defectos
+
+Nro: swb001
+
+Título: El botón de alergia no está resaltado en rojo y el usuario puede ingresar el medicamento.
+
+Prioridad: Crítico
+
+Descripción:
+
+El botón de alergia no se resalta en rojo cuando se guarda una alergia en el registro del paciente. Además, la entrada de alergia está configurada para no permitir la entrada de medicación de la medicación que interactúa. El usuario puede ingresar y guardar el medicamento al que el paciente es alérgico.
+
+Construir/Plataforma:
+
+Windows 10/IE 11.5.1/OS X Yosemite/Safari 10.0.3
+
+Pasos para reproducir:
+
+1. Configuración: Establezca la configuración de alergias en SIEMPRE BLOQUEAR y guarde.
+
+2. Inicie sesión como usuario de MD con acceso completo.
+
+3. Seleccione un paciente con una alergia existente guardada a la penicilina.
+
+4. Vea el botón de alerta de alergia en la esquina superior derecha.
+
+5. Ingrese una orden de medicación para penicilina, q4h durante 30 días. Ahorrar.
+
+Resultados actuales:
+
+El botón de alergia no se actualiza y se vuelve rojo para alertar a los usuarios sobre la presencia de una alergia, y les permite agregar el medicamento, aunque la alergia esté en el registro del paciente.
+
+Resultados previstos:
+
+El botón de alergia se actualiza automáticamente cada vez que se ingresa y guarda una nueva alergia. El botón se vuelve rojo para indicar que existe una alergia en el paciente. El usuario de MD no puede guardar una orden de medicación en el registro del paciente cuando la alergia está presente. El ajuste de configuración de SIEMPRE BLOQUEAR permite bloquear la orden de medicación independientemente de la gravedad de la alergia.
+
+Evidencia y documentación de respaldo:
+
+Vea la flecha roja en la captura de pantalla de muestra a continuación. El botón de alergia debe mostrarse donde se dibuja el rectángulo rojo.
+
+NOTA: Configuración configurada para bloquear la entrada de medicamentos cuando existe alguna alergia relacionada en el registro del paciente, independientemente del valor de gravedad. El usuario es un MD con acceso completo. La tabla de la base de datos muestra el valor de alergia correcto en el paciente. No se generaron errores en el registro de errores.
+
+---
+
+-> **¡Pro tip alert!^^ Conviértete en un escritor excepcional de informes de defectos.
+
 Revisa todo el informe de defectos antes de enviarlo. La credibilidad de los miembros del equipo de desarrollo mejora cuando los defectos son claros, concisos y reproducibles. Si mencionas un archivo adjunto, asegúrate de agregarlo. Ten en cuenta en la descripción si puedes o no reproducir el error a voluntad, o solo en ciertas versiones o plataformas. Se conciso y directo, incluyendo solo los datos de defectos relevantes.
 
+---
 
-¿Cuáles son los estados de un defecto?
+### ¿Cuáles son los estados de un defecto?
+
 El número de estados soportados por herramientas es variable, veamos a continuación una categorización de defectos en un ciclo:
-Nuevo– el tester ha introducido un defecto en el sistema
-Abierto– informe de problema confirmado (por el jefe de pruebas o desarrollador)
-Rechazado– rechazado el informe del problema (por el tester, jefe de pruebas o desarrollador)
-Inspección– el desarrollador intenta identificar el defecto
-En observación– el defecto no puede ser reproducido, se encuentra bajo vigilancia
-Trabajo en progresión– el defecto es localizado y preparado/desbloqueado para su corrección
-Repetición de pruebas (retest)– el desarrollador ha corregido la causa del error y ha hecho su prueba de escritorio (revisa que se cumpla el requerimiento y el error ya no esté)
-Finalizado- tester ha verificado la corrección a través de la repetición de las pruebas
-No resuelto– el tester no ha podido verificar la corrección, el defecto aún se encuentra ah
-Análisis y modificación de estados
+
+- **Nuevo** – el tester ha introducido un defecto en el sistema
+
+- **Abierto** – informe de problema confirmado (por el jefe de pruebas o desarrollador)
+
+- **Rechazado** – rechazado el informe del problema (por el tester, jefe de pruebas o desarrollador)
+
+- **Inspección** – el desarrollador intenta identificar el defecto
+
+- **En observación**– el defecto no puede ser reproducido, se encuentra bajo vigilancia
+
+- **Trabajo en progresión** – el defecto es localizado y preparado/desbloqueado para su corrección
+
+- **Repetición de pruebas (retest)** – el desarrollador ha corregido la causa del error y ha hecho su prueba de escritorio (revisa que se cumpla el requerimiento y el error ya no esté)
+
+- **Finalizado** - tester ha verificado la corrección a través de la repetición de las pruebas
+
+- **No resuelto** – el tester no ha podido verificar la corrección, el defecto aún se encuentra ah
+
+---
+
+### Análisis y modificación de estados
+
 Normalmente el jefe de pruebas o responsable decide si un defecto debe ser corregido o rechazado - de forma alternativa el consejo de control de cambio puede decidir sobre la corrección de un defecto teniendo en cuenta el coste de reparación. En el caso en que no haya un responsable de testing, muchas veces dicho rol es tomado por el líder de proyecto.
+
 Todos los cambios (incluidos los comentarios) deben ser registrados en el sistema de gestión de incidencias. Esto asegura el control continuo sobre el estado de corrección de un defecto. Permite Pueden planificar las actividades de pruebas futuras
+
 ¡Sólo un tester puede poner un defecto en estado Finalizado!
+
 Los informes de defectos son analizados de forma sistemática con el objeto de evaluar el estado de desarrollo de las actividades de corrección de defectos conformidad con el plan de proyecto y la calidad de software.
+
 Preguntas para tener en cuenta:
-¿Es perceptible una reducción en el número de detecciones de nuevos defectos? ¿o se está incrementando el número a lo largo del ciclo de vida del proyecto?
-¿Hay objetos de prueba particulares que presenten un alto número de defectos? ¿Hay algún objeto de prueba que presente un número de defectos más bajo que el número medio de defectos?
-¿Cuántos defectos de severidad alta / prioridad alta aún siguen abiertos?
-¿Cuánto tiempo requiere la corrección de un defecto? ¿Cuál es el tiempo medio para la corrección de defectos?
-¿NECESITAS UN EJEMPLO? 
-Estás en camino a convertirte en un Tester, te dejamos una plantilla para que reportes todos tus errores. QA E16 - Plantilla Reporte de errores.docx
+
+- ¿Es perceptible una reducción en el número de detecciones de nuevos defectos? ¿o se está incrementando el número a lo largo del ciclo de vida del proyecto?
+
+- ¿Hay objetos de prueba particulares que presenten un alto número de defectos? ¿Hay algún objeto de prueba que presente un número de defectos más bajo que el número medio de defectos?
+
+- ¿Cuántos defectos de severidad alta / prioridad alta aún siguen abiertos?
+
+- ¿Cuánto tiempo requiere la corrección de un defecto? ¿Cuál es el tiempo medio para la corrección de defectos?
 
 
+**¿NECESITAS UN EJEMPLO?**
+
+Estás en camino a convertirte en un Tester, te dejamos una plantilla para que reportes todos tus errores. [QA E16 - Plantilla Reporte de errores.docx](https://docs.google.com/document/d/1qLfTlZv7eUExHbk4azE6NPut9u1-6J6Y/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
 
 
+## Plantilla de reporte de errores
+
+Utilice la siguiente plantilla de informe de error simple:
+
+Este es un formato de informe de error simple. Puede variar según la herramienta de informe de errores que esté utilizando. Si está escribiendo un informe de error manualmente, algunos campos deben mencionarse específicamente, como el número de error, que debe asignarse manualmente.
+
+**Reportero**: Su nombre y dirección de correo electrónico.
+
+**Producto**: En qué producto encontraste este error.
+
+**Versión**: La versión del producto, si existe.
+
+**Componente**: estos son los principales submódulos del producto.
+
+**Plataforma**: menciona la plataforma de hardware donde encontraste este error. Las diversas plataformas como 'PC', 'MAC', 'HP', 'Sun', etc.
+
+**Sistema operativo**: menciona todos los sistemas operativos en los que encontraste el error. Sistemas operativos como Windows, Linux, Unix, SunOS y Mac OS. Además, mencione las diferentes versiones del sistema operativo como Windows NT, Windows 2000, Windows XP, etc., si corresponde.
+
+**Prioridad**: ¿Cuándo se debe corregir un error? La prioridad generalmente se establece de P1 a P5. P1 como "arreglar el error con la máxima prioridad" y P5 como "Arreglar cuando el tiempo lo permita".
+
+**Severidad**: Esto describe el impacto del error.
+
+**Tipos de gravedad**:
+
+- Bloqueador: No se pueden realizar más trabajos de prueba.
+
+- Crítico: bloqueo de la aplicación, pérdida de datos.
+
+- Mayor: pérdida importante de la función.
+
+- Menor: pérdida menor de la función.
+
+- Trivial: algunas mejoras en la interfaz de usuario.
+
+- Mejora: Solicitud de una nueva característica o alguna mejora en la existente.
+
+**Estado**: cuando registra el error en cualquier sistema de seguimiento de errores, el estado del error será 'Nuevo' de forma predeterminada.
+Más tarde, el error pasa por varias etapas, como Corregido, Verificado, Reabrir, No se arreglará, etc.
+
+**Asignar a**:  si sabe qué desarrollador es responsable de ese módulo en particular en el que ocurrió el error, puede especificar la dirección de correo electrónico de ese desarrollador. De lo contrario, manténgalo en blanco, ya que esto asignará el error al propietario del módulo; de lo contrario, el administrador asignará el error al desarrollador. Posiblemente agregue la dirección de correo electrónico del administrador a la lista de CC.
+
+**URL**:  la URL de la página en la que se produjo el error.
+
+**Resumen**:  un breve resumen del error, en su mayoría dentro de las 60 palabras o menos. Asegúrese de que su resumen refleje cuál es el problema y dónde está.
+Descripción:  Una descripción detallada del error.
+
+Utilice los siguientes campos para el campo de descripción:
+
+-Reproducir pasos: Claramente, mencione los pasos para reproducir el error.
+
+-Resultado esperado: cómo debe comportarse la aplicación en los pasos mencionados anteriormente.
+
+-Resultado real: ¿Cuál es el resultado real de ejecutar los pasos anteriores, es decir, el comportamiento del error?
+
+Estos son los pasos importantes en el informe de errores. También puede agregar "Tipo de informe" como un campo más que describirá el tipo de error.
+
+Los tipos de informes incluyen:
+
+1- Error de codificación
+
+2- Error de diseño
+
+3- Nueva sugerencia
+
+4- Problema de documentación
+
+5- Problema de hardware
+
+---
 
 
+## ✋ ¡MANOS A LA OBRA! 
 
-¡MANOS A LA OBRA! 
-Ejercicio #1
+#### Ejercicio #1
+
 ¿Recuerdas cuando revisamos esta web?
-https://www.theworldsworstwebsiteever.com/old.htm
+
+[https://www.theworldsworstwebsiteever.com/old.htm](https://www.theworldsworstwebsiteever.com/old.htm)
+
 Utilizando la plantilla que te dimos antes, reporta al menos 3 errores. Al terminar, compara con tus compañeros los reportes realizados. 
+
 ¿Alguno reportó el mismo error que vos? ¿Alguno reportó un error que no viste?
+
 💡 Ayudín: ¿Encontraste la lista de errores que brinda la página?
 
-Ejercicio #2
+#### Ejercicio #2
+
 El ejercicio se va poniendo desafiante… ¡Llegó la hora de investigar en la web!
+
 Te dejamos aquí este sitio de prueba:
-Automation Practice Site
+
+[Automation Practice Site](https://practice.automationtesting.in/)
+
 Escribe el reporte de error correspondiente. Luego, pueden compartir con el equipo los errores que identificaron para cada caso.
+
 Utiliza esta plantilla: QA E16- Reporte de errores
+
 ¡Recuerda que aquí no hay respuestas correctas y/o incorrectas!
 
-
-
-
-
-
-
-
+---
