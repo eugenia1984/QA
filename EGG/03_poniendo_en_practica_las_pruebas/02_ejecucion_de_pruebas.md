@@ -566,3 +566,78 @@ Desafío de aprendizaje: Trata de contestar las siguientes preguntas sin tener e
 - No hay más que una forma de utilizar el sistema
 
 ---
+
+## :stars: Check de conocimiento - Ejecución de pruebas
+
+1.  Un entorno de prueba es una configuración de software y hardware para que los equipos de prueba ejecuten casos de prueba. En otras palabras, no admite la ejecución de pruebas con hardware, software y red configurados.
+
+-> Falso
+
+2.  "Actividades que se realizan al final del proceso de prueba. Por lo general, se realizan después de que se entrega el producto, como generar un informe de prueba.."
+
+-> Actividades de cierre.
+
+4.  Identifica y selecciona las opciones correspondientes a la etapa de Diseño y análisis:
+
+
+![image](https://user-images.githubusercontent.com/72580574/218194409-53e418b4-0d43-406e-a695-80e8fdaae8fd.png)
+
+![image](https://user-images.githubusercontent.com/72580574/218194432-153f2979-14f4-45e6-8393-b323aaa058bd.png)
+
+4.  Un banco de pruebas es un entorno de prueba que se ha preparado con datos de prueba. Los datos de prueba lo ayudan a verificar los casos de prueba que requieren una determinada configuración de datos
+
+-> Verdadero
+
+5.  Para una buena configuración del entorno de prueba los tester deben:
+
+![image](https://user-images.githubusercontent.com/72580574/218194044-9778bafb-bee6-4442-a2d4-c2d794eda8b5.png)
+
+
+6. Identifica y selecciona las opciones correspondientes a la etapa de Actividades de cierre:
+
+![image](https://user-images.githubusercontent.com/72580574/218194732-7179097f-4c5e-4483-a9b9-7bc4597376d6.png)
+
+![image](https://user-images.githubusercontent.com/72580574/218194764-184a2fe4-040c-4891-a8e4-601680c80560.png)
+
+
+7. "Es un proceso de detección de defectos en la aplicación que se está probando o en el producto mediante la prueba o el registro de los comentarios de los clientes y la creación de nuevas versiones del producto que solucionen los defectos en función de los comentarios del cliente. " Estamos haciendo referencia a:
+
+-> Informe de defectos.
+
+9.  Identifica y selecciona las opciones correspondientes a la etapa de Ejecución:
+
+
+![image](https://user-images.githubusercontent.com/72580574/218194240-9e82e77a-9e2f-4fcb-a44b-9fefb1b507ca.png)
+
+ Identifica y selecciona las opciones correspondientes a la etapa de Ejecución:
+
+
+9.  ¿Qué es el control y monitoreo de las pruebas?
+
+- Es un proceso de evaluación y retroalimentación sobre la fase de prueba "actualmente en progreso".
+
+- Es una actividad de guiar y tomar acciones correctivas basadas en algunas métricas o información para mejorar la eficiencia y la calidad.
+
+- Es un proceso de evaluación y retroalimentación sobre la fase de prueba "actualmente en progreso".
+
+- Es una actividad de gestión.
+
+
+10. Identifica y selecciona las opciones correspondientes a la etapa de Análisis y requerimientos:
+
+![image](https://user-images.githubusercontent.com/72580574/218194828-4c0377a3-8aa6-43f2-bebe-90df44346d3c.png)
+
+
+11 . "Es el proceso de prueba de software de ejecutar una prueba en el componente o sistema bajo prueba, produciendo un resultado real." Hacemos referencia a:
+
+->  Etapa de Ejecución.
+
+12. Identifica y selecciona las opciones correspondientes a la etapa de Planificación:
+
+![image](https://user-images.githubusercontent.com/72580574/218193727-cde91a5d-3905-436e-a622-9ab7d46e1d37.png)
+
+![image](https://user-images.githubusercontent.com/72580574/218193770-e822add9-9b37-42e7-8258-ec953f79991d.png)
+
+![image](https://user-images.githubusercontent.com/72580574/218193800-391286ed-d117-405e-8dee-4000708b8f9b.png)
+
+---
