@@ -16,7 +16,12 @@
 
 1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing)
 
-- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md)
+- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md):
+
+
+Introdución al testing y a la industria del software: proyecto y producto, ciclo de vida del desarrollo de softwareQA y QC, atención al detalle
+
+
 
 - [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md)
 
