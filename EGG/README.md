@@ -38,6 +38,9 @@ Ciclo de desarrollo del software: **strategy** , manejo y transacción de datos 
 
 - [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)
 
+Evaluación de criticidad y prioridad, Verificación y validación, Introducción a la documentación de bugs, Qué puede causar un error y/o defecto en un programa de software
+
+
 -> [PROYECTO INTEGRADOR Y SU RESOLUCION](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/proyecto_integrador.md)
 
 ---
