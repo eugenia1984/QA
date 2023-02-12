@@ -30,9 +30,11 @@ cómo se prueba el software?/ ¿Cuándo comienzan las pruebas de software en SDL
 
 - [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
 
-Ciclo de desarrollo del software: **strategy** , manejo y transacción de datos -metadatos, datos, información(Características de la buena información, ¿Por qué es importante este tema para un tester?), transacciones
+Ciclo de desarrollo del software: **strategy** , manejo y transacción de datos : metadatos / datos / información (Características de la buena información, ¿Por qué es importante este tema para un tester?) /transacciones
 
 - [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
+
+¿Qué es el Testing?, ¿Cuáles son los objetivos del testing?, Beneficios del testing, Errores de software y bugs, Categorías comunes de errores de software, Error-defecto-falla
 
 - [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)
 
