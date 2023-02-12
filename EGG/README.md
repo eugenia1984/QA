@@ -25,7 +25,12 @@ Introdución al testing y a la industria del software: proyecto y producto, cicl
 
 - [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md)
 
+Scratch, Ciclo de producción de software: **testing** (etapa de testing/ 
+cómo se prueba el software?/ ¿Cuándo comienzan las pruebas de software en SDLC? / Introducción al Lenguaje Unifocado de Modelado-UML- )
+
 - [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
+
+Ciclo de desarrollo del software: **strategy** , manejo y transacción de datos -metadatos, datos, información(Características de la buena información, ¿Por qué es importante este tema para un tester?), transacciones
 
 - [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
 
