@@ -138,3 +138,8 @@ Evaluación de criticidad y prioridad, Verificación y validación, Introducció
 - **Coaches**: será tu guía durante los encuentros en vivo.
 
 ---
+
+![image](https://user-images.githubusercontent.com/72580574/218582377-4e8d18bd-247c-4d4a-bb6a-70cd74ad1ae3.png)
+
+
+---
