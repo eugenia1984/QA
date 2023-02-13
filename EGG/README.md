@@ -69,7 +69,8 @@ Evaluación de criticidad y prioridad, Verificación y validación, Introducció
 
 - [3.3 - Reportes de errores](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/03_ejecucion_de_errores.md)
 
-- Proyecto final integrador
+- [**Proyecto final integrador**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/integrador.md)
+
 
 ## :book: TESTING MANUAL
 
