@@ -185,28 +185,33 @@ Otro ejemplo, es cuando uno hace una búsqueda de un producto, y luego al entrar
 -> Al hacer click en el ícono de **cookie-editor** me aparece la lista de todas las cookies que tiene la web. Tengo la opción de poder **borrar todas las cookies**.
 
 
--Las **Extensiones** son programas que se instalan y nos dan una funcionalidad extra en el navegador.
+- Las **Extensiones** son programas que se instalan y nos dan una funcionalidad extra en el navegador.
 
 -> La difernecia del cache es que guarda imagenes y datos de la web para que luego se abra más rápido. En cambio las cookies va guardando el paso a paso nuestro en la web.
 
 - Detrás de las páginas hay tecnología. Y como testers vamos a consultar: ¿Tiene cookies? ¿Qué valores va a responder la cookie? ¿Qué actividad cumple la cookie? ¿En qué momento tiene que hacer algo la cookie? Todo esto es una documentación que nos tienen que dar.
 
--> Al testear estas webs nos podemos encontrar con dos cosas...
+- Al testear estas webs nos podemos encontrar con dos cosas...
 
 ... **bloqueadores** de carteles
 
-... **captchas**
+... **captchas** (donde hay que hacere click a los semaforos, las biciletas, el hacer click donde no soy un humano)
 
-Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean.  Por eso está en **entorno de testing**
+-> Como tester se le pide al equipo de desarrollo que saquen la funcionalidad para poder testearla, asi no nos bloquean.  Por eso está en **entorno de testing** y el **entorno de desarrollo**. Porque sino estas funcionalidades nos bloquean el testing.
 
+-> Es casi imposible forzar páginas online, por eso están los ambientes de desarrollo.
 
-- Con **JMetter** se pueden hacer **pruebas de estress**, se le envía información a una web, hasta que la misma ya no pueda más. Y la **prueba de fuerza** es para saber hasta que momento la página pudo soportar toda esa acumulación de información que le llegó. Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 usuarios por hora. Cuendo llega al 3.001 se cae. Entonces 3001 es el punto de estress.*
+- Con **JMetter** se pueden hacer **pruebas de estress**, se le envía información a una web, hasta que la misma ya no pueda más. Y la **prueba de fuerza** es para saber hasta que momento la página pudo soportar toda esa acumulación de información que le llegó. 
 
-JMetter tiene cosas de automatización.
+Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 usuarios por hora. Cuendo llega al 3.001 se cae, es la **prueba mayor de fuerza**. Entonces 3001 es el punto de estress.
+
+-> JMetter tiene cosas de automatización.
 
 - Siempre hay que dejar bien documentado **la velocidad que tenemos nosotros en el momento de hacer las pruebas**. Porque si tenemos internet lenta nos puede dar malos resultados. Por eso se utiliza [https://www.speedtest.net/](https://www.speedtest.net/). Da el ANCHO DE BANDA CONTRATADO, lo cual NO ES LA VELOCIDAD. La VELOCIDAD la marca LA LATENCIA, los números chicos abajo de los números grandes de descarga y salida.
 
-Con 10mega es suficiente para una prueba de estress.
+Con 10 mega es suficiente para una prueba de estress.
+
+- Todos estos testeos que se van haciendo, se van a ir **documentando** y se van agrupando por **categorías**.
 
 
 ---
