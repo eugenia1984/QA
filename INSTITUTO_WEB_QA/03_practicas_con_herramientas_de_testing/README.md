@@ -207,11 +207,12 @@ Entonces llegamos a un resultado, por ejemplo: *Tu pagina aguanta hasta 3.000 us
 
 -> JMetter tiene cosas de automatización.
 
-- Siempre hay que dejar bien documentado **la velocidad que tenemos nosotros en el momento de hacer las pruebas**. Porque si tenemos internet lenta nos puede dar malos resultados. Por eso se utiliza [https://www.speedtest.net/](https://www.speedtest.net/). Da el ANCHO DE BANDA CONTRATADO, lo cual NO ES LA VELOCIDAD. La VELOCIDAD la marca LA LATENCIA, los números chicos abajo de los números grandes de descarga y salida.
+- Siempre hay que dejar bien documentado **la velocidad que tenemos nosotros en el momento de hacer las pruebas**. Porque si tenemos internet lenta nos puede dar malos resultados. Por eso se utiliza [https://www.speedtest.net/](https://www.speedtest.net/). Da el ANCHO DE BANDA CONTRATADO, lo cual NO ES LA VELOCIDAD. La VELOCIDAD la marca LA LATENCIA, los números chicos abajo de los números grandes de descarga y salida. La conexión es **asincrónica** se descargan archivos mucho más rápidod e lo que se envían. En ejemplo: "Se envía más rápido un email de lo que se recibe".
 
-Con 10 mega es suficiente para una prueba de estress.
+- Con **10 mega** es suficiente para una prueba de estress.
 
 - Todos estos testeos que se van haciendo, se van a ir **documentando** y se van agrupando por **categorías**.
+
 
 
 ---
