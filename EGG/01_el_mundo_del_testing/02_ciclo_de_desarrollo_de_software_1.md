@@ -2,11 +2,7 @@
 
 ---
 
-### Módulo 1 / Encuentro 2/17
-
----
-
-![image](https://user-images.githubusercontent.com/72580574/214074036-3125f667-28ea-4ab5-823a-b8ca8c6e4f11.png)
+MÓDULO 1 / ENCUENTRO 2/17
 
 ---
 
