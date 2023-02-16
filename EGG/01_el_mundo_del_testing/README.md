@@ -12,7 +12,7 @@
 
 - [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md): :book: Introducción al testing y a la industria del Software (Proyecto, Producto, Ciclo de vida del Desarrollo de Software) / 🏸 Atención al detalle / 📋 Ejercicio.
 
-- [1.2 - Ciclo de Desarrollo de Software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md)
+- [1.2 - Ciclo de Desarrollo de Software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md) -> 📋 Scratch / :book: Ciclo de Producción de Software: **testing** / :book: Introducción al Lenguaje Unificado de Modelado (**UML**) / 📋 Ejercicio.
 
 - [1.3 - Ciclo de Desarrollo de Software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
 
