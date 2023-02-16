@@ -2,13 +2,7 @@
 
 ---
 
-## :star: OBJETIVOS DEL MÓDULO 1
-
-![image](https://user-images.githubusercontent.com/72580574/213814636-b897634b-ec6c-4017-8141-6bff93d84028.png)
-
----
-
-### ¿Que haremos hoy ?
+## :star: ¿Que haremos hoy ?
 
 ![image](https://user-images.githubusercontent.com/72580574/213816298-81a11e11-6dd2-4545-8ac6-2fbb2bcf8353.png)
 
@@ -17,7 +11,7 @@
 
 ## :star: Introducción y rompehielo
 
-¡Te damos la bienvenida a nuestras guías de trabajo!
+**¡Te damos la bienvenida a nuestras guías de trabajo!**
 
 En cada encuentro, tendrás una guía como esta que te acompañará para que puedas ir avanzando en tu aprendizaje.
 
@@ -33,7 +27,7 @@ A medida que avances en el recorrido, verás que ya no tendremos tanto para indi
 
 
 
-## 1. PRESENTACIÓN DEL EQUIPO:
+## ☑️ 1. PRESENTACIÓN DEL EQUIPO:
 
 Si no lo han hecho todavía o eres de las personas que prefiere que otro comience, te sugerimos comenzar indicando tu nombre y de dónde vienes. Lo puedes hacer en el chat o usando tu micrófono. Hoy compartes el encuentro con una pequeña porción de una gran comunidad que irás conociendo poco a poco.
 
@@ -50,8 +44,9 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones. ¡Animate! 
 ![image](https://user-images.githubusercontent.com/72580574/213807035-5d0259aa-de3f-44cc-8b89-7cd570abf3ad.png)
 
 
+---
 
-## 2. VAMOS A INICIARNOS RÁPIDAMENTE EN EL MUNDO DEL TESTING
+## ☑️ 2. VAMOS A INICIARNOS RÁPIDAMENTE EN EL MUNDO DEL TESTING
  
 
 Para ello debemos comprender un principio elemental de la industria de la tecnología. Un software es un programa que debe completar una cierta tarea. En ocasiones, ese software puede no realizar la tarea que se le encomendó o puede tener errores durante la ejecución de esa tarea.
@@ -100,7 +95,7 @@ Calidad es una de esas palabras que damos por sentado y tal vez no reparamos en 
 
 ## :book: MATERIAL DE LECTURA :book:
 
-### INTRODUCCIÓN AL TESTING Y A LA INDUSTRIA DEL SOFTWARE
+### 📋 INTRODUCCIÓN AL TESTING Y A LA INDUSTRIA DEL SOFTWARE
 
 Para comprender esta definición en contexto, es importante revisar cómo se produce software.
 
@@ -113,7 +108,7 @@ Si no lo han observado todavía, verán que la industria de la tecnología ha el
 A medida que presentemos terminología específica de testing haremos especial hincapié en integrar los conceptos en inglés ya que en el mundo laboral serán muy necesarios. Les sugerimos, también, utilizar fuentes de estudio en inglés. Videos en YouTube con subtítulos activados y sitios web que los asistan a reforzar estos conceptos en inglés.
 
 
-**La producción de software se puede iniciar por una de dos vías**:
+--->> **La producción de software se puede iniciar por una de dos vías**:
 
 - **Proyecto**
 
@@ -134,7 +129,7 @@ La **propuesta de software** para un **producto** se inicia con la **detección 
 
 Para el CICLO DE VIDA DE DESARROLLO DE SOFTWARE, ser un proyecto o ser un producto no cambia el orden en el que ocurren los pasos.
 
-El ciclo de vida del desarrollo de software luce así:
+:star: El **ciclo de vida del desarrollo de software** luce así:
 
 1. **Estrategia**: Recopilación de requisitos y planificación (**Strategy**: requirements specification and planning)
 
@@ -153,6 +148,8 @@ El ciclo de vida del desarrollo de software luce así:
 
 
 Imagen 1.2: Ciclo de vida de Producción de Software. Fuente: [https://www.itview.in/blog/indispensable-role-significance-of-testing-in-software-development-life-cycle-sdlc/ ](https://www.itview.in/blog/indispensable-role-significance-of-testing-in-software-development-life-cycle-sdlc/ )
+
+---
 
 
 ### Secreto de la industria:
@@ -210,9 +207,10 @@ La compañía se reúne con su equipo multidisciplinario y evalúan el proyecto.
 **Día 15**: Nos convocan a una reunión para mostrar avances. Nos muestran un mock-up del wireframe (¡este te toca googlear a tí!). Nos gusta mucho. Hacemos algunas observaciones de elementos que no nos imaginábamos que iban a mostrarse así. Damos feedback de la parte visual y jugamos a ser usuarios que llegan a nuestra página. Nos avisan que nada de esto que vemos está en el mundo real, sino que es tan solo una maqueta para que podamos dar nuestra opinión sin que ellos hayan invertido mucho tiempo en desarrollar el total de la propuesta.
 
 ---
+---
 
 
-### Wireframes vs. mockups vs. prototypes
+### :book: Wireframes vs. mockups vs. prototypes
 
 When designing an app or webpage, UX and UI designers and developers use a number of planning tools to iterate their ideas and outline their solutions. There are three main levels of visual outlines:
 
@@ -270,10 +268,17 @@ The main purpose is to test the design before investing time and money to develo
 
 
 ---
+---
+
 
 ## Metodologías ágiles ha ingresado a la habitación
 
 ![image](https://user-images.githubusercontent.com/72580574/213808519-d5c1f137-94bb-45a1-b502-9cee03565da3.png)
+
+
+---
+---
+
 
 -> **TESTING INTEGRATION** and **DEPLOYMENT**
 
@@ -312,7 +317,7 @@ El acto de testear un software es un acto de **QC** (o sea, de **quality control
 
 ---
 
-### <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
 Vamos a poner a prueba todo lo que hemos leído hoy. Este desafío lo debes resolver en forma individual.
 
@@ -320,25 +325,27 @@ Vamos a poner a prueba todo lo que hemos leído hoy. Este desafío lo debes reso
 
 Hay otros momentos en los que el conocimiento se consolida (se hace real y lo puedes utilizar en nuevas situaciones) solo cuando lo pones en acción en el equipo, e intentas explicar a otros eso que acabas de aprender. Confía en nosotros, sabemos de lo que hablamos.
 
+### :star: EJERCICIO 1
+
 Listos, preparados, ya… para dar inicio al primer **¡Manos a la obra!**
 
 1. Ingresa a la siguiente página (no te dejes engañar por el nombre) haciendo click en el enlace: [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
 
 
-**Solución**: Ingresar al enlace y recorrer la página.
+-> **Solución**: Ingresar al enlace y recorrer la página.
 
 2. Busca el enlace a la página original: The original twwwe.
 ¿Qué tan fácil te resultó encontrarlo? ¿Aún no lo encontraste? La primera palabra de esta consigna es una pista: “Busca”. ¿Dónde buscarías algo que no conoces en la web?
 
-**Solución**: utilizar el buscador de Google para encontrar el enlace a la página original. En el buscador se debe escribir, como dice en el ejercicio, “The original TWWWE”.
+-> **Solución**: utilizar el buscador de Google para encontrar el enlace a la página original. En el buscador se debe escribir, como dice en el ejercicio, “The original TWWWE”.
 
 3. Hagan click en el enlace hallado en el punto anterior e ingresen al mismo.
 
-**Solución**: acceder a “The original TWWWE”.
+-> **Solución**: acceder a “The original TWWWE”.
 
 4. Dentro de la página, busca el enlace **amazing colours** y haz click allí. ¿Qué hace ese botón? ¿Cuál es la relevancia de este enlace?
 
-**Solución**: En “The original TWWWE” buscar el enlace de AMAZING COLOURS.
+.> **Solución**: En “The original TWWWE” buscar el enlace de AMAZING COLOURS.
 
 Hay que hacer scroll horizontal para tener mas opciones del NavBar y llegar a AMAZING COLORS 
 
@@ -359,13 +366,13 @@ Y la parte de Amzing colors de nuevo esta con un div arriba y abajo paa la parte
 
 5. Haz click en **shocking pictures**. ¿Qué más hace la página al llevarlos a esa sección? ¿Se la puede llamar sección?
 
-**Solución**: Analizar el comportamiento de “SHOCKING PICTURES!” y pensar desde su perspectiva y experiencia qué conciben sobre el comportamiento de esa “sección”.
+-> **Solución**: Analizar el comportamiento de “SHOCKING PICTURES!” y pensar desde su perspectiva y experiencia qué conciben sobre el comportamiento de esa “sección”.
 
 Ni siquiera se puede encontrar el ink, ni con ctrl+f y buscando la palabra.
 
 6. Busca el enlace para volver a la página de “Inicio”. Vuelve de alguna manera: ¿De qué forma lo has hecho? Prueba que funcione cada una de las alternativas que se te hayan ocurrido.
 
-**Solución**: Hay dos URL para volver a la página inicial: (1) [https://www.twwwe.com/](https://www.twwwe.com/) y (2) [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
+-> **Solución**: Hay dos URL para volver a la página inicial: (1) [https://www.twwwe.com/](https://www.twwwe.com/) y (2) [https://www.theworldsworstwebsiteever.com/](https://www.theworldsworstwebsiteever.com/)
 
 Si se hace click en el enlace donde dice “click here” te llevará a una lista de errores de la página.
 
@@ -376,7 +383,7 @@ Es muy dificil, arriba donde esta el nombre, que bien podria ser el logo, no tie
 
 7. Haz click en el enlace **Our FAV Software**. ¿Puedes observar enlaces de descarga del software mostrado? ¿Y qué cambio logras observar en el encabezado?
 
-**Solución**: Dentro de [https://www.theworldsworstwebsiteever.com](https://www.theworldsworstwebsiteever.com) o [https://www.twwwe.com/](https://www.twwwe.com/) (dependiendo cuál enlace hayas utilizado en el punto 6), tenemos que hacer click en el enlace que dice “Our FAV Software”
+-> **Solución**: Dentro de [https://www.theworldsworstwebsiteever.com](https://www.theworldsworstwebsiteever.com) o [https://www.twwwe.com/](https://www.twwwe.com/) (dependiendo cuál enlace hayas utilizado en el punto 6), tenemos que hacer click en el enlace que dice “Our FAV Software”
 
 
 ![image](https://user-images.githubusercontent.com/72580574/213883687-8e83af00-6911-4b34-8546-f53c3eb0a7b8.png)
@@ -396,7 +403,7 @@ Pero dentro de “Our fav software” luce así:
 
 8. Regresa nuevamente al inicio. ¿Qué forma has hallado para regresar esta vez?
 
-**Solución**: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
+-> **Solución**: No hay ningún enlace para regresar al inicio. Es necesario hacerlo manualmente:
 
 1- Ingresando la URL de la página en nuestro navegador nuevamente
 
@@ -410,7 +417,7 @@ Pero dentro de “Our fav software” luce así:
 9. Utiliza el reproductor de audio de la web. ¿Qué pasa cuando das play? ¿Se visualiza correctamente? ¿Se puede utilizar el comando de volumen? ¿Queda completamente visible si tratas de hacer doble click en el volumen?
 
 
-**Solución**: Este es el reproductor:
+-> **Solución**: Este es el reproductor:
 
 ![image](https://user-images.githubusercontent.com/72580574/213883785-09e04776-b01d-48aa-af2f-97b649e5fb99.png)
 
@@ -424,16 +431,15 @@ Si tratas de hacer doble click en el volumen, queda completamente visible. Pero 
 
 10. ¡Encuentra si hay otro enlace oculto dentro de la página web!
 
-**Solución**: ¡Si encuentras uno, coméntalo con tu equipo!
+-> **Solución**: ¡Si encuentras uno, coméntalo con tu equipo!
 
 ---
 
-### ¡MANOS A LA OBRA!
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
 ![image](https://user-images.githubusercontent.com/72580574/213809096-4b27a7f3-8920-463c-9b52-b1e59e510bed.png)
 
 
-[¡Accede a la solución del ejercicio aquí!](https://docs.google.com/document/d/1azoSh8D8mL0V-jpXJ6vydyn4iaRQMs36/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
 
 ---
 
@@ -453,13 +459,13 @@ Les dejamos algunos disparadores para que retomen la conversación:
 
 ---
 
-Sabemos que has hecho un gran esfuerzo hoy.
+### Sabemos que has hecho un gran esfuerzo hoy.
 
-Te adaptaste a un entorno nuevo, conociste otros estudiantes como tú y has asimilado muchas palabras nuevas.
+- Te adaptaste a un entorno nuevo, conociste otros estudiantes como tú y has asimilado muchas palabras nuevas.
 
-Tal vez no te haya costado tanto, tal vez sí.
+- Tal vez no te haya costado tanto, tal vez sí.
 
-Estamos para pedirte un último esfuerzo. ¡Un ejercicio más para hoy!
+- Estamos para pedirte un último esfuerzo. **¡Un ejercicio más para hoy!**
 
 ---
 
@@ -487,7 +493,9 @@ El equipo es cada uno de los presentes en la mesa de trabajo del día de hoy. Ya
 
 ¡Corre el tiempo! ¡Éxitos!
 
-## Tarea 1
+---
+
+## 📋 Tarea 1
 
 Su empresa ha estado trabajando para agregar comprobantes de pago antiguos en papel a su nuevo sistema digital. Se te ha asignado la tarea de verificar la digitalización para asegurarte de que los detalles de la copia en papel se hayan ingresado en el nuevo sistema con precisión.
 
@@ -514,7 +522,7 @@ n! de cuenta           si
 ```
 
 
-##  Tarea 2
+##  📋 Tarea 2
 
 El equipo de Administración ha enviado los dos informes a continuación, que cubren los datos de ventas y bonificaciones de siete empleados. ¿Qué empleados tienen información diferente listada entre los informes? Seleccione todas las respuestas correctas.
 
@@ -525,21 +533,22 @@ Puedes ayudarte con lápiz y papel #oldstyle
 
 ![image](https://user-images.githubusercontent.com/72580574/213809623-32a68dc9-9bba-4e87-b548-10377a273428.png)
 
--> Empleado 705 -> NO COINCIDEN TODOS
+- Empleado 705 -> NO COINCIDEN TODOS
 
--> Empleado  801 -> todos los datos son iguales
+- Empleado  801 -> todos los datos son iguales
 
-->  Empleado 303 -> NO COINDIDEN TODOS (ventas)
+-  Empleado 303 -> NO COINDIDEN TODOS (ventas)
 
--> Empleado  207 -> todos los datos son iguales
+- Empleado  207 -> todos los datos son iguales
 
--> Empleado  406 ->   todos los datos son iguales
+- Empleado  406 ->   todos los datos son iguales
 
--> Empleado  504 -> NO COINCIDEN TODOS (% ventas y bonus)
+- Empleado  504 -> NO COINCIDEN TODOS (% ventas y bonus)
 
--> Empleado  102 ->  todos los datos son iguales
+- Empleado  102 ->  todos los datos son iguales
 
-## Tarea 3
+
+## 📋 Tarea 3
 
 En medio de la auditoría interna, el equipo está cubriendo a un compañero de trabajo que está de licencia. Su compañero de trabajo ha dejado un mensaje de correo de voz especificando las tareas que tendrá que hacer alguien del equipo por él.
 
@@ -547,12 +556,27 @@ En medio de la auditoría interna, el equipo está cubriendo a un compañero de 
 
 ¿En qué orden colocarías las tareas? ¿Podrías animarte a priorizarlas?
 
-![image](https://user-images.githubusercontent.com/72580574/213812873-9e29e824-d66b-4967-b691-f46b831f787a.png)
+1. Completar la hoja de cálculo
 
-![image](https://user-images.githubusercontent.com/72580574/213823861-fb15bdae-2053-4a9d-b9a2-03b1130201f6.png)
+2. Iniciar sesión con el usuario administrador
+
+3. REvisar ingresos poblicitarios
+
+4. Revisar correo electrónico
+
+5. Revisar el correo de voz
+
+6. Completar solicitudes ejecutivas
+
+7. Completar solicitudes de emergencia
+
+8. Enviar email de actualización
+
+9. Revisar el correo de voz
 
 
-## Tarea 4
+
+## 📋 Tarea 4
 
 Pablo tiene algunos comprobantes de pago para cargar al sistema digital. También tiene dos personas que lo van a estar asistiendo. Juan y María.
 
@@ -566,14 +590,10 @@ Entre los 3, tienen 4 comprobantes de pago restantes.
 ---
 
 ¿Ya has realizado las 4 tareas? ¡Bien hecho!
-Completa el formulario y chequea tus respuestas [desde aquí](https://forms.gle/xX3k2AJJ2hzvMnqj6)
-
-![image](https://user-images.githubusercontent.com/72580574/213813007-1a40db29-e06f-40fc-b0c5-1df13af976bd.png)
-
 
 ---
 
- ## ¡Hora de cerrar! 
+ ## ⏰ ¡Hora de cerrar! 
  
  ¡Lo hemos logrado! Has llegado al final del primer encuentro.
 Tómense 15 minutos como equipo para conversar sobre el ejercicio de atención al detalle.
@@ -594,3 +614,4 @@ Recuerda que los equipos cambian en cada encuentro. En el próximo, no necesaria
 
 :tv: [Ver Video sobre Pulsos](https://youtu.be/beYoGWOU_bk)
 
+---
