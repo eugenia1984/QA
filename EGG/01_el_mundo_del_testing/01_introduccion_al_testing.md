@@ -1,4 +1,8 @@
-# :star2: Introducción al testing * Módulo 1 / Encuentro 1/17
+# :star2: Introducción al testing 
+
+---
+
+MÓDULO 1 / ENCUENTRO 1/17
 
 ---
 
