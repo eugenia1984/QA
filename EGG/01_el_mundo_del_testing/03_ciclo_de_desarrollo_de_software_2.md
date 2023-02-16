@@ -54,39 +54,27 @@ Imagen 2.1: Casos de uso para un tracker de hábitos. Fuente: adaptado de https:
 
 ---
 
-## :star: ¡MANOS A LA OBRA! 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
-### Ejercicio #1
+### 📋 Ejercicio #1
 
 #### Instrucciones:
 
 1. Observa detenidamente el gráfico de la imagen 2.1 y toma notas sobre lo que ocurre. Es una plataforma de registro de hábitos.
 
-A- ¿Cuántos roles puedes identificar? (Un rol es un tipo de usuario con acceso diferenciado)
+- A - ¿Cuántos roles puedes identificar? (Un rol es un tipo de usuario con acceso diferenciado)
 
 *Respuesta*: Tres roles: USER, COACH, ADMIN.
 
-B-Identifica en qué situaciones hay intercambio de datos. Ej: usuario ingresa sus datos en el momento del login [nombre] y [contraseña].
+- B - Identifica en qué situaciones hay intercambio de datos. Ej: usuario ingresa sus datos en el momento del login [nombre] y [contraseña].
 
 *Respuesta*: 
 
-Cuando el coach...
+Cuando el coach: agrega un comentario
 
-... agrega un comentario
+Cuando el admin: elimina un usuario, actualiza la lista de habitos
 
-Cuando el admin...
-
-... elimina un usuario
-
-... actualiza la lista de habitos
-
-Cuando el usuario...
-
-... agrega un habito
-
-... elimina un habito
-
-... marca un habito como hecho en el dia
+Cuando el usuario: agrega un habito, elimina un habito, marca un habito como hecho en el dia
 
 2. Toma nota de lo que no sabes. Ej: no sé qué significa “include”. 
 
@@ -102,7 +90,7 @@ Y probablemente el *include* sea para una inteface, que lo incluye, es la herenc
 
 ## :book: MATERIAL DE LECTURA ⏰ (15MIN)
 
-### Manejo y transacción de datos:
+### :star: Manejo y transacción de datos:
 
 #### Datos
 
@@ -138,10 +126,10 @@ Una situación cotidiana puede ser: buscar en nuestro disco rígido todos los ar
 
 ---
 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
-## :star: ¡MANOS A LA OBRA! 
 
-### Ejercicio #2 ⏰ (35MIN)
+### 📋 Ejercicio #2 ⏰ (35MIN)
 
 ¡Entrada en calor rápida! 
 
@@ -202,9 +190,10 @@ Creemos que una afirmación así es información incompleta ya que no da cuenta 
 ---
 
 
-## :star: ¡MANOS A LA OBRA! 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
-### Ejercicio #3
+
+### 📋 Ejercicio #3
 
 ¡Ahora te toca a tí!
 
@@ -250,17 +239,16 @@ Pro tip: intenta resolver los próximos ejercicios antes de leer el material. Es
 
 ---
 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
+ 
 
-
-## :star: ¡MANOS A LA OBRA! 
-
-### Ejercicio #4
+### 📋 Ejercicio #4
 
 A continuación, encontrarás una pantalla para conectarte a una red profesional de ofertas de trabajo y recibir consejos a nivel profesional.
 
-A. Arma un listado de las posibles transacciones que pueden llegar a hacerse en la pantalla y recuerda que, si está indicado en color azul, puede llevarte a realizar alguna acción en el sistema.
+- A. Arma un listado de las posibles transacciones que pueden llegar a hacerse en la pantalla y recuerda que, si está indicado en color azul, puede llevarte a realizar alguna acción en el sistema.
 
-B. Sugerimos que realices una puesta en común con tu equipo para evaluar más puntos de vista. Debate con tus compañer@s sobre la diferencia entre lo que ustedes se imaginan como una transacción completa y acciones únicas como son hacer clic, ingresar texto o “hover” con el mouse.
+- B. Sugerimos que realices una puesta en común con tu equipo para evaluar más puntos de vista. Debate con tus compañer@s sobre la diferencia entre lo que ustedes se imaginan como una transacción completa y acciones únicas como son hacer clic, ingresar texto o “hover” con el mouse.
 
 
 <img width="519" alt="Screen Shot 2023-01-24 at 14 47 57" src="https://user-images.githubusercontent.com/72580574/214369149-ca616f6e-f195-451c-a898-58ec5e6f290c.png">
@@ -283,9 +271,10 @@ verificar una base de datos de inventario, confirmar que el artículo está disp
 
 ---
 
-## :star: ¡MANOS A LA OBRA! 
+## <img src="https://img.icons8.com/ios/50/null/hand-drag.png"/> ¡MANOS A LA OBRA! 
 
-### Ejercicio #4  ⏰  (20MIN)
+
+### 📋 Ejercicio #4  ⏰  (20MIN)
 
 A continuación, tienes un texto típico que describe las transacciones esperadas en un producto. La redacción es similar a la que encontrarás en un texto original en una situación laboral con un cliente. 
 
@@ -305,7 +294,7 @@ El email está personalizado y adaptado a las prioridades del usuario. Al mismo 
 
 Es muy probable que le siga interesando viajar a ese destino y esa es una información muy valiosa para iniciar la comunicación. Si decide aceptar esta propuesta, haciendo clic en el botón al pie del correo, se le redirige directamente al sistema. Allí, se debe identificar como cliente, para luego ir a la propuesta en la que solo con hacer clic en aceptar, la propuesta se vuelve una venta. Luego el usuario elegirá entre las opciones de pago disponibles, mediante un clic del mouse en la opción de pago que prefiera.
 
-**Super pro tip**: ¿Recuerdas que estuvimos trabajando en los dos encuentros anteriores en atención al detalle y en poder priorizar acciones?
+-> **Super pro tip**: ¿Recuerdas que estuvimos trabajando en los dos encuentros anteriores en atención al detalle y en poder priorizar acciones?
 Cuando nos comunicamos por escrito a veces pensamos que es lo mismo que hablar. Y enviamos mensajes poco ordenados, redundantes y con instrucciones confusas. Esto no es deseable pero es habitual ya que las habilidades de comunicación efectiva no son simples de adquirir. Requieren mucha práctica intencional y poder imaginarnos en los zapatos de esa persona que recibe nuestro correo e intenta adivinar qué necesitamos.
 
 Verás que mucha ejercitación apunta a desarrollar estas habilidades, que son un gran diferencial en el desempeño profesional.
@@ -313,7 +302,7 @@ Verás que mucha ejercitación apunta a desarrollar estas habilidades, que son u
 
 ---
 
-## Hora de cerrar! 
+## 🌞 Hora de cerrar! 
 
 Si te animas, sé el que lidera el agradecimiento a tus compañer@s de equipo de hoy. Ya has cumplido 9 horas de instrucción en este módulo de Introducción al testing manual.
 
