@@ -26,7 +26,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Necesidad de las pruebas**
 
-1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing)
+1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing) -> :book: Introducción al testing y a la industria del Software (Proyecto, Producto, Ciclo de vida del Desarrollo de Software) / 🏸 Atención al detalle / 📋 Ejercicio.
 
 - [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md)
 
