@@ -26,11 +26,11 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Necesidad de las pruebas**
 
-1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing) -> :book: Introducción al testing y a la industria del Software (Proyecto, Producto, Ciclo de vida del Desarrollo de Software) / 🏸 Atención al detalle / 📋 Ejercicio.
+1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing)
 
-- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md)
+- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md)  -> :book: Introducción al testing y a la industria del Software (Proyecto, Producto, Ciclo de vida del Desarrollo de Software) / 🏸 Atención al detalle / 📋 Ejercicio.
 
-- [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md)
+- [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md) -> 📋 Scratch / :book: Ciclo de Producción de Software: **testing** / :book: Introducción al Lenguaje Unificado de Modelado (**UML**) / 📋 Ejercicio.
 
 - [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
 
