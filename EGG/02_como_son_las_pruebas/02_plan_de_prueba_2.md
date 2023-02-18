@@ -738,11 +738,8 @@ Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasa
 
 - **planificación de la configuración del entorno de prueba**: el entorno de prueba se refiere a la configuracion de software y hardware en la que los QA ejecutan sus pruebas.
 
--**diseño de la estrategia de purueba**: es un documento desarrollado por el adminsitrador de pruebas que define: objetivos del proyecto y cómo alcanzarlos / la cantidad de esfuerzo y costo requerido para la prueba.
+-**diseño de la estrategia de prueba**: es un documento desarrollado por el adminsitrador de pruebas que define: objetivos del proyecto y cómo alcanzarlos / la cantidad de esfuerzo y costo requerido para la prueba.
 
-![image](https://user-images.githubusercontent.com/72580574/215900996-ae72bbd2-100e-4996-82ee-49b5bb56f156.png)
-
-![image](https://user-images.githubusercontent.com/72580574/215901030-03f62d45-b7e0-48cb-acf4-43a4a4df6a4b.png)
 
 - **2 - Identifica los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:**
 
@@ -842,21 +839,30 @@ Requisitos de relación externa
 
 ## 📋  DESARROLLO 📋 
 
-![image](https://user-images.githubusercontent.com/72580574/215901605-0c976ce5-38ba-4837-9f61-9a1dbd9e1037.png)
+- **12 Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La desición de Ana es:**
 
+Incorrecta, lo ideal sería enrevistar a clientes, diseñadores y desarrolladores.
 
-![image](https://user-images.githubusercontent.com/72580574/215901649-c6023d23-fc16-4608-8320-e60d93413c6a.png)
+- **13 Juan es administrador de pruebas y debe desarrollar el documento de estrategia de prueba. En el mismo solo define la cantidad de esfuerzo y costo requerido para la prueba. Esto es:**
 
+Incorrecto, ya que Juan también debería definir objetivos del proyecto y cómo alcanzarlos.
 
-![image](https://user-images.githubusercontent.com/72580574/215901665-d00cd5e8-f259-4aea-bb94-c4ec1b83e270.png)
+- **14 Sofía, que comenzó su recorrido en Wa hace poco, debe determinar el programa de prueba y la estimación de un proyecto. Si tuvieras que darle un consejo sería:**
 
-![image](https://user-images.githubusercontent.com/72580574/215901697-aedf2509-83a2-430a-8b12-632f925c74ab.png)
+Que divida el proyecto en tareas más pequeñas y asigne el tiempo y esfuerzo necesarios para cada una. Luego, cree un cronograma para completar estas tareas en el tiempo designado con la cantidad específica de esfuerzo.
 
-![image](https://user-images.githubusercontent.com/72580574/215901723-36b4d2f1-ae43-4b33-9a20-b2bf6cbf70fc.png)
+- **15 Gino, quien es QA Semi Senior de una multinacinal IT, es la persona encargada de entregar el plan de prueba de un proyecto de Software. Por situaciones personales no pudo dedicarle el tiempo correspondiente, por lo cual, hizo el plan de prueba a último momento, sin repasarlo o ultimar detalles. En esta situación ¿que crees que debería haber hecho Gino?**
 
+Debería haber avisado a su equipo de trabajo sobre su inconveniente y pedir más tiempo para poder realizar un plan de prueba amplio y bien elaborado. Ya que el plan de prueba es la estructura principal sobre la que se contruirá todo el proyecto.
 
+- **16 María debe realizar un análisis de prueba de un sistema de Software y recurre a la experiencia de un usuario experimentado como base de información. La información no está documentada, pero María decide avanzar de todas maneras. Lo que hizo María es:**
 
-![image](https://user-images.githubusercontent.com/72580574/215901769-52f81170-4bc6-47c3-8a04-73898f19b785.png)
+Correcto, ya que la base de la prueba incluye cualquier cosa en la que se basen las pruebas. En este caso, aunque dicha informaicón no esté documentada, el conocimiento del usuario sobre el sistema puede aportar mucho al análisis que debe realizar María.
+
+- **17 Axel debe crear un análisis de prueba específico, pero decide no avanzar hasta que se detrminen de definir las condiciones de prueba y se disponga de suficiente información para la creación de los casos de prueba. Lo que hizo Axel es:**
+
+Correcto, ya que, sólo en casos excepcionales como la creación de datos de prueba, se puede alterar este orden. Lo demás, por regla, debe respetar el orden y proceso para obtener un buen resultado.
+
 
 
 ---
