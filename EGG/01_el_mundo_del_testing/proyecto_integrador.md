@@ -319,17 +319,19 @@ Dentro del pedido debe existir un botón para ir a definir el diseño del produc
 
 ---
 
-## HORA DE CERRAR!!
+## ⏰ HORA DE CERRAR!!
 
 ¡Lo has logrado! Has llegado al final del primer ejercicio integrador.
 
 Tómense 5 minutos como equipo para conversar sobre el encuentro de hoy. Les dejamos algunas preguntas disparadoras - no necesariamente tienen que usarlas:
 
-¿Cómo se sintieron al poner en común la resolución de los ejercicios?
+- ¿Cómo se sintieron al poner en común la resolución de los ejercicios?
 
-¿Cómo se sintieron con la dificultad extra que presentaron los desafíos de hoy?
+- ¿Cómo se sintieron con la dificultad extra que presentaron los desafíos de hoy?
 
-¡Gran momento para destacar a quien cooperó más con un pulso y agradecer a nuestro equipo de hoy! Han sido unas horas muy intensas de trabajo junt@s.
+**¡Gran momento para destacar a quien cooperó más con un pulso y agradecer a nuestro equipo de hoy!**
+
+Han sido unas horas muy intensas de trabajo junt@s.
 
 ---
 
