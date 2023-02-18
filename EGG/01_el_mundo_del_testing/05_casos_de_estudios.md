@@ -389,9 +389,7 @@ Ya hemos visto errores y defectos. Veamos cuáles son las causas posibles de los
 
 - **3. Defectos de fabricación (Defects)**: Estos son desperfectos en un componente que pueden causar que el sistema falle en desempeñar las funciones requeridas, por ejemplo, una sentencia o una definición de datos incorrectos. Failure (Fallo) es una desviación funcional de un componente o sistema respecto de la prestación, servicio o resultado esperados.
 
-4. Errores en el código
-
-Errores al escribir código por parte de un programador que no hayan sido detectados en la fase de pruebas. No son errores de malos entendidos (como en el caso de los errores humanos) sino que son errores de la lógica interna que hacen que el código no pueda ser ejecutado. Por ejemplo, ingresar una edad “negativa” (-18) puede generar que una aplicación no funcione o que un usuario pueda pedir 1 millón de hamburguesas mediante una app de pedidos a domicilio.  
+4. **Errores en el código**: Errores al escribir código por parte de un programador que no hayan sido detectados en la fase de pruebas. No son errores de malos entendidos (como en el caso de los errores humanos) sino que son errores de la lógica interna que hacen que el código no pueda ser ejecutado. Por ejemplo, ingresar una edad “negativa” (-18) puede generar que una aplicación no funcione o que un usuario pueda pedir 1 millón de hamburguesas mediante una app de pedidos a domicilio.  
 
 ---
 
