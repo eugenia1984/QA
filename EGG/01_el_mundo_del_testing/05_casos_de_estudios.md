@@ -4,22 +4,31 @@
 
 MODULO 1 ENCUENTRO 5 / 17
 
-
 ---
 
 ## :star: INTRODUCCION
 
 **¡Te damos la bienvenida a tu quinto encuentro de trabajo!**
 
-Check de 1 minuto: Hoy es un encuentro de integración de conceptos. Nos tomaremos el día de hoy para ejercitar, consolidar y transferir los aprendizajes a contextos nuevos y desafiantes. Lo más beneficioso para ti es darte cuenta de cuánto sabes. También, podrás identificar aquellos conceptos que más te cuestan o que todavía no has asimilado completamente. ¡No te preocupes! A mayor conciencia de tus áreas de mejora, mayor foco para poder trabajar sobre ellas. 
+**Check de 1 minuto**: Hoy es un encuentro de integración de conceptos. Nos tomaremos el día de hoy para ejercitar, consolidar y transferir los aprendizajes a contextos nuevos y desafiantes. Lo más beneficioso para ti es darte cuenta de cuánto sabes. 
+
+También, podrás identificar aquellos conceptos que más te cuestan o que todavía no has asimilado completamente. 
+
+¡No te preocupes! A mayor conciencia de tus áreas de mejora, mayor foco para poder trabajar sobre ellas. 
 
 **¡Demos comienzo a la actividad del día de hoy!**
 
 ##  :star: 1. PRESENTACION DEL EQUIPO  ⏰ (10min)
 
-¡Listos, preparados, ya! A esta altura conoces bien cómo funciona este momento. ¿Ya se han presentado con el equipo? ¿Te has encontrado nuevamente con alguien? ¿Han podido resolver las actividades que han surgido hasta ahora?		
+¡Listos, preparados, ya! A esta altura conoces bien cómo funciona este momento. 
 
-Utilicen unos 10 minutos para compartir estas breves presentaciones y repasar los conceptos que han aprendido en el encuentro anterior. ¡Seguro recuerdas más de lo que crees!
+¿Ya se han presentado con el equipo? 
+
+¿Te has encontrado nuevamente con alguien? 
+
+¿Han podido resolver las actividades que han surgido hasta ahora?		
+
+Utilicen unos ⏰ 10 minutos ⏰  para compartir estas breves presentaciones y repasar los conceptos que han aprendido en el encuentro anterior. ¡Seguro recuerdas más de lo que crees!
 
 ---
 
@@ -34,7 +43,7 @@ Hemos explorado ampliamente el mundo de los errores (¡y todavía falta!) pero n
 (1)  **Error** es **lo que comete el desarrollador al escribir el código**, **defecto** es **lo que vemos de manifiesto en el software**.
 
 
-Si el ciclo de producción de software está funcionando correctamente el equipo de testing (QA) podrá **identificar o alertar de errores a tiempo antes de que salgan a la luz, frente a los clientes o usuarios finales**. Como bien sabemos esto sería una descripción del escenario ideal. Lo habitual es que haya muchas líneas de código y muchas personas colaborando al mismo tiempo (grandes empresas con procesos de trabajo muy establecidos) o pocas personas haciendo muchas tareas superpuestas (contexto de empresas pequeñas o en estadío de startup). **Es en esa superposición de muchas personas o muchas tareas que a veces vemos cómo los errores salen a la luz (bugs o defectos)**. O l**os descubrimos con muy poco tiempo antes de que sea necesario entregar el producto y ya no hay margen para cambios**. 
+Si el ciclo de producción de software está funcionando correctamente el equipo de testing (QA) podrá **identificar o alertar de errores a tiempo antes de que salgan a la luz, frente a los clientes o usuarios finales**. Como bien sabemos esto sería una descripción del escenario ideal. Lo habitual es que haya muchas líneas de código y muchas personas colaborando al mismo tiempo (grandes empresas con procesos de trabajo muy establecidos) o pocas personas haciendo muchas tareas superpuestas (contexto de empresas pequeñas o en estadío de startup). **Es en esa superposición de muchas personas o muchas tareas que a veces vemos cómo los errores salen a la luz (bugs o defectos)**. O **los descubrimos con muy poco tiempo antes de que sea necesario entregar el producto y ya no hay margen para cambios**. 
 
 En la siguiente imagen vemos una simple matriz de análisis que nos puede servir de ayuda para saber qué hacer al descubrir un defecto. 
 
@@ -189,32 +198,32 @@ Volviendo al punto de partida inicial: la verificación sirve para saber si esta
 
 ¡Por supuesto que sí! La teoría es útil pero solamente cuando sabemos en dónde utilizarla y para qué. 
 
-Vamos a dar un paseo por una verificación. Estaremos verificando un automóvil y una aplicación de software al mismo tiempo. 
+**Vamos a dar un paseo por una verificación. Estaremos verificando un automóvil y una aplicación de software al mismo tiempo**. 
 
 1. **Inspección**: se refiere a examinar un producto o sistema sin intervenir en él. Puede ser la simple manipulación física o tomar medidas, por ejemplo.
 
--Automóvil: inspeccionar visualmente el automóvil para asegurarnos de que cumpla con los requerimientos especificados: levanta cristales eléctrico, asientos ajustables, aire acondicionado, sistema de navegación a bordo, kit de remolque, etc.
+- Automóvil: inspeccionar visualmente el automóvil para asegurarnos de que cumpla con los requerimientos especificados: levanta cristales eléctrico, asientos ajustables, aire acondicionado, sistema de navegación a bordo, kit de remolque, etc.
 
--Software: examinar visualmente el software para constatar que existan las pantallas solicitadas, chequear que estén los campos necesarios para el ingreso de datos (nombre de usuario, por ejemplo), verificar que existan todos los botones para las funcionalidades solicitadas, etc.
+- Software: examinar visualmente el software para constatar que existan las pantallas solicitadas, chequear que estén los campos necesarios para el ingreso de datos (nombre de usuario, por ejemplo), verificar que existan todos los botones para las funcionalidades solicitadas, etc.
 
 2. **Demostración**: es la manipulación del producto como se espera que sea usado, para verificar que se comporte como se planificó o de acuerdo a las expectativas.
 
--Automóvil: poner en uso los comandos de las ventanas y los asientos para verificar que funcionen correctamente, encender el vehículo para corroborar que el aire acondicionado produzca aire frío, dar una vuelta con el automóvil para tener una idea de aceleración y rango de maniobras como fue descrito en los requerimientos.
+- Automóvil: poner en uso los comandos de las ventanas y los asientos para verificar que funcionen correctamente, encender el vehículo para corroborar que el aire acondicionado produzca aire frío, dar una vuelta con el automóvil para tener una idea de aceleración y rango de maniobras como fue descrito en los requerimientos.
 
--Software: ingresar todos los campos en las pantallas y seleccionar los botones que cumplan con lo solicitado, esperando la respuesta específica. Asegurar que los datos devueltos son del tipo requerido.
+- Software: ingresar todos los campos en las pantallas y seleccionar los botones que cumplan con lo solicitado, esperando la respuesta específica. Asegurar que los datos devueltos son del tipo requerido.
 
 3. **Prueba**: es la verificación del producto o sistema utilizando una serie de estímulos, datos o ingresos predeterminados para corroborar que el producto produzca un resultado específico y predefinido en los requerimientos.  
 	
--Automóvil: acelerar el automóvil de cero a 100 km/h. Verificar que pueda ser realizado en 5.2 segundos. Acelerar en una curva bajo condiciones de control, produciendo 0.8 fuerza G, sin que el vehículo pierda tracción.
+- Automóvil: acelerar el automóvil de cero a 100 km/h. Verificar que pueda ser realizado en 5.2 segundos. Acelerar en una curva bajo condiciones de control, produciendo 0.8 fuerza G, sin que el vehículo pierda tracción.
 
--Software: ingresar el tipo y modelo de automóvil, con levanta cristales eléctrico, dirección asistida, y el resto de las opciones definidas en el plan de pruebas, seleccionar el botón de “obtener precio ya” y que la aplicación devuelva el valor preciso de “$43.690”.
+- Software: ingresar el tipo y modelo de automóvil, con levanta cristales eléctrico, dirección asistida, y el resto de las opciones definidas en el plan de pruebas, seleccionar el botón de “obtener precio ya” y que la aplicación devuelva el valor preciso de “$43.690”.
 
 4. **Análisis**: es la verificación del producto o sistema utilizando modelos, cálculos y equipos de pruebas especializados. Esta etapa permite que se puedan hacer predicciones sobre el desempeño o performance típicos del producto o software basados en resultados confirmados de las pruebas. También se pueden combinar estos resultados para ofrecer mayor información sobre el producto para poder estimar los rangos límites de performance. 
 
 
--Automóvil: completar una serie de aceleraciones a unas revoluciones/m por un tiempo determinado, mientras se monitorea la vibración del motor y su temperatura, verificando que se logran los resultados deseados. Utilizar esta información para predecir el punto de falla del motor. Ej, las rev/m máximas toleradas por un tiempo estimado.
+- Automóvil: completar una serie de aceleraciones a unas revoluciones/m por un tiempo determinado, mientras se monitorea la vibración del motor y su temperatura, verificando que se logran los resultados deseados. Utilizar esta información para predecir el punto de falla del motor. Ej, las rev/m máximas toleradas por un tiempo estimado.
 
--Software: completar una serie de pruebas en las que un número predeterminado de usuarios ingresan las características del automóvil que están intentando cotizar e inician la función “obtener precio” al mismo tiempo. Se mide el tiempo de respuesta para corroborar que la función devuelve un precio dentro de los límites de tiempo preestablecidos. Se analiza la relación entre el incremento de usuarios en el sistema y el tiempo que le toma a la función devolver el precio. Se documentan los resultados y el tiempo de cada prueba para ver si se degrada la performance a medida que el sistema recibe mayor carga para detectar cuándo es el momento en el que el sistema deja de cumplir con las expectativas definidas en los requerimientos.
+- Software: completar una serie de pruebas en las que un número predeterminado de usuarios ingresan las características del automóvil que están intentando cotizar e inician la función “obtener precio” al mismo tiempo. Se mide el tiempo de respuesta para corroborar que la función devuelve un precio dentro de los límites de tiempo preestablecidos. Se analiza la relación entre el incremento de usuarios en el sistema y el tiempo que le toma a la función devolver el precio. Se documentan los resultados y el tiempo de cada prueba para ver si se degrada la performance a medida que el sistema recibe mayor carga para detectar cuándo es el momento en el que el sistema deja de cumplir con las expectativas definidas en los requerimientos.
 
 ---
 
@@ -276,15 +285,24 @@ Te presentaremos una serie de imágenes. En el encuentro anterior te alcanzamos 
 
 - B - ¿Puedes incluir el tipo de error que ves? Si no los recuerdas, son estos que vimos en el encuentro anterior.
 
-Ejemplo 1: Trip Advisor
+-> Ejemplo 1: Trip Advisor
 
-![image](https://user-images.githubusercontent.com/72580574/214967311-31edc8d0-db8f-4c5d-91f8-1781f82c8959.png)
+![image](https://user-images.githubusercontent.com/72580574/219875873-6edaad3f-3a66-4dfb-b483-f448eb2e2eb3.png)
+
+Cuando el nombre del lugar ocupa más de un rengló, se superpone con los iconos de valoración y cantidad de reviews.
+
+Se debería poder leer todo claro.
+
+-> Ejemplo 2: Notificaciones
+
+![image](https://user-images.githubusercontent.com/72580574/219875881-c78a0782-1b88-4048-9637-486722bd82fd.png)
 
 
 Ejemplo 2: Facebook
 
 
 ![image](https://user-images.githubusercontent.com/72580574/214967412-07f74e21-1131-4f1c-ac52-670847b72a32.png)
+
 
 Ejemplo 3:
 
