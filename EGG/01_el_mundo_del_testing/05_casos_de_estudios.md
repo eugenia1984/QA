@@ -382,7 +382,7 @@ La ejecución anticipada de las pruebas reduce el riesgo de que los errores prov
 
 Ya hemos visto errores y defectos. Veamos cuáles son las causas posibles de los errores y defectos en software 
 
-- **1. Error Humano**: Las personas a cargo de un proyecto pueden equivocar alguno de los puntos a resolver. Desde una fecha de entrega incorrecta (“Era para hoy?”), hasta enviar a producción una porción de código que no estaba testeada todavía. Los memes abundan, dando cuenta de cuántas veces se pierden los detalles en la comunicación incompleta de requerimientos o en la falta de procesos de verificación.  
+- **1. Error Humano**: Las personas a cargo de un proyecto se pueden equivocar alguno de los puntos a resolver. Desde una fecha de entrega incorrecta (“Era para hoy?”), hasta enviar a producción una porción de código que no estaba testeada todavía. Los memes abundan, dando cuenta de cuántas veces se pierden los detalles en la comunicación incompleta de requerimientos o en la falta de procesos de verificación.  
 
 
 - **2. Condiciones Ambientales**: Existen causas ambientales que tienen impacto directo sobre la tecnología. Algunos ejemplos son la radiación, el magnetismo, campos electromagnéticos, polución, tormentas solares, rayos cósmicos. Y luego algunas fallas en el hardware (los componentes duros de la tecnología) causadas por elementos externos. Algunos ejemplos son: fallos de discos duros debido a fluctuaciones en el suministro de energía eléctrica, temblores, terremotos, inundaciones, y otros elementos de la naturaleza que puedan afectar directamente a la estructura más visible de una computadora. 
