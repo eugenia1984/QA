@@ -33,29 +33,32 @@ Por otro lado, así como lo fue en el encuentro anterior, tienes un Check de Con
 
 Antes de comenzar con la lectura de hoy, te sugerimos esta videoaula en la que veremos una introducción al STLC (ciclo de vida del testing). Dura aproximadamente 5 minutos. Para acceder, haz clic en el botón [“videoaula.”](https://www.youtube.com/watch?v=x4HiQtipOPs)
 
-### Planificación de pruebas de software
+### :star: PLANIFICACIÓN DE PRUEBAS DE SOFTWARE
 
 ![image](https://user-images.githubusercontent.com/72580574/215887774-51af4bf9-1dff-46c9-91d3-3c36d7b42413.png)
 
 Imagen 8.1: Ciclo de vida del testing. Fuente: GeeksForGeeks
 
-La mayoría de las iniciativas de desarrollo comienzan con identificar los requisitos de software que especifican lo que la empresa espera del proyecto.
+La mayoría de las iniciativas de desarrollo comienzan con **identificar los requisitos de software que especifican lo que la empresa espera del proyecto**.
 
-Los requisitos de software a menudo incluyen necesidades comerciales de alto nivel, requisitos arquitectónicos (1) que detallan cómo se diseñará y admitirá la función, y requisitos detallados del sistema a partir de los cuales los desarrolladores crearán el producto. Los requisitos del sistema incluyen especificaciones funcionales y no funcionales. Es trabajo del tester identificar oportunidades para probar y validar.
+Los requisitos de software a menudo incluyen **necesidades comerciales de alto nivel**, **requisitos arquitectónicos** (1) que detallan cómo se diseñará y admitirá la función, y **requisitos detallados del sistema** a partir de los cuales los desarrolladores crearán el producto. Los requisitos del sistema incluyen **especificaciones funcionales y no funcionales**. Es trabajo del tester identificar oportunidades para probar y validar.
 
 
-(1) Arquitectura en software hace referencia a la estructura y la relación entre las diferentes partes de un software y sus propiedades visibles externas. En suma, una arquitectura de Software está compuesta por más arquitecturas de datos que se articulan entre sí.[¿Quieres leer más?](https://keepcoding.io/blog/que-es-arquitectura-software/#:~:text=La%20arquitectura%20de%20Software%20hace,de%20datos%20articuladas%20entre%20s%C3%AD.)
+(1) **Arquitectura en softwar**e hace referencia a la estructura y la relación entre las diferentes partes de un software y sus propiedades visibles externas. En suma, una arquitectura de Software está compuesta por más arquitecturas de datos que se articulan entre sí.[¿Quieres leer más?](https://keepcoding.io/blog/que-es-arquitectura-software/#:~:text=La%20arquitectura%20de%20Software%20hace,de%20datos%20articuladas%20entre%20s%C3%AD.)
 
-En esta fase de STLC (Software Testing Life Cycle o Ciclo de vida del testeo del software), los tester trabajan tanto dentro de sus propios equipos como de forma interdisciplinaria para contextualizar cómo probarán el software. El análisis de requisitos a menudo incluye sesiones de intercambio de ideas, identificación de puntos ciegos o áreas poco claras en los requisitos y priorización de ciertas evaluaciones.
-En caso de duda o falta de documentación de requisitos, el equipo de control de calidad hará preguntas a los equipos de ingeniería o comercial para aclarar y diseñar una estrategia de prueba.
+En esta fase de STLC (Software Testing Life Cycle o Ciclo de vida del testeo del software), **los tester trabajan tanto dentro de sus propios equipos como de forma interdisciplinaria para contextualizar cómo probarán el software**. El análisis de requisitos a menudo incluye **sesiones de intercambio de ideas**, **identificación de puntos ciegos o áreas poco claras en los requisitos** y **priorización de ciertas evaluaciones**.
+En caso de duda o falta de documentación de requisitos, el equipo de control de calidad **hará preguntas a los equipos de ingeniería o comercial para aclarar y diseñar una estrategia de prueba**.
 
-La segunda fase de STLC es importante, ya que guía gran parte del trabajo a seguir. La planificación de pruebas toma los conocimientos encontrados durante los requisitos o el análisis del producto y los convierte en una estrategia de control de calidad documentada.
+La segunda fase de STLC es importante, ya que guía gran parte del trabajo a seguir. La **PLANIFICACIÓN DE PRUEBAS** toma los conocimientos encontrados durante los requisitos o el análisis del producto y los convierte en una e**strategia de control de calidad documentada**.
 
 El liderazgo del equipo de prueba determina qué recursos y esfuerzos se destinarán a las pruebas. La documentación del plan de prueba resultante informa tanto a los testers como a otros departamentos cómo comenzará el trabajo de prueba, manteniendo a todos en la misma página. Este plan es especialmente útil cuando otros miembros de la organización son parte activa en las pruebas y en la corrección de errores, como por ejemplo los desarrolladores que ejecutan pruebas unitarias (2) y escriben revisiones.
 
+
+(2) **Unit testing**: se llama testing y es testing pero lo llevan a cabo los desarrolladores de software.
+
 El plan de pruebas especifica varios detalles del trabajo de control de calidad que se realizará, incluidos el alcance, los objetivos, los tipos de pruebas funcionales y no funcionales (tanto automáticas como manuales) y los detalles de los entornos de prueba. Una vez que se determinan estos detalles, la gestión de pruebas establece roles y plazos para el trabajo. Finalmente, el equipo de pruebas puede determinar qué entregables proporcionará al completar las fases de STLC.
 
-(2) Unit testing: se llama testing y es testing pero lo llevan a cabo los desarrolladores de software.
+
 
 La creación de un plan de pruebas implica los siguientes pasos:
 
@@ -64,9 +67,9 @@ La creación de un plan de pruebas implica los siguientes pasos:
 Imagen 8.1: Pasos en la creación del plan de pruebas. Fuente: elaboración propia.
 
 
-##  FASES DE UNA PLANIFICACIÓN 
+## :star: FASES DE UNA PLANIFICACIÓN 
 
-### 1 - Análisis de producto
+### 1 - ANÁLISIS DE PRODUCTO
 
 El foco de un tester es aprender lo más posible sobre el producto que se está probando, el cliente y los usuarios finales de productos similares. Idealmente, esta fase debería centrarse en responder a las siguientes preguntas:
 
@@ -91,7 +94,7 @@ Para lograr estas respuestas, recomendamos hacer lo siguiente:
 Imagen 8.2: Etapas del análisis de producto. Fuente: elaboración propia.
 
 
-### 2 -  Diseño de la estrategia de prueba
+## 2 -  DISEÑO DE LA ESTRATEGIA DE PRUEBA
 
 El documento de estrategia de prueba es desarrollado por el administrador de pruebas y define lo siguiente:
 
@@ -103,11 +106,11 @@ Más específicamente, el documento debe detallar:
 
 - Alcance de la prueba: contiene los componentes de software (hardware, software, middleware (3) ) que se probarán y también aquellos que no se probarán.
 
-- Tipo de prueba: Describe los tipos de pruebas que se utilizarán en el proyecto. Esto es necesario ya que cada prueba identifica tipos específicos de errores.
+- **Tipo de prueba**: Describe los tipos de pruebas que se utilizarán en el proyecto. Esto es necesario ya que cada prueba identifica tipos específicos de errores.
 
-- Riesgos y problemas: describe todos los posibles riesgos que pueden ocurrir durante las pruebas (plazos ajustados, gestión insuficiente, estimación presupuestaria inadecuada o errónea), así como el efecto de estos riesgos en el producto o negocio.
+- **Riesgos y problemas**: describe todos los posibles riesgos que pueden ocurrir durante las pruebas (plazos ajustados, gestión insuficiente, estimación presupuestaria inadecuada o errónea), así como el efecto de estos riesgos en el producto o negocio.
 
-- Logística de prueba: menciona los nombres de los testers (o sus habilidades), así como las pruebas que realizarán. Esta sección también incluye las herramientas y el cronograma establecido para las pruebas.
+- **Logística de prueba**: menciona los nombres de los testers (o sus habilidades), así como las pruebas que realizarán. Esta sección también incluye las herramientas y el cronograma establecido para las pruebas.
 
 
 (3) [¿Qué es middleware?](https://aws.amazon.com/es/what-is/middleware/#:~:text=El%20middleware%20es%20un%20software,se%20pueda%20innovar%20m%C3%A1s%20r%C3%A1pido.)
@@ -143,7 +146,7 @@ Un tipo de prueba es un procedimiento de prueba estándar que proporciona un res
 
 Los tipos de prueba comúnmente utilizados son pruebas de caja negra (black-box testing), pruebas basadas en la experiencia de usuario, pruebas basadas en requerimientos y especificaciones y pruebas de caja blanca (white-box testing).
 
-### Cómo elegir el tipo de prueba más apropiado
+#### Cómo elegir el tipo de prueba más apropiado
 
 Existe una amplia variedad de pruebas para probar productos de software. Puede que un equipo no tenga suficientes esfuerzos y/o recursos para manejar todos los tipos de pruebas disponibles. Como administrador de pruebas, debes establecer la prioridad de los tipos de pruebas. Usa estas preguntas como guía:
 
@@ -161,7 +164,7 @@ Existe una amplia variedad de pruebas para probar productos de software. Puede q
 
 (4) Hacemos hincapié en que son estándares de calidad de procesos porque suelen confundirse con estándares de calidad en los productos. Para darte un ejemplo concreto: puedes estar fabricando lápices. Si tus lápices son los mejores del mercado, tienes un producto de excelente calidad. La calidad en los procesos habla de cómo fabricas ese producto. Dicho de otra manera, puedes tener procesos de una calidad excepcional y sin embargo tus lápices no son los mejores del mercado. ¿Te ha pasado estar en una organización que implemente alguna de las normas ISO?
 
-### 2.3  Documentar riesgos y problemas
+#### 2.3  Documentar riesgos y problemas
 
 El riesgo es un evento incierto del futuro con una probabilidad de ocurrencia y un potencial de pérdida. Cuando el riesgo realmente ocurre, se convierte en el "problema".
 
@@ -203,7 +206,7 @@ Comenzará a probar cuando tenga todos los elementos requeridos que se muestran 
 ![image](https://user-images.githubusercontent.com/72580574/215890597-8735d6b7-aa23-4130-a53c-263c9d6274cc.png)
 
 
-## 3 - Definición de objetivos
+## 3 - DEFINICION DE OBJETIVOS
 
 Esta fase define los objetivos y los resultados esperados de la ejecución de la prueba. Dado que todas las pruebas pretenden identificar tantos defectos como sea posible, los objetivos deben incluir:
 
@@ -213,7 +216,7 @@ Una lista de todas las características del software (funcionalidad, GUI (5), es
 
 El resultado ideal o punto de referencia para cada aspecto del software que necesita pruebas. Este es el punto de referencia con el que se compararán todos los resultados reales.
  
-## 4. 	Establecer criterios de prueba
+## 4. 	ESTABLECER CRITERIOS DE PRUEBA
 
 Los criterios de prueba se refieren a los estándares o reglas que rigen todas las actividades en un proyecto de prueba. Los dos principales criterios de prueba son:
 
@@ -221,7 +224,7 @@ Los criterios de prueba se refieren a los estándares o reglas que rigen todas l
 
 - **Criterios de salida**: define los puntos de referencia que significan la finalización exitosa de una fase de prueba o proyecto. Los criterios de salida son los resultados esperados de las pruebas y deben cumplirse antes de pasar a la siguiente etapa de desarrollo. Por ejemplo, el 80 % de todos los casos de prueba deben marcarse como exitosos antes de que una función o parte del software en particular pueda considerarse adecuada para uso público.
 
-## 5 - Asignación de recursos de planificación
+## 5 - ASIGNACIÓN DE RECURSOS DE PLANIFICACIÓN
 
 Esta fase crea un desglose detallado de todos los recursos necesarios para la finalización del proyecto. Los recursos incluyen el esfuerzo humano, el equipo y toda la infraestructura necesaria para realizar pruebas precisas y completas.
 
@@ -237,11 +240,11 @@ Veamos una tabla de ejemplo para determinar los recursos de sistemas:
 ![image](https://user-images.githubusercontent.com/72580574/215890988-8d2b7a4b-6fe5-47ac-9abe-773c0feecdec.png)
 
 
-## 6 -  Planificación de la configuración del entorno de prueba
+## 6 -  PLANIFICACIÓN DE LA CONFIGURACIÓN DEL ENTORNO DE PRUEBA
 
 El entorno de prueba se refiere a la configuración de software y hardware en la que los QA ejecutan sus pruebas. Idealmente, los entornos de prueba deberían ser dispositivos reales para que los testers puedan monitorear el comportamiento del software en condiciones reales de usuario. Ya sea que se trate de pruebas manuales o pruebas de automatización, nada supera a los dispositivos reales, instalados con navegadores reales y los sistemas operativos no son negociables como entornos de prueba. No comprometa los resultados de sus pruebas con emuladores o simuladores.
 
-###  ¿Cómo configurar el entorno de prueba?
+####  ¿Cómo configurar el entorno de prueba?
 
 Para finalizar esta tarea, se necesita una fuerte cooperación entre el equipo de prueba y el equipo de desarrollo.
 
@@ -253,7 +256,7 @@ Debe hacerle algunas preguntas al desarrollador para comprender claramente la ap
 
 - ¿El ordenador del usuario necesita alguna configuración en particular para navegar por el sitio web?
  
-## 7 -  Determinar el programa de prueba y la estimación.
+## 7 -  DETERMINAR EL PROGRAMA DE PRUEBA Y LA ESTIMACIÓN
 
 Para la estimación de pruebas, el proyecto se dividirá en tareas más pequeñas y se asignará el tiempo y el esfuerzo necesarios para cada una.
 
@@ -265,7 +268,7 @@ Sin embargo, la creación del cronograma requiere aportes desde múltiples persp
 
 - Riesgos asociados al proyecto que ha sido evaluado en una etapa anterior.
 
-## ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 ![image](https://user-images.githubusercontent.com/72580574/215891261-d9e349e3-9230-4ad6-a284-4d329fa82a5d.png)
 
@@ -278,19 +281,19 @@ Para crear el cronograma del proyecto, el administrador de pruebas necesita vari
 
 - **Riesgo del proyecto**: Comprender el riesgo ayuda a Test Manager a agregar suficiente tiempo adicional al cronograma del proyecto para lidiar con los riesgos.
  
-## 8 -  	Establecer entregables de prueba
+## 8 -	ESTABLECER ENTREGABLES DE PRUEBA
 
 Los entregables de prueba se refieren a una lista de documentos, herramientas y otros equipos que deben crearse, proporcionarse y mantenerse para respaldar las actividades de prueba en un proyecto.
 
 Se requiere un conjunto diferente de entregables antes, durante y después de la prueba. 
 
-- Entregables requeridos antes de la prueba. Documentación sobre:
+- **Entregables requeridos antes de la prueba**. Documentación sobre:
 
 o   Plan de prueba
 
 o   Diseño de prueba 
 
-- Entregables requeridos durante la prueba. Documentación sobre:
+- **Entregables requeridos durante la prueba**. Documentación sobre:
 
 o   Guiones de prueba
 
@@ -300,7 +303,7 @@ o   Datos de prueba
 
 o   Registros de errores y ejecuciones
 
-- Entregables requeridos después de la prueba. Documentación sobre:
+- **Entregables requeridos después de la prueba**. Documentación sobre:
 
 o   Resultados de la prueba
 
@@ -312,9 +315,9 @@ Un plan de pruebas en software es la columna vertebral sobre la que se construye
 
 ---
 
-## MANOS A LA OBRA
+##  ✋ MANOS A LA OBRA ✋
 
-## 7.1  Escenarios de análisis
+### 7.1  Escenarios de análisis
 
 Te presentamos varios escenarios de análisis en donde veremos aplicados algunos de los conceptos que vimos en el material de hoy. Te invitamos a que los resuelvas desde tu punto de vista.
 
@@ -322,7 +325,7 @@ Luego, podrás evaluar la discusión de estos puntos con tu equipo del día. ¡T
 
 Cada uno podrá exponer las razones por las que eligió cada opción. 
 
-En el [formulario de fin de guía](https://forms.gle/S8VQWn2JPxHSsnGcA) encontrarás estos mismos escenarios y sus respuestas. Lo pueden resolver en forma individual y enviar cada uno su respuesta.
+En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas. Lo pueden resolver en forma individual y enviar cada uno su respuesta.
 
 **1)** Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La decisión de Ana es:
 
@@ -388,27 +391,27 @@ d) 	Correcto, ya que, sólo en casos excepcionales como la creación de datos de
 
 ---
 
-## :book: MATERIAL DE LECTURA
+## :book: MATERIAL DE LECTURA :book:
 
-## Análisis y diseño
+## :star: ANÁLISIS DE DISEÑO
 
 Factores que determinan los niveles de detalles de las condiciones de prueba:
 
-1. Nivel de prueba, el nivel de detalle y la calidad de la base de prueba.
+- 1 - Nivel de prueba, el nivel de detalle y la calidad de la base de prueba.
 
-2. Complejidad del sistema/software y ciclo de vida de desarrollo utilizado.
+- 2 - Complejidad del sistema/software y ciclo de vida de desarrollo utilizado.
 
-3. Riesgos asociados a proyectos y productos.
+- 3 - Riesgos asociados a proyectos y productos.
 
-4. La relación entre los conceptos básicos de las pruebas, lo que debe probarse y cómo debe probarse.
+- 4 - La relación entre los conceptos básicos de las pruebas, lo que debe probarse y cómo debe probarse.
 
-5. Una herramienta de gestión de pruebas.
+- 5 - Una herramienta de gestión de pruebas.
 
-6. Madurez del proceso de evaluación, así como de las habilidades y conocimientos de los analistas.
+- 6 - Madurez del proceso de evaluación, así como de las habilidades y conocimientos de los analistas.
 
-7. El nivel de especificidad del Diseño de Prueba y otras implicaciones de la tarea de prueba.
+- 7 - El nivel de especificidad del Diseño de Prueba y otras implicaciones de la tarea de prueba.
 
-8. Disposición de los clientes a participar en la consulta.
+- 8 - Disposición de los clientes a participar en la consulta.
 
 Las siguientes son las diversas fuentes para recopilar información de prueba:
 
@@ -441,9 +444,9 @@ o  Restricciones en el diseño del software o las establecidas en el entorno ope
 
 ---
 
-## MANOS A LA OBRA
+## ✋ MANOS A LA OBRA ✋
 
-### 7.2  Te proponemos una serie de desafíos para poner en práctica lo visto en el encuentro anterior y consolidar lo visto en el encuentro de hoy.
+#### 7.2  Te proponemos una serie de desafíos para poner en práctica lo visto en el encuentro anterior y consolidar lo visto en el encuentro de hoy.
 
 Tendrás que poner en práctica todas las habilidades que llevas entrenando, ya que deberás:
 
@@ -460,40 +463,46 @@ Tendrás que poner en práctica todas las habilidades que llevas entrenando, ya 
 
 (7) Un requisito bien desarrollado debe tener estas características: 
 
-Atómico
+- **Atómico**
 
-Identificado de forma única
+- **Identificado de forma única**
 
-Completo
+- **Completo**
 
-Coherente y sin ambigüedades
+- **Coherente y sin ambigüedades**
 
-Trazable
+- **Trazable**
 
-Priorizado
+- **Priorizado**
 
-Comprobable
+- **Comprobable**
 
 
-### Desafío 7.2.1. : Ejercicio de análisis de casos borde
+### 📋 Desafío 7.2.1. : Ejercicio de análisis de casos borde
 
-Caso: Si tomas el tren antes de las 9:30 am o en la tarde, luego de las 16:00 (4 pm) y hasta las 19:30 (7:30 pm), debes pagar el precio total ya que te encuentras viajando en hora pico. Tienes un ticket “ahorro” que está disponible para los viajes entre las 9:30 am y las 4:00 pm y luego de las 7:30 pm.
+**Caso**: Si tomas el tren antes de las 9:30 am o en la tarde, luego de las 16:00 (4 pm) y hasta las 19:30 (7:30 pm), debes pagar el precio total ya que te encuentras viajando en hora pico. Tienes un ticket “ahorro” que está disponible para los viajes entre las 9:30 am y las 4:00 pm y luego de las 7:30 pm.
 
-¿Cómo testearías este sistema de venta de tickets? ¿Puedes anticipar cuáles son los casos “borde”? ¿Si compro mi ticket a las 15:58 para subir al tren de las 16:01, qué tarifa debería pagar?
+¿Cómo testearías este sistema de venta de tickets? 
 
-¿Qué preguntas sumarías al caso para poder armar un plan de pruebas que contemple todos los casos claros + los casos de borde, o en los que pueden surgir dudas en los pasajeros? ¿El sistema tiene contemplados los casos borde?
+¿Puedes anticipar cuáles son los casos “borde”? 
 
-### Desafío 7.2.2. - Ejercicio de tabla de decisiones
+¿Si compro mi ticket a las 15:58 para subir al tren de las 16:01, qué tarifa debería pagar?
 
-Caso: Si tienes una tarjeta de pasajero senior (60+ años), tienes un 35% de descuento en cualquier ticket que compres. Si viajas con un niño menor a 16 años, tienes un descuento del 50% en cualquier ticket si tienes una tarjeta de “Familia viajera”. Si no la tienes, recibes un 10% de descuento en el ticket para menores de 16 años. Solo puedes poseer un tipo de tarjeta de viajero frecuente.
+¿Qué preguntas sumarías al caso para poder armar un plan de pruebas que contemple todos los casos claros + los casos de borde, o en los que pueden surgir dudas en los pasajeros? 
+
+¿El sistema tiene contemplados los casos borde?
+
+### 📋 Desafío 7.2.2. - Ejercicio de tabla de decisiones
+
+**Caso**: Si tienes una tarjeta de pasajero senior (60+ años), tienes un 35% de descuento en cualquier ticket que compres. Si viajas con un niño menor a 16 años, tienes un descuento del 50% en cualquier ticket si tienes una tarjeta de “Familia viajera”. Si no la tienes, recibes un 10% de descuento en el ticket para menores de 16 años. Solo puedes poseer un tipo de tarjeta de viajero frecuente.
 
 Arma una tabla de decisiones mostrando todas las combinaciones posibles de tickets y los descuentos resultantes. Propone casos de prueba que se derivan de esta tabla.
 
 En estos ejercicios hay desafíos que todavía no saben resolver. Les sugerimos sumar todos los puntos de vista del equipo del encuentro de hoy para intentar resolverlos. Se ponen en juego muchas habilidades extra como la atención al detalle, la capacidad de secuenciar procesos y poder definir casos de uso novedosos para ustedes. 
 
-###  Desafío 7.2.3. - Statement and decision testing exercise
+###  📋 Desafío 7.2.3. - Statement and decision testing exercise
 
-Caso: una máquina expendedora entrega bebidas calientes o frías. Si eliges una bebida caliente (café o té), pregunta si lo deseas con leche. Agrega la leche en caso de que sea requerida. Luego pregunta si deseas azúcar, y agrega el azúcar de ser requerida. Luego, entrega la bebida terminada.
+**Caso**: una máquina expendedora entrega bebidas calientes o frías. Si eliges una bebida caliente (café o té), pregunta si lo deseas con leche. Agrega la leche en caso de que sea requerida. Luego pregunta si deseas azúcar, y agrega el azúcar de ser requerida. Luego, entrega la bebida terminada.
 
 - a. Dibuja un diagrama de flujo para este caso. Ayudita: la elección de la bebida es una sola decisión.
 
@@ -512,9 +521,9 @@ Si tu respuesta es no, ¿qué porcentaje de casos has cubierto con estas pruebas
 
 ---
 
-## :book: MATERIAL DE LECTURA 
+## :book: MATERIAL DE LECTURA :book:
 
-### ¿Cuándo crear un diseño de prueba?
+### :star: ¿CUÁNDO CREAR UN DISEÑO DE PRUEBA?
 
 Una vez que se definen las condiciones de prueba y se dispone de suficiente información para crear los casos de prueba de alto o bajo nivel, se puede crear el diseño de prueba para un nivel específico.
 
@@ -525,7 +534,7 @@ Un ejemplo de tal caso es la creación de datos de prueba.
 Los datos de prueba definitivamente se crearán durante la implementación de la prueba. Por lo tanto, es mejor incorporarlo en el propio diseño de la prueba.
 Este enfoque permite la optimización del alcance de las condiciones de prueba mediante la creación automática de casos de prueba de bajo o alto nivel.
 
-### Tipos de prueba
+### TIPOS DE PRUEBA
 
 Los tipos de prueba vistos a continuación son una clasificación sencilla, adaptada al nivel del curso.
 
@@ -589,7 +598,7 @@ o   **Pruebas de regresión normal**: se realiza para verificar si la compilaci�
 ![image](https://user-images.githubusercontent.com/72580574/215895769-57ed1c1c-aa5f-4659-bd59-94ce277cee87.png)
 
 
-###  Niveles de prueba
+###  NIVELES DE PRUEBA
 
 Las pruebas de nivel de software se pueden clasificar principalmente en 4 niveles:
 
@@ -608,9 +617,9 @@ Las pruebas de nivel de software se pueden clasificar principalmente en 4 nivele
 
 ---
 
-## MANOS A LA OBRA
+##  ✋ MANOS A LA OBRA ✋
 
-### EJERCICIO
+### 📋 EJERCICIO
 
 *Este es un ejercicio de alto grado de esfuerzo
 
@@ -719,7 +728,7 @@ Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasa
 
 ---
 
-## PRACTICA
+## 📋  PRACTICA
 
 - 1) Identificar los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:
 
@@ -754,8 +763,9 @@ Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasa
 
 ![image](https://user-images.githubusercontent.com/72580574/215901552-06a22d55-b888-4432-b223-771163520082.png)
 
+---
 
-## DESARROLLO
+## 📋  DESARROLLO 📋 
 
 ![image](https://user-images.githubusercontent.com/72580574/215901605-0c976ce5-38ba-4837-9f61-9a1dbd9e1037.png)
 
