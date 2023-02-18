@@ -8,13 +8,13 @@ MODULO 2 - ENCUENTRO 9 / 17
 
 ## :book: MATERIAL DE LECTURA :book:
 
-##  Historias de usuario
+##  :star: HISTORIAS DE USUARIO
 
 Dentro de un contexto de metodologías ágiles, uno de los pasos en el proceso es crear historias de usuario. Y si bien puede parecer que es un paso extra del proceso, realmente nos dan un contexto importante y asocian las tareas con el valor que estas aportan al usuario final.
 
 Una historia de usuario es una explicación general e informal de una función de software escrita desde la perspectiva del usuario final. Su propósito es articular cómo proporcionará una función de software el valor al cliente.
 
-### Historias de usuario (User story)
+### HISTORIAS DE USUARIO (USER STORIES)
 
 Las historias de usuario no son lo mismo que los requerimientos del sistema de software que son mucho más detallados y técnicos. En el desarrollo de software ágil las personas están en primer lugar, y por lo tanto las historias de usuarios ponen a los usuarios finales reales en el centro de la conversación. Las historias utilizan un lenguaje no técnico para ofrecer contexto al equipo de desarrollo y sus esfuerzos. Después de leer una historia de usuario, el equipo sabe por qué está compilando lo que está compilando y qué valor crea.
 Las historias de usuario son uno de los componentes centrales de un programa ágil. Ayudan a proporcionar un marco centrado en el usuario para el trabajo diario, lo que impulsa la colaboración y la creatividad y mejora el producto en general.
@@ -58,7 +58,7 @@ El propósito de una historia de usuario es escribir cómo un proyecto entregar�
 
 Las historias de usuario no reemplazan los casos de uso ni la documentación de requisitos técnicos. En cambio, los desarrolladores de productos pueden escribir historias de usuarios para ayudar a priorizar cómo se agregará la funcionalidad a un proyecto durante el período de tiempo del proyecto. Una historia de usuario puede considerarse un punto de partida para una conversación que establece el requisito real del producto.
 
-## ¿Quiénes son los usuarios?
+## ¿QUIÉNES SON LOS USUARIOS?
 
 **Usuario**: se refiere a la persona que utiliza un producto o servicio de forma habitual. Dependiendo del área donde se utiliza la palabra, podemos diferenciar algunos aspectos de la persona y del producto o servicio. 
 
@@ -66,7 +66,7 @@ Por ejemplo, un usuario en la salud es aquel que utiliza un servicio médico y u
 
 Cada cuenta tiene un perfil de usuario que indicará los privilegios, accesos, políticas de seguridad, restricciones y hábitos de la persona que usa la cuenta. Por lo cual, existen perfiles de cuentas, por motivos de seguridad y así poder proteger las transacciones a realizar y el impacto en los datos. Según el perfil la persona podrá acceder a ciertos menús del sistema y realizar determinadas transacciones, generalmente consulta, alta, baja y modificaciones.
 
-#### Tipos de usuarios
+#### TIPOS DE USUARIOS
 
 Los tipos de usuarios varían según el sistema y las necesidades de su uso. Por ejemplo, pueden dividirse, según el nivel de permisos o privilegios que tienen en un sistema en:
 
@@ -84,7 +84,9 @@ Un prototipo es un primer modelo que sirve como representación o simulación de
 
 :tv: ->  [Las claves de la historia de usuario](https://youtu.be/29jjnq3GkuY)
 
-### Características de una historia de usuario
+---
+
+### CARACTERÍSTICAS DE UNA HISTORIA DE USUARIO _ COMO - QUIERO - PARA
 
 Las historias de usuario suelen expresarse con una frase simple con la siguiente estructura:
 
@@ -147,7 +149,7 @@ Supongamos que estamos desarrollando una funcionalidad de “autogestión de TV 
 
 ---
 
-## ¡MANOS A LA OBRA! 
+##  ✋ ¡MANOS A LA OBRA! ✋
 
 Pongamos manos a la obra y pensemos un poco sobre lo que ya hemos aprendido hoy acerca de las historias de usuario. Ya te hemos dado ejemplos, pero llegó la hora en que tú pienses sobre uno nuevo.
 
@@ -178,11 +180,11 @@ Por último, las historias de usuario deben asociarse con criterios de aceptaci�
 
 ## :book: MATERIAL DE LECTURA :book:
 
-### ¿Para qué se utilizan?
+### ¿PARA QUÉ SE UTILIZAN LAS HISTORIAS DE USUARIO?
 
 El propósito de una historia de usuario es articular cómo un elemento de trabajo entregará un valor particular al cliente. Ten en cuenta que los "clientes" no tienen porqué ser usuarios finales externos en el sentido tradicional, también pueden ser clientes internos o colegas dentro de tu organización que dependen de tu equipo.
 
-#### Principios básicos
+#### PRINCIPIOS BÁSICOS
 
 Los principios básicos de requerimientos ágiles son:
 
@@ -197,7 +199,7 @@ Los principios básicos de requerimientos ágiles son:
 - Se crean y evolucionan a medida que el proyecto se desarrolla
 
 
-#### Modelo INVEST
+#### MODELO INVEST
 
 El siguiente modelo nos guía para escribir buenas historias de usuario. La palabra INVEST es un acrónimo que marca las características para tener en cuenta al definir las historias de usuario:
 
@@ -207,7 +209,7 @@ El siguiente modelo nos guía para escribir buenas historias de usuario. La pala
 
 ---
 
-## Errores comunes al escribir historias de usuario
+## :stars: ERRORES COMUNES AL ESCRIBIR HISTORIAS DE USUARIO
 
 - **Describir historias de usuario muy generales**, del estilo “Como usuario quiero manejar distintas cotizaciones para poder seleccionar la más conveniente”. Si bien a primera vista cumple el patrón esperado de una Historia de Usuario, el rol de esta no está bien especificado. ¿Quién es el usuario observando las cotizaciones? Es distinta la funcionalidad detrás si es el administrador del sitio, o un usuario visualizando datos.
 
@@ -229,7 +231,7 @@ Un error muy frecuente es cuando no hay acumulación en absoluto. Se ve con dema
 
 ---
 
-### Beneficios de las historias de usuario
+### :stars: BENEFICIOS DE LAS HISTORIAS DE USUARIOS
 
 Las historias de usuario brindan a los equipos de desarrollo un contexto importante incluso antes de que comience un proyecto. Ponen énfasis en el usuario y se enfocan en resolver situaciones reales a las que se puede enfrentar un cliente. Esto puede ayudar a los equipos de desarrollo a pensar de forma más crítica y creativa.
 
@@ -266,7 +268,7 @@ Las historias de usuario son uno de los componentes centrales de un programa ág
 ---
 
 
-## Trabajando con historias de usuario
+## TRABAJANDO CON HISTORIAS DE USUARIO
 
 Una vez que se ha escrito una historia, es hora de integrarla en su flujo de trabajo. Por lo general, una historia la escribe el propietario del producto, el gerente del producto o el gerente del programa y la envía para su revisión.
 
@@ -281,7 +283,7 @@ Te dejamos un video extra para aprender los aspectos más importantes al crear t
 Puedes ver el [próximo video](https://youtu.be/FJuq_lrM5Cc), tiene una duración de 12 minutos. 
 
 
-##  ¿Cómo escribir historias de usuario?
+##  ¿CÓMO ESCRIBIR HISTORIAS DE USUARIO?
 
 Tenga en cuenta lo siguiente al escribir historias de usuario:
 
@@ -302,11 +304,11 @@ Tenga en cuenta lo siguiente al escribir historias de usuario:
 
 ---
 
-## ¿Cómo pruebo las historias de usuario?
+## ¿CÓMO PRUEBO LAS HISTORIAS DE USUARIO?
 
 En la mayoría de las actividades de software, las historias de los usuarios son un breve recordatorio de las conversaciones entre el propietario del producto, el desarrollador y el tester. Si bien las historias de los usuarios son muy breves, el formulario suele usarse incorrectamente y esto genera ambigüedad, discusiones innecesarias, reelaboración y pérdida de tiempo. Ahora veremos cómo probar las historias de usuario para que puedas asegurarte de que sean de alta calidad y reduzcan el trabajo repetido y acorten los plazos.
 
-#### Diez pruebas para escribir satisfactorias historias de usuario
+#### :stars: 10 PRUEBAS PARA ESCRIBIR SATISFACTORIAS HISTORIAS DE USUARIO
 
 1. **CLARIDAD**: Tus historias de usuario deben ser claras e inequívocas. El propietario del producto, el desarrollador y el evaluador deben tener un entendimiento común de lo que se entregará a partir del texto de la historia. A medida que escribas tus historias, asume que, si es posible que se malinterpreten, se malinterpretarán. Además, asegúrate de que tus historias incluyan toda la funcionalidad necesaria (excluyendo la navegación).
 
@@ -341,7 +343,7 @@ Sugerencia: No medir el tamaño agrega incertidumbre a tu trabajo de software.
 
 ---
 
-## MANOS A LA OBRA!!
+## ✋  MANOS A LA OBRA!!✋  
 
 ### Escenarios de análisis
 
@@ -350,7 +352,7 @@ Te presentamos varios escenarios de análisis en donde veremos aplicados algunos
 En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas, envíenlas de forma individual luego de haberlo discutido. 
 
 
-1. 1.   	Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente:
+- 1. 1.   	Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente:
 
 ÉPICA: Mejorar la visualización de los medios de pago en el sitio e-commerce.
 
@@ -371,7 +373,7 @@ c.  	Incorrecto. La historia 2 está incompleta ya que no sabemos a qué usuario
 d.  	Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios ni está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
 
 
-2. 2.  	Analice la siguiente Historia de Usuario: “Como alumno quiero más ejercicios”. Podemos decir qué:
+- 2. 2.  	Analice la siguiente Historia de Usuario: “Como alumno quiero más ejercicios”. Podemos decir qué:
 
 a.  	La historia está incompleta, ya que precisamos el beneficio o el “para qué” de la historia.
 
@@ -381,7 +383,7 @@ c.  	La historia está incompleta, no sólo está faltando el beneficio o “par
 
 d.  	La historia está incompleta, debe especificarse también el tipo de alumnos, cómo de qué curso son, y qué ejercicios desean.
 
-3. 3.  	Constanza está realizando las historias de usuario, pero ha decidido cifrar el documento para que sólo ella tenga acceso. Las historias de usuario sólo son necesarias para los tester, asi que no tendrá problemas. Esto es:
+- 3. 3.  	Constanza está realizando las historias de usuario, pero ha decidido cifrar el documento para que sólo ella tenga acceso. Las historias de usuario sólo son necesarias para los tester, asi que no tendrá problemas. Esto es:
 
 a.  	Incorrecto, el equipo de desarrolladores también debe verlas.
 
@@ -391,7 +393,7 @@ c.  	Correcto, siempre puede compartir aquellas historias de usuario que se rela
 
 d.  	Correcto, le servirán para crear un plan de pruebas más detallado.
 
-4. 4.  	Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desea escribirlas, deberán cambiar la metodología de trabajo.
+- 4. 4.  	Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desea escribirlas, deberán cambiar la metodología de trabajo.
 
 a.  	Manuel está equivocado, sólo deben escribir el plan de pruebas.
 
@@ -401,7 +403,7 @@ c.  	Manuel está en lo cierto, pueden utilizar esta herramienta a pesar de no t
 
 d.  	Deberían cambiar la metodología de trabajo, ya que al ser un proyecto chico, es mejor utilizar metodologías ágiles.
 
-5. 5.  	Jorge redactó sus historias de usuario. Agregar a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identificó correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.
+- 5. 5.  	Jorge redactó sus historias de usuario. Agregar a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identificó correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.
 
 a.  	Jorge debe dividir esas historias en tareas más pequeñas que sólo duren un Sprint.
 
@@ -412,7 +414,7 @@ c.  	Siempre y cuando las historias estén claras su duración pierde importanci
 d.  	Jorge sabe lo que hace, seguramente ya han trabajado así con el equipo y se entienden bien.  
 ---
 
-## EJERCICIO
+## 📋 EJERCICIO 📋
 
 De manera individual:
 
@@ -476,9 +478,9 @@ Por otra parte, se quiere conocer la cantidad de personas que asistieron y en cu
 
 ¿Todavía no ha finalizado el encuentro en vivo y ya has llegado hasta aquí? Sigue leyendo 🤓
 
-## :book: MATERIAL EXTRA
+## :book: MATERIAL EXTRA :book:
 
-### El lugar de una historia de usuario dentro de una épica
+### :star: El lugar de una historia de usuario dentro de una épica
 
 #### Historias, épicas e iniciativas
 
@@ -487,7 +489,7 @@ Estas estructuras simples ayudan a los equipos ágiles a gestionar con elegancia
 Digamos que con su equipo quieren hacer algo ambicioso, como lanzar un cohete al espacio. Para hacerlo, deberán estructurar el trabajo: desde los objetivos más grandes hasta los detalles minuciosos. Querrán poder responder a los cambios, informar su progreso y ceñirse a un plan. Épicas, historias e iniciativas son precisamente las herramientas que necesitarás para hacerlo.
 Al comprender cómo estas populares metodologías ágiles y DevOps ayudan a organizar el trabajo, su equipo puede lograr un equilibrio saludable entre la estructura, la flexibilidad y el lanzamiento de cohetes al espacio.
 
-¿Qué son?
+#### ¿Qué son?
 
 - Las historias, también llamadas "historias de usuarios", son requisitos breves o solicitudes escritas desde la perspectiva de un usuario final.
 
@@ -538,20 +540,54 @@ Supongamos que su compañía de cohetes quiere reducir el costo por lanzamiento 
 
 ---
 
-## Check de conocimiento - Historias de Usuario
+## <img src="https://img.icons8.com/fluency/48/null/instagram-check-mark.png"/> CHECK POINT - Historias de Usuario
 
-![image](https://user-images.githubusercontent.com/72580574/216455229-ca2d2457-dc1b-4553-9d8b-cbc340b467a6.png)
+- **1 Podemos decir que una historia de usuario es lo mismo que un requisito**
 
-![image](https://user-images.githubusercontent.com/72580574/216455264-f258b88f-22af-49a1-9e0d-f3117101b041.png)
+Falso
 
-![image](https://user-images.githubusercontent.com/72580574/216455307-6a0f00a7-c050-4925-8b92-44e5daa21ad8.png)
+- **2 Consideramos usuarios a todos aquellos que utilicen el producto o serviicio de forma habitual, sea dentro o fuera de lo arganiación**
 
-![image](https://user-images.githubusercontent.com/72580574/216455357-593139c1-5d6f-44bb-b25b-42212350fc74.png)
+Verdadero
 
-![image](https://user-images.githubusercontent.com/72580574/216455408-4583c416-6e0c-4754-96bf-cfa0e2d07a4e.png)
+- **3 No es correcto dividir a los usuarios de acuerdo a sus privilegios. Todos deben ser considerados iguales**
+
+Falso
+
+- **4 Las historias de usuario son exclusivas de las metodologías ágiles. No deben usarse salvo que se trabaje con esta metodología**
+
+Falso
+
+- **5 Una épica se compone de varias historias**
+
+Verdadero
+
+- **6 Así como la épica posee historias, las historias poseen iniciativas**
+
+Falso
+
+- **7 El orden "Como perfil, quiero, para" debe respetarse al escribir historias**
+
+Verdadero
+
+- **8 Las historias suelen ser breves y concisas pero pueden extenderse un poco de ser necesario**
+
+Falso
+
+- **9 Las historias de un sprint no tienen ninguna relación con las del sprint sigueinte**
+
+Falso
+
+- **10 Ls historias mantienen el foco en el usuario, lo que le agrega un gran contexto al proyecto y permite resolver problemas de usuarios reales.**
+
+Verdadero
 
 
-### DESARROLLO
+
+
+
+
+### 📋 DESARROLLO 📋
 
 En este espacio te ayudaremos a aplicar lo aprendido en la guía.
 
