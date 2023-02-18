@@ -284,6 +284,82 @@ Antes de continuar, vamos a poner en práctica tus habilidades de detección de 
 
 ---
 
+## :star: Categorías comunes de errores de software:
+
+### 1 - Errores funcionales
+
+La funcionalidad es la forma en la que se debe comportar el software. Los errores funcionales son, por ejemplo, si algo que se espera que realice es difícil, resulta confuso y extraño o es directamente imposible.
+
+La funcionalidad esperada del botón Cancelar es que el modal de Eliminar publicación se cierre y que se regrese a la página original de la publicación, sin eliminarla. Si el botón de cancelar no es clicable, estamos frente a un error de funcionalidad.
+
+### 2 - Errores de comunicación o interpretación
+
+El software presenta al usuario opciones o CTA (call to action) que son poco claros o que no realizan la acción que dicen realizar. Por ejemplo, no hay Menú de ayuda o Instrucciones para usuarios nuevos. O acciones que son centrales al software pero no figuran en la sección de Preguntas Frecuentes. Hasta puede ser que un botón lea “Guardar” y esté ejecutando “Eliminar.”
+
+En este ejemplo - Imagen 4.4-, el equipo responsable de la creación visual de este aviso (Front End) transcribió incorrectamente el texto en el botón “Eliminar” y el usuario lee “Guardar” y el software ejecuta eliminar. 
+
+### 3 - Errores de comandos faltantes
+
+Este tipo de errores ocurre cuando un comando esperado está ausente. Observa el siguiente ejemplo:
+
+Esta pantalla permite que el usuario complete su perfil. Pero, no hay opción para que el usuario se vaya de esta pantalla sin completar su perfil. Ya que el botón “Cancelar” no se le provee al usuario, este es un error de comando faltante.
+
+### 4 - Errores de sintaxis e idioma
+
+Los errores de sintaxis corresponden a palabras mal escritas (ortografía o error de tipeado simple) u oraciones que son incorrectas desde lo gramatical. En el caso de software en español, también encontramos en esta categoría errores de herencia de inglés. Verás muchas veces que algunos textos todavía conservan el idioma en el que fueron escritos originalmente. Observa las siguientes imágenes a ver si puedes identificar todos los errores que puedas. Recuerda, ¡atención al detalle es una habilidad que debes desarrollar como si fueras investigador profesional!
+
+Nota: estos errores de sintaxis no se refieren a errores en la sintaxis del código. Esos los ven los desarrolladores cuando hacen sus tests funcionales.
+
+### 5 - Errores en el manejo de errores
+
+Cualquier error que ocurra mientras el usuario está interactuando con el software necesita ser manejado en forma clara y con sentido. En otras palabras, el usuario debe comprender qué pasó (en un lenguaje ameno) y debe tener claro qué hacer como siguiente paso. Si esto no ocurre, a estos errores se los denomina 
+
+“Error en el manejo de errores.”
+
+Siempre que sea posible, el usuario debe tener claro qué pasos debe seguir.
+
+Si en un formulario, por ejemplo, hay campos obligatorios que necesitan ser llenados, los mensajes de validación deben ser claros e indicar qué acciones debe realizar el usuario. Aquí tienes un ejemplo bien manejado:
+
+### 6 - Errores de cálculo
+
+Este tipo de errores ocurre cuando una porción del código del software tiene algún error. Algunos ejemplos son:
+
+- Errores de lógica
+
+- Fórmulas incorrectas
+
+- Tipos de datos no alineados (texto vs números, por ejemplo)
+
+- Errores de código
+
+- Errores en las funciones internas del código
+
+- Bases de datos inexistentes o mal asignadas
+
+### 7 - Errores de control de flujo
+
+El control de flujo en un software describe qué hará este en su próximo paso y bajo qué condiciones.
+
+Por ejemplo, consideremos un sistema en el que el usuario debe completar un formulario y las opciones disponibles son: Guardar, Guardar y cerrar y Cancelar. 
+
+Si el usuario hace clic en el botón de Guardar y cerrar, la información del usuario en ese formulario debiera ser guardada y el formulario cerrarse. Si al hacer clic en ese botón, no se cierra el formulario, es un error de control de flujo. 
+
+### 8 - Errores funcionales
+
+- Errores de comunicación o interpretación
+
+- Errores de comandos faltantes
+
+- Errores de sintaxis e idioma
+
+- Errores en el manejo de errores
+
+- Errores de cálculo
+
+- Errores de control de flujo
+
+---
+
 ## :star: MANOS A LA OBRA ⏰ (40 min)
 
 Tenemos dos ejemplos de errores para que comiences a practicar. 
@@ -294,61 +370,99 @@ Tenemos dos ejemplos de errores para que comiences a practicar.
 
 ### Ejercicio
 
-Para cada uno de los ejemplos presentados a continuación, completa [una tabla como esta](https://docs.google.com/document/d/1VBZqJ7hs48AbapsU42OueCKdvymO1YhnBZbQeTj6hi4/edit?usp=sharing) indicando el tipo de error que visualizas (de los 7 tipos vistos), si tienes suficiente información para documentarlo o tienes preguntas y si existe superposición de errores (más de un tipo al mismo tiempo en un ejemplo). 
-
-- Ejemplo 1: Error de sistema
-
-
-<img width="318" alt="Screen Shot 2023-01-24 at 15 30 29" src="https://user-images.githubusercontent.com/72580574/214377828-91d880df-a8d0-4af3-9c17-7f94966b9b17.png">
-
-- Ejemplo 2: El misterio del teclado
-
-<img width="331" alt="Screen Shot 2023-01-24 at 15 30 47" src="https://user-images.githubusercontent.com/72580574/214377897-79904c33-cafe-40df-b97e-282b1ea2beae.png">
-
-
-- Ejemplo 3: El inesperado de siempre
-
-<img width="456" alt="Screen Shot 2023-01-24 at 15 31 22" src="https://user-images.githubusercontent.com/72580574/214378130-378f9f8c-574a-4707-bf3b-4df8abe5f7eb.png">
-
-
-- Ejemplo 4: Eliminando publicaciones
-
-<img width="458" alt="Screen Shot 2023-01-24 at 15 31 35" src="https://user-images.githubusercontent.com/72580574/214378272-65806db1-d625-4864-a6ca-5b9ea2386b28.png">
-
-- Ejemplo 5: Guardar y compartir
-
-<img width="383" alt="Screen Shot 2023-01-24 at 15 32 41" src="https://user-images.githubusercontent.com/72580574/214378547-0ec6f1f6-623e-4cb4-a039-badce1521b75.png">
-
-
-- Ejemplo 6: El server no coopera
-
-<img width="346" alt="Screen Shot 2023-01-24 at 15 33 14" src="https://user-images.githubusercontent.com/72580574/214378660-9087ead3-513e-40fe-832d-1c983a13a005.png">
-
-
-- Ejemplo 7: Microsoft Visual Studio
-
-<img width="385" alt="Screen Shot 2023-01-24 at 15 33 40" src="https://user-images.githubusercontent.com/72580574/214378717-79049957-053a-40ec-9340-625f1dc30122.png">
-
-
-### Pregunta bonus:
-
-¿Por qué no podemos mostrar ejemplos de todos los tipos de errores? 
-
-- Accede al ANSWER KEY de este ejercicio desde [aquí](https://docs.google.com/document/d/1XVk_IbwhOz14MEcZ0VQ0R0DElVFvOfBM/edit?usp=sharing&ouid=107754327659263796384&rtpof=true&sd=true)
-
-¿Cómo vienes? ¿Cómo están tus poderes de observación?
-
-En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
+Para cada uno de los ejemplos presentados a continuación, completa [una tabla como esta](https://docs.google.com/document/d/1VBZqJ7hs48AbapsU42OueCKdvymO1YhnBZbQeTj6hi4/edit?usp=sharing):
 
 | Ejemplo |Tipo de error (Si hay superposición de errores, numéralos) | Explica tu categorización (¿Con qué evidencia cuentas para elegir una categoría?) | ¿Hay suficiente información? Si la respuesta es no, ¿qué preguntas necesitarías resolver? |
 | ------- | -------- | --------- | --------------------|
-| 1 |  de sintaxis, manejo de error, comando faltante |  no esta claro como debe comportarse, falta el boton que permite saber que hacer, una parte esta en ingles,  el usuario no sabe como continuar | no, no sabe como continuar    |
+| 1 |  |   |   |  
 | 2 |  |   |   |
 | 3 |  |   |   |
 | 4 |  |   |   |
 | 5 |  |   |   |
 | 6 |  |   |   |
 | 7 |  |   |   |
+
+Indicando el tipo de error que visualizas (de los 7 tipos vistos), si tienes suficiente información para documentarlo o tienes preguntas y si existe superposición de errores (más de un tipo al mismo tiempo en un ejemplo). 
+
+#### Ejemplo 1: Error de sistema
+
+
+<img width="318" alt="Screen Shot 2023-01-24 at 15 30 29" src="https://user-images.githubusercontent.com/72580574/214377828-91d880df-a8d0-4af3-9c17-7f94966b9b17.png">
+
+- Errores funcionales: es posible interpretar que la falta de botón de “aceptar” o “cancelar” se clasifique como un error funcional ya que resulta confuso o hasta puede ser percibido como un callejón sin salida para los usuarios.
+
+- Errores de comandos faltantes: Es posible interpretar este error que no tiene un botón que le aclare el próximo paso. ¿Es cancelar? ¿Es ok?
+
+- Errores de sintaxis e idioma: Hay porciones del texto en inglés y en español
+
+- Errores en el manejo de errores: El usuario no tiene claridad de por qué llegó aquí ni qué debe hacer como próximo paso. Tampoco sabe si puede pedir ayuda
+
+#### Ejemplo 2: El misterio del teclado
+
+<img width="331" alt="Screen Shot 2023-01-24 at 15 30 47" src="https://user-images.githubusercontent.com/72580574/214377897-79904c33-cafe-40df-b97e-282b1ea2beae.png">
+
+- Errores funcionales: el error apela a utilizar el teclado para resolver el problema y se entiende que el teclado no está disponible por un error de software.
+
+- Errores de comunicación o interpretación: Los botones se contradicen con la información en el texto. ¿Debo utilizar las teclas del teclado o los botones?
+
+- Errores de control de flujo: No hay evidencia de un objetivo de flujo claro. De todos modos, falta información para poder afirmar esto. Deberíamos tener un video o mayor cantidad de capturas de pantalla para poder afirmar qué debería pasar aquí. 
+
+
+### Ejemplo 3: El inesperado de siempre
+
+<img width="456" alt="Screen Shot 2023-01-24 at 15 31 22" src="https://user-images.githubusercontent.com/72580574/214378130-378f9f8c-574a-4707-bf3b-4df8abe5f7eb.png">
+
+- Errores funcionales: Nos falta contexto, pero es posible afirmar que el error de fondo es funcional (es optativa)
+
+- Errores en el manejo de errores: El usuario no tiene claridad de qué pasa.
+
+#### Ejemplo 4: Eliminando publicaciones
+
+<img width="458" alt="Screen Shot 2023-01-24 at 15 31 35" src="https://user-images.githubusercontent.com/72580574/214378272-65806db1-d625-4864-a6ca-5b9ea2386b28.png">
+
+- Errores de comandos faltantes: Si bien podemos hacer interpretaciones, lo que falta aquí es un botón de “cancelar” o similar (“X”) que permita que el usuario escape a esta situación.
+
+
+#### Ejemplo 5: Guardar y compartir
+
+<img width="383" alt="Screen Shot 2023-01-24 at 15 32 41" src="https://user-images.githubusercontent.com/72580574/214378547-0ec6f1f6-623e-4cb4-a039-badce1521b75.png">
+
+- Errores funcionales: Por el mensaje en pantalla, se puede inferir que hay un error que impide que dos usuarios colaboren en un mismo archivo. El error puede deberse a que está mal diseñado este flujo en particular o que una secuencia realizada por el usuario no ha dado los resultados esperados. 
+
+- Errores en el manejo de errores: El botón “cerrar” es inadecuado para un error en el que se espera que el usuario tenga un comportamiento distinto (que cambie lo que hizo para llegar aquí, que pida soporte, etc).
+
+
+#### Ejemplo 6: El server no coopera
+
+<img width="346" alt="Screen Shot 2023-01-24 at 15 33 14" src="https://user-images.githubusercontent.com/72580574/214378660-9087ead3-513e-40fe-832d-1c983a13a005.png">
+
+-Errores funcionales: El servidor parece que debiera informar un único resultado y no lo ha hecho. Es un flujo con un resultado erróneo que debiera ser solucionado.
+
+- Errores en el manejo de errores: el usuario no tiene claridad de qué hizo para llegar aquí ni cómo resolverlo. Pareciera un error “interno” de desarrollo que ha quedado expuesto a los usuarios. 
+
+
+####  Ejemplo 7: Microsoft Visual Studio
+
+<img width="385" alt="Screen Shot 2023-01-24 at 15 33 40" src="https://user-images.githubusercontent.com/72580574/214378717-79049957-053a-40ec-9340-625f1dc30122.png">
+
+- Errores funcionales: se puede inferir aquí que existe un error en el código que da este resultado. 
+
+- Errores de comunicación o interpretación: la presencia de tres comandos alternativos para salir de este error deja al usuario preguntándose si es lo mismo hacer clic en cualquiera de los tres. Uno de ellos está en gris (indicación de que no es clicable) y deja a la interpretación del usuario de si es posible que ese botón sea “mejor” que los otros en un contexto distinto. 
+
+- Errores en el manejo de errores: Hay muy poca información para el usuario de cuáles son sus próximos pasos y de cuál es la acción que cada botón realizará al ser clicado.
+
+### Pregunta bonus:
+
+- ¿Por qué no podemos mostrar ejemplos de todos los tipos de errores? 
+
+Los errores de flujo o de cálculo, en su mayoría, deben ser capturados en movimiento. Suelen ocurrir durante una secuencia de comandos y se los debe reproducir en video o en gif. Un buen tester busca la replicabilidad de los errores para que los equipos de desarrollo puedan ver exactamente bajo qué condiciones o secuencia de comandos es que se produce el error. 
+
+
+
+-> ¿Cómo vienes? ¿Cómo están tus poderes de observación?
+
+-> En el trabajo en equipo, ¿te ayuda conversar con tus compañer@s de hoy?
+
 
 
 ---
@@ -407,7 +521,7 @@ Uno de los miembros del equipo de investigación de errores descubrió un report
 ---
 
 
-## ¡Hora de cerrar! 
+## ⏰ ¡Hora de cerrar! 
 
 ¡Lo hemos logrado! Has llegado al final del cuarto encuentro.
 Tómense 5 minutos como equipo para conversar sobre el ejercicio de clasificación de errores.
