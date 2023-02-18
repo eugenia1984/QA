@@ -20,7 +20,9 @@ MODULO 2 - ENCUENTRO 7 / 17
 
 ---
 
-¡Ya hemos llegado al comienzo del módulo 2! A partir de ahora ya no tendrás marcado el uso de los tiempos ya que has adquirido progresivamente la suficiente autonomía como para administrarlo tú mismo. Por supuesto que podrás ir conversando con tu equipo para ver qué tal vienen a medida que vayan avanzando con el contenido de hoy.
+### ¡Ya hemos llegado al comienzo del módulo 2!
+
+A partir de ahora ya no tendrás marcado el uso de los tiempos ya que has adquirido progresivamente la suficiente autonomía como para administrarlo tú mismo. Por supuesto que podrás ir conversando con tu equipo para ver qué tal vienen a medida que vayan avanzando con el contenido de hoy.
 
 Podrás notar que las guías comienzan a tener más páginas de aquí en adelante. ¡Ten calma! Ya eres un experto gestionando los tiempos. Además, encontrarás que a veces hacemos breves repasos de temas ya vistos y que los tópicos y ejercicios están acompañados de imágenes. Te proponemos no ver la cantidad de páginas si es algo que suele inquietarte un poco.
 
@@ -29,16 +31,16 @@ Hacia el final de esta guía, te encontrarás con un formulario que te llevará 
 
 ---
 
-## INTRODUCCION
+## :star: INTRODUCCION
 
 Ya has tenido una introducción al mundo del testing. Así como has visto el ciclo de vida de producción de software, estaremos viendo las etapas del Ciclo de Vida del Testing (STLC). A partir de esta guía profundizaremos sobre cada etapa.
 
 ---
 
-## :book: MATERIAL DE LECTURA 
+## :book: MATERIAL DE LECTURA :book: 
 
 
-### Procesos de prueba
+###  PROCESOS DE PRUEBA
 
 Como has estado aprendiendo, no existe un único proceso para realizar pruebas. Sin embargo, podemos tener en cuenta una serie de actividades que son comunes a todos estos procesos. Estas actividades ayudan a que el Testing alcance los objetivos establecidos. 
 
@@ -84,7 +86,7 @@ Iremos desarrollando estos pasos a lo largo de las siguientes guías(2).
 
 ---
 
-## :star: 1 - Análisis de requerimientos
+## :star: 1 - ANÁLISIS DE REQUERIMIENTOS
 
 Hasta el encuentro de hoy, estuvimos viendo los requerimientos como una categoría amplia en la que incluimos “todo lo que puede pedirse al momento de iniciar un proyecto de software.” 
 
@@ -114,7 +116,7 @@ Imagen 7.2: Consecuencias en el costo de un análisis deficiente. Fuente: elabor
 
 El cuadro muestra la relación entre la fase del desarrollo y el costo de la corrección de errores. Si el análisis de requisitos no se realiza en la fase inicial del SDLC, entonces su impacto es enorme para solucionarlo en fases posteriores. Cuando el análisis de requisitos no se produce de forma satisfactoria, pueden aparecer algunas consecuencias como ser: la entrega incorrecta de funciones, mala calidad del producto, una gran cantidad de cambios para corregir fallas del sistema, extensión de los plazos iniciales del proyecto, entre otros. Cuanto más se extiende el tiempo en analizar el requisito, más cuesta hacerlo luego y eso afecta la entrega y la calidad del proyecto.
 
-## Desafíos en la fase de análisis de requisitos en el control de calidad
+## DESAFÍOS EN LA FACE DE ANÁLISIS DE REQUISITOS EN EL CONTROL DE CALIDAD
 
 A continuación presentamos algunos de los desafíos más habituales en el momento de poder analizar los requerimientos. En la teoría parece simple lograr este nivel de comunicación entre los equipos, pero esta etapa del proceso suele ser la que más desafíos trae. 
 
@@ -135,7 +137,7 @@ A continuación presentamos algunos de los desafíos más habituales en el momen
 En los casos vistos hasta el encuentro de hoy, los requerimientos siempre se presentaron como una lista muy ordenada de elementos a desarrollar. La vida profesional está más cerca de esta lista de desafíos y pasa el tiempo entre que el cliente presenta su lista de requerimientos y se llega a una lista más definida con la que se puede trabajar sin cambios. 
 
 
-## Herramientas y técnicas utilizadas para el análisis de los requisitos 
+## HERRAMIENTAS Y TÉCNICAS UTILIZADAS PARA EL ANÁLISIS DE LOS REQUISITOS 
 
 Para mitigar el efecto de un mal análisis de requerimientos, existen herramientas y técnicas que podemos aplicar en este momento. Te presentamos dos:
 
@@ -161,7 +163,8 @@ Para mitigar el efecto de un mal análisis de requerimientos, existen herramient
 
 -Desglose los requisitos en tareas e historias de usuario.
 
-### ¿Cómo analizar los requisitos?
+
+### ¿CÒMO ANALIZAR LOS REQUISITOS?
 
 - Averigua qué software tienes que hacer.
 
@@ -171,28 +174,28 @@ Para mitigar el efecto de un mal análisis de requerimientos, existen herramient
 
 - Ten en cuenta que todas las cosas tendrían que ser probadas.
 
-## Validación de requisitos
+## VALIDACIÓN DE REQUISITOS
 
 Valida los requisitos en función de los puntos a continuación para que al final de la fase de análisis de requisitos esté disponible toda la información requerida.
 Corrección: averiguar declaración/requisito incorrecto.
 
-- Completitud: tienes el desafío de encontrar el requisito faltante.
+- **Completitud**: tienes el desafío de encontrar el requisito faltante.
 
-- Factibilidad: encuentra todas las características que son posibles de probar y cuáles están más allá del alcance.
+- **Factibilidad**: encuentra todas las características que son posibles de probar y cuáles están más allá del alcance.
 
-- Testeabilidad: verifica la posibilidad de crear diferentes pruebas aplicables.
+- **Testeabilidad**: verifica la posibilidad de crear diferentes pruebas aplicables.
 
-- No Ambigüedad: encuentra una interpretación única de los requisitos.
+- **No Ambigüedad**: encuentra una interpretación única de los requisitos.
 
-- Consistencia: descubre la consistencia del requisito y apunte a un solo requisito.
+- **Consistencia**: descubre la consistencia del requisito y apunte a un solo requisito.
 
 ---
 
-## ✋ ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA!  ✋
 
 A continuación encontrarás una serie de requisitos (son los mismos que figuraban como pregunta bonus en el Integrador). 
 
-### Desafío 7.1:
+## Desafío 7.1:
 
 Relee los requerimientos para poder clasificarlos en 3 tipos:
 
@@ -223,11 +226,11 @@ Tip: este ejercicio de categorización te ayudará inmensamente en el proceso de
 
 ---
 
-## :book: MATERIAL DE LECTURA
+## :book: MATERIAL DE LECTURA :book:
 
-### Función de control de calidad
+### FUNCIÓN DE CONTROL DE CALIDAD
 
-*BA*: Business analyst. En ocasiones es un BA quien trae una propuesta de requerimientos a un equipo de desarrollo. Un BA es parte del equipo de Producto y se orienta a descubrir oportunidades comerciales. Ej: agregar la feature de “Comunidad” a una app para bajar de peso. 
+*BA* (**Business analyst**): En ocasiones es un BA quien trae una propuesta de requerimientos a un equipo de desarrollo. Un BA es parte del equipo de Producto y se orienta a descubrir oportunidades comerciales. Ej: agregar la feature de “Comunidad” a una app para bajar de peso. 
 
 
 Un miembro de un equipo QA debe estar involucrado en la actividad de análisis de requisitos para garantizar que los requisitos identificados por el cliente o el *BA* y aceptados por el cliente sean medibles. Además, esta actividad proporciona claridad en varias etapas de SDLC ya que permite identificar la disponibilidad de recursos, permite anticipar los tiempos y preparación de pruebas. 
@@ -258,11 +261,11 @@ El equipo de control de calidad luego realiza un seguimiento con varias partes i
 
 ¿Para qué se realiza este seguimiento? El equipo de QA está buscando completar una RTM o Matriz de trazabilidad. Además buscará realizar el informe de factibilidad de automatización y una lista de preguntas, si corresponde, para ser más específicos sobre los requisitos.
 
-### Actividades realizadas para el análisis de requisitos
+### ACTIVIDADES REALIZADAS PARA EL ANÁLISIS DE REQUISITOS
 
 Hay tres actividades principales que realiza el equipo de control de calidad en esta fase. Las actividades se describen a continuación.
 
-### DEFINICIÓN DEL ALCANCE
+### 1 - DEFINICIÓN DEL ALCANCE
 
 El equipo de control de calidad identifica el alcance de las pruebas en niveles altos y se divide en varios módulos funcionales. El equipo también identifica los tipos de pruebas necesarias para realizar: pruebas de humo, pruebas de cordura, pruebas funcionales, pruebas de regresión, etc. 
 El equipo de control de calidad analiza los requisitos previos y los detalles del entorno donde se supone que se realizarán las pruebas. El equipo recopila detalles sobre las prioridades de las pruebas y se enfoca en la secuencia de módulos que se validarán. 
@@ -301,20 +304,22 @@ Ejemplos de escenarios de prueba es un sistema de ventas al exterior o multinaci
 
 - Validar que no se pueda vender a países donde no hay convenios o contratos para exportar
 
-### ¿Por qué es importante la RTM?
+### ¿POR QUÉ ES IMPORTANTE LA RTM?
 
 Es una forma sencilla de rastrear el requisito con sus escenarios de prueba y casos de prueba correspondientes. RTM suele ser una hoja de trabajo que contiene los requerimientos con todos los escenarios y casos de prueba posibles y su estado actual, es decir, si se aprobaron o fallaron. Esto ayudaría al equipo de prueba a comprender el nivel de actividades de prueba realizadas para el producto específico.
 
 
-### ¿Qué parámetros debemos incluir en la RTM?
+### ¿QUÉ PARÁMETROS DEBEMOS INCLUIR EN LA RTM?
 
-ID de requerimiento (ID: es la identificación o número/letras que lo identifica al requisito, el cuál es único, no se repite)
+- ID de requerimiento (ID: es la identificación o número/letras que lo identifica al requisito, el cuál es único, no se repite)
 
-Tipo de requisito y descripción
+- Tipo de requisito y descripción
 
-Casos de prueba con estado
+- Casos de prueba con estado
 
-Ejemplo: un ejemplo simple de Matriz de trazabilidad de requerimientos, donde podemos indicar el resultado de la prueba en el Status, si Pasó o Pass: es que no hay errores, si falló o Fail: es que hay errores, y No run: no pudo ser corrida, el sistema no lo permitió o no existe la opción para hacerlo.
+**Ejemplo**: 
+
+Un ejemplo simple de Matriz de trazabilidad de requerimientos, donde podemos indicar el resultado de la prueba en el Status, si Pasó o Pass: es que no hay errores, si falló o Fail: es que hay errores, y No run: no pudo ser corrida, el sistema no lo permitió o no existe la opción para hacerlo.
 
 ![image](https://user-images.githubusercontent.com/72580574/215610507-c8abbfa8-5f8f-49e1-aa42-ce2f31ea4972.png)
 
@@ -343,12 +348,12 @@ Una matriz de trazabilidad de requerimientos permite mostrar:
 
 - Ayuda a analizar o estimar el impacto en el trabajo del equipo de control de calidad con respecto a la revisión o reelaboración de los casos de prueba (volver a escribirlos revisando bien los requerimientos y hablando con el desarrollador para acordar los objetivos). 
 
-## ¿Cómo crear una matriz de trazabilidad de requerimientos?
+## ¿CÓMO CREAR UNA MATRIZ DE TRAZABILIDAD DE REQUERIMIENTOS?
 
 Ya hemos realizado en el ejercicio 7.1 el primer paso: documentar todos los requerimientos identificados en el caso y asignarles un número de seguimiento. 
 
 
-## ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 Tomaremos un proyecto ficticio: Bank007.
 
@@ -369,9 +374,9 @@ La siguiente tabla es nuestro Documento de requerimientos técnicos (TRD).
 
 Imagen 7.5: Documento de requerimientos técnicos. Fuente: elaboración propia.
 
-Nota: Los equipos de Testing no documentan el BRD ni el TRD, lo realizan los Analistas de negocios o de sistemas. Además, algunas empresas utilizan Documentos de requerimientos de función (FRD - functional requirements document) que son similares al Documento de requerimientos técnicos, pero el proceso de creación de la Matriz de trazabilidad sigue siendo el mismo.
+-> **Nota**: Los equipos de Testing no documentan el BRD ni el TRD, lo realizan los Analistas de negocios o de sistemas. Además, algunas empresas utilizan Documentos de requerimientos de función (FRD - functional requirements document) que son similares al Documento de requerimientos técnicos, pero el proceso de creación de la Matriz de trazabilidad sigue siendo el mismo.
 
-### Ahora tenemos toda la información necesaria para poder crear una RTM en pruebas:
+### AHORA TENEMOS TODA LA INFORMACIÓN NECESARIA PARA PODER CREAR UNA RTM EN PRUEBAS:
 
 - Paso 1: Nuestro caso de prueba de muestra es "Verificar el inicio de sesión, cuando se ingrese el ID y la contraseña correctos, debe iniciar sesión correctamente"
 
@@ -405,11 +410,11 @@ Identificar el requerimiento para el cual el requisito técnico T94 fue definido
 
 ---
 
-## ✋ MANOS A LA OBRA
+## ✋ MANOS A LA OBRA ✋
 
 Si estás con tiempo, ¿te animas a continuar el análisis de requisitos que realizaste en el primer ejercicio y realizar un prototipo de BRD? Un tester no suele redactar este documento pero existe la posibilidad de que tengas experiencia en negocios y sea de tu interés capacitarte en la creación de este documento. En especial si deseas tener un desempeño profesional mixto
 
-## :book: MATERIAL DE LECTURA
+## :book: MATERIAL DE LECTURA :book:
 
 ## ANÁLISIS DE AUTOMATIZACIÓN
 
@@ -418,7 +423,7 @@ La automatización es una optimización que se realiza para poder replicar las p
 En la fase de requisitos, el equipo de control de calidad analiza el alcance de la automatización para las pruebas de regresión. Si se agrega la automatización al alcance, el equipo decide qué herramienta se puede usar, qué funcionalidades se cubrirán como automatización, el marco de tiempo y la asignación de recursos involucrados para el desarrollo de la automatización. Una vez que se completa este análisis, el equipo de control de calidad proporciona el Informe de viabilidad de automatización a diferentes partes interesadas para que lo aprueben.
 
 
-### Cómo analizar los requisitos
+### ¿CÓMO ANALIZAR LOS REQUISITOS?
 
 Un requisito bien desarrollado debe mantener estas características. Debe ser: 
 
@@ -438,7 +443,7 @@ Un requisito bien desarrollado debe mantener estas características. Debe ser:
 
 ![image](https://user-images.githubusercontent.com/72580574/215611494-3c5033a3-ca89-463e-8cad-3a76b85cb5b1.png)
 
-### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 Considera un ejemplo de un sistema de software educativo donde un estudiante puede registrarse para diferentes cursos.
 
@@ -456,16 +461,16 @@ A continuación te presentamos una tabla con tres columnas:
 Imagen 7.12: Ejemplos de requisitos. Fuente: elaboración propia.
 
 
-## Ahora podemos inferir el significado de cada uno de estos atributos de un buen requisito:
+## AHORA PODEMOS INFERIR EL SIGNIFICADO DE CADA UNO DE ESTOS ATRIBUTOS DE UN BUEN REQUISITO:
 
-### Atómico
+### ATÓMICO
 
 Todos y cada uno de los requisitos deben ser atómicos. Es decir, deben tener un nivel de detalles muy bajo y no debería ser posible separarlos en componentes. 
 
 Continuando con el ejemplo anterior, el mal requisito es “Los estudiantes podrán matricularse en cursos de grado y posgrado”. Este es un mal requisito porque no es atómico ya que habla de dos entidades (diferentes, cursos de pre grado y posgrado. La forma en la que este requisito se vuelve atómico es al separarlo en dos: un requisito para cada entidad. Uno hablará de la inscripción a los cursos de pre grado, mientras que el otro hablará de la inscripción a los cursos de posgrado.
 
 
-### Identificado de forma única
+### IDENTIFICADO DE FORMA ÚNICA
 
 De manera similar, el siguiente atributo de calidad es verificar la identificación única. En el ejemplo que venimos usando, tenemos dos requisitos separados, pero ambos tienen el mismo ID # 1. Por lo tanto, al hacer referencia al ID#1, no sabremos con exactitud a qué porción del requerimiento estamos haciendo referencia. Entonces, separarlos con identificaciones únicas nos dará como resultado lo siguiente:
 
@@ -475,11 +480,11 @@ Requisito: 1.1 es inscripción en cursos de pre grado.
 
 Requisito: 1.2 es inscripción en cursos de posgrado.
 
-### Completo
+### COMPLETO
 
 Además, todos y cada uno de los requisitos deben estar completos. En la imagen 7.12, vemos cómo el ejemplo de un requisito incompleto dice que un "usuario profesor iniciará sesión en el sistema proporcionando su nombre de usuario, contraseña y otra información relevante". Aquí, la “otra información relevante” no está clara, por lo que la otra información relevante debe detallarse para completar el requisito.
 
-### Consistente y sin ambigüedades
+### CINSISTENTE Y SIN AMBIGUEDADES
 
 Los requisitos deben ser consistentes e inequívocos. En el cuadro vemos que coexisten dos requisitos que presentan contradicciones.
 
@@ -491,7 +496,7 @@ El problema en este requisito es que desde el primer requisito parece que los cu
 
 Por lo tanto, es necesario convertir este requisito en un buen requisito, que es "Un estudiante tendrá cursos de pre grado o cursos de posgrado, pero no ambos". Lo que significa que cada curso se marcará como curso de pre grado o curso de posgrado.
 
-### Trazable
+### TRAZABLE
 
 Todos y cada uno de los requisitos deben ser rastreables porque existen diferentes niveles de requisitos. Más adelante veremos que estos niveles son: requisitos comerciales, requisitos arquitectónicos y de diseño; seguidos de requisitos de integración del sistema.
 
@@ -499,7 +504,7 @@ Ahora, cuando convertimos los requisitos comerciales en requisitos arquitectóni
 
 Por lo tanto, este mapeo debe estar ahí para todos y cada uno de los requisitos. De la misma manera que tenemos un requisito de mapeo de alto y bajo nivel, el mapeo también existe entre el sistema y el requisito de integración con el código que implementa ese requisito y también hay un mapeo entre el sistema y el requisito de integración con el caso de prueba que prueba ese requisito en particular. Esto permite la trazabilidad a lo largo de todo el proyecto
 
-### Priorizado
+### PRIORIZADO
 
 Luego, se deben priorizar todos y cada uno de los requisitos, de modo que el equipo tenga una guía sobre qué requisito se puede implementar primero y cuál se puede hacer más adelante. En el ejemplo vemos el caso común de que todos los requisitos son importantes y han sido priorizados con la misma prioridad 1. 
 
@@ -508,7 +513,7 @@ Todo no puede tener la misma prioridad, ya que los equipos deben poder saber por
 Entonces, el ejemplo de un buen requisito aquí es el registro de estudiantes y la inscripción de cursos tiene la prioridad más alta 1, mientras que mantener la información del usuario está debajo en la prioridad 2 y luego tenemos ver la boleta de calificaciones en la prioridad 3.
 
 
-### Comprobable
+### COMPROBABLE
 
 Todos y cada uno de los requisitos deben ser comprobables.
 
@@ -521,9 +526,9 @@ Esta es una mera introducción a la buena práctica en la redacción de requisit
 
 ---
 
-## :book: MATERIAL DE LECTURA
+## :book: MATERIAL DE LECTURA :book:
 
-### Resultado de la fase de análisis de requerimientos
+### RESULTADO DE LA FASE DE ANÁLISIS DE REQUERIMIENTOS
 
 Luego de completar la fase de “Análisis de requerimientos”, tendremos esta documentación a disposición de los equipos:
 
@@ -533,7 +538,7 @@ Luego de completar la fase de “Análisis de requerimientos”, tendremos esta 
 
 - Estrategia de prueba de alto nivel y aplicabilidad de prueba.
 
-### Análisis de requisitos de software aplicado
+### ANÁLISIS DE REQUISITOS DE SOFTWARE APLICADO
 
 En el encuentro de hoy dedicamos mucho tiempo a los requerimientos. ¿La razón? Un buen análisis de requerimientos ahorra tiempo, elimina errores, baja la cantidad de suposiciones entre los equipos y entrega felicidad a los desarrolladores. 
 
@@ -547,9 +552,9 @@ El requisito de software también puede ser no funcional. Puede ser un requisito
 
 Para claridad y especificidad, los requisitos de software generalmente se expresan como declaraciones.
 
-### Tipos de requisitos
+### TIPOS DE REQUISITOS
 
-Requisitos comerciales: son requisitos de alto nivel que se toman del caso comercial de los proyectos. Por ejemplo, un sistema de servicios bancarios móviles brinda servicios bancarios en el sudeste asiático. El requisito comercial que se decide para India es el resumen de cuenta y la transferencia de fondos, mientras que para China es el resumen de cuenta y el pago de facturas. 
+- **Requisitos comerciales**: son requisitos de alto nivel que se toman del caso comercial de los proyectos. Por ejemplo, un sistema de servicios bancarios móviles brinda servicios bancarios en el sudeste asiático. El requisito comercial que se decide para India es el resumen de cuenta y la transferencia de fondos, mientras que para China es el resumen de cuenta y el pago de facturas. 
 
 
 ![image](https://user-images.githubusercontent.com/72580574/215612266-fd306e86-ca7e-40b9-a951-62a7a89af1ff.png)
@@ -560,7 +565,7 @@ Requisitos arquitectónicos y de diseño: estos requisitos son más detallados q
 ![image](https://user-images.githubusercontent.com/72580574/215612314-f9930060-fc31-4f21-9730-37238b06fa8d.png)
 
 
-Requisitos del sistema y de integración: En el nivel más bajo, tenemos requisitos del sistema y de integración. Es una descripción detallada de todos y cada uno de los requisitos. Puede ser en forma de historias de usuarios que realmente describen el lenguaje comercial cotidiano. Los requisitos se encuentran en abundantes detalles para que los desarrolladores puedan comenzar a codificar. Aquí, en el ejemplo del módulo de pago de facturas, donde se mencionarán los requisitos para agregar un emisor de facturas.
+- **Requisitos del sistema y de integración**: En el nivel más bajo, tenemos requisitos del sistema y de integración. Es una descripción detallada de todos y cada uno de los requisitos. Puede ser en forma de historias de usuarios que realmente describen el lenguaje comercial cotidiano. Los requisitos se encuentran en abundantes detalles para que los desarrolladores puedan comenzar a codificar. Aquí, en el ejemplo del módulo de pago de facturas, donde se mencionarán los requisitos para agregar un emisor de facturas.
 
 ![image](https://user-images.githubusercontent.com/72580574/215612361-7ced8d5d-529f-44f3-9106-748a97a8727b.png)
 
@@ -588,9 +593,9 @@ Independientemente de la fuente de requisitos que obtengas, asegúrate de docume
 
 ---
 
-## ✋ MANOS A LA OBRA
+## ✋ MANOS A LA OBRA ✋
 
-## 7.3 ESCENARIOS DE ANÁLISIS
+### 7.3 ESCENARIOS DE ANÁLISIS
 
 Te presentamos varios escenarios de análisis en donde veremos aplicados algunos de los conceptos que estudiamos hoy. Te invitamos a que tomes algunos minutos para evaluar el desafío con tus compañeros de equipo y discutan cada escenario y su respuesta. Cada uno deberá exponer las razones por las que elige cada opción. Podrán coincidir o no. Lo importante no es tener resultados unánimes sino entender las razones detrás de cada punto de vista. 
 
@@ -608,6 +613,8 @@ C- Incorrecto, ya que la única prueba que debe hacer es el análisis de requeri
 
 D- Correcto, ya que las pruebas necesitas de estos 3 pasos solamente. 
 
+*Respuesta*: **B**
+
 2. Joaquín, que conforma un equipo de control de calidad, debe realizar un análisis de requisitos. Dentro de las actividades que realizará, piensa utilizar una Matriz de Trazabilidad (RTM). Esto es: 
 
 A- Recomendable, ya que esto le permitirá mapear y rastrear los requerimientos del usuario con casos de prueba. 
@@ -617,6 +624,8 @@ B- No recomendable, ya que la RTM se utiliza sólo para casos de gran complejida
 C- Recomendable, ya que al utilizar la RTM no deberá realizar los pasos siguientes. 
 
 D- Obsoleto, ya que la RTM sólo funciona para analizar necesidades de los productos. 
+
+*Respuesta*: **A**
 
 3. Candela es QA Senior y está liderando un proyecto de control de calidad de una App móvil. Decide mantener informada a las partes y a su equipo de los cambios y avances en el proyecto. Esto es: 
 
@@ -628,6 +637,8 @@ C- Incorrecto, ya que Candela sólo debe brindar información a su equipo de tra
 
 D- Recomendable, ya que la comunicación entre el equipo del proyecto y las partes interesadas juega un papel importante
 
+*Respuesta*: **D**
+
 4. Julieta tiene que analizar los requisitos de Software para una Web de empleos activa. Se le indica que analice los requisitos anteriores a la implementación del proyecto ya que no cuentan con una actualización de los mismos. Esta situación: 
 
 A- Es inadmisible, ya que los requisitos tienen que estar actualizados para que Julieta pueda proceder con el análisis. 
@@ -637,6 +648,8 @@ B- No es la ideal, pero Julieta de todas formas podría analizar los requisitos 
 C- No es posible, ya que el análisis sólo se puede hacer en base a los requisitos formales brindados por la empresa. 
 
 D- Es indiferente ya que en esta situación Julieta debería desestimar esos requerimientos y delegar la tarea. 
+
+*Respuesta*: **B**
 
 5. Esteban pertenece a una multinacional donde le asignaron llevar el control de calidad de una Web de ventas de zapatos no muy conocida. Dentro de las actividades a realizar, creará escenarios de prueba de bajo nivel. Esto es: 
 
@@ -648,9 +661,11 @@ C- Admisible, ya que ahorra tiempo y presupuesto.
 
 D- Indiferente, porque los escenarios de prueba no son relevantes en el control de calidad. 
 
+*Respuesta*: **B**
+
 ---
 
-## EJERCICIOS DE CONSOLIDACIÓN
+##  ✋ EJERCICIOS DE CONSOLIDACIÓN ✋
 
 Vamos a integrar todo lo que hemos visto en el encuentro de hoy con los siguientes ejercicios.
 
@@ -684,47 +699,85 @@ Cuando se han incluido en el carrito de la compra el conjunto de los libros dese
 
 ## CHECK POINT
 
-![image](https://user-images.githubusercontent.com/72580574/215616251-5ed3c5b3-aa25-41d6-b4c9-3bf50a28beb8.png)
+- **1 - ¿Qué es la matriz de Trazabilidad(RTM)?**
 
-![image](https://user-images.githubusercontent.com/72580574/215616270-d6486978-4ff0-40f8-a063-844176cdbc57.png)
+Es un documento que mapea y rastre los requerimientos del usuario con casos de prueba.
 
-![image](https://user-images.githubusercontent.com/72580574/215616363-8efdba4e-8367-43ae-8daf-33bc605a7d77.png)
+- **2 - El análisis de requerimientos:**
 
-![image](https://user-images.githubusercontent.com/72580574/215616393-b19e6089-4b19-4df4-b70e-88a9eaecdf1e.png)
+Sirve como base para los planes de prueba y el plan del proyecto.
 
-![image](https://user-images.githubusercontent.com/72580574/215616435-f279a8fb-e881-4747-9f11-14268b8eced3.png)
+Sirve como un acuerdo entre el desarrollador y el cliente.
 
-![image](https://user-images.githubusercontent.com/72580574/215616456-ab37f4dd-4728-4a45-9d86-03de88b76060.png)
+Proceso para aclarar los requisitos declarados y no declarados.
 
-![image](https://user-images.githubusercontent.com/72580574/215616541-8efec22e-098f-4da7-bf4b-b7eaf562875f.png)
+Proceso para validar el requisito de integrisas, falta de ambiguedad y viabilidad.
 
-![image](https://user-images.githubusercontent.com/72580574/215616568-3de42180-785e-4f13-92ce-e8d8ea7d7c6c.png)
+- **3 - Identifica y selecciona las definiciones correctas en cuanto a la validación de requisitos:**
 
-![image](https://user-images.githubusercontent.com/72580574/215616607-e5bbb7d5-064e-47a9-9e2b-2d4e27c9c9a5.png)
+**CONSISTENCIA**: descubrir la consistencia del requisito y apuntar a un solo requisito.
 
-![image](https://user-images.githubusercontent.com/72580574/215616637-59938ff4-9011-42d2-a2d7-c5b44dcb2b8a.png)
+**FACTIBILIDAD**: encontrar todas las características que son posibles de probar y cuáles están más allá del alcance.
 
-![image](https://user-images.githubusercontent.com/72580574/215616659-983dbd71-2f64-42f7-8d49-afc4a8fb0a2f.png)
+**COMPLENITUD**: Encontrar el requisito faltante
 
-![image](https://user-images.githubusercontent.com/72580574/215616688-a7a9dced-e332-4e48-a531-e77485a3dad7.png)
+**AMBIGUEDAD**: encontrar una interpretación única de los requisitos (afirmación no clara debido a múltiples significados)
 
-![image](https://user-images.githubusercontent.com/72580574/215616711-afadd698-0acc-4551-a8e7-99a2ed711db7.png)
+**CORRECCIÓN***: averigiar declaración/requisito incorrecto
 
-![image](https://user-images.githubusercontent.com/72580574/215616736-adc2794e-027d-49e8-a2d0-d1477021932d.png)
+**TESTEABILIDAD**: diferentes pruebas aplicables.
+
+- **4 - Es el proceso de determinar las expectativas del usuario para un sistema en consideración. Estos deben ser cuantificables y detallados. Esta definición hace referencia a:**
+
+Análisis de requerimientos.
+
+- **5 - ¿Qué actividades principales se realizan para el análisis de requisitos?**
+
+DEfinir el alcance.
+
+Preparar la matriz de trazabilidad.
+
+Hacer un análisis de automatizción.
+
+- **6 - Identificar las herramientas y técnicas utilizadas para el análisis de los requisitos. Luego selecciona su correspondiente definición:**
+
+-> Cubre los detalles de la comprensión de requisitos: documento de comprensión de requisitos
+
+-> Es una metodología utilizada en el análisis de requisitos para identificar, aclarar y organizar los requisitos: casos de uso.
+
+- **7 - ¿Cuáles parámetros de deben incluir en la RTM?**
+
+ID de requerimientos.
+
+Tipo de requisitos y descripción.
+
+Casos de prueba de estado.
+
+- **8 - ¿Qué es el requisito de Software?**
+
+Una necesidad funcional o no funcional que debe implementarse en el sistema.
+
+- **9 - Juan debe realizar un proceso de prueba. Considera que dentro de los pasos a realizar hará la planificación, loego la ejecución y por último el control y monitoreo. Esto es:**
+
+Incorrecto, ya que los pasos de prueba deben realizarse en el orden.
+
+- **10 - Joaquín, que conforma un equipo de control de calidad, debe realizar un análisis de requisitos. Dentro de las actividades que realizará, piensa utilizar una Matriz de Trababilidad (RTM). Esto es:**
+
+REcomendable, ya que esto le permitirá mapear y rastrear los requermientos del usuario con cosas de prueba.
+
+- **11 - Candela es QA Senior y está liderando un proyecto de control de calidad de una App móvil, decide mantener informada a las partes y a su equipo de los cambios y avances en el proyecto. Esto es:**
+
+Recomendable, ya que la comunicación entre el equipo del proyecto y las partes interesadas juega un papel importante.
+
+- **12 - Julieta tiene que analizar los requerimientos de Software para una Web de empleos activa. Se le indica que analice los requisitos anteriores a la implementación del proyecto ya que no uentamn con una actualización de los mismos. Esta situación:**
+
+No es la ideal, pero Julieta de todas formas podría analizar los requisitos anteriores y documentar lo que vayan surgiendo de ese análisis.
+
+- **13 - Esteban pertenece a una multinacional donde le asignaron llevar el control de calidad de una Web de ventas de zapatos no muy conocida. Dentro de las actividades a realizar: creará escenarios de prueba de bajo nivel. Esto es:**
+
+Incorrecto, ya que debe realizar escenarios de alto nivel y luego verificar cuáles son las pruebas necesarias a implementar.
+
 
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
