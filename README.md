@@ -36,7 +36,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md) -> :book: ¿Qué es el Testing? ¿Cuáles son los objetivos del testing? / Beneficios del testing / :book: Errores de software y bugs , Categorías comunes de errores de software / 👏 Ejercicios / :book: Error, defecto y falla
 
-- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)
+- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)  -> :book: Evaluación de criticidad y prioridad (Matriz de priorización de defectos,)/  👏 Manos a la obra / :book: Verificación (¿Qué es? Sus ventajas) y Validación (¿Qué es? Actividades), Cuadro comparativo y Ejemplos / ✋ Manos a la obra / :book: Introducción a la documentación de defectos (**BUGS**) / 👏  Manos a la obra / :book: ¿Qué puede causar error y/o defecto en el Software? )/  👏 Manos a la obra 
 
 -> [PROYECTO INTEGRADOR Y SU RESOLUCION](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/proyecto_integrador.md)
 
