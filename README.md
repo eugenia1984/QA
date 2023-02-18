@@ -46,7 +46,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [2.1 - Plan de prueba](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/01_plan_de_prueba_1.md) -> :book: Procesos de prueba : Análisis de requerimientos (Desafíos en la fase de análisis de requisitos en el control de calidad / Herramientas y técnicas utilizadas para el análisis de los requisitos / ¿Cómo analizar los requisitos? / Validación de requisitos)  / ✋  Manos a la obra / :book: Función de control de calidad (Actividades realizadas para el análisis de requisitos -**RTM** Matriz de Trazabilidad de Requerimientos) / :book: Análisis de automatización (Atómico, Identificado de forma única, Completo, Coherente y sin ambigüedades, Trazable, Priorizado, Comprobable) / :book: Resultado de la fase de análisis de requerimientos / ✋  Manos a la obra / 📋 Ejercicios de consolidación.
 
-- [2.2 - Plan de prueba II(https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/02_plan_de_prueba_2.md)
+- [2.2 - Plan de prueba II](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/02_plan_de_prueba_2.md)
 
 - [2.3 - Historia de usuario](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/03_historia_de_usuario.md)
 
