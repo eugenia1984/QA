@@ -14,32 +14,18 @@
 
 -> Aprendizaje: **Necesidad de las pruebas**
 
-1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing)
 
-- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md):
+1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing)
 
+- [1.1 - Introducción al testing](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/01_introduccion_al_testing.md)  -> :book: Introducción al testing y a la industria del Software (Proyecto, Producto, Ciclo de vida del Desarrollo de Software) / 🏸 Atención al detalle / 📋 Ejercicio.
 
-Introdución al testing y a la industria del software: proyecto y producto, ciclo de vida del desarrollo de softwareQA y QC, atención al detalle
+- [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md) -> 📋 Scratch / :book: Ciclo de Producción de Software: **testing** / :book: Introducción al Lenguaje Unificado de Modelado (**UML**) / 📋 Ejercicio.
 
+- [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md) -> :book: Ciclo de Vida de Desarrollo de Software: **Strategy** / 📋 Ejercicios (Manos a la obra) / :book: Manejo de transacción de datos (dato, metadato, información -habilidad esencial, características de la buena informació-, transacciones)
 
+- [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md) -> :book: ¿Qué es el Testing? ¿Cuáles son los objetivos del testing? / Beneficios del testing / :book: Errores de software y bugs , Categorías comunes de errores de software / 👏 Ejercicios / :book: Error, defecto y falla
 
-- [1.2 - Ciclo de desarrollo de software I](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/02_ciclo_de_desarrollo_de_software_1.md)
-
-Scratch, Ciclo de producción de software: **testing** (etapa de testing/ 
-cómo se prueba el software?/ ¿Cuándo comienzan las pruebas de software en SDLC? / Introducción al Lenguaje Unifocado de Modelado-UML- )
-
-- [1.3 - Ciclo de desarrollo de software II](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/03_ciclo_de_desarrollo_de_software_2.md)
-
-Ciclo de desarrollo del software: **strategy** , manejo y transacción de datos : metadatos / datos / información (Características de la buena información, ¿Por qué es importante este tema para un tester?) /transacciones
-
-- [1.4 -Introducción a las pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/04_introduccion_a_las_pruebas.md)
-
-¿Qué es el Testing?, ¿Cuáles son los objetivos del testing?, Beneficios del testing, Errores de software y bugs, Categorías comunes de errores de software, Error-defecto-falla
-
-- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)
-
-Evaluación de criticidad y prioridad, Verificación y validación, Introducción a la documentación de bugs, Qué puede causar un error y/o defecto en un programa de software
-
+- [1.5 -Casos de estudios](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/05_casos_de_estudios.md)  -> :book: Evaluación de criticidad y prioridad (Matriz de priorización de defectos,)/  👏 Manos a la obra / :book: Verificación (¿Qué es? Sus ventajas) y Validación (¿Qué es? Actividades), Cuadro comparativo y Ejemplos / ✋ Manos a la obra / :book: Introducción a la documentación de defectos (**BUGS**) / 👏  Manos a la obra / :book: ¿Qué puede causar error y/o defecto en el Software? )/  👏 Manos a la obra 
 
 -> [PROYECTO INTEGRADOR Y SU RESOLUCION](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/proyecto_integrador.md)
 
@@ -47,7 +33,7 @@ Evaluación de criticidad y prioridad, Verificación y validación, Introducció
 
 2. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **¿Cómo son las pruebas?**](https://github.com/eugenia1984/QA/tree/main/EGG/02_como_son_las_pruebas)
 
-- [2.1 - Plan de prueba](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/01_plan_de_prueba_1.md)
+- [2.1 - Plan de prueba](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/01_plan_de_prueba_1.md) -> :book: Procesos de prueba : Análisis de requerimientos (Desafíos en la fase de análisis de requisitos en el control de calidad / Herramientas y técnicas utilizadas para el análisis de los requisitos / ¿Cómo analizar los requisitos? / Validación de requisitos)  / ✋  Manos a la obra / :book: Función de control de calidad (Actividades realizadas para el análisis de requisitos -**RTM** Matriz de Trazabilidad de Requerimientos) / :book: Análisis de automatización (Atómico, Identificado de forma única, Completo, Coherente y sin ambigüedades, Trazable, Priorizado, Comprobable) / :book: Resultado de la fase de análisis de requerimientos / ✋  Manos a la obra / 📋 Ejercicios de consolidación.
 
 - [2.2 - Plan de prueba II](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/02_plan_de_prueba_2.md)
 
