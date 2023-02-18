@@ -728,40 +728,115 @@ Tip: Puedes guardarlo para más adelante o para un día en el que quieras repasa
 
 ---
 
-## 📋  PRACTICA
+## 📋  PRACTICA  <img src="https://img.icons8.com/fluency/48/null/instagram-check-mark.png"/> CHECK POINT
 
-- 1) Identificar los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:
+- **1 - Identificar los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:**
+
+-**definición de objetivos**: fase donde se debería aprender más sobre el producto que se está probando, el cliente y los usuarios finales de productos similares.
+
+-**análisis de producto**: esta fase define los objetivos y los resultados esperados de la ejecución de prueba.
+
+- **planificación de la configuración del entorno de prueba**: el entorno de prueba se refiere a la configuracion de software y hardware en la que los QA ejecutan sus pruebas.
+
+-**diseño de la estrategia de purueba**: es un documento desarrollado por el adminsitrador de pruebas que define: objetivos del proyecto y cómo alcanzarlos / la cantidad de esfuerzo y costo requerido para la prueba.
 
 ![image](https://user-images.githubusercontent.com/72580574/215900996-ae72bbd2-100e-4996-82ee-49b5bb56f156.png)
 
 ![image](https://user-images.githubusercontent.com/72580574/215901030-03f62d45-b7e0-48cb-acf4-43a4a4df6a4b.png)
 
-- 2) Identifica los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:
-
-![image](https://user-images.githubusercontent.com/72580574/215901130-db5a2ccf-7ed0-4aaa-9966-63dbbe32994a.png)
-
-![image](https://user-images.githubusercontent.com/72580574/215901165-d4a14de3-b352-4628-81a5-511f4f062674.png)
-
-![image](https://user-images.githubusercontent.com/72580574/215901215-4c772cd6-5ac9-4a9e-b376-c27520a27895.png)
+- **2 - Identifica los pasos a llevar a cabo dentro de la planificación y selecciona las definiciones correspondientes:**
 
 
-![image](https://user-images.githubusercontent.com/72580574/215901259-cdaf7d3d-e790-4a92-904f-e42708a89006.png)
+-**establecer criterios de prueba**: los criterios de suspensión y criterios de salida son principales en esta etapa.
 
-![image](https://user-images.githubusercontent.com/72580574/215901294-babc7d63-82b3-44e1-83c8-d45e961831ff.png)
+-**Establecer entregables de prueba**: los entregables de prueba se refieren a una lista de documentos, herramientas y otros equipos que deben crearse, proporcionarse y mantenerse para respaldar las actividades de prueba en un proyecto.
 
-![image](https://user-images.githubusercontent.com/72580574/215901315-5c541208-a5ca-4cec-bf44-e5ce44ccc7e4.png)
+-**determinar el programa de prueba y la estimación**: etapa donde para estimar una prueba se divide el proyecto en etapas más pequeás y se asigna el tiempo y el esfuerzo necesario para cada una.
 
-![image](https://user-images.githubusercontent.com/72580574/215901338-db11c0c8-8c0a-44c9-8539-33eb12145229.png)
+-**asignación de recursos de planificación**: esta fase crea un desglose de todos los recursos necesarios para la finalización del proyecto
 
-![image](https://user-images.githubusercontent.com/72580574/215901370-f6f1ad36-9b94-43f4-bf9b-1e16694c976a.png)
+- **3 - Identifica quñe oasos son necesarios para analizar en profundidad el producto:**
 
-![image](https://user-images.githubusercontent.com/72580574/215901405-ed5f0ac2-9f2c-40d9-9689-4fd8c557f6a2.png)
+Entrevistar a clientes, diseñadores y desarrolladores.
 
-- 11) Identifica los tipos de prueba y selecciona sus correspondientes características:
+Revisar la documentación del producto y dle proyecto.
 
-![image](https://user-images.githubusercontent.com/72580574/215901506-8f848b65-ff06-4241-b8d8-d3999c35fa1c.png)
+Realizar un recorrido del producto.
 
-![image](https://user-images.githubusercontent.com/72580574/215901552-06a22d55-b888-4432-b223-771163520082.png)
+- **4 ¿Qué se necesita para un diseño correcto de la estrategia de prueba?**
+
+Que en el documento esté detallado: alcance de la prueba, tipo de prueba, logística de prueba, riesgos y problemas.
+
+Un documento de estrategia de prueba desarrollado por el administrador de pruebas donde se definan: los objetivos del proyecto y cómo alcanzarlos / la cantidad de esfuerzo y costo requerido para la prueba.
+
+- **5 ¿Qué debemos incluir en la definición de objetivos?**
+
+El resultado ideal o punto de referencia para cada aspecto del software que necesita pruebas.
+
+Una lista de todas las características del software.
+
+- **6 Identifica los criterios de prueba y establece su correspondiente definición:**
+
+-**criterios de salida**: es donde se definen los puntos de referencia que significan la finalización exitosa de una frase de prueba o proyecto
+
+-**criterios de suspensión**: es donde se definen los puntos de refernecia para suspender todas las pruebas.
+
+- **7 La creación del cronograma o plan de prueba requiere de diversos aportes como:**
+
+Disponibilidad de empleados, número de días laborables, plazos de los proyectos, disponibilidad diaria de recursos.
+
+
+- **8 Selecciona los entregables requeridos por cada etapa:**
+
+-**antes de la prueba**: doc. diseño de prueba / doc. plan de prueba
+
+-**durante la prueba**: doc. registros de errores y ejecuciones / doc. datos de prueba / dos. simuladores o emuladores (en etapas iniciales) / doc. guiones de prueba
+
+-**después de la prueba**: -
+
+- **9 En cuánto a los entregables requeridos después de la prueba, podemos decir que:**
+
+Los entregables requeridos después de la prueba son la doc. correspondiente a: resultados de las pruebas, infromes de defectos y notas de lanzamiento.
+
+- **10 Algunos de los requisitos importantes como fuente de información y diseño de prueba son:**
+
+Requisitos de software
+
+Requisitos comerciales
+
+Docuemnto de diseño funcional
+
+Requisitos operativos
+
+Requisitos de relación externa
+
+
+- **11  Identifica los tipos de prueba y selecciona sus correspondientes características:**
+
+-**pruebas de caja blanca**:
+
+![image](https://user-images.githubusercontent.com/72580574/219882735-0822ed29-e052-44af-9501-8278224f00f8.png)
+
+
+-**pruebas de caja negra*:
+
+![image](https://user-images.githubusercontent.com/72580574/219882726-add90d0d-c3b1-4572-a589-b335119e9cc5.png)
+
+
+-**pruebas funcionales**:
+
+![image](https://user-images.githubusercontent.com/72580574/219882742-7243aa2f-7046-47ae-8ed0-548530cde644.png)
+
+
+-**pruebas no funcionales**:
+
+![image](https://user-images.githubusercontent.com/72580574/219882751-1d2cd982-d19c-4ce1-9f93-4c9de3a65066.png)
+
+
+-**pruebas de regresión**:
+
+![image](https://user-images.githubusercontent.com/72580574/219882763-5619064c-6133-49bd-8ef1-cdf201aed379.png)
+
 
 ---
 
