@@ -1,11 +1,12 @@
-# :star2: MODULO 1 * ENCUENTRO 6 / 17 * PROYECTO INTEGRADOR 1
+# :star2: MODULO 1  * PROYECTO INTEGRADOR 1
 
 ---
 
-![image](https://user-images.githubusercontent.com/72580574/215346170-fc77bea8-f403-449d-9ff7-804bd6e28225.png)
+ENCUENTRO 6 / 17
+
 
 ---
-# :star: INTRODUCCION (5min)
+# :star: INTRODUCCION ⏰ (5min)
 
 **¡Te damos la bienvenida a tu primer ejercicio integrador!**
 
@@ -33,14 +34,12 @@ Transferir lo aprendido a situaciones novedosas. Hemos incluido -dentro de los d
 
 ---
 
-## :star: INSTRUCCIONES PARA REALIZAR EL EJERCICIO INTEGRADOR
+## :star: 🏁 INSTRUCCIONES PARA REALIZAR EL EJERCICIO INTEGRADOR
 
 
 Si eres de las personas para quienes la sola idea de examen te trae recuerdos de la escuela o te causa emociones negativas, no te preocupes. Estamos aquí para ayudarte a cambiar eso. 
 
-¿Cómo?
-
-Con algunas afirmaciones para que puedas explorar:
+**¿Cómo?** Con algunas afirmaciones para que puedas explorar:
 
 - Las evaluaciones son una instancia para tí, en la que puedes sentir orgullo por todo lo que has aprendido.
 
@@ -61,7 +60,7 @@ Volvemos a repetir las sugerencias para hoy (1):
 ---
 
 
-## :star: ENTRANDO EN CALOR (25min )
+## :star: ENTRANDO EN CALOR ⏰ (25min )
 
 Observa el siguiente esquema. Corresponde a un sistema de información de un Supermercado:
 
@@ -111,7 +110,9 @@ En el caso de los datos de salida, ten en cuenta los procesos que dieron origen 
 Dentro de “Control Producto”, se realiza:
 
 - Dar de alta un producto
+
 - Cambiar el precio del mismo
+
 - Eliminar un producto de la lista
 
 Dentro de “Control Stock”, se realiza:
@@ -131,7 +132,7 @@ Y ubica los Roles y Operaciones en su lugar.
 
 ---
 
-## 4 - caso de estudio (40min)
+## 4 - CASO DE ESTUDIO ⏰ (40min)
 
 TucTech es una empresa de larga trayectoria que brinda soluciones de software para sus clientes. En esta ocasión, la empresa cuenta con dos pedidos nuevos de desarrollo:
 
@@ -204,7 +205,7 @@ En esta actividad, si necesitas corroborar cómo has llegado a la solución de l
 
 ---
 
-## :star: CALIDAD (15MIN)
+## :star: CALIDAD ⏰ (15MIN)
 
 A continuación verás un cuadro que está incompleto. Hemos ido viendo la definición de calidad desde varios puntos de vista, incluyendo el de Seth Godin: la calidad es estar a la altura de los requerimientos. 
 Uno de los principios del testing es que no se puede probar la falta de defectos y el segundo principio es que el testeo exhaustivo es imposible. 
@@ -221,7 +222,7 @@ Cuando vemos contenido incompleto, puede pasar que no sepamos muy bien cómo res
 
 ---
 
-## 6 - ROOT CAUSE ANALYSIS (RCA, ANALISIS DE CAUSA RAIZ) (25MIN)
+## 6 - ROOT CAUSE ANALYSIS (RCA, ANALISIS DE CAUSA RAIZ) ⏰  (25MIN)
 
 Hasta has detectado defectos y fallas en situaciones de ejercicio muy controladas. Te presentamos el RCA o el análisis de las causas para descubrir cuál es la verdadera causa de un defecto. 
 
