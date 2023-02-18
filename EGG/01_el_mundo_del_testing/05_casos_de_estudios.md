@@ -297,20 +297,24 @@ Se debería poder leer todo claro.
 
 ![image](https://user-images.githubusercontent.com/72580574/219875881-c78a0782-1b88-4048-9637-486722bd82fd.png)
 
+Si no hay notificaciones y se quiere avisar que no hay deberia ser un cartel, pop up, algo que destaque y no se pierda.
 
-Ejemplo 2: Facebook
+Ejemplo 3: Facebook
 
 
 ![image](https://user-images.githubusercontent.com/72580574/214967412-07f74e21-1131-4f1c-ac52-670847b72a32.png)
 
+Todo el menu del lado izquierdo es ilegible.
 
-Ejemplo 3:
+El texto en azul se piere arriba de las imagenes.
 
-![image](https://user-images.githubusercontent.com/72580574/214967449-51dd5da7-22f9-454c-b2e2-2e70f7d3eeea.png)
 
 Ejemplo 4:
 
-![image](https://user-images.githubusercontent.com/72580574/214967451-b8c6f4ac-7920-4f45-9161-0fdc45eb9f7e.png)
+![image](https://user-images.githubusercontent.com/72580574/214967449-51dd5da7-22f9-454c-b2e2-2e70f7d3eeea.png)
+
+En el select (drop down) para elegir los paises hay uno mal.
+
 
 
 ---
