@@ -697,7 +697,7 @@ Cuando se han incluido en el carrito de la compra el conjunto de los libros dese
 
 ---
 
-## CHECK POINT
+## <img src="https://img.icons8.com/fluency/48/null/instagram-check-mark.png"/> CHECK POINT
 
 - **1 - ¿Qué es la matriz de Trazabilidad(RTM)?**
 
