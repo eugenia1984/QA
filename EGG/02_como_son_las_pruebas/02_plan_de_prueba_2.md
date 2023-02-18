@@ -327,58 +327,58 @@ Cada uno podrá exponer las razones por las que eligió cada opción.
 
 En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas. Lo pueden resolver en forma individual y enviar cada uno su respuesta.
 
-**1)** Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La decisión de Ana es:
+- **1 - Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La decisión de Ana es**:
 
 a)  	Correcta, porque los diseñadores no son tan fundamentales como el cliente y los desarrolladores.
 
-b) 	Incorrecta, lo ideal sería que entreviste a clientes, diseñadores y desarrolladores.
+b) 	Incorrecta, lo ideal sería que entreviste a clientes, diseñadores y desarrolladores. -> **respuesta**
 
 c)  	Correcta, porque sólo debe entrevistar a los clientes del producto, ya que son los consumidores finales.
 
 d) 	Correcta, ya que por su grado de experiencia sabe a quién es necesario entrevistar.
  
-**2)** 	Juan es administrador de pruebas y debe desarrollar el documento de estrategia de prueba. En el mismo solo define la cantidad de esfuerzo y costo requerido para la prueba. Esto es:
+- **2 - Juan es administrador de pruebas y debe desarrollar el documento de estrategia de prueba. En el mismo solo define la cantidad de esfuerzo y costo requerido para la prueba. Esto es:**
 
 a)  	Correcto, ya que la cantidad de esfuerzo y costo requerido para la prueba son necesarios para un buen resultado.
 
 b) 	Incorrecto, ya que el doc. de estrategia de prueba lo tiene que realizar un programador.
 
-c)  	Incorrecto, ya que Juan también debería definir objetivos del proyecto y cómo alcanzarlos.
+c)  	Incorrecto, ya que Juan también debería definir objetivos del proyecto y cómo alcanzarlos.  -> **respuesta**
 
 d) 	Incorrecto, ya que Juan no cuenta con las capacidades necesarias para hacer dicha tarea.
 
 
-**3)** Sofía, que comenzó su recorrido en QA hace poco tiempo, debe determinar el programa de prueba y la estimación de un proyecto. Si tuvieras que darle un consejo sería:
+- **3 - Sofía, que comenzó su recorrido en QA hace poco tiempo, debe determinar el programa de prueba y la estimación de un proyecto. Si tuvieras que darle un consejo sería:**
 
 a)  	Que dedique el tiempo que considere necesario, sin documentar ni avisar a nadie.
 
 b) 	Que no divida el proyecto en tareas más pequeñas ya que esto será una pérdida de tiempo para su ejecución.
 
-c)  	Que divida el proyecto en tareas más pequeñas y asigne el tiempo y el esfuerzo necesarios para cada una. Luego, cree un cronograma para completar estas tareas en el tiempo designado con la cantidad específica de esfuerzo.
+c)  	Que divida el proyecto en tareas más pequeñas y asigne el tiempo y el esfuerzo necesarios para cada una. Luego, cree un cronograma para completar estas tareas en el tiempo designado con la cantidad específica de esfuerzo.  -> **respuesta**
 
 d) 	Que sí divida el proyecto en tareas más pequeñas, pero no asigne el tiempo y esfuerzo ya que son variables. 
 
-**4)** 	 Gino, quien es QA Semi senior de una multinacional IT, es la persona encargada de entregar el plan de prueba de un proyecto de Software. Por situaciones personales no pudo dedicarle el tiempo correspondiente, por lo cual, hizo el plan de prueba a último momento, sin repasarlo o ultimar detalles. En esta situación, ¿Qué crees que debería haber hecho Gino?
+- **4 - 	 Gino, quien es QA Semi senior de una multinacional IT, es la persona encargada de entregar el plan de prueba de un proyecto de Software. Por situaciones personales no pudo dedicarle el tiempo correspondiente, por lo cual, hizo el plan de prueba a último momento, sin repasarlo o ultimar detalles. En esta situación, ¿Qué crees que debería haber hecho Gino?**
 
 a)  	Nada, lo que hizo está bien porque el diseño de pruebas es más importante que el plan de pruebas.
 
-b) 	Debería haber avisado a su equipo de trabajo sobre su inconveniente y pedir más tiempo para poder realizar un plan de prueba amplio y bien elaborado. Ya que el plan de prueba es la estructura principal sobre la que se construirá todo el proyecto.
+b) 	Debería haber avisado a su equipo de trabajo sobre su inconveniente y pedir más tiempo para poder realizar un plan de prueba amplio y bien elaborado. Ya que el plan de prueba es la estructura principal sobre la que se construirá todo el proyecto.  -> **respuesta**
 
 c)  	Debería haber entregado el diseño de prueba antes que el plan de prueba.
 
 d) 	Debería desestimar cualquier tipo de reclamo hacia su trabajo, ya que su grado y experiencia se lo permiten. 
 
 
-**5)** 	María debe realizar un análisis de prueba de un sistema de Software y recurre a la experiencia de un usuario experimentado como base de información. La información no está documentada, pero María decide avanzar de todas maneras. Lo que hizo María es:
+- **5 - 	María debe realizar un análisis de prueba de un sistema de Software y recurre a la experiencia de un usuario experimentado como base de información. La información no está documentada, pero María decide avanzar de todas maneras. Lo que hizo María es:**
 
 a)  	Incorrecto, ya que debe basarse en los documentos de base de prueba preexistentes y documentados. De lo contrario, el análisis carecerá de autenticidad y veracidad.
 
-b) 	Correcto, ya que la base de la prueba incluye cualquier cosa en la que se basen las pruebas. En este caso, aunque dicha información no esté documentada, el conocimiento del usuario sobre el sistema puede aportar mucho al análisis que debe realizar María.
+b) 	Correcto, ya que la base de la prueba incluye cualquier cosa en la que se basen las pruebas. En este caso, aunque dicha información no esté documentada, el conocimiento del usuario sobre el sistema puede aportar mucho al análisis que debe realizar María.  -> **respuesta**
 
 c)  	Ninguna de estas opciones es correcta.
 
 
-**6)** 	Axel debe crear un análisis de prueba específico, pero decide no avanzar hasta que se terminen de definir las condiciones de prueba y se disponga de suficiente información para la creación de los casos de prueba. Lo que hizo Axel es:
+- **6 - 	Axel debe crear un análisis de prueba específico, pero decide no avanzar hasta que se terminen de definir las condiciones de prueba y se disponga de suficiente información para la creación de los casos de prueba. Lo que hizo Axel es:**
 
 a)  	Incorrecto, ya que el tiempo es esencial en esta etapa y debe avanzar, aunque los demás procesos no estén completados.
 
@@ -386,7 +386,7 @@ b) 	Correcto, ya que este orden de ejecución aplica para cualquier caso de prue
 
 c)  	Incorrecto, ya que su tarea nada tiene que ver con los procesos anteriores.
 
-d) 	Correcto, ya que, sólo en casos excepcionales como la creación de datos de prueba, se puede alterar este orden. Lo demás, por regla, debe respetar el orden y proceso para obtener un buen resultado.
+d) 	Correcto, ya que, sólo en casos excepcionales como la creación de datos de prueba, se puede alterar este orden. Lo demás, por regla, debe respetar el orden y proceso para obtener un buen resultado.  -> **respuesta**
 
 
 ---
@@ -841,7 +841,7 @@ Requisitos de relación externa
 
 - **12 Ana pertenece a un equipo de QA reconocido y debe analizar un producto de Software. Dentro de las tareas a realizar decide no entrevistar a los diseñadores del producto. La desición de Ana es:**
 
-Incorrecta, lo ideal sería enrevistar a clientes, diseñadores y desarrolladores.
+Incorrecta, lo ideal sería entrevistar a clientes, diseñadores y desarrolladores.
 
 - **13 Juan es administrador de pruebas y debe desarrollar el documento de estrategia de prueba. En el mismo solo define la cantidad de esfuerzo y costo requerido para la prueba. Esto es:**
 
