@@ -352,34 +352,33 @@ Te presentamos varios escenarios de análisis en donde veremos aplicados algunos
 En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas, envíenlas de forma individual luego de haberlo discutido. 
 
 
-- 1. 1.   	Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente:
+- 1-1 -	Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente:
 
+```
 ÉPICA: Mejorar la visualización de los medios de pago en el sitio e-commerce.
-
 - Historia 1: Los usuarios de escritorio necesitan aumentar el tamaño de las imágenes que informan los medios de pago autorizados.
-
 - Historia 2: Aumentar la resolución.
-
 - Historia 3: Hablar con ventas para agregar más opciones a los medios de pago.
+```
 
 Esto es:
 
-a.  	Correcto. Las tres historias contribuyen a la realización de la épica.
+-A -Correcto. Las tres historias contribuyen a la realización de la épica.
 
-b.  	Incorrecto.  La épica habla de VISUALIZACIÓN por lo que la historia 3 no contribuye a la realización.
+-B -Incorrecto.  La épica habla de VISUALIZACIÓN por lo que la historia 3 no contribuye a la realización.
 
-c.  	Incorrecto. La historia 2 está incompleta ya que no sabemos a qué usuario está dirigida pero sólo agregando el usuario queda corregida.
+-C -Incorrecto. La historia 2 está incompleta ya que no sabemos a qué usuario está dirigida pero sólo agregando el usuario queda corregida.
 
-d.  	Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios ni está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
+-D -Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios ni está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
 
 
-- 2. 2.  	Analice la siguiente Historia de Usuario: “Como alumno quiero más ejercicios”. Podemos decir qué:
+- 2-2 	Analice la siguiente Historia de Usuario: “Como alumno quiero más ejercicios”. Podemos decir qué:
 
-a.  	La historia está incompleta, ya que precisamos el beneficio o el “para qué” de la historia.
+-A	-La historia está incompleta, ya que precisamos el beneficio o el “para qué” de la historia.
 
-b.  	La historia está bien.
+-B	-La historia está bien.
 
-c.  	La historia está incompleta, no sólo está faltando el beneficio o “para qué” sino también determinar de cuáles ejercicios.
+-C	-La historia está incompleta, no sólo está faltando el beneficio o “para qué” sino también determinar de cuáles ejercicios.
 
 d.  	La historia está incompleta, debe especificarse también el tipo de alumnos, cómo de qué curso son, y qué ejercicios desean.
 
@@ -391,27 +390,28 @@ b.  	Incorrecto. Las historias de usuario sirven para todos los involucrados en 
 
 c.  	Correcto, siempre puede compartir aquellas historias de usuario que se relacione con el área que las solicite.
 
-d.  	Correcto, le servirán para crear un plan de pruebas más detallado.
+-D -Correcto, le servirán para crear un plan de pruebas más detallado.
 
-- 4. 4.  	Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desea escribirlas, deberán cambiar la metodología de trabajo.
+- 4-4  	Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desea escribirlas, deberán cambiar la metodología de trabajo.
 
-a.  	Manuel está equivocado, sólo deben escribir el plan de pruebas.
+-A -Manuel está equivocado, sólo deben escribir el plan de pruebas.
 
-b.  	Enrique tiene razón, no serán necesarias.
+-B	-Enrique tiene razón, no serán necesarias.
 
-c.  	Manuel está en lo cierto, pueden utilizar esta herramienta a pesar de no trabajar con metodologías ágiles.
+-C	-Manuel está en lo cierto, pueden utilizar esta herramienta a pesar de no trabajar con metodologías ágiles.
 
-d.  	Deberían cambiar la metodología de trabajo, ya que al ser un proyecto chico, es mejor utilizar metodologías ágiles.
+-D	-Deberían cambiar la metodología de trabajo, ya que al ser un proyecto chico, es mejor utilizar metodologías ágiles.
 
-- 5. 5.  	Jorge redactó sus historias de usuario. Agregar a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identificó correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.
+- 5-5  	Jorge redactó sus historias de usuario. Agregar a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identificó correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.
 
-a.  	Jorge debe dividir esas historias en tareas más pequeñas que sólo duren un Sprint.
+-A -Jorge debe dividir esas historias en tareas más pequeñas que sólo duren un Sprint.
 
-b.  	Jorge debe pedir una reunión con el equipo para explicar bien cuáles son historias de más de un Sprint y cuáles no, mientras el equipo lo entienda, lo harán bien.
+-B -Jorge debe pedir una reunión con el equipo para explicar bien cuáles son historias de más de un Sprint y cuáles no, mientras el equipo lo entienda, lo harán bien.
 
-c.  	Siempre y cuando las historias estén claras su duración pierde importancia.
+-C	-Siempre y cuando las historias estén claras su duración pierde importancia.
 
-d.  	Jorge sabe lo que hace, seguramente ya han trabajado así con el equipo y se entienden bien.  
+-D -Jorge sabe lo que hace, seguramente ya han trabajado así con el equipo y se entienden bien.  
+
 ---
 
 ## 📋 EJERCICIO 📋
@@ -431,14 +431,14 @@ Puedes usar esta tabla como plantilla para completar el ejercicio.
 - D - De forma grupal, una vez que hayas completado la parte individual, compara con tu equipo tus respuestas para verificar cómo te ha ido en el ejercicio. ¿Tu equipo te pudo validar tus respuestas? ¿Has encontrado en tu equipo opiniones diferentes a las que tú has propuesto?
 
 
-## CASO 1. STAR 
+### CASO 1. STAR 
 
 Su equipo está desarrollando un sistema de gestión on-line para la cadena de hoteles 5 estrellas llamadas Star. la cajados tipos de clientes, el que es socio y el no-socio. Según los requerimientos del cliente, el sistema deberá poseer opciones, registrándose de forma automática si es socio o por medio de un formulario a completar si es no-socio. En el caso de ser socio registrado, cuyo número sólo son 150 y según la categoría del socio, es el tipo de habitación, descuentos y categorías de servicios a los que podrá acceder si hay disponibilidad. El sistema ofrecerá propuestas en diferentes locaciones, simulando opciones que el cliente puede tomar, no se deben aceptar los que no existan en el sistema y no podrán acceder a estas propuestas especiales, pero sí a otros tipos de descuentos/paquetes. El sistema validará la disponibilidad/opciones e informará inmediatamente. En el caso en que no haya disponibilidad, informará las opciones al no socio.
  
 ![image](https://user-images.githubusercontent.com/72580574/216459091-f71977c7-5851-4be1-94a2-1de3336806c0.png)
 
 
-## CASO 2. 4A
+### CASO 2. 4A
 
 La Empresa 4A posee cuatro almacenes minoristas muy bien ubicados, donde desea llevar el control de la mercadería, pagos a proveedores y cuentas corrientes de sus clientes. Se ha revelado que un ítem de un producto se describe por su nombre, marca, tamaño, unidad, costo, precio unitario y cantidad en existencia. Pero se distribuyen según ventas y temporada. Por ejemplo el café, té y yerba mate se venden más en invierno y otoño. Los jugos en polvo y en caja en las épocas de verano, excepto los jugos pequeños que se venden en época escolar. Por lo cual deben agregar un análisis de estacionalidad por grupos de productos para mejorar las compras y evitar los vencimientos de los mismos.
 
@@ -454,7 +454,7 @@ La empresa de transportes BusCentro de colectivos de larga distancia nacional e 
 El sistema debe permitir llenar un formulario de reserva, siempre que el cliente sea mayor de edad y resida en la provincia, indicando el nombre y apellido, la cantidad de asientos solicitados, tarifa, forma de pago y el tipo de servicio. A su vez si el servicio incluye cena/almuerzo, pudiendo elegir el tipo de menú, es decir, carne, pastas, vegetariano, diabético o vegano. De esta manera, se pueden hacer las compras de los menús en forma automática, pudiendo acceder los proveedores autorizados a los pedidos. Se pueden reservar tramos parciales de los recorridos, teniendo entonces que considerar también la tarifa y horarios del tramo. El sistema debe poseer el plano o layout para que el cliente pueda elegir el asiento que desee, viendo las tarifas, sus comodidades, y servicios.
 
 
-## CASO 4. Torneo de Tenis Grand Slam
+### CASO 4. Torneo de Tenis Grand Slam
 
 El sistema debe memorizar todos los encuentros que se han desarrollado desde que existe el torneo, así como las siguientes características de estos: El Grand Slam se compone de cuatro torneos anuales que se celebran en Gran Bretaña, Estados Unidos, Francia y Australia. En cada país se pueden desarrollar en distintos lugares (ej., en EE. UU. Puede desarrollarse en Forest Hill o en Flashing Meadows). Cada partido tiene asociado un premio de consolación para el perdedor que dependerá de la fase en que se encuentre el torneo (p. ej., el perdedor de octavos de final puede ganar 5.000dólares). El ganador de la final recibirá el premio correspondiente al torneo.
 
@@ -590,6 +590,50 @@ Verdadero
 ### 📋 DESARROLLO 📋
 
 En este espacio te ayudaremos a aplicar lo aprendido en la guía.
+
+- **1 - Marque cuáles podrían ser las historias de la sigueinte épica:**
+
+-> **Debemos mejorar la esperiencia de usuari en la app móvil**...
+
+... Los usuarios de iPhone necesitan acceder a través de su huella digital.
+
+... Los usuarios de Android necesitan agrandar el captcha de ingreso.
+
+... Los usuarios de iPhone necesitan poder adjuntar pdf.
+
+- **2 - Marque las épicas de la siguiente iniciativa para una app bancaria:**
+
+-> **Hacer que el usuario elija hacer préstamos por la app en vez de personalmente**...
+
+... Mejorar la experiencia de usuario para solicitar préstamos virtuales.
+
+... Garantizar seguridad a la hora de otorgar préstamos virtuales.
+
+- **3 Determine si el fragmento corresponde a ROL/PERFIL - OBJETIVO - BENEFICIO**:
+
+-> ROL / PERFIL: gato de la casa
+
+-> OBJETIVO: recibir elimento
+
+-> BENEFICIO: mantenerme en estado físico y ser lo suficientemente gordito para ser acariciado.
+
+
+- **4 Determine si el fragmento corresponde a ROL/PERFIL - OBJETIVO - BENEFICIO**
+
+-> ROL/PERFIL: lector del nuevo blog "Locos por las papas fritas"
+
+-> OBJETIVO: recibir alertas cuando otros lectores respondan a mis comentarios
+
+-> BENEFICIO: mantenerme en contacto con ellos
+
+- **5 Determine si el fragmento corresponde a ROL/PERFIL - OBJETIVO - BENEFICIO**
+
+-> ROL /PERFIL: dueño de un cafe
+
+-> OBJETIVO: consultar a mis proveedores por tipos y calidad de cafe
+
+-> BENEFICIO: realizar mis compras según ventas
+
 
 ![image](https://user-images.githubusercontent.com/72580574/216455474-477aa320-7fcc-4eef-a36f-d9adb5c1ef98.png)
 
