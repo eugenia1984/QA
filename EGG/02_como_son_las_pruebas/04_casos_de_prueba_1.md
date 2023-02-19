@@ -571,46 +571,46 @@ D - Incorrecto, él sólo escribe los casos de prueba, no los ejecuta
 ---
 
 
-## ## <img src="https://img.icons8.com/fluency/48/null/instagram-check-mark.png"/> CHECK POINT
+## <img src="https://img.icons8.com/fluency/48/null/instagram-check-mark.png"/> CHECK POINT
 
 
-- 1) Un caso de prueba es el modo en el que ejecutaremos una prueba en un aspecto específico de un software
+- **1 - Un caso de prueba es el modo en el que ejecutaremos una prueba en un aspecto específico de un software**
 
 ->Verdadero
 
-- 2 ) Caso de prueba es distinto de escenario de prueba porque el caso define la prueba en sí y el escenario la situación que requiere probarse.
+- **2 - Caso de prueba es distinto de escenario de prueba porque el caso define la prueba en sí y el escenario la situación que requiere probarse.**
 
 -> Verdadero 
 
-- 3) Caso de prueba y Script de prueba son dos formas de referirse a lo mismo
+- **3 - Caso de prueba y Script de prueba son dos formas de referirse a lo mismo**
 
 -> Falso
 
-- 4 ) 4) Podemos dividir los casos de prueba en formales e informales. Siendo los primeros, aquellos donde no tenemos certidumbre respecto a las entradas y salidas y los segundos aquellos donde existe esta certeza.
+- **4 - Podemos dividir los casos de prueba en formales e informales. Siendo los primeros, aquellos donde no tenemos certidumbre respecto a las entradas y salidas y los segundos aquellos donde existe esta certeza.**
 
 -> Falso
 
-- 5 ) Los casos de prueba deben comenzar a planificarse lo antes posible para evitar que sean influenciados por las estrategias de solución.
+- **5 - Los casos de prueba deben comenzar a planificarse lo antes posible para evitar que sean influenciados por las estrategias de solución.**
 
 -> Verdadero
 
-- 6 ) Al planificar, debo pensar Casos de pruebas para todas y cada una de las combinaciones de datos posibles.
+- **6 - Al planificar, debo pensar Casos de pruebas para todas y cada una de las combinaciones de datos posibles.**
 
 -> Falso
 
-- 7 ) Las Matrices de Trazabilidad son una gran herramienta para elaborar casos de prueba
+- **7 - Las Matrices de Trazabilidad son una gran herramienta para elaborar casos de prueba**
 
 -> Verdadero
 
-- 8 )  Definir la prioridad de la prueba no es importante a la hora de hacer casos de prueba
+- **8 -  Definir la prioridad de la prueba no es importante a la hora de hacer casos de prueba**
 
 -> Falso
 
-- 9 ) Para gestionar correctamente casos de prueba debo revisarlos levemente.
+- **9 - Para gestionar correctamente casos de prueba debo revisarlos levemente.**
 
 -> Falso
 
-- 10 ) Las historias de usuario pueden convertirse en casos de prueba
+- **10 - Las historias de usuario pueden convertirse en casos de prueba**
 
 -> Verdadero
 
@@ -618,8 +618,10 @@ D - Incorrecto, él sólo escribe los casos de prueba, no los ejecuta
 
 - Clasifique en: CASO DE PRUEBA  O ESCENARIO DE PRUEBA las siguientes afirmaciones en base a una CALCULADORA
 
+-> CASOS DE PRUEBA: ingresar una entrada de un dígito / presionar la tecla de multiplicación / presinar la tecla = / presionar la tecla de la división.
 
-![image](https://user-images.githubusercontent.com/72580574/216704817-06ffd2b0-fde8-4b75-bb38-1fb34939fdad.png)
+-> ESCENARIO DE PRUEBA: sumar dos dígitos / calcular la raiz cuadrada de un número / calcular el resto de una división / restar tres dígitos.
+
 
 
 - Clasifiquen los siguientes casos de prueba
@@ -643,19 +645,21 @@ D - Incorrecto, él sólo escribe los casos de prueba, no los ejecuta
 
 - Determinar los resultados de estas pruebas
 
-![image](https://user-images.githubusercontent.com/72580574/216705728-2245b511-a155-4021-9c8d-8298c293f402.png)
+-> APROBADO : el usuario mantuv su sesión iniciada al dirigirse al carrito de compras / el usuario no pudo acceder a su perfil con una contraseña incorrecta / el usuario accedió a los términos y condiciones antes de suscribirse
 
-![image](https://user-images.githubusercontent.com/72580574/216705757-aa036a58-f0c3-4996-985e-0b9ffff26337.png)
+-> FALLO: al hacer una división de 2 en 0 el resultado fue 0 / el usuario transfirió $200 mientras su saldo era $180 / el usuario calcula la raiz cuadrada de 25 y el resultado fue 6 / el ucuario inicio sesión con su dni aunque el usuario sea el email
 
-![image](https://user-images.githubusercontent.com/72580574/216705800-3ae46c25-21e5-44dd-aa7e-79c4ab3c5c63.png)
+-> SIN EJECUTAR: el usuario está esperando las pilas para probar la calculadora / el usuario aun no inicio sesion ya que no le han llegado sus credenciales de acceso
+
+
 
 
 - John está redactando casos de prueba. Se le ocurren varias ideas para encontrar todos los errores posibles, pero duda al ver la cantidad de casos que acumula. ¿Qué consejo le darías?
 
 -> Que procure crear casos de prueba que sean más abarcativos y prueben varias funcionalidades de una sola vez
 
-- 
-A Carlos le han encargado el diseño de los casos de prueba, para comenzar está esperando que le envíen los requisitos y el plan de pruebas. Esto es:
+
+- A Carlos le han encargado el diseño de los casos de prueba, para comenzar está esperando que le envíen los requisitos y el plan de pruebas. Esto es:
 
 -> Incorrecto. Sólo con el prototipo ya puede empezar a realizar los casos de prueba.
 
@@ -663,8 +667,8 @@ A Carlos le han encargado el diseño de los casos de prueba, para comenzar está
 
 -> Correcto, pero el diseño sería más efectivo si fuera repetible y reutilizable.
 
-- 
-Galia esta ejecutando casos de prueba. Los está ejecutando en el orden que piensa encontrará más errores. Esto es:
+
+- Galia esta ejecutando casos de prueba. Los está ejecutando en el orden que piensa encontrará más errores. Esto es:
 
 -> Incorrecto, al ejecutar los casos de prueba debe tenerse en cuenta la prioridad.
 
