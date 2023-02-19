@@ -634,38 +634,24 @@ En este espacio te ayudaremos a aplicar lo aprendido en la guía.
 
 -> BENEFICIO: realizar mis compras según ventas
 
+- **6 Mariela está armando su Historia de Usuario. Está dividiendo las épicas en historias y el resultado es el siguiente: ÉPICA: Mejorar la visualización de los medios de pago en un sitio e-commerce. HISTORIA 1: Los usuarios de escritorio necesitan aumentar el tamaño de las imágenes que informan los medios de pago autorizados. Historia 2: Aumentar la resolución. Historia 3: Hablar con ventas para agregar más opciones a los medios de pago. Esto es...**
 
-![image](https://user-images.githubusercontent.com/72580574/216455474-477aa320-7fcc-4eef-a36f-d9adb5c1ef98.png)
+... Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios ni está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
 
+- **7 Analice la sigueinte Historia de Usuario: "Como alumno quiero más ejerciicos". Podemos decir qué...**
 
-![image](https://user-images.githubusercontent.com/72580574/216455499-02ed50fe-56c7-44d3-985e-3e326eef7512.png)
+... la historia está incompleta ya que precisamos el beneficio o el "para qué" de la historia.
 
-![image](https://user-images.githubusercontent.com/72580574/216455534-cc5408ec-9482-43eb-bf5e-96ef97b5de76.png)
+- **8 Constanza está realizando las historias de usuario, pero ha decidido cifrar el documento para que sólo ella tenga acceso. Las historias de usuario sólo son necesarias para los testers, asi que no tendrá problemas. Esto es...**
 
-![image](https://user-images.githubusercontent.com/72580574/216455590-e06f7b66-35e8-4b8d-93cf-e2a70cc3d27a.png)
+... Incorrecto. Las historias de usuario sirven para todos los involucrados en el procesi de testing y desarrollo del software. Deben ser públicas ya que colaboran a que el equipo tome decisiones más participativas.
 
-![image](https://user-images.githubusercontent.com/72580574/216455621-bf418c47-5ad9-4991-b8d1-233df9394a29.png)
+- **9 Manuel y Enrique determinaron que cómo su proyecto de Testing es pequeño y hay pocas personas intervinientes, no utilizarán metodologías ágiles para trabajar el STLC. Manuel afirma que, a pesar de la decisión tomada, deben escribir historias de usuario. Enrique dice que no serán necesarias y que, si desean escribirlas, deberán cambiar la metodología de trabajo**
 
-![image](https://user-images.githubusercontent.com/72580574/216455669-65ba3deb-6725-4ab7-a72c-92e897e4fb9f.png)
+Manuel está en lo cierto, pueden utilizar esta herramienta a pesar de no trabajar con metodologías ágiles.
 
-![image](https://user-images.githubusercontent.com/72580574/216455725-159672cf-045a-4edd-96a6-01c28a7bd2d3.png)
+- **10 Jorge redactó sus historias de usaurio. Agregó a las mismas notas especiales determinando que algunas de ellas son más importantes que otras, debido a que llevarán más tiempo (más de un Sprint) en completarse y el equipo deberá tener esto en cuenta. Como identifico correctamente estas historias, confía en que el equipo entenderá cómo debe afrontarlas.**
 
-![image](https://user-images.githubusercontent.com/72580574/216455766-53a9067f-fe2f-461e-8561-9822346351cd.png)
-
-![image](https://user-images.githubusercontent.com/72580574/216455816-6d06f39e-36a3-42ec-9f24-61c75bac2968.png)
-
+Jorge debe dividir esas historias en tareas más pequeñas que sólo duren un Sprint.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
