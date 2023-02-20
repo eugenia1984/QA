@@ -13,7 +13,7 @@ Hoy iniciaremos el encuentro mirando un video sobre un ejemplo de un caso de pru
 
 ---
 
-## Paso a paso
+# 📖 Paso a paso en el Plan de Prueba :book:
 
 Ahora veremos paso a paso cómo debemos realizar un plan de pruebas. Los datos necesarios para identificar y armar cada caso de prueba incluye diversa información, que vimos anteriormente pero volveremos a repasar aquellas más relevantes:
 
@@ -58,7 +58,7 @@ Los siguientes datos se completan una vez que el caso de prueba se ejecutó:
 
 - **Post-caso de prueba condiciones**: características de un objeto de prueba tras la ejecución de pruebas, descripción de su situación tras la ejecución de las pruebas.  Puede ser un dibujo o texto explicando cómo se espera que los datos iniciales queden luego de ejecutar la acción. Debe ser claro y no dejar dudas.
 
-Ejemplo
+##### Ejemplo
 
 · Identificador: 1
 
@@ -92,7 +92,7 @@ Las ejecuciones de casos se agrupan en “Corridas” que se deben identificar p
 
 ---
 
-Material de apoyo sugerido para revisar pre o post del encuentro en vivo:
+## :tv: Material de apoyo sugerido para revisar pre o post del encuentro en vivo :tv:
 
 :tv: -> [APRENDE Cómo Diseñar CASOS DE PRUEBA 🚀 (con EJEMPLOS PRÁCTICOS)](https://youtu.be/rQf50sYvgJE)
 
@@ -103,7 +103,7 @@ Material de apoyo sugerido para revisar pre o post del encuentro en vivo:
 
 ---
 
-###  Consideraciones respecto de las pruebas
+## 📖  Consideraciones respecto de las pruebas 📖 
 
 El fundamento respecto a la Prueba de Software es que no se puede probar completamente un sistema compuesto por varios programas, por lo que en el momento de realizar las pruebas se deben tomar decisiones respecto a cómo se van a diseñar los casos de prueba. Otro punto importante a tener en cuenta es la actitud que debe tener la persona que realiza las pruebas.
 
@@ -143,12 +143,12 @@ En este punto es interesante reflexionar sobre algo a lo que se llama la Paradoj
 
 ---
 
-### Obtención de casos de prueba a partir de requisitos
+## 📖  Obtención de casos de prueba a partir de requisitos 📖 
 
 El diseño de casos de prueba debe ser un proceso controlado.
 Los casos de prueba pueden ser creados formal o informalmente, dependiendo de las características del proyecto y la madurez del proceso en uso.
 
-#### Cobertura de pruebas
+## :star: Cobertura de pruebas
 
 Es una medida de calidad de las pruebas. Se definen cierto tipo de entidades sobre el sistema, y luego se intenta cubrirlas con las pruebas. Es una forma de indicar cuándo probamos suficiente, o para tomar ideas de qué otra cosa probar (pensando en aumentar la cobertura elegida). 
 
@@ -179,7 +179,7 @@ Criterio 3 incluye al criterio 2, el cual incluye al criterio 1 (y la relación 
 
 ---
 
-### Trazabilidad
+## :star:  Trazabilidad
 
 Las pruebas deben ser trazables: ¿qué casos de prueba han sido incluido en el catálogo o listado de pruebas, basados en qué requisitos?
 
@@ -187,7 +187,7 @@ Las consecuencias de los cambios en los requisitos sobre las pruebas a realizar 
 
 La trazabilidad también ayuda a determinar la cobertura de requisitos.
 
-#### Especificación de casos de prueba
+## :star: Especificación de casos de prueba
 
 Se han desarrollado muchas maneras de escribir y especificar estos Casos. Aquí presentaremos una adaptación que busca simplificar las pruebas:
 
@@ -210,7 +210,7 @@ Ejemplo: si quiero probar si mi solución de agregar un elemento a una lista sim
 **Ejecución de los Casos de Prueba**: (comúnmente llamada “corrida”) La ejecución de los casos se realiza una vez terminada la codificación. Esta ejecución consiste en tomar cada especificación de caso de prueba, ejecutar el software que estamos probamos (puede ser una porción de código) y registrar el resultado de la ejecución. Normalmente una corrida implica la ejecución de TODOS los casos de prueba. Un mismo Caso de Prueba se puede ejecutar muchas veces, tantas como corridas se realicen, idealmente al menos cada vez que se modifica algo del código.
 
 
-### Los 3 problemas más comunes en casos de prueba
+## :star: Los 3 problemas más comunes en casos de prueba
 
 #### Pasos compuestos
 
@@ -320,31 +320,31 @@ A continuación, las especificaciones de requisitos funcionales. Depende del pro
 Por lo tanto, decida cuál es el mejor documento para redactar casos, ya sea un documento de requisitos del usuario o una especificación de requisitos funcionales (o incluso un documento SRS si el equipo de pruebas lo puede entender cómodamente) que proporcionará un flujo funcional completo de lo seleccionado. característica para ser probado.
 Una vez que el prototipo de pantalla y las especificaciones funcionales están en su lugar, el tester debe comenzar a escribir los casos con el siguiente enfoque y criterio.
 
-- Pruebas de IU, Interfaz Usuaria: los controles / campos que son visibles para el usuario. Hay controles estáticos y dinámicos disponibles para probar la función. Por ejemplo, En la pantalla de inicio de sesión anterior, los textos de 'Nombre de usuario y contraseña' son campos estáticos que no requieren la interacción del usuario, solo para mostrar el texto.
+- **Pruebas de IU, Interfaz Usuaria**: los controles / campos que son visibles para el usuario. Hay controles estáticos y dinámicos disponibles para probar la función. Por ejemplo, En la pantalla de inicio de sesión anterior, los textos de 'Nombre de usuario y contraseña' son campos estáticos que no requieren la interacción del usuario, solo para mostrar el texto.
 
-- Casos funcionales: Por otro lado, el botón Iniciar sesión y los Hipervínculos (¿Olvidó su contraseña? Y Registro) son campos dinámicos que requieren la interacción del usuario haciendo clic en los controles, que realizarán alguna acción después.
+- **Casos funcionales**: Por otro lado, el botón Iniciar sesión y los Hipervínculos (¿Olvidó su contraseña? Y Registro) son campos dinámicos que requieren la interacción del usuario haciendo clic en los controles, que realizarán alguna acción después.
 
-- Casos de bases de datos: Una vez que el usuario ingresa el nombre de usuario y la contraseña, las pruebas se pueden escribir para verificar la base de datos relacionada, si el nombre de usuario y la contraseña están verificados en la base de datos y la tabla correctas y también el usuario tiene permiso para iniciar sesión en la aplicación bajo prueba. 
+- **Casos de bases de datos**: Una vez que el usuario ingresa el nombre de usuario y la contraseña, las pruebas se pueden escribir para verificar la base de datos relacionada, si el nombre de usuario y la contraseña están verificados en la base de datos y la tabla correctas y también el usuario tiene permiso para iniciar sesión en la aplicación bajo prueba. 
 
-- Pruebas de proceso: esto está relacionado con el proceso (no las acciones asociadas con los controles visibles disponibles en la pantalla) asociado con la característica y la funcionalidad. 
+- **Pruebas de proceso**: esto está relacionado con el proceso (no las acciones asociadas con los controles visibles disponibles en la pantalla) asociado con la característica y la funcionalidad. 
 
 Por ejemplo, Si hace clic en el enlace “Olvidé mi contraseña” en la pantalla de muestra anterior, puede enviar un correo electrónico al usuario. Entonces, tal vez un correo electrónico deba probarse para el proceso y la confirmación adecuados.
 
 Finalmente, mantenga el Enfoque de BAOE (Básico, Alternativo, Opciones y Excepciones) para la cobertura completa del flujo funcional y la característica a probar. Todos los conceptos deben aplicarse a pruebas positivas y negativas.
 
-i) Flujo básico 
+1 - Flujo básico 
 
-ii) Flujo alternativo 
+2 - Flujo alternativo 
 
-iii) Opciones 
+3 - Opciones 
 
-iv) Excepciones 
+4 - Excepciones 
 
 Por ejemplo, Veamos el enfoque BAOE simple para la pantalla de inicio de sesión 
 
-- Flujo básico: Ingrese la ruta URL del inicio de sesión en cualquier navegador e ingrese la información requerida e inicie sesión en la aplicación.
+- **Flujo básic**o: Ingrese la ruta URL del inicio de sesión en cualquier navegador e ingrese la información requerida e inicie sesión en la aplicación.
 
-- Flujo alternativo: Instale la aplicación en un dispositivo móvil e ingrese la información requerida e inicie sesión en la aplicación.
+- **Flujo alternativo**: Instale la aplicación en un dispositivo móvil e ingrese la información requerida e inicie sesión en la aplicación.
 
 Opciones: ¿Cuáles son las opciones disponibles para llegar a la misma pantalla de inicio de sesión? 
 
@@ -352,7 +352,7 @@ Ejemplo, después de iniciar sesión en la aplicación, al hacer clic en 'Cerrar
 
 ---
 
-## Excepciones
+## :star: Excepciones
 
 ### ¿Cuáles son las excepciones si mis pruebas son negativas? 
 
@@ -373,7 +373,7 @@ Con toda esta información en la mano, comencemos a escribir los casos de prueba
 
 ---
 
-##  Recopilación de datos de prueba
+## :book: Recopilación de datos de prueba :book:
 
 Cuando se escribe el caso de prueba, la tarea más importante para cualquier tester es recopilar los datos de prueba. Muchos evaluadores omiten esta actividad y la pasan por alto con la suposición de que los casos de prueba se pueden ejecutar con algunos datos de muestra o datos ficticios y se pueden alimentar cuando los datos realmente se requieren. Este es un concepto erróneo crítico de alimentar datos de muestra o datos de entrada desde la memoria mental en el momento de ejecutar casos de prueba.
 
@@ -389,7 +389,7 @@ Encuentre un documento de datos de prueba de muestra para las pruebas escritas a
 
 ---
 
-### ¿Qué es una prueba estándar en pruebas web?
+## :book: ¿Qué es una prueba estándar en pruebas web? :book:
 
 Repasemos algunos conceptos que debemos tener presentes:
 
@@ -413,19 +413,19 @@ El uso de un conjunto estándar de casos de prueba manuales para diferentes siti
 
 ---
 
-## Mejoramiento y mantenimiento de los casos de prueba 
+## :book: Mejoramiento y mantenimiento de los casos de prueba :bok:
 
-### Comprobación de los casos de prueba 
+### :star: Comprobación de los casos de prueba 
 
 Una prueba realizada con precisión es fácil de ejecutar lo que significa que, si el tester sigue las instrucciones, el resultado de aprobado o fallido será correcto. Se puede medir fácilmente por medio del tiempo que se tarda en ejecutar la prueba, y si el tester tiene que buscar o no aclaraciones en el proceso de prueba. 
 
-### Lenguaje para mejorar la comprobación
+### :star: Lenguaje para mejorar la comprobación
 
 Los pasos de los casos de prueba deben ser escritos en forma activa. El tester debe saber qué hacer, y cómo hacerlo. 
 
 Por ejemplo, navegar en la página de la tienda online y preparar la lista de lo que va a comprar, para comparar los precios y la variedad con los datos disponibles. 
 
-### Controlar longitud para mejorar la comprobación
+### :star: Controlar longitud para mejorar la comprobación
 
 Es necesario tener en cuenta la longitud de los casos de prueba para saber cuán compleja y precisa es la prueba. 
 
@@ -439,19 +439,19 @@ En los casos de prueba de matriz, una buena longitud oscila entre 18 y 20 minuto
 
 ---
 
-## Tipos de Mantenimiento 
+## :book: Tipos de Mantenimiento :book:
 
 Si un problema es detectado por el usuario, inmediatamente puede notificarlo al administrador del sistema. Dicha petición debe ser atendida por el administrador y este procederá a diagnosticar de qué tipo de mantenimiento se trata, luego de finalizar las etapas de desarrollo de un sistema.
 
 Atendiendo a estos fines, podemos establecer los siguientes tipos de mantenimiento: 
 
-- Correctivo. Cambios precisos para corregir errores del producto de software. 
+- **Correctivo**. Cambios precisos para corregir errores del producto de software. 
 
-- Evolutivo. Incorporaciones, modificaciones y eliminaciones necesarias en un producto de software para cubrir la expansión o cambio en los requerimientos del usuario. 
+- **Evolutivo**. Incorporaciones, modificaciones y eliminaciones necesarias en un producto de software para cubrir la expansión o cambio en los requerimientos del usuario. 
 
-- Adaptativo. Modificaciones que afectan los entornos en los que el sistema opera, por ejemplo, cambio en las configuraciones del hardware, software de base, gestores de base de datos, comunicaciones, etc. 
+- **Adaptativo**. Modificaciones que afectan los entornos en los que el sistema opera, por ejemplo, cambio en las configuraciones del hardware, software de base, gestores de base de datos, comunicaciones, etc. 
 
-- Perfectivo. Acciones llevadas a cabo para mejorar la calidad interna de los sistemas en cualquiera de sus aspectos: restructuración de código, definición más clara del sistema y optimización del rendimiento y eficiencia. 
+- **Perfectivo**. Acciones llevadas a cabo para mejorar la calidad interna de los sistemas en cualquiera de sus aspectos: restructuración de código, definición más clara del sistema y optimización del rendimiento y eficiencia. 
 
 Una vez identificado el tipo de mantenimiento y su origen se determina un tiempo razonable para su modificación y prueba, haciéndolo del conocimiento del usuario. 
 
@@ -464,13 +464,13 @@ Por último, y antes de la aceptación del usuario, es preciso establecer un pla
 
 ---
 
-## Revisiones periódicas
+## :book: Revisiones periódicas :book:
 
 El monitoreo permanente del sistema asegura que las necesidades de mantenimiento sean identificadas y satisfechas cuando resulte necesario. Cuando el sistema es de uso prolongado, se puede establecer un mecanismo para recibir retroalimentación de los usuarios como una forma efectiva para determinar las necesidades de mantenimiento y modificación. 
 
 A los sistemas se les debe dar mantenimiento para asegurar que continúen operando en el nivel mostrado durante la etapa de prueba. Si los sistemas se deterioran, existe el riesgo de que no se desempeñen conforme a los estándares requeridos.
 
-### Problemas comunes a la hora de hacer casos de prueba
+### :star: Problemas comunes a la hora de hacer casos de prueba
 
 #### Demasiado específico: ejecute solo una condición de prueba específica
 
@@ -506,22 +506,20 @@ Por lo tanto, necesita una herramienta de prueba de software que pueda etiquetar
 
 ---
 
--> ¡Pro tip alert!
-
-Mejorar la eficiencia de los casos de prueba no es un término simplemente definido, sino que es un ejercicio y se puede lograr a través de un proceso maduro y práctica regular.
+-> **¡Pro tip alert!** Mejorar la eficiencia de los casos de prueba no es un término simplemente definido, sino que es un ejercicio y se puede lograr a través de un proceso maduro y práctica regular.
 
 El equipo de pruebas no debe cansarse de involucrarse en la mejora de tales tareas, ya que es la mejor herramienta para lograr mayores logros en el mundo de la calidad, esto está probado en muchas de las organizaciones de prueba en todo el mundo en proyectos de misión crítica y aplicaciones complejas.
 
 ---
 
 
-### Escenarios de análisis 
+### 📖 Escenarios de análisis  📖
 
 Te presentamos varios escenarios de análisis en donde veremos aplicados algunos de los conceptos que aprendimos hoy. Te invitamos a que tomes algunos minutos de reflexión con tus compañeros de equipo y discutas cada escenario y su respuesta. Cada uno deberá exponer las razones por las que elige cada opción. Podrán coincidir o no entre ustedes, no se preocupen, intenten llegar a una opinión unánime, pero de no hacerlo cada uno enviará sus propias respuestas. 
 En el formulario de fin de guía encontrarás estos mismos escenarios y sus respuestas, envíenlas de forma individual luego de haberlo discutido. 
 
 
-1. Javier es tester. Está convencido que puede realizar un buen caso de prueba para rastrear bugs. Luego, una vez resueltos, hará una prueba más exhaustiva. De esta forma se asegura terminar con todos los bugs existentes en esa funcionalidad.
+- **1 - Javier es tester. Está convencido que puede realizar un buen caso de prueba para rastrear bugs. Luego, una vez resueltos, hará una prueba más exhaustiva. De esta forma se asegura terminar con todos los bugs existentes en esa funcionalidad.**
 
 A - Si bien la intención de Javier es buena, no es una meta realista terminar con todos los bugs.
 
@@ -531,7 +529,7 @@ C - De acuerdo a la Paradoja del pesticida, al hacer distintas pruebas y más ex
 
 D - Javier logrará su cometido de esa forma
 
-2. Laura está escribiendo los pasos de un caso de prueba y se ve de esta forma: 1-Ingresar a la URL 2-Utilizar el motor de búsqueda para hallar el producto "X" 3-Seleccionarlo, realizar la compra y pagarlo.
+- **2 - Laura está escribiendo los pasos de un caso de prueba y se ve de esta forma: 1-Ingresar a la URL 2-Utilizar el motor de búsqueda para hallar el producto "X" 3-Seleccionarlo, realizar la compra y pagarlo.**
 
 A - Es correcto y fácilmente comprensible.
 
@@ -541,7 +539,7 @@ C - No cumple con las buenas prácticas pero no es incorrecto
 
 D - Al ser un caso tan sencillo, puede dejarlo de esa forma
 
-3. Gonzalo está armando sus casos de prueba. Tiene una cita mañana con recursos humanos para solicitar que contraten a otro Tester ya que su diseño incluye una cobertura del 100%. Esta convencido que le aprobarán la solicitud debido a que esta cobertura garantizará una excelente calidad en las  pruebas.
+- **3 - Gonzalo está armando sus casos de prueba. Tiene una cita mañana con recursos humanos para solicitar que contraten a otro Tester ya que su diseño incluye una cobertura del 100%. Esta convencido que le aprobarán la solicitud debido a que esta cobertura garantizará una excelente calidad en las  pruebas.**
 
 A - Recursos humanos rechazará su petición debido a que debería diseñar pruebas con más criterios que sólo la cobertura.
 
@@ -551,7 +549,7 @@ C- Recursos humanos aprobará su pedido pero deberá reportar luego esa calidad 
 
 D- Recursos humanos rechazará su pedido ya que debería diseñar pruebas que él sólo pueda ejecutar.
 
-4. Raquel esta en la fase de recopilar datos de pruebas. Tiene casos positivos y negativos por ejecutar para un mismo requerimiento. Para ahorrar tiempo, recopilará sólo los datos del escenario positivo.
+- ** 4 - Raquel esta en la fase de recopilar datos de pruebas. Tiene casos positivos y negativos por ejecutar para un mismo requerimiento. Para ahorrar tiempo, recopilará sólo los datos del escenario positivo.**
 
 A - Es suficiente recopilar información de ese manera, ya que al tratarse de un mismo requerimiento no precisa de ambos datos.
 
@@ -561,7 +559,7 @@ C - Debería recuperar datos de ambos casos, pero sólo si el caso de prueba fal
 
 D - Debería recopilar datos de ambos casos, ya que tener un enfoque de casos positivos y negativos no sólo nos brinda información de que el sistema funciona en un escenario positivo, sino que también garantizamos que no funcione en escenarios negativos.
 
-5. Juan ha reportado que al probar un inicio de sesión, el sistema permite logearse tanto si introduces la contraseña en minúsculas o mayúsculas.  El administrador deberá clasificar este fallo como un mantenimiento:
+- **5 - Juan ha reportado que al probar un inicio de sesión, el sistema permite logearse tanto si introduces la contraseña en minúsculas o mayúsculas.  El administrador deberá clasificar este fallo como un mantenimiento:**
 
 A - Adaptativo, ya que se deberá hacer una gestión de la base de datos.
 
@@ -571,8 +569,9 @@ C - Evolutivo, ya que es un cambio de adaptación a un nuevo requerimiento de us
 
 D - Perfectivo, ya que es una mejora en el sistema.
 
+---
 
-### Ejercicios
+## 📋  Ejercicios 📋 
 
 
 #### Ejercicio #1
