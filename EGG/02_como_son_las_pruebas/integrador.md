@@ -182,55 +182,191 @@ Tómense 5 minutos como equipo para conversar sobre el encuentro de hoy. Les dej
 
 ---
 
-![image](https://user-images.githubusercontent.com/72580574/217380635-d50e52eb-92b1-4a86-9bf4-88f5080d3f4c.png)
+## INTEGRADOR - MODULO 2
 
-![image](https://user-images.githubusercontent.com/72580574/217380673-29fcd5f4-5530-4923-8994-9a9b6868cbf8.png)
 
-![image](https://user-images.githubusercontent.com/72580574/217380713-23b2109a-6ac7-484c-a2c5-bb9aeb37f8d1.png)
+- **1 ¿Cuál es un factor importante de los principios de las pruebas?**
 
-![image](https://user-images.githubusercontent.com/72580574/217380770-4371636d-aefb-4a31-bcca-cd4548d27fa0.png)
+Encontrar errores
 
-![image](https://user-images.githubusercontent.com/72580574/217380816-68ed644e-0663-4347-bafd-73ecc58a0f82.png)
+**En un sitio web de un Banco, el apartado de "Iniciar sesion" permite logearse sólo con el usuario. El campo de la contraseña puede ser incorrecto o quedar vacío. El sistema permite iniciar sesión de todos modos.**
 
-![image](https://user-images.githubusercontent.com/72580574/217380857-d387f270-084a-46f2-bc81-c1916605c2f6.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217380914-a9c39e83-2e98-4664-8f84-a282f952baf0.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217380956-8ce74ca4-e156-41a0-a332-31619b949611.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217380993-52ea22b2-4a39-4ddf-94ae-d6ff7eafa0e2.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381085-9b17f113-d5ed-4303-9e15-23d6c6502d67.png)
-
--> el ultimo : Casos de prueba seguridad
-
-![image](https://user-images.githubusercontent.com/72580574/217381178-7f89d982-efe3-40b9-b4d2-383a740b44f4.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381240-5eaded19-2e25-48d8-ae90-988b8cdea34a.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381271-00f53d88-ee1a-4c1e-9fe6-21054355893d.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381301-d40c3251-391d-4809-ab69-3a725167408a.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381333-ada36607-0543-43f0-aaf1-5b0e8d62048d.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381369-63eb1311-d73e-4295-98e5-10a7fd3fb50b.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381408-b576b852-0816-4812-ad1a-1fd9ea338fd8.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381440-64ab264e-dcb7-46eb-ba08-353fa9caa7e5.png)
-
-![image](https://user-images.githubusercontent.com/72580574/217381471-35faed86-9819-4181-a1d0-7b92f144468e.png)
+ALTA GRAVEDAD - ALTA PRIORIDAD
 
 
 
+- **2 Identificar a que principio de prueba hace referencia el siguiente enunciado: "Probar todas las combinaciones de entradas y precondiciones no es posible, excepto en casos especiales."**
+
+Las pruebas exhaustivas son imposibles.
+
+**Esteban se encuentra realizando pruebas a un software. Ha realizado una minuscula planificación de todas las pruebas que realizará. Una de las pruebas ha detectado varios errores en una de las funcionalidades. Recomendarías a Esteban:**
+
+Flexibilizar su plan de preubas y analizar mas en detalle esa funcionalidad, ya que acorde a la ley de Pareto, varios errores se agruparán alrededor de ese.
 
 
 
+- **3 "Se mueven en paralelo durate la mayor parte del proyecto, pero comienzan a converger rápidamente durante la fase de desarrollo de software con una sincronización profunda durante la fase de prueba SDLC" Estamos hablando de:**
+
+Funcionamiento entre STLC y SDLC
+
+
+**En un sitio de juegos online, el alcance hacia las redes hacia las redes sociales de la página no funciona**
+
+BAJA GRAVEDAD - BAJA PRIORIDAD
 
 
 
+- **4 "Se utilizan en todas las fases de las pruebas y siempre deben enviarse para proceder a su  posterior procesamiento" Hacemos referencia a:**
+
+Entregables
+
+**Ana está realizando STLC. Al determinar las primeras pruebas que realizará, detalló una lista de toods los criterios de entrada de esa prueba. Fue muy minuciosa pero se dio cuenta que omitió los plazos para esa fase. Ana debe:**
+
+Corregir rápidamente la documentación y determinar los plazos que tomará cada prueba.
 
 
 
+- **5 "Es el proceso de determinar las expectativas del usuario para un sistema en consideración. Estos deben ser cuantificables y detallados" Esta definición hace referencia a:**
 
+Análisis de requerimientos
+
+
+**Axel ha concluido exitosamente un STLC. Está preparando el sigueinte a la par que redacta un documento informando los errores encontrados en la última prueba. Está un poco apremiado por los tiempos, por lo que decide no clasificar los errores encontrados y sólo dejarlos informados.**
+
+Es recomendable que clasifique los errores antes de enviar el informe, ya que los mismos deben solucionarse previo a comenzar la siguiente fase o ciclo.
+
+
+- **6 ¿cuáles son las actividades prncipales que se realizan para el análisis de requisitos?**
+
+Preparar la matriz de trazabilidad.
+
+Hacer un análisis de automatización.
+
+Definir el alcance.
+
+
+**"Juliana, que conforma un equipo de contril de calidad, debe realizar un análisis de requisitos. Dentro de las actividades que realizará, piensa utilizar una Matriz de Trababilidad"**
+
+Recomendable, ya que esto le permitirá mapear y rastreae los requerimientos del usuario con casos de prueba.
+
+
+
+- **7 ¿Quñe necesitamos para un diseño correcto de la estrategia de prueba?**
+
+Un documento de estrategia de prueba desarrollado por el administrador de pruebas donde se definan: los objetivos del proyecto y cómo alcanzarlos(la cantidad de esfuerzo y costo requerido para la prueba.
+
+Que el documento esté desarrollado: alcance de la prueba, tipo de prueba, logística de prueba, riesgos y problemas.
+
+
+**"Juan tiene que analizar los requisitos de Software para una Web de ecpleos activa. Se le indica que analice los requisitos anteriores a la implementación del proyecto ya que no cuentan con una actualización de los mismos". Esta situación:**
+
+No es la ideal, pero Juan de todas formas podría analizar los requisitos anteriores y documentar los que vayan surgiendo de ese análisis.
+
+
+- **8 Identifica y selecciona los entregables requeridos por cada etapa**
+
+-> ANTES DE LA PRUEBA: doc. diseño de prueba / doc. plan de prueba /
+
+-> DURANTE LA PRUEBA: dos. simuladores o emuladores(en etapas iniciales) / doc. registros de errores y ejecuciones / doc. guiones de prueba / doc. datos de prueba /
+
+-> DESPUÉS DE LA PRUEBA:
+
+
+**Sofia que comenzó su recorrido en QA hace poco tiempo, debe determinar el programa de prueba y la estimación de un proyecto. Si tuvieras que darle un consejo sería**
+
+Que divida el proyecto en tareas más pequeñas y asignarle el tiempo y el esfuerzo necesarios para cada una. Luego, cree un cronograma para complear estas tareas en el tiempo designado con la cantidad específica de esfuerzo.
+
+
+- **9 Las historias de un sprint tienen relación con las del sprint sigueinte**
+
+Verdadero
+
+
+**Florencia debe crear un análisis específico, pero decide no avanzar hasta que se termine de definir las condicionesde prueba y se disponga de suficiente información para la creación de los casos de prueba. Lo uqe hizo Florencia es:**
+
+Correcto, ya que, sólo en casos excepcionales como la creación de datos de prueba, se puede alterar este orden. Lo demás, por regla, debe respetar el orden y proceso para obtener un buen resultado.
+
+
+
+- **10 *Las historias mantienen el foco en el usuario, lo que le agrega un gran contexto al proyecto y permite resolver problemas de usuario reales.*
+
+Verdadero
+
+
+**Determine si el fragmento corresponde a ROL/PERFIL - OBJETIVO - BENEFICIO**
+
+-> ROL / PERFIL: lector del nuevo blog "Locos por las papas fritas"
+
+-> OBJETIVO: recibir alertas cuando otros lectores respondan a mis comentarios
+
+-> BENEFICIO: mantenerme en contacto con ellos
+
+
+- **11 Podemos dividir los casos de prueba en formales e informales. Siendo los primeros, aquellos donde no tneemos certidumbre respecto a las entradas y salidas y los segundos aquellos donde existe esta certeza.**
+
+Falso
+
+
+**Mariana está armando su Historia de usuario. Está diividiendo las épicas en historias y el resultado es el sigueinte: ÉPICA: Mejorar la visualización de los medios de pago en el sitio de e-commerce- HISTORIA 1: Los suuarios de esritorio necesitan aumentar el tamaño de las imágenes que informan los medios de pago autorizadas. HISTORIA 2: Aumentar la resolución. HISTORIA 3: Hablar con ventas para agregar más opciones a los medios de pago. Esto es:**
+
+Incorrecto. La historia 1 es la única completa, que incluye el usuario y la tarea a realizar. La historia 2 no incluye los usuarios no está clara la tarea. La historia 3 es totalmente incorrecta ya que no contribuye a la épica.
+
+
+- **12 Las Matrices de Trazabilidad son una gran herramienta para elaborar casos de prueba**
+
+Verdadero
+
+
+
+- **13 Al ejecutar un caso de prueba, los desarrolladores pueden estar trabajando en paralelo. Es por ello que se recomienda siempre agregar una columna ·Fecha de ejecución" para repetir la prueba de ser necesario.**
+
+Verdadero
+
+**John está redactando casos de prueba. Se le ocurren varias ideas para encontrar todos los errores posivles, pero duda al ver la cantidad de casos que acumula¿Qué consejo le darías?**
+
+Que procure crear casos de prueba que sean más abarcativos y prueben varias funcionalidades de una sola vez.
+
+
+- **14 La reocpilación de datos de prueba es opcional, El tester puede llevar un control mental de la misma**
+
+Falso
+
+
+**Janna es tester. Esta convencida que puede realizar un buen caso de prueba para rastrear bugs. Luego, una vez resueltos, hará una prueba más exhaustiva. De esta forma se asegura terminar con todos los bugs existentes en esa funcionalidad.**
+
+De acuerdo a la Paradoja del pesticisa, al hacer distitnas pruebas y más exhaustivas encontramos más bugs pero sobrevivirán aquellos más fuetes, resistentes a los "pesticidas".
+
+
+
+- **15 ¿En qué se enfoca agile dentro del desarrollo del Software?**
+
+En que equipos sean multifuncionales, son el conjunto de habilidades necesarias.
+
+En que las soluciones evoluciones a través de las colaboraciones entre el equipo.
+
+En las personas que hacen el ptrabajo y cómo trabajan juntas.
+
+
+**Clasifique estos tipos de manteniemintos**:
+
+-> PERFECTIVO:
+
+![image](https://user-images.githubusercontent.com/72580574/220177192-f5e5d9dc-6aba-40d1-a5b7-8485fa981ec6.png)
+
+
+-> EVOLUTIVO:
+
+![image](https://user-images.githubusercontent.com/72580574/220177107-bfde6dab-eadf-43f4-8b49-14fb5e048629.png)
+
+-> ADAPTATIVO:
+
+![image](https://user-images.githubusercontent.com/72580574/220177215-d405ebc0-463d-4096-bf2c-e8ae3ec87d42.png)
+
+
+-> CORRECTIVO:
+
+![image](https://user-images.githubusercontent.com/72580574/220177158-eb4295e8-f11c-4f6a-b349-14a19d7a8f8e.png)
+
+
+
+---
