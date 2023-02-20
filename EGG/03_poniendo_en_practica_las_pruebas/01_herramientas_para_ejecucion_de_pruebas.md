@@ -6,7 +6,7 @@ MODULO 3 - ENCUENTRO 14 / 17
 
 ---
 
-Las herramientas de gestión de pruebas ayudan a tener todo organizado, almacenan los casos y resultados de las pruebas, gestionan el flujo de trabajo de los defectos y proporcionan informes útiles para analizar las tendencias y el progreso. Para los proyectos más pequeños, una hoja de cálculo puede ser suficiente. Los generadores de datos ahorran tiempo. Ya que generan datos a partir de información ya existente y tus normas. Son muy útiles para obtener información de varias fuentes. Después se debe verificar la precisión de los resultados (1).
+Las **herramientas de gestión de pruebas** ayudan a tener todo organizado, almacenan los casos y resultados de las pruebas, gestionan el flujo de trabajo de los defectos y proporcionan informes útiles para analizar las tendencias y el progreso. Para los proyectos más pequeños, una hoja de cálculo puede ser suficiente. Los generadores de datos ahorran tiempo. Ya que generan datos a partir de información ya existente y tus normas. Son muy útiles para obtener información de varias fuentes. Después se debe verificar la precisión de los resultados (1).
 
 (1) Fuente: [Videotutorial Las herramientas de las pruebas de software - Instituto de Gestión de Proyectos (PMI)® | LinkedIn Learning, antes Lynda.com](https://es.linkedin.com/learning/fundamentos-de-la-gestion-de-proyectos-calidad/las-herramientas-de-las-pruebas-de-software#:~:text=Las%20herramientas%20de%20gesti%C3%B3n%20de,de%20c%C3%A1lculo%20puede%20ser%20suficiente)
 
@@ -14,17 +14,19 @@ Las herramientas de gestión de pruebas ayudan a tener todo organizado, almacena
 
 ## :book: MATERIAL DE LECTURA :book:
 
-### ¿Qué es TestLink?
+### :star: ¿Qué es TestLink?
 
-TestLink es un software basado en la Web que funciona como herramienta de gestión de proyectos y pruebas tanto manuales como automatizadas.
+- TestLink es un software basado en la Web que funciona como herramienta de gestión de proyectos y pruebas tanto manuales como automatizadas.
 
-Admite la especificación de requerimientos, la gestión de diferentes tipos de pruebas y el seguimiento de errores generando informes en tiempo real en diversos formatos, como MS Word, Excel y HTML. Permite la integración de otros sistemas populares de seguimiento de errores como Jenkins, JIRA, Mantis, Bugzilla, TRAC.
+- Admite la especificación de requerimientos, la gestión de diferentes tipos de pruebas y el seguimiento de errores generando informes en tiempo real en diversos formatos, como MS Word, Excel y HTML. Permite la integración de otros sistemas populares de seguimiento de errores como Jenkins, JIRA, Mantis, Bugzilla, TRAC.
 
-Al ser un software basado en la Web, brinda la posibilidad de establecer roles para distintos usuarios dentro de una cuenta.
+- Al ser un software basado en la Web, brinda la posibilidad de establecer roles para distintos usuarios dentro de una cuenta.
 
-¿Quieres conocer otras herramientas de gestión? Mira el siguiente video: [:tv: -> Herramientas para pruebas de software](https://youtu.be/SYWJjhgYrEs) (Este video tiene una duración de 14 minutos, por lo que considera si quieres verlo ahora o luego del encuentro en viv)
+-> ¿Quieres conocer otras herramientas de gestión? Mira el siguiente video: [:tv: -> Herramientas para pruebas de software](https://youtu.be/SYWJjhgYrEs) 
 
-##### ¿Por qué usar herramientas de prueba?
+Este video tiene una duración de 14 minutos, por lo que considera si quieres verlo ahora o luego del encuentro en vivo.
+
+## :star: ¿Por qué usar herramientas de prueba?
 
 Las herramientas de prueba ofrecen muchos beneficios que respaldan las iniciativas de prueba. Algunas de ellas son las siguientes:
 
@@ -41,7 +43,7 @@ Las herramientas de prueba ofrecen muchos beneficios que respaldan las iniciativ
 ---
 
 
-## ¿Has pensado cuán distinto sería el trabajo de los Testers sin estas herramientas?
+## :star:  ¿Has pensado cuán distinto sería el trabajo de los Testers sin estas herramientas?
 
 Haz una pausa en la lectura y conversa con tu equipo del día:
 
@@ -55,7 +57,7 @@ Haz una pausa en la lectura y conversa con tu equipo del día:
 
 ---
 
-## Especificaciones de TestLink
+## :star: Especificaciones de TestLink
 
 La siguiente tabla enumera algunas de las especificaciones importantes de TestLink.
 
@@ -72,13 +74,13 @@ La siguiente tabla enumera algunas de las especificaciones importantes de TestLi
 
 ---
 
-## ¿Conoces la historia y origen de TestLink? 
+## :star:  ¿Conoces la historia y origen de TestLink? 
 
 Te invitamos a googlearla 🤓
 
 ---
 
-## Características de TestLink
+## :star:  Características de TestLink
 
 - Cada producto se prueba en planes de prueba de acuerdo con los procedimientos de prueba naturales.
 
@@ -106,7 +108,8 @@ Te invitamos a googlearla 🤓
 
 - Admite todas las actividades de nivel macro realizadas por control de calidad.
 
-### Ventajas de TestLink
+
+### :star: Ventajas de TestLink
 
 - Herramienta de gestión de pruebas de código abierto.
 
@@ -125,7 +128,7 @@ Te invitamos a googlearla 🤓
 - Generación de informes de resultados de pruebas
 
 
-### Desventajas de TestLink
+###  :star: Desventajas de TestLink
 
 - Expectativas poco realistas de la herramienta
 
@@ -135,16 +138,16 @@ Te invitamos a googlearla 🤓
 
 ---
 
-¿Te resulta más sencillo cuando miras un video para entender nuevos conceptos en lugar de una lectura?
+### ¿Te resulta más sencillo cuando miras un video para entender nuevos conceptos en lugar de una lectura?
 
 Te dejamos un video a continuación que tiene una duración de 7 minutos, para entender TestLink, sus características y usos.
 
-[Video]([)](https://youtu.be/vJM4DCFQYxc)
+[:tv: Video](https://youtu.be/vJM4DCFQYxc)
 
 
 ---
 
-## ✋ ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! ✋
 
 TestLink podría convertirse en una importante herramienta de trabajo para ti. Te invitamos a llenar este cuadro de doble entrada con las características más notables. [QA E14 - Particularidades TestLink]([)](https://docs.google.com/document/d/1GZlot3hBhOmK_v3sj09lbbHyLncGQaCnaTv2LuZzOMI/edit?usp=sharing)
 
@@ -153,65 +156,72 @@ TestLink podría convertirse en una importante herramienta de trabajo para ti. T
 
 Luego puedes comparar con las respuestas de tu equipo. ¿Han anotado las mismas características? ¿Han encontrado diferentes?
 
-¡Pro tip alert! Estudiar haciendo cuadros de doble entrada nos permite analizar un tema en función a los tópicos colocados en las filas. Nos da un rápido recordatorio del tema analizado. Y en este caso, nos permite saber rápidamente si esta herramienta se adapta a nuestras necesidades.
+-> **¡Pro tip alert!** Estudiar haciendo cuadros de doble entrada nos permite analizar un tema en función a los tópicos colocados en las filas. Nos da un rápido recordatorio del tema analizado. Y en este caso, nos permite saber rápidamente si esta herramienta se adapta a nuestras necesidades.
 
 ---
 
-## ✋ ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA!  ✋
 
 Ahora que ya comprendes la importancia y usos de esta herramienta, es momento de instalarla para conocerla en profundidad.
 Verás que además de instalar TestLink, realizamos la instalación de XAMPP. 
 
 Testlink es una aplicación web, por lo que requiere tener un servidor web y una base de datos para funcionar. Precisamente requiere PHP(Un lenguaje de programación de uso general que se adapta especialmente al desarrollo web) y MySQL(MySQL es un sistema de gestión de bases de datos). Para evitar complicaciones y tener que instalar todo de cero una buena solución es la que brinda xampp, que permite fácilmente levantar el server web y mysql sin tener que complicarse.
 
+
 ### Links de descarga:
 
-🚨 ¡ALERTA! Debes descargar la versión de XAMPP indicada en el tutorial. ¡No descargues la versión más reciente!🚨
+🚨 **¡ALERTA! Debes descargar la versión de XAMPP indicada en el tutorial. ¡No descargues la versión más reciente!** 🚨
 
 
-XAMPP: Browse /XAMPP Windows/5.6.36 at SourceForge.net
+- **XAMPP**: Browse /XAMPP Windows/5.6.36 at SourceForge.net
 
-TestLink: TestLink download | SourceForge.net
+- **TestLink**: TestLink download | SourceForge.net
 
 Puedes pedir ayuda a tu equipo si la instalación te presenta alguna dificultad.  Sigue el paso a paso de este tutorial para realizarlo:
 
 https://youtu.be/So4V1FH_g4A
 
-¿Tienes dificultades para seguir el video tutorial? Aquí hay un paso a paso mostrando con capturas de pantalla: [QA E14 - Instalación de TestLink.docx](https://docs.google.com/document/d/1PQ-9mlt4y09uIx59FFcn0MUpVbDqYLbU/edit)
+#### ¿Tienes dificultades para seguir el video tutorial? 
+
+Aquí hay un paso a paso mostrando con capturas de pantalla: 
+
+[QA E14 - Instalación de TestLink.docx](https://docs.google.com/document/d/1PQ-9mlt4y09uIx59FFcn0MUpVbDqYLbU/edit)
 
 
-CONFIGURACIÓN DE LA BASE DE DATOS
+### CONFIGURACIÓN DE LA BASE DE DATOS
 
+```
 - Database admin login: root
-
 - Database admin password:
-
 - Testlink DB login: testlink
-
 - Testlink DB password: testlink
-
 - Clickear en Process Testlink Setup
+```
 
 Tocar el link para entrar en testlink usando 
 
+```
 - User: admin
-
 - Password: admin
+```
 
 Guardar la contraseña en el navegador y listo.
 
 
--> XAMPP es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl. El nombre es en realidad un acrónimo: X, Apache, MariaDB/MySQL, PHP, Perl.
+-> **XAMPP** es un paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl. El nombre es en realidad un acrónimo: X, Apache, MariaDB/MySQL, PHP, Perl.
 
 ---
 
-## ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 En el siguiente documento podrás encontrar un paso a paso mostrando las distintas funcionalidades de TestLink (no te asustes con la cantidad de páginas del documento, eso significa que está bien detallado con imágenes y texto todas las funcionalidades): [QA E14 - Funcionalidades de TestLink.docx](https://docs.google.com/document/d/1Oa8Evtc2gHokgQk1BtRvQya_kd-3azFY/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
 
-## Ejercicio
+---
 
-### ¡MANOS A LA OBRA! 
+##  ✋Ejercicio
+
+
+###  ✋ ¡MANOS A LA OBRA! ✋
 
 Ahora que ya has instalado la herramienta, pruébala realizando el siguiente ejercicio:
 “Sos el nuevo encargado del área de calidad. Has decidido usar TestLink para probar un <Sistema de Facturación Electrónica>. Deberás realizar las siguientes tareas:
