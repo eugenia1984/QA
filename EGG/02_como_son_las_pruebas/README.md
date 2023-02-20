@@ -13,6 +13,9 @@
 
 - [2.5 - Casos de prueba II](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/05_casos_de_prueba_2.md) -> :book: Paso a paso en el Plan de Prueba / :tv: Material de apoyo en videos / :book: Consideraciones respecto de las pruebas / :book: Obtención de casos de prueba a partir de requisitos ( Cobertura de pruebas / Trazabilidad / Construcción de Casos de Prueba / Ejecución de los Casos de Prueba) / :book: Los 3 problemas más comunes en casos de prueba / :book: Excepciones / :book: ¿Qué es una prueba estándar en pruebas web? /  :book: Mejoramiento y mantenimiento de los casos de prueba / :book: Tipos de Mantenimiento / :book: Revisiones periódicas / :book: Problemas comunes a la hora de hacer casos de prueba / :book: Escenarios de análisis / 📋   Ejercicios
 
+- [2.6 - Formularios](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/06_formularios_html.md)
+-> :book: ¿Qué es un formulario web? - ¿Por qué vamos a analizar los formularios HTML?  - ¿Por qué es importante la prueba de formularios? - Pero… ¿Qué elementos componen a un formulario? (inputs, tipos de inputs, textarea, validaciones) - Configuraciones extras / :book: Otros elementos de formularios (select, radio button, check box, button) / :book: URL / :tv: Video Validación de inputs en formularios HTML /  ✋ Manos a la obra
+
 - [**PROYECTO INTEGRADOR 2**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
 
 ---
