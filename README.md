@@ -62,7 +62,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas)
 
-- [3.1 - Herramientas para ejecución de pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/01_herramientas_para_ejecucion_de_pruebas.md)
+- [3.1 - Herramientas para ejecución de pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/01_herramientas_para_ejecucion_de_pruebas.md) -> :book: ¿Qué es **TestLink**? - ¿Por qué usar herramientas de prueba? - ¿Has pensado cuán distinto sería el trabajo de los Testers sin estas herramientas? - Especificaciones de TestLink - ¿Conoces la historia y origen de TestLink? - Características de TestLink - Ventajas de TestLink - Desventajas de TestLink  / ✋ Manos a la obra / 
 
 - [3.2 - Ejecución de pruebas](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/02_ejecucion_de_pruebas.md)
 
