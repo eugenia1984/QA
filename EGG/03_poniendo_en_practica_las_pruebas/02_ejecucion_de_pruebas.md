@@ -14,7 +14,7 @@ En los encuentros anteriores pudimos analizar en el **plan de pruebas** las prim
 
 ## :book: MATERIAL DE LECTURA :book:
 
-### Implementación
+### :book: Implementación :book:
 
 Es la etapa donde los diseños de prueba realizados en las etapas previas del STLC como casos, procedimientos y datos de prueba, se configuran para estar listos para la etapa siguiente -Ejecución-. Es un proceso que respeta un orden lógico y prioritario establecido por el Gerente de pruebas, quien también prepara los entornos para la ejecución de las pruebas. 
 
@@ -48,7 +48,8 @@ En esta etapa, el Gerente de Pruebas debe asegurar:
 
 ---
 
-## Desventajas de la implementación temprana de pruebas
+## :star: Desventajas de la implementación temprana de pruebas
+
 La implementación temprana de las pruebas también puede tener algunas desventajas.
 
 - Por ejemplo, si se ha adoptado el ciclo de vida ágil para el desarrollo de productos, el código en sí puede sufrir cambios drásticos entre iteraciones consecutivas. Esto hará que toda la implementación de la prueba sea inútil.
@@ -69,7 +70,7 @@ Por lo tanto, antes de iniciar el proceso de implementación de pruebas, el gere
 
 ·  Posibilidad de cambios en el código entre dos iteraciones
 
-## Ventajas de la implementación temprana de pruebas
+## :star: Ventajas de la implementación temprana de pruebas
 
 La implementación temprana de la prueba también ofrece algunas ventajas.
 
@@ -77,7 +78,9 @@ La implementación temprana de la prueba también ofrece algunas ventajas.
 
 - A los expertos en dominios les resulta más fácil verificar las pruebas concretas que las reglas comerciales no concretas, lo que les permite detectar fallas en las especificaciones del software.
 
-### Entorno de pruebas
+---
+
+## :book: Entorno de pruebas :book:
 
 El primer paso es configurar el entorno de pruebas
 
@@ -88,7 +91,7 @@ En otras palabras, un entorno de prueba le permite crear entornos idénticos cad
 
 Pensemos en un experimento sencillo. ¿Alguna vez has germinado una semilla en un frasco de algodón? Digamos que nuestro estudio -o testeo- consiste en ver la diferencia de crecimiento entre el frasco A y el frasco B que serán regados, el primero con agua de la canilla y el segundo con agua destilada. Para analizar los verdaderos resultados de nuestro experimento, debemos evitar que haya otras diferencias entre ambos frascos. No sería lo mismo que el frasco A reciba más sol que el B. El ENTORNO DE PRUEBA de este experimento es tener dos frascos iguales, con semillas de la misma plata, que reciban los mismos cuidados EXCEPTO aquel que se está probando.
 
-## Configuración del entorno de pruebas
+## :star: Configuración del entorno de pruebas
 
 Esta es una fase crucial del ciclo de vida de las pruebas de software y requiere la ayuda de otros miembros de la organización. Los tester deben tener acceso a las capacidades de informe de errores, así como a la arquitectura de la aplicación para respaldar el producto. Sin estos elementos, es posible que los tester no puedan hacer su trabajo.
 
@@ -98,13 +101,13 @@ La configuración de un entorno de prueba adecuado garantiza el éxito de las pr
 **¿NECESITAS UN EJEMPLO?** 
 La mayoría de los usuarios de un producto pueden estar en un dispositivo Android, usar una determinada versión de un navegador Chrome y tener una cierta cantidad de potencia de procesamiento en esos dispositivos; estos son parámetros que incluiría el entorno de prueba.
 
-## Importancia del entorno de prueba
+## :star: Importancia del entorno de prueba
 
 Un entorno de prueba proporciona información precisa sobre la calidad y el comportamiento de la aplicación que se está probando. En otras palabras, un entorno de prueba le proporciona la configuración necesaria para ejecutar sus casos de prueba.
 
 Un entorno de prueba lo ayuda aún más al proporcionar un entorno dedicado para que pueda aislar el código y verificar el comportamiento de la aplicación. Esto garantiza que no se esté ejecutando en el servidor ninguna otra actividad que pueda influir en el resultado de las pruebas.
 
-## Desafíos en la configuración de la gestión del entorno de prueba
+## :star: Desafíos en la configuración de la gestión del entorno de prueba
 
 - **Planificación adecuada del uso de recursos**. La planificación ineficaz del uso de recursos puede afectar el resultado real. Además, puede dar lugar a conflictos entre equipos.
 
@@ -131,7 +134,7 @@ Un entorno de prueba lo ayuda aún más al proporcionar un entorno dedicado para
 
 ---
 
-### Ejecución
+## :book:  Ejecución
 
 Si es hora de ejecutar tus pruebas, comprueba este checklist de procedimientos que deben cumplirse previamente:
 
@@ -157,8 +160,8 @@ Durante la ejecución, una función de los administradores de pruebas es:
 
 Durante la ejecución, es importante mantener una capacidad de seguimiento entre las condiciones, la base y el objetivo de las pruebas y tener el nivel adecuado de registro de la prueba que incluya detalles relevantes..
 
-Se debe reservar tiempo suficiente para las sesiones de ejecución de pruebas. Esta estimación de 
-tiempo estará basada en la experiencia y en los defectos impulsados por los hallazgos del tester.
+Se debe reservar tiempo suficiente para las sesiones de ejecución de pruebas. Esta estimación de  tiempo estará basada en la experiencia y en los defectos impulsados por los hallazgos del tester.
+
 Los testers seguirán los planes de prueba desarrollados en la primera fase y utilizarán los scripts de prueba escritos en la segunda fase. Las pruebas deben ejecutarse siguiendo estrictamente el plan, con todas las discrepancias, defectos, fallas, problemas y errores registrados tan pronto como se identifiquen. Los defectos y discrepancias deben asignarse a los casos de prueba y luego volver a probarse para garantizar la validez de los resultados de la prueba. 
 
 Las discrepancias se miden como la diferencia entre los resultados de la prueba reales y esperados.
@@ -167,7 +170,7 @@ Idealmente, las pruebas deben realizarse según los casos de prueba definidos. S
 
 Obviamente, si se detecta alguna falla durante tales pruebas no planificadas, se deben documentar las variaciones de los casos de prueba predefinidos, para que puedan reproducirse en el futuro.
 
-### Desafíos para la ejecución en STLC
+### :star: Desafíos para la ejecución en STLC
 
 Muchos de los desafíos relacionados con la fase de ejecución del ciclo de vida de las pruebas de software se relacionan con la documentación, la consistencia y la tecnología.
 
@@ -179,15 +182,16 @@ Según una encuesta reciente, quienes diseñan pruebas de TI en los Estados Unid
 
 - Registra las pruebas realizadas para respaldar cada requisito.
 
-- Verifica que se hayan cumplido los requisitos en el producto, utilizando una Matriz de 
-- - Trazabilidad de Requisitos (RTM).
+- Verifica que se hayan cumplido los requisitos en el producto, utilizando una Matriz de  Trazabilidad de Requisitos (RTM).
 
 - Utiliza el RTM para analizar el trabajo realizado en un proyecto. Con este análisis, el equipo de control de calidad puede estimar mejor los ciclos de trabajo posteriores, se pueden eliminar las reelaboraciones innecesarias y redundantes para reducir los costos y los proyectos tendrán menos defectos y problemas.
 
 Al final de la fase de ejecución, se debe completar todo el plan de prueba, con todos los defectos identificados y documentados. Este documento, un informe de defectos, es una herramienta importante para administrar el proyecto y garantizar una versión de alta calidad.
 
 
-## Informe de defectos
+---
+
+##  :book: Informe de defectos :book: 
 
 El informe de defectos es un proceso de detección de defectos en la aplicación que se está probando o en el producto mediante la prueba o el registro de los comentarios de los clientes y la creación de nuevas versiones del producto que solucionen los defectos en función de los comentarios del cliente. Es el documento por excelencia que culmina la etapa de ejecución.
 
@@ -202,30 +206,36 @@ El informe de defectos es un proceso de detección de defectos en la aplicación
 
 ---
 
-## Mapeo de defectos
+## :book: Mapeo de defectos
 
 Una vez que se informa y se registra el defecto, debe mapearse con los casos de prueba fallidos/bloqueados y los requisitos correspondientes en la Matriz de trazabilidad de requisitos.
 
 Este mapeo lo realiza el Defect Reporter. Ayuda a hacer un informe de defectos adecuado y analizar el producto. Una vez que los casos de prueba y los requisitos se mapean con el defecto, las partes interesadas pueden analizar y tomar una decisión sobre si reparar o diferir el defecto en función de la prioridad y la gravedad.
 
-## Volver a probar
+---
+
+## :star: Volver a probar
 
 Volver a probar es ejecutar una prueba fallida anteriormente contra AUT para verificar si el problema se resolvió. Una vez que se ha solucionado un defecto, se realiza una nueva prueba para verificar el escenario en las mismas condiciones ambientales.
 
 Durante la nueva prueba, los tester buscan detalles granulares en el área modificada de la funcionalidad, mientras que la prueba de regresión cubre todas las funciones principales para garantizar que no se rompa ninguna funcionalidad debido a este cambio.
 
-## Pruebas de regresión
+---
+
+##  :book: Pruebas de regresión
 
 Una vez que todos los defectos están en estado cerrado, aplazado o rechazado y ninguno de los casos de prueba está en estado de progreso/fallido/no ejecutado, se puede decir que la prueba de integración del sistema se basa completamente en los casos de prueba y los requisitos. Sin embargo, se requiere una ronda de pruebas rápidas para garantizar que ninguna de las funciones se interrumpa debido a cambios en el código/arreglos de defectos.
 
-## Tipos de pruebas de regresión
+## :star: Tipos de pruebas de regresión
 Pruebas de regresión finales: se realiza una "prueba de regresión final" para validar la compilación que no ha sufrido cambios durante un período de tiempo. Esta compilación se implementa o envía a los clientes.
 
 Pruebas de regresión: se realiza una prueba de regresión normal para verificar si la compilación NO ha roto ninguna otra parte de la aplicación debido a los cambios recientes en el código para corregir defectos o mejorar.
 
 La ejecución de la prueba también ocurre en al menos 2 ciclos (3 en algunos proyectos). Por lo general, en cada ciclo, se ejecutarán todos los casos de prueba (el conjunto de pruebas completo). El objetivo del primer ciclo es identificar cualquier bloqueo, defectos críticos y la mayoría de los defectos altos. El objetivo del segundo ciclo es identificar defectos altos y medios remanentes, corregir lagunas en los guiones y obtener resultados.
 
- ## Informe de estado de ejecución de prueba
+---
+
+ ## :book: Informe de estado de ejecución de prueba
 
 Informe de ejecución de prueba diario/semanal:
 
@@ -234,7 +244,7 @@ Por lo general, se trata de una comunicación enviada para establecer la transpa
 
 ¿A quién debería ir? – Normalmente, el equipo de desarrollo, el equipo de soporte del entorno, el analista comercial y el equipo del proyecto son los destinatarios/participantes de la reunión. El Plan de prueba es el mejor lugar para encontrar esta información.
 
-#### ¿Qué contiene un informe de estado de ejecución de prueba?
+#### :star: ¿Qué contiene un informe de estado de ejecución de prueba?
 
 1. Número de casos de prueba planificados para ese día
 
@@ -311,7 +321,7 @@ Qué encuentro intenso, ¿no? Suele decirse que el dibujo relaja mucho. Garabate
 
 ---
 
-## Actividades de cierre
+## ✋  Actividades de cierre ✋ 
 
 Las actividades de cierre de prueba son aquellas actividades que se realizan al final del proceso de prueba. Por lo general, se realizan después de que se entrega el producto, como por ejemplo generar un informe de prueba. De acuerdo con el proceso de prueba, es esencial garantizar que los procesos para entregar información de origen esencial para evaluar los criterios de salida y los informes estén disponibles y sean efectivos.
 
@@ -324,19 +334,19 @@ La tasa de informes y su profundidad dependen del proyecto y de la organización
 
 Juntas, estas tareas forman las actividades de cierre de prueba, que se dividen en estos cuatro grupos clave:
 
-## Comprobación de la finalización de las pruebas
+## :star: Comprobación de la finalización de las pruebas
 
 Aquí, el administrador de pruebas se asegura de que todos los trabajos de prueba se hayan completado realmente. Por ejemplo, cada prueba planificada debe haberse ejecutado o evitado deliberadamente.
 
 Todos los errores conocidos deben corregirse, aplazarse o reconocerse como limitaciones permanentes. En caso de corrección de errores, las correcciones también deben probarse.
 
-## Entrega de objetos de prueba
+## :star: Entrega de objetos de prueba
 
 Los productos de trabajo relevantes deben pasarse a las personas relevantes. Por ejemplo, los errores conocidos deben comunicarse al equipo de mantenimiento del sistema.
 
 Las pruebas y su información de configuración deben transmitirse al equipo de pruebas de mantenimiento. Los conjuntos de pruebas de regresión manuales y automáticas deben registrarse y transmitirse al equipo de mantenimiento del sistema.
 
-## Experiencia de aprendizaje
+## :star: Experiencia de aprendizaje
 
 Un componente importante de las actividades de cierre de pruebas son las reuniones que analizan y documentan las lecciones aprendidas de las pruebas, así como el ciclo de vida completo del desarrollo de software.
 
@@ -364,7 +374,7 @@ B - Estas tendencias podrían ser como perder un nivel de prueba que tenía el p
 
 ---
 
-## Archivar
+## :book: Archivar
 
 Los documentos de prueba como los informes y registros de prueba y los productos de trabajo deben archivarse en el sistema de gestión de configuración. Es decir, tanto los planes de prueba como los de proyecto, con una relación clara con la versión y el sistema utilizado para la prueba, deben estar disponibles en el archivo de planificación.
 
@@ -445,13 +455,14 @@ Importancia de las métricas de prueba de software:
 
 Por ejemplo, un analista de pruebas tiene que:
 
-1.       Diseñar los casos de prueba para 3 requisitos.
 
-2.      Ejecutar estos 3 casos de prueba diseñados.
+1. Diseñar los casos de prueba para 3 requisitos.
 
-3.      Registrar los errores, buggs o fallos encontrados en los casos de prueba relacionados
+2. Ejecutar estos 3 casos de prueba diseñados.
 
-4.      Una vez resuelto volver a ejecutar el caso de prueba fallido correspondiente.
+3. Registrar los errores, buggs o fallos encontrados en los casos de prueba relacionados
+
+4. Una vez resuelto volver a ejecutar el caso de prueba fallido correspondiente.
 
 En el escenario anterior, si no se siguen las métricas, el trabajo realizado por el analista de pruebas será subjetivo, es decir, el informe de pruebas no tendrá la información adecuada para conocer el estado de su trabajo/proyecto.
 
@@ -463,13 +474,13 @@ Si las métricas están involucradas en el proyecto, entonces se puede publicar 
 
 El Control de Pruebas implica orientar y tomar medidas correctivas de la actividad, con base en los resultados del Monitoreo de Pruebas. Los ejemplos de control de prueba incluyen:
 
-1.       Priorización de los esfuerzos de prueba
+1. Priorización de los esfuerzos de prueba
 
-2.      Revisión de los horarios y las fechas de las pruebas
+2. Revisión de los horarios y las fechas de las pruebas
 
-3.      Reorganización del entorno de prueba
+3. Reorganización del entorno de prueba
 
-4.      Repriorización de los casos/condiciones de prueba
+4. Repriorización de los casos/condiciones de prueba
 
 La supervisión y el control de las pruebas van de la mano. Al ser principalmente una actividad de gerente, un Analista de Pruebas contribuye a esta actividad recopilando y calculando las métricas que eventualmente se utilizarán para el seguimiento y el control.
 
@@ -484,11 +495,13 @@ La supervisión y el control de las pruebas van de la mano. Al ser principalment
 
 
 ---
-
+---
 
 ## :star: Ejercicios
 
 ¡Vamos a poner en práctica todo lo que hemos visto en esta guía con los siguientes ejercicios!
+
+---
 
 ### Ejercicio #1
 
@@ -510,6 +523,7 @@ Desarrolla al menos 5 preguntas por cada uno de los ítems. Puedes utilizar la s
 
 ![image](https://user-images.githubusercontent.com/72580574/218191821-eb858be7-be04-417b-8b82-e4f8a691ea67.png)
 
+---
 
 ## Ejercicio #2
 
@@ -534,6 +548,8 @@ Desafío de aprendizaje: Trata de contestar las siguientes preguntas sin tener e
 9. ¿Para qué sirven las actividades de Monitoreo de pruebas y el control de pruebas?
 
 10. ¿Es importante probar las métricas?
+
+---
 
 ### Ejercicio #3
 
@@ -569,42 +585,42 @@ Desafío de aprendizaje: Trata de contestar las siguientes preguntas sin tener e
 
 ## :stars: Check de conocimiento - Ejecución de pruebas
 
-1.  Un entorno de prueba es una configuración de software y hardware para que los equipos de prueba ejecuten casos de prueba. En otras palabras, no admite la ejecución de pruebas con hardware, software y red configurados.
+- **1 -  Un entorno de prueba es una configuración de software y hardware para que los equipos de prueba ejecuten casos de prueba. En otras palabras, no admite la ejecución de pruebas con hardware, software y red configurados.**
 
 -> Falso
 
-2.  "Actividades que se realizan al final del proceso de prueba. Por lo general, se realizan después de que se entrega el producto, como generar un informe de prueba.."
+- **2 -  "Actividades que se realizan al final del proceso de prueba. Por lo general, se realizan después de que se entrega el producto, como generar un informe de prueba.."**
 
 -> Actividades de cierre.
 
-4.  Identifica y selecciona las opciones correspondientes a la etapa de Diseño y análisis:
+- **4 -  Identifica y selecciona las opciones correspondientes a la etapa de Diseño y análisis:**
 
 
 ![image](https://user-images.githubusercontent.com/72580574/218194409-53e418b4-0d43-406e-a695-80e8fdaae8fd.png)
 
 ![image](https://user-images.githubusercontent.com/72580574/218194432-153f2979-14f4-45e6-8393-b323aaa058bd.png)
 
-4.  Un banco de pruebas es un entorno de prueba que se ha preparado con datos de prueba. Los datos de prueba lo ayudan a verificar los casos de prueba que requieren una determinada configuración de datos
+- **4 -  Un banco de pruebas es un entorno de prueba que se ha preparado con datos de prueba. Los datos de prueba lo ayudan a verificar los casos de prueba que requieren una determinada configuración de datos**
 
 -> Verdadero
 
-5.  Para una buena configuración del entorno de prueba los tester deben:
+- **5 -  Para una buena configuración del entorno de prueba los tester deben:**
 
 ![image](https://user-images.githubusercontent.com/72580574/218194044-9778bafb-bee6-4442-a2d4-c2d794eda8b5.png)
 
 
-6. Identifica y selecciona las opciones correspondientes a la etapa de Actividades de cierre:
+- **6  Identifica y selecciona las opciones correspondientes a la etapa de Actividades de cierre:**
 
 ![image](https://user-images.githubusercontent.com/72580574/218194732-7179097f-4c5e-4483-a9b9-7bc4597376d6.png)
 
 ![image](https://user-images.githubusercontent.com/72580574/218194764-184a2fe4-040c-4891-a8e4-601680c80560.png)
 
 
-7. "Es un proceso de detección de defectos en la aplicación que se está probando o en el producto mediante la prueba o el registro de los comentarios de los clientes y la creación de nuevas versiones del producto que solucionen los defectos en función de los comentarios del cliente. " Estamos haciendo referencia a:
+- **7  "Es un proceso de detección de defectos en la aplicación que se está probando o en el producto mediante la prueba o el registro de los comentarios de los clientes y la creación de nuevas versiones del producto que solucionen los defectos en función de los comentarios del cliente. " Estamos haciendo referencia a:**
 
 -> Informe de defectos.
 
-9.  Identifica y selecciona las opciones correspondientes a la etapa de Ejecución:
+- **9  Identifica y selecciona las opciones correspondientes a la etapa de Ejecución:**
 
 
 ![image](https://user-images.githubusercontent.com/72580574/218194240-9e82e77a-9e2f-4fcb-a44b-9fefb1b507ca.png)
@@ -612,7 +628,7 @@ Desafío de aprendizaje: Trata de contestar las siguientes preguntas sin tener e
  Identifica y selecciona las opciones correspondientes a la etapa de Ejecución:
 
 
-9.  ¿Qué es el control y monitoreo de las pruebas?
+- **9  ¿Qué es el control y monitoreo de las pruebas?**
 
 - Es un proceso de evaluación y retroalimentación sobre la fase de prueba "actualmente en progreso".
 
@@ -623,16 +639,16 @@ Desafío de aprendizaje: Trata de contestar las siguientes preguntas sin tener e
 - Es una actividad de gestión.
 
 
-10. Identifica y selecciona las opciones correspondientes a la etapa de Análisis y requerimientos:
+- **10 Identifica y selecciona las opciones correspondientes a la etapa de Análisis y requerimientos:**
 
 ![image](https://user-images.githubusercontent.com/72580574/218194828-4c0377a3-8aa6-43f2-bebe-90df44346d3c.png)
 
 
-11 . "Es el proceso de prueba de software de ejecutar una prueba en el componente o sistema bajo prueba, produciendo un resultado real." Hacemos referencia a:
+- **11  "Es el proceso de prueba de software de ejecutar una prueba en el componente o sistema bajo prueba, produciendo un resultado real." Hacemos referencia a:**
 
 ->  Etapa de Ejecución.
 
-12. Identifica y selecciona las opciones correspondientes a la etapa de Planificación:
+- **12 Identifica y selecciona las opciones correspondientes a la etapa de Planificación:**
 
 ![image](https://user-images.githubusercontent.com/72580574/218193727-cde91a5d-3905-436e-a622-9ab7d46e1d37.png)
 
