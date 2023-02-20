@@ -16,7 +16,7 @@ Hoy aprenderemos a:
 
 ## :book: MATERIAL DE LECTURA :book:
 
-## ¿Qué es un formulario web?
+##  :book: ¿Qué es un formulario web?
 
 
 Ya todos sabemos lo que es un formulario web, son esa serie de campos de texto, fechas, números, cajitas para tiquear y con un botón al final que tenemos que rellenar para registrarnos en un página, para reservar un fin de semana en cancun o para aprobar un examen. 
@@ -26,7 +26,7 @@ Ya todos sabemos lo que es un formulario web, son esa serie de campos de texto, 
 
 
 
-## ¿Por qué vamos a analizar los formularios HTML?
+## :book:  ¿Por qué vamos a analizar los formularios HTML?
 
 El testing de formularios es un proceso que se realiza para probar la calidad de un formulario en un página web, verificando elementos como campos de texto, longitud y diseño en general. Uno de los propósitos de testear formularios es para mejorar las tasas de conversión, lo que sería el porcentaje de gente que pasa de ser visitantes de la página a consumidores/clientes de dicha página.
 
@@ -37,7 +37,7 @@ Que los clientes puedan enviar la información que quieren de manera correcta a 
 Por ejemplo, una tienda de ropa en línea podría usar un formulario de encuesta para que sus clientes califiquen diferentes aspectos del sitio web que les gustan y no les gustan. La tienda puede realizar pruebas al formulario para evaluar si el diseño está en línea con la estética general del sitio web. También, pueden asegurarse de que la fuente sea legible, que sea de fácil acceso, que cada opción sea funcional y no tenga errores técnicos o de usabilidad. Ya que, en caso que enviemos un formulario que no esté probado podemos perder toda esa información que para la empresa puede ser de mucha utilidad.
 
 
-## ¿Por qué es importante la prueba de formularios?
+## :book:  ¿Por qué es importante la prueba de formularios?
 
 Ya vimos que es la prueba de formulario y algunas de las razones por las cuales deberíamos siempre hacer pruebas de formulario, ahora vamos a enumerar todas las ventajas que nos va a dar la prueba de formularios.
 
@@ -57,7 +57,7 @@ Puede ayudar a impulsar el tráfico a su sitio web, mejorando tanto las variante
 
 **Conclusión**: ya entendemos que es un formulario, que son las pruebas de formulario y por qué son importantes, pero, ahora hay una pregunta que nos aparece, **¿qué elementos componen un formulario y que cosas deberíamos validar de dichos elementos ?**
 
-## Pero… ¿Qué elementos componen a un formulario?
+## :book: Pero… ¿Qué elementos componen a un formulario?
 
 Los formularios están compuestos principalmente por campos de texto o en html (lenguaje de programación con el que se crean los formularios) conocidos como **inputs**, estos campos son los que deberemos completar con nuestra información.
 
@@ -65,7 +65,7 @@ Hay muchas convenciones que damos por sentado en los formularios, por ejemplo si
 
 Pero esto hay que validarlo y para eso tenemos que entender cómo funcionan estos campos y qué tipos de campos existen. En esta guía veremos los distintos tipos de campos que existen y cuáles son algunas de las validaciones importantes que tenemos que hacer.
 
-## Inputs
+## :star: INPUTS :star:
 
 HTML, que es el lenguaje de programación usado para crear formularios, nos propone una gran diversidad de alternativas a la hora de crear nuestros formularios, es decir, una gran variedad de elementos para diferentes propósitos. Estas van desde la clásica caja de texto, hasta la lista de opciones en un menú desplegable, pasando por las cajas de validación, etc. Por ahora nos concentramos en los inputs y más adelante veremos las cajas o menús desplegables
 
@@ -211,7 +211,7 @@ Pausa 💆 Te has ganado unos 5 minutos para ir a buscar una taza de agua, té, 
 
 ---
 
-## Configuraciones extras
+## :book: Configuraciones extras :book: 
 
 Vamos a explicar algunas configuraciones que le podemos poner a nuestros campos de texto para que funcionen de manera distinta, esta información es por si llegan a encontrarse con campos con alguna de estas características, entiendan cuál es la configuración que se les ha asignado.
 
@@ -266,7 +266,7 @@ La validación para esto es que el título se corresponda con el tipo de campo a
 
 ---
 
-## Otros elementos de formularios
+## :book: Otros elementos de formularios :book: 
 
 Seguramente hayan notado que los inputs son una manera muy práctica de hacernos llegar la información del navegante. No obstante, en muchos casos, permitir al usuario que escriba cualquier texto permite demasiada libertad y puede que la información que éste escriba no sea la que nosotros estamos necesitando.
 
@@ -275,7 +275,7 @@ Por ejemplo, pensemos que queremos que el usuario indique su país de residencia
 Este tipo de opciones predefinidas por nosotros pueden ser expresadas por medio de diferentes campos de formulario. Veamos a continuación cuales son:
 
 
-## Listas de opciones
+## :star: Listas de opciones (SELECT)
 
 Las listas de opciones son ese tipo de menús desplegables que nos permiten elegir una (o varias) de las múltiples opciones que nos proponen. Esto en una página se vería así:
 
@@ -308,7 +308,7 @@ Enero
 Por ejemplo, si estamos dando una lista de opciones con los meses del año para que ingrese en qué mes nació, no puede poner dos opciones pero, si le estamos preguntando en qué meses es invierno, debería poder elegir más de una opción.
 
 
-## Botones de opción (Radio Button)
+## :star: Botones de opción (RADIO BUTTON)
 
 Existe otra alternativa para plantear una elección, en este caso, obligamos al usuario a elegir únicamente una de las opciones que se le proponen. Para esto usamos los botones de opción. 
 
@@ -336,7 +336,7 @@ Al encontrarnos con botones de opción, nosotros como testers tenemos la tarea d
 ![image](https://user-images.githubusercontent.com/72580574/217095272-4f67075c-bbf2-414f-aa3e-c603268ab869.png)
 
 
-## Botones
+## :star: Botones (BUTTON)
 
 Como podremos imaginarnos, en formularios no solamente habrá elementos o campos donde solicitar información del usuario, sino también habrá que implementar otra serie de funciones. Concretamente, han de permitirnos su envío mediante un botón. También puede resultar práctico poder proponer un botón de borrado o bien un botón de volver. 
 
@@ -364,7 +364,7 @@ Al encontrarnos con el botón de envío, nosotros como testers tenemos la tarea 
 - **Texto del botón**: Validar que el nombre del botón sea el correcto o que sea algo coherente, supongamos que queremos que el usuario se registre el boton deberia decir, registrate o submit. 
 
 
-### Botón de borrado (botón de reset)
+## :star: Botón de borrado (RESET BUTTON)
 
 Este botón nos permitirá borrar el formulario por completo, en el caso de que el usuario desee rehacerlo desde el principio. 
 
@@ -391,34 +391,35 @@ Al encontrarnos con el botón de borrado, nosotros como testers tenemos la tarea
 
 - **Texto del botón**: Validar que el nombre del botón sea el correcto o que sea algo coherente, supongamos que queremos que el usuario pueda borrar el formulario el botón debería decir, borrar o resetear. 
 
+---
 
-## URL 
+## :book: URL  :book:
 
 Hay una cosa extra que podemos validar cuando hacemos click en el botón de envío y es cerciorarnos de que los datos sensibles no se envíen a través de la url. 
 
-### ¿ Qué significa esto?
+### :star: ¿ Qué significa esto?
 
 Cuando nosotros enviamos nuestro formulario, toda la información que estaba en los campos se envía al servidor de la página que se encarga de enviarlo a la base de datos y de esa manera estar registrados. Si el formulario no está bien programado, la información va a viajar a la base de datos pero, el usuario va a ver toda la información en la url de la página. 
 
-### ¿Qué peligro conlleva eso? 
+### :star:  ¿Qué peligro conlleva eso? 
 
 Además de que hace que el usuario probablemente no esté muy contento con esto, el riesgo real es que los usuarios pueden ver exactamente qué parámetros se envían a su servidor y no solo pueden guardar esa URL con un marcador (para volver a enviar) sino que también pueden modificar la URL para enviar otros parámetros, potencialmente sin sentido, a nuestra base de datos / servidor.
 
-### ¿Por qué sucede esto? 
+### :star: ¿Por qué sucede esto? 
 
 Esto sucede porque a la hora de enviar nuestro formulario se envía a través de una petición HTTP, las peticiones HTTP son básicamente la manera en la que la página se comunica con el servidor. 
 
 Vamos a poner un ejemplo muy sencillo, el usuario teclea en su url www.ejemplo.com, el navegador en ese momento envía una petición HTTP al servidor para que traiga la página web. El servidor envía la petición con la página para que el navegador la cargue y por último la muestre. 
 Estas peticiones también se usan para enviar la información, cuando nosotros le damos al botón de submit en nuestro formulario, enviamos una petición HTTP con toda nuestra información para que el servidor la guarde.
 
-#### Get y Post
+#### :star: Get y Post
 
 Como podemos ver hay dos tipos de peticiones, una que es de traer (get) información del servidor y otra que es enviar (post) información al servidor. Estos dos métodos, llamados get y post, nos ayudan a definir cada acción que se realiza en nuestro servidor, los programadores definen según necesidad si hacen que “x” acción sea get o post. 
 
 El problema con nuestro formulario aparece cuando en vez de poner el formulario con un método post, lo ponemos con un método get y ahí vamos a ver toda nuestra información en la url.
 
 
-### ¿Cómo se vería esto? 
+### :star: ¿Cómo se vería esto? 
 
 ![image](https://user-images.githubusercontent.com/72580574/217096301-a3a1dbd8-6a77-4684-90c1-b3e64d5da2bd.png)
 
@@ -434,7 +435,7 @@ Como podemos ver en la url se puede ver que ingresó el usuario en cada campo, a
 
 ---
 
-## Video Validación de inputs en formularios HTML
+## :tv: Video Validación de inputs en formularios HTML :tv:
 
 En el siguiente video encontrarás lo que hemos estado viendo pero puesto en práctica. Nos interesa que usen el video con el fin de tener un ejemplo para que puedan entender la estructura de los formularios HTML, para poder hacer pruebas sobre ellos y encontrar posibles errores.
 
@@ -442,7 +443,7 @@ En el siguiente video encontrarás lo que hemos estado viendo pero puesto en pr�
 
 ---
 
-##  MANOS A LA OBRA!!
+##  ✋ MANOS A LA OBRA!! ✋
 
 ### Ejercicio formulario HTML
 
@@ -477,6 +478,8 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 
 ¿Qué problemas pudiste encontrar en este campo? 
 
+
+
 2. Campo apellido, cosas a validar: 	
 
 -El campo tiene que admitir un máximo de 20 caracteres.
@@ -489,6 +492,8 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 
 ¿Qué problemas pudiste encontrar en este campo? 
 
+
+
 3. Campo edad, cosas a validar:
 
 -El campo solo tiene que admitir edad mayores a 18 años .
@@ -498,6 +503,8 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 -El formulario no debería admitir que se envíe el campo vacío.
 
 ¿Qué problemas pudiste encontrar en este campo? 
+
+
 
 4. Campo email, cosas a validar: 	
 
@@ -510,6 +517,8 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 -El formulario no debería admitir que se envíe el campo vacío.
 
 ¿Qué problemas pudiste encontrar en este campo? 
+
+
 
 5. Lista de opción método de pago, cosas a validar: 	
 
@@ -533,6 +542,8 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 
 ¿Qué problemas pudiste encontrar en este campo? 
 
+
+
 7. Campo documento de identidad, cosas a validar	
 
 -El campo solo tiene que admitir un documento de un máximo 8 dígitos y un mínimo de 7
@@ -547,17 +558,23 @@ Se nos ha encomendado hacer un caso de pruebas sobre un formulario de registro p
 
 ¿Qué problemas pudiste encontrar en este campo? 
 
+
+
 8. Campo desea suscribirse…, cosas a validar
 
 -El campo tiene que tener la opción de aceptar o negarse a suscribirse.
 
 ¿Qué problemas pudiste encontrar en este campo? 
 
+
+
 9. Botón de envío y de restaurar, cosas a validar: 
 
 -Validar que ambos botones funcionan correctamente
 
 ¿Funcionan correctamente? Si la respuesta es no, ¿por qué ?
+
+
 
 10. Teniendo en cuenta el tipo de página y los campos que tenemos en el formulario, ¿sentís que hay algún campo importante que falte? Si es así, ¿cuál o cuáles? 
 
