@@ -162,13 +162,13 @@ Entregables
 
 ---
 
-## :Star: 7 - Check de conocimiento integrador
+## :star: 7 - Check de conocimiento integrador
 
 Responde a todas las preguntas que se encuentran en el siguiente formulario: https://forms.gle/jrqa3wTDRJmEgScU9
 
 ---
 
-## ¡Hora de cerrar! 
+## :star: ¡Hora de cerrar! 
 
 ¡Lo has logrado! Has llegado al final del segundo ejercicio integrador.
 
