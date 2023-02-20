@@ -12,7 +12,7 @@
 
 4. [**CICLO DE VIDA DEL TESTING**](https://github.com/eugenia1984/QA/blob/main/INSTITUTO_WEB_QA/04_ciclo_de_vida_del_testing.md): Mapa del Testing, Práctica de Contenido n° 5 y Clase 2 en Vivo. Curso de Testing. Transmisión en vivo de Instituto Web.
 
-5. [**HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): concepto de Historia de Usuario, como registrar una Historia de Usuario, relación con los usuarios
+5. [**HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): Concepto de Historia de Usuario (¿Que es? ¿Como se registra? ¿Para que sirve?) , Como registrar una Historia de Usuario, Relación con los usuarios
 
 6. [**PLANES DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
 
