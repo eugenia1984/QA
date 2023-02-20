@@ -22,7 +22,9 @@
 
 9. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): Informes de Resultados de un Test Case / ¿ Es un defecto? ¿ Es una falla? ¿ Es un Error? / - Entrevista a un QA /  Clase 4 en vivo. Bases de Datos y revisión en Testing Manual
 
-10. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): ejemplos prácticos, detalle
+10. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): Clasificación de Pruebas de Testing de software /  Documento Standard de Pruebas Funcionales
+
+**Prácticas - Proyecto a Realizar**:  Buscar errores en Ecommerce / Clase 5 en vivo. Bases de Datos y performance y stress con automatización / Clase 6 en vivo. Testing en Bases de Datos NoSql y SQL API's AWS y Ubuntu Server. Performance y stress
 
 11. [**SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
