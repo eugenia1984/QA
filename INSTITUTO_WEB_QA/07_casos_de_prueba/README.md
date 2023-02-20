@@ -9,6 +9,10 @@
 
 - Tips para crear buenos casos de pruebas
 
+- El Método de Clases de equivalencia (CE) en test de Caja Negra
+
+- Descripción en un caso de prueba
+
 ---
 
 ## :star: 1 - Como registrar un caso de prueba
@@ -45,5 +49,42 @@ En TDD el tester escribe los tests mientras que en BDD el usuario final, junto a
 
 ![image](https://user-images.githubusercontent.com/72580574/220201503-d49ce532-a300-4583-95d3-556c90b609fb.png)
 
+
+---
+
+## :star: 4 - El Método de Clases de equivalencia (CE) en test de Caja Negra
+
+
+- Consiste en dividir los valores de entrada en clases de datos para derivar casos de prueba.
+
+- Se asume que el resultado de una prueba con un valor representativo de cada CE equivale a
+realizar la misma prueba con cualquier otro valor de la CE.
+
+- Pasos para diseñar casos de prueba:
+
+1. Identificar clases de equivalencia.
+
+2. Identificar los casos de prueba. Minimizando no casos de prueba, considerar tantas
+condiciones como sea posible. 
+
+Pasos:
+
+- Asignar a cada CE un representante único.
+
+- Definir casos de prueba que cubran tantas CE válidas como sea posible. Repetir
+hasta que todas las CE estén cubiertas.
+
+- Definir un caso de prueba para cubrir una única CE no válida. Repetir hasta que
+todas estén cubiertas.
+
+![image](https://user-images.githubusercontent.com/72580574/220201644-45917d4e-d9f5-4d77-9d2b-14d4e32ccf29.png)
+
+
+---
+
+## :star: 5 - Descripción en un caso de prueba
+
+
+La descripción en el paso de prueba como parte fundamental del resultado de un buen testing
 
 ---
