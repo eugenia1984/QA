@@ -18,7 +18,7 @@
 
 7. [**REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos): Requisitos Funcionales y No Funcionales, Validación y Verificación y Test de los requerimientos
 
-8. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba): información que contiene, forma de escritura
+8. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba):  ¿Como registrar un caso de prueba? / Técnicas TDD y BDD / Tips para crear buenos casos de pruebas /  El Método de Clases de equivalencia (CE) en test de Caja Negra /  Descripción en un caso de prueba /  Pruebas Exploratorias /  Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
 
 9. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): ejemplos prácticos, informes
 
