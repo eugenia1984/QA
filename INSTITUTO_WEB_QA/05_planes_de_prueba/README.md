@@ -4,9 +4,19 @@
 
 ## :book: TEMAS
 
-- Ejemplos
+- Ejemplos de planes de prueba
 
 - Información que contiene
+
+---
+
+## :star: Planes de prueba / Requisitos / Requerimiento
+
+Planeación, armado de documentación en forma de trabajo **waterfall**, se planea que se testea, cuanto se demorará, etc. Es la etapa previa al testing. En cambio en forma de trabajo **ágil** se van adecuando a la modificaciones, es más dinámico.
+
+-> Para que no falten las acciones, para que no falle.
+
+-> Lo hacen los PO, Analistas de Sistema o la gente de Calidad, no lo hacen los tester, y a veces en metodologías ágiles no se usan.
 
 ---
 
