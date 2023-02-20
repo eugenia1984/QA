@@ -93,6 +93,51 @@ Las **pruebas exploratorias** son para cuando no hay tiempo y poca plata. Se pru
 
 -> Trello y Jira se utiliza 
 
-Estoy viendo en el 1.06.23 (que falta ver)
+-> La idea es siempre tener un **plan de prueba** y vemos el **mapa de testing** con el recorrido.
+
+-> Un desarrollador no puede testear lo que el mismo hizo. Esta sesgado que el lo desarrollo. La prueba que hara el desarrollador le va a dar buen resultado. No va a encontrar bugs.
+
+-> Día a día la tecnología se fue complejizando: el tester debe tener conocimientos de ...
+
+... testing
+
+.. casos de prueba
+
+... base de datos
+
+... pasar las pruebas a un Jira
+
+... testear APIs: Postman.
+
+-> Un tester que es solo manual, debe tener estos conocimientos, sino es dificil conseguir trabajo.
+
+-> El **requerimiento** lo hace el cliente, leugo otra persona ve si **es viable**.
+
+-> El **desarrollador** hace **pruebas unitarias**, muy concretas, acotadas, chicas, pero no ve el panorama general, eso lo hace el **tester**.
+
+-> Al utilizar metodologías ágiles, las tareas son chicas, concretas, entonces ni bien el desarrollador lo hizo y lo probo en forma unitaria, se la pasa al tester y lo prueba el mismo día.
+
+-> No se puede probar todo. El tester garantiza que hizo X cantidad de pruebas y esas pasaron bien. Pero siempre puede haber algún error no testeado.
+
+
+-> Metodología ñagil: se busca la mejor calidad, aunque se tarde un poco más. Por eso uno puede avisar si no va a cumplir con el tiempo.
+
+-> Pruebas mobile, la diferencia con desktop, es que pueden pasar más cosas: se puede cortar internet, puede tener 3G, se queda sin bateria, si se apaga la pantalla como vuelve, etc.
+
+-> El tester no necesita saber programar, el tester INFORMA el error, garantiza que hizo las pruebas y dan ok. El tester no debe decir como arreglar el error.
+
+## Repositorios en GitHub para tester
+
+Tiene que ver con Automation:
+
+- Cypress 
+
+- Selenium
+
+### Trabajo remoto para tester
+
+UTest
+
+TestBirz
 
 ---
