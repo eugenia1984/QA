@@ -13,6 +13,20 @@
 
 ## :star: 1 - Requisitos Funcionales y No Funcionales
 
+- Se toman los **requerimientos escenciales** pra que el sistema funcione y a cada uno se le va a asignar un **caso de prueba**.
+
+- Un requerimiento puede tener varios casos de prueba.
+
+- Un ejemplo de requerimiento funcional:
+
+![image](https://user-images.githubusercontent.com/72580574/220200432-d730bd05-56cb-40db-9743-d04b37b94d56.png)
+
+- Un ejemplo de requerimienot no funcional:
+
+![image](https://user-images.githubusercontent.com/72580574/220200747-6d51dd3b-fa97-4c3e-9357-dd5160ba1d9f.png)
+
+
+
 
 ---
 
