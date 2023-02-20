@@ -126,6 +126,23 @@ Las **pruebas exploratorias** son para cuando no hay tiempo y poca plata. Se pru
 
 -> El tester no necesita saber programar, el tester INFORMA el error, garantiza que hizo las pruebas y dan ok. El tester no debe decir como arreglar el error.
 
+-> No se testean, con pruebas automatizadas, páginas o aplicaciones de terceros.
+
+-> [**Selenium IDe- Chrome extension**](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?hl=es-419Tutorial)
+
+![image](https://user-images.githubusercontent.com/72580574/220191605-7742284a-1b20-4b17-a7b2-714888b5dbce.png)
+
+-> Grabar un nuevo test en un nuevo proyecto -> le pogo el nombre del proyecto
+
+-> BASE URL (la direccion a automatizar)
+
+-> START RECORDING -> Se va a grabar todo lo que hago, para que luego se repita
+
+-> Tengo un script con cada click realizado.
+
+-> Debo guardar el proyecto para poder ejecutarlo. Y me hace los mismos pasos que hice, es para volver a ejecutarlo. No hay posibilidad de hacer otra cosa, con un solo click repito lo que hice.
+
+
 ## Repositorios en GitHub para tester
 
 Tiene que ver con Automation:
@@ -142,7 +159,7 @@ TestBirz
 
 ## Página web
 
-[https://testproject.io/](https://testproject.io/)
+[https://testproject.io/](https://testproject.io/) para hacer automatización de forma sencilla.
 
 
 ---
