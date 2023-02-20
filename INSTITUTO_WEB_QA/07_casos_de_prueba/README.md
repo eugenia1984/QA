@@ -13,6 +13,10 @@
 
 - Descripción en un caso de prueba
 
+- Pruebas Exploratorias
+
+- Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
+
 ---
 
 ## :star: 1 - Como registrar un caso de prueba
@@ -87,4 +91,58 @@ todas estén cubiertas.
 
 La descripción en el paso de prueba como parte fundamental del resultado de un buen testing
 
+### Casos de Prueba:
+
+**Descripción**:
+
+Hace referencia a una descripción concisa explicando el propósito u objetivo del Caso de Prueba. También se utiliza para su identificación.
+
+### Ejemplo:
+
+**Descripción incorrecta**:
+
+Ingresar el número de cuenta de un cliente existente como cuenta origen, un monto menor al saldo disponible y luego realizar una transferencia a una cuenta de un beneficiario de la misma moneda que la cuenta origen.
+
+**Descripción correcta**:
+
+**Sector**: Home Banking
+
+**Acción**: Transferencia de fondos
+
+**Primer Valor**: Cuenta origen = caja de ahorro en pesos numérico de 9 dígitos con 1 guión
+
+**Segundo Valor**: Saldo > Monto a transferir (ambos, numéricos de 12 dígitos 10 enteros, con coma para separador y 2 decimales.)
+
+**Tercer Valor**: Moneda de cuenta beneficiario = moneda cuenta origen. (ambos valores con formato numérico de 9 dígitos con 1 guión)
+
 ---
+
+## :star: 6 - Pruebas Exploratorias
+
+#### ¿Que son las pruebas exploratorias?
+
+Es la ejecución de pruebas que se implementa sin pasos de autor formales de prueba. Es
+simplemente sentarse y utilizar el sistema intentando “explorar” las funcionalidades y su
+funcionamiento.
+
+#### ¿Para que sirven?
+
+Sirven para revisar la calidad de un producto desde la perspectiva del usuario.
+
+Con la ayuda de comentarios visuales y herramientas de prueba colaborativas, todos los integrantes del equipo pueden participar en las pruebas exploratorias. Esto permite a los equipos implementar modificaciones y adaptarse a los cambios rápidamente, creando un flujo
+de trabajo ágil.
+
+#### ¿Cuándo deberías usar pruebas exploratorias?
+
+Las pruebas exploratorias son adecuadas para casos de prueba específicos, como cuando alguien necesita recopilar información rápidamente acerca de un producto o una aplicación y proporcionar feedback rápido.
+
+#### ¿Cuándo no se deben usar pruebas exploratorias?
+
+Las pruebas exploratorias no ofrecen una cobertura amplia, y los equipos no deben intentar realizarlas hasta tanto no se den por finalizadas las tareas más importantes del proyecto.
+
+Las pruebas con un paso a paso predefinido son las recomendadas para pruebas basadas en un cumplimiento puntual, como por ejemplo, requerimientos legales del software o pautas de calidad establecidas por la organización. 
+
+
+---
+
+## :star: 7 - Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
