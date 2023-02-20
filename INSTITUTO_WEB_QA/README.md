@@ -20,7 +20,7 @@
 
 8. [**CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba):  ¿Como registrar un caso de prueba? / Técnicas TDD y BDD / Tips para crear buenos casos de pruebas /  El Método de Clases de equivalencia (CE) en test de Caja Negra /  Descripción en un caso de prueba /  Pruebas Exploratorias /  Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
 
-9. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): ejemplos prácticos, informes
+9. [**RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): Informes de Resultados de un Test Case / ¿ Es un defecto? ¿ Es una falla? ¿ Es un Error? / - Entrevista a un QA /  Clase 4 en vivo. Bases de Datos y revisión en Testing Manual
 
 10. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): ejemplos prácticos, detalle
 
