@@ -12,7 +12,7 @@
 
 ---
 
-## :star: 1 - Concepto de Historia de Usuario
+## :stars: 1 - Concepto de Historia de Usuario :stars:
 
 - ¿Que es?
 
@@ -62,13 +62,17 @@ OTROS DETALLES:
 
 ---
 
-## :star: 2 - Como registrar una Historia de Usuario.
+## :stars: 2 - Como registrar una Historia de Usuario. :stars:
 
 Datos, tips y registración de una User Story (US) o Historia de Usuario
 
+![image](https://user-images.githubusercontent.com/72580574/220195334-c7657447-702a-46f1-bfbb-78929f0c638f.png)
+
+
+
 ---
 
-## :star: 3 - Relación con los usuarios
+## :stars: 3 - Relación con los usuarios :stars:
 
 Hay momentos en que explicar una historia de usuario y la forma de trabajo en desarrollo y testing a los usuarios de la organización es fundamental para un buen trabajo en equipo.
 
