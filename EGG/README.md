@@ -45,7 +45,8 @@
 
 - [2.6 - Formularios HTML](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/06_formularios_html.md) -> :book: ¿Qué es un formulario web? - ¿Por qué vamos a analizar los formularios HTML?  - ¿Por qué es importante la prueba de formularios? - Pero… ¿Qué elementos componen a un formulario? (inputs, tipos de inputs, textarea, validaciones) - Configuraciones extras / :book: Otros elementos de formularios (select, radio button, check box, button) / :book: URL / :tv: Video Validación de inputs en formularios HTML /  ✋ Manos a la obra
 
-- Proyecto integrador II
+- [**Proyecto integrador II**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
+
 
 3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/03_poniendo_en_practica_las_pruebas)
 
