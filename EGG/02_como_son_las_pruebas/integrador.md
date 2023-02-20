@@ -182,7 +182,7 @@ Tómense 5 minutos como equipo para conversar sobre el encuentro de hoy. Les dej
 
 ---
 
-## INTEGRADOR - MODULO 2
+## :stars: INTEGRADOR - MODULO 2 :stars:
 
 
 - **1 ¿Cuál es un factor importante de los principios de las pruebas?**
@@ -251,7 +251,7 @@ Recomendable, ya que esto le permitirá mapear y rastreae los requerimientos del
 
 
 
-- **7 ¿Quñe necesitamos para un diseño correcto de la estrategia de prueba?**
+- **7 ¿Qué necesitamos para un diseño correcto de la estrategia de prueba?**
 
 Un documento de estrategia de prueba desarrollado por el administrador de pruebas donde se definan: los objetivos del proyecto y cómo alcanzarlos(la cantidad de esfuerzo y costo requerido para la prueba.
 
