@@ -171,7 +171,7 @@ Instalación de JAVA + JMeter para hacer pruebas de performance - fuerza - stres
 - **Pruebas de fuerza y estress**: utilizadas para BASE DE DATOS y en PÁGINAS WEBS.
 
 
-:computer: Links útiles
+## :computer: Links útiles
 
 1.[Anotaciones, servidores, usuarios y claves de lo visto en la clase](https://docs.google.com/document/d/1Gvef4I9CTXyrwdDvRnyDI3zN8VLqv440xS3at3VNRCM/edit?usp=share_link)
 
@@ -181,8 +181,9 @@ Instalación de JAVA + JMeter para hacer pruebas de performance - fuerza - stres
 
 2- [km44server.com.ar](km44server.com.ar)
 
+---
 
-### Instalaciones:
+## Instalaciones:
 
 #### JAVA
 
@@ -190,12 +191,58 @@ Instalación de JAVA + JMeter para hacer pruebas de performance - fuerza - stres
 
 Descargar de: [https://www.java.com/es/download/](https://www.java.com/es/download/)
 
-#### JMeter
+#### JMETER
+
+Es una aplicación, utiliza Java, por eso debe estar instalado.
+
+Es desarrollado por **Apache**
 
 Descargar de: [https://jmeter.apache.org/download_jmeter.cgi](https://jmeter.apache.org/download_jmeter.cgi)
 
+![image](https://user-images.githubusercontent.com/72580574/220435938-f7d6ccd0-5cc8-4797-8f99-657753fcb701.png)
 
-#### Base de Datos
+
+-> Se debe tener **Java 8** ó superior.
+
+-> Descargar el **.zip** si se trabaja en Windows.
+
+-> No tiene un instalador, simplemente de descomprime el .zip descargado de la web.
+
+-> Entro a la carpeta **bin**(binarios, los ejecutables) -> ApacheJMeter.jar
+
+Y vamos a ver:
+
+![image](https://user-images.githubusercontent.com/72580574/220437440-b16ae525-ffdf-47c0-953b-93a77d710d99.png)
+
+-> Es para testear: **páginas web**, **bases de datos** y **APIs**.
+
+-> Click derecho sobre la palabra PLAN DE PRUEBA -> AÑADIR -> ELEMENTO DE CONFIGURACION -> VALORES POR DEFECTO PARA PETICION HTTP (para JMeter es indistinto HTTP o HTTPS) ----> Le decimos con qué pagina vamos a trabajar
+
+![image](https://user-images.githubusercontent.com/72580574/220439274-9fd584b7-4a2b-4886-93eb-414a124208e4.png)
+
+-> Voy a testear la página de apache
+
+- **Protocolo**: HTTPS
+
+- **Servidor**: apache.org
+
+-> PLAN DE PRUEBA -> AÑADIR -> HILOS(USUARIOS) -> GRUPO DE HILOS ----> para indicar cuántos usuarios, por el momento lo dejamos todo con 1, para simular un solo usuario, luego se incrementa.
+
+
+
+![image](https://user-images.githubusercontent.com/72580574/220439921-e9f3f5c2-6237-4f64-8423-8ce2a29b7eb1.png)
+
+GRUPO DE HILOS -> AÑADIR -> MUESTREADOR -> PETICION HTTP -----> Elijo dentro de Apache qué página quiero testear https:://apache.org/foundation 
+
+Donde tengo **GET** - **Ruta**: /foundation/
+
+-> Me falta **incorporar un informe** para ver cuál es el resultado de la prueba.
+
+
+
+---
+
+#### BASE DE DATOS
 
 [https://auth-db645.hstgr.io/ ](https://auth-db645.hstgr.io/ )  
 
@@ -208,7 +255,7 @@ Usuario: u770586196_testing
 Clave: Testing2022
 ```
 
-### Servidor:
+### SERVIDOR:
 
 MySql: http://190.114.255.191/phpmyadmin
 
@@ -216,6 +263,7 @@ Usuario: testing
 
 Clave: institutoweb
 
+---
 
 2. [Archivo de la Prueba de Performance de una página web en JMeter](https://drive.google.com/file/d/1E1fdTBY44z9T1K1oWVQJIhmQYygc2K9z/view?usp=share_link)
 
@@ -506,5 +554,9 @@ Clave: institutoweb
   </hashTree>
 </jmeterTestPlan>
 ```
+
+---
+
+Me faltan los ultimos 30 mins
 
 ---
