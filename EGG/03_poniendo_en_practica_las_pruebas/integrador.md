@@ -148,65 +148,206 @@ PLACEHOLDER -> es un texto colocado dentro de un campo de un formulario que info
 
 ---
 
+- **10 Una vez que ingresaste, en la pantalla de Biblioteca se encuentran algunos apartados:**
+
+**Libros, Autores, Editoriales, etc**
+
+**Al oprimir el boton de "Autores" aparece un mensaje erróneo acerca de "Listar Editoriales".
+
+**Seleccione el caso de prueba correcto**
+
+![image](https://user-images.githubusercontent.com/72580574/220441942-7d09787a-7b2b-473a-ac1c-0a6e13d0ca2d.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218602203-94e53734-66b4-4a58-9448-dd929264775b.png)
+---
 
-![image](https://user-images.githubusercontent.com/72580574/218602238-cce72761-41be-48c9-8088-e3a56e3a2ecc.png)
+- **11 Al hacer click en el botón de libros, se abre una lista desplegable. ¿Cuçal es el error encontrado?**
 
-![image](https://user-images.githubusercontent.com/72580574/218602300-23d98f67-edb1-435d-b36c-006fd3515201.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602362-ce2dcfb6-ca60-4d0c-bfbd-4d3dd9f3f990.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602417-9001ffc3-4e42-426b-8fcf-a843cc8657c0.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602460-d37ea9d7-46b3-4e67-b809-d74161b55de6.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602491-a72c79a0-cfa0-4d29-a29d-6ebbbdfcfcd5.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602518-5cf27dc1-6408-41a9-8b9b-c72b58fa41c3.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602559-f3a8826c-4990-4529-a53f-55ec56022e96.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602616-fd187998-a90b-4802-bf4c-23922a952bec.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602673-38888741-d230-4408-b9dc-d9fbb49a198f.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602747-47786774-4378-40e5-a07f-50f60c30d4c0.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602836-e8cd78fc-6b5a-4dee-a46f-cf05878b477a.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218602969-fd2b2222-6103-4702-966b-103d490fc8ba.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218603112-b8969fc7-1260-496f-8a2e-f224461582db.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218603163-817b23c5-fb4e-4b02-aa04-d37204291d64.png)
+![image](https://user-images.githubusercontent.com/72580574/220442071-2a8c29c1-69c4-466c-92c5-456ad57c88ed.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218603262-df36c194-e030-41b2-a2ea-99906b15cedb.png)
+---
+
+- **12 ¿Es correcto el sigueinte reporte de error?**
+
+![image](https://user-images.githubusercontent.com/72580574/220442162-c8edaf6b-0fa8-453e-a42f-afbfec0d3e33.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218603334-39c5342b-1cac-407a-ad9d-62c1fd37306c.png)
+Es correcto, pero se debería agregar información faltante y algunos campos adicionales donde se detalle información que no se puede obviar.(Por ejemplo, Componentes, Severidad, etc)
+
+---
+
+- **13 Un defecto encontrado, es que si se cierra sesión, se borran todos los libros cargados manuelmente. ¿Qué es lo más óptimo para mosrar como evidencia de ese error?**
+
+Realizar un video corto tipo GIF, mostrando de manera sencilla los pasos que realizamos al ocurrir el error.
+
+---
+
+- **14 ¿Es correcto el sigueinte caso de prueba relizado, en base al sigueinte defecto encontrado en la página?**
+
+![image](https://user-images.githubusercontent.com/72580574/220442808-560ebbc2-2942-49c6-a748-3bc1e83c2750.png)
+
+Es correcto, el caso de prueba está bien redactado y contiene la información necesaria.
+
+---
+
+- **15 Al desempeñarse como Tester, selecciona de las sigueintes cuáles serían tus responsabilidades. Debes seleccionar todas las respuestas correctas para obtener el puntaje de la pregunta.**
+
+- Ser capaz de interpretar los resultados de las pruebas que realicen.
+
+-Ser parte de las reuniones donde se definen el diseño y los requisitos del sistema.
+
+-Redactar documentos con formato informe con sus hallazgos.
+
+---
+
+- **16 Seleccione si la sigueinte descripción es un DATO o es INFORMACION**
+
+DATO ->
+
+-Se encontraron 5 errores en la prueba.
+
+-El curso de QA tienen 500 inscriptos.
+
+-50 alumnos de Egg no tienen cámara web.
+
+INFORMACION -> 
+
+-Las habilidades blandas altamente desarrolladas caracterizan a los egresados de Egg.
+
+-El 35% de los alumnos del curso habla inglés.
+
+-Los erroes encontrados en las últimas pruebas realizadas coreesponden a un error de interpretación de un requisito por parte dle equipo de desarrollo.
+
+---
+
+- **17 Podemos decir que para que un sistema de información funcione, recibirá datos SOLO Y UNICAMENTE al momento inicial para luego realizar las transacciones y generar la información o los sistemas de información pueden recibir datos de forma ininterrumpida, lo que irá generando cambios en las transacciones y por ende en la información final.**
+
+Los sistemas de información reciben datos de forma permanente, lo que nos permite tener información actualizada.
+
+---
+
+- **18 Ordene las sigueintes actividades de forma ral que respeten el Ciclo de Desarrollo del Software (SDLC). Selecciona las actividades que están en las filas y asígnale el número que corresponde según el orden que sea correcto.**
+
+1. Nos reunimos con la empresa Vetnas SA. Ellos nos comprarán un software hecho a medida para las vents de su empresa.
+
+2. Una vez que se retiran los representantes de Ventas SA , todo el equipo se queda reunido. Los veds aportan su visión de cuales deseos de los clientes son posibles y cuales no pueden satisfacer.
+
+3. Los diseñadores eligen cuales serán los diseños a utilizarse y el equipo se eune nuevamente a dividir el proyecto en iteraciones.
+
+4. El equipo de dev se divide las tareas de la primera iteración y comienza a codear.
+
+5. El grupo de Tester diseña las pruebas para las entregas que realizan los devs.
+
+6. Se pone en funcionamiento el software.
+
+7. Los Devs se encargan del mantenimiento.
+
+---
+
+- **19 Selecciona las afirmaciones verdaderas**
+
+El Testing es la manera de chequear que los deseos de los usuarios se vean plasmados en el software desarrollado.
+
+El Testing nos permite garantizar que el usuario tenga una experiencia placentera y de calidad al utilizar el software.
+
+---
+
+- **20 Clasifique los sigueintes ejemplos segun el tipo de CASO DE PRUEBA:**
+
+CASOS DE RENDIMIENTO:
+
+![image](https://user-images.githubusercontent.com/72580574/220446074-cbda3133-1162-4cb0-8c20-7afb0d8a8cae.png)
+
+1. CASOS DE FUNCIONALIDAD
+
+![image](https://user-images.githubusercontent.com/72580574/220446553-c96e5b3c-67c6-4592-8b9b-7de4db44e0fe.png)
+
+![image](https://user-images.githubusercontent.com/72580574/220446587-3fd71c66-b4ba-4e5c-be58-1d053676fced.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218603401-9a4177a4-7912-4c5d-be62-931e3616a4b5.png)
+2. CASOS DE PRUEBA UI
+
+![image](https://user-images.githubusercontent.com/72580574/220446491-0545a8f7-4b3c-418f-a16e-ed6596b9e917.png)
+
+![image](https://user-images.githubusercontent.com/72580574/220446639-d9002010-136f-4bf4-b794-388e3d9f6cf3.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218603477-b69eff04-2d2f-41a4-b81b-5ca93e1691cd.png)
+3. CASOS DE PRUEBA DE RENDIMIENTO
 
-![image](https://user-images.githubusercontent.com/72580574/218603566-4f2a8a70-b91c-44b8-b6a9-8e7e54226637.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218603632-7b3d7bd6-5fd7-4928-aac6-ae1024e16b23.png)
+![image](https://user-images.githubusercontent.com/72580574/220446529-771e2e30-a0fb-403f-871a-3e4253db45ae.png)
 
 
-![image](https://user-images.githubusercontent.com/72580574/218603725-f98ab2f1-b91a-4054-aa51-e3f970558008.png)
+4.CASOS DE PRUEBA DE INTEGRACION
 
-![image](https://user-images.githubusercontent.com/72580574/218603807-df216238-df9f-44d4-8deb-dacef1e8bb1c.png)
-
-
-![image](https://user-images.githubusercontent.com/72580574/218603894-79443e86-df9f-436a-ba73-e8d534223561.png)
-
-![image](https://user-images.githubusercontent.com/72580574/218603963-67b1c8d6-1bbb-4e4d-bce2-9f206b2fd6dd.png)
+![image](https://user-images.githubusercontent.com/72580574/220446298-36027129-679d-4fbf-b037-4c6d20a51ade.png)
 
 
+5. CASOS DE PRUEBA DE USABILIDAD
 
+![image](https://user-images.githubusercontent.com/72580574/220446618-cada9cb4-0967-4a95-b0a9-64b956538bbd.png)
+
+
+6.CASOS DE PRUEBA DE BASE DE DATOS
+
+![image](https://user-images.githubusercontent.com/72580574/220446189-8e2f91a4-d0ca-46d9-a97c-52141189e70b.png)
+
+
+---
+
+- **21 Seleccione las afirmaciones verdaderas respecto a la ejecución:**
+
+Para comenzar la ejecución se precisa constar con el objetivo de prueba y las condiciones de entrada.
+
+Previo a comenzar la ejecución, las herramientas que utilizaremos deben estar chequeadas y listas.
+
+Durante la ejecución se registrarán todas las discrepancias y se identificarán los defectos.
+
+Una función de los testers es Supervisar el progreso de acuerdo con el plan
+
+---
+
+- **22**
+
+1. DEFINIR EL DEFECTO
+
+![image](https://user-images.githubusercontent.com/72580574/220446872-531e13a1-e13f-4203-8838-384a971c14b0.png)
+
+2. INVESTIGAR LA CAUSA RAIZ
+
+![image](https://user-images.githubusercontent.com/72580574/220446831-bdb70c5e-eeb0-4466-aff3-baf12a4fc153.png)
+
+3. AGREGAR DOCUMENTACION DE RESPALDO
+
+![image](https://user-images.githubusercontent.com/72580574/220446931-3c417e71-4e1a-4ffa-8fb3-6898b1c874d6.png)
+
+4. FORMATEE SU INFORME PARA UNA ALTA LEGIBILIDAD
+
+![image](https://user-images.githubusercontent.com/72580574/220446904-a6df8796-4df2-4e74-83b2-6d57f99b25bf.png)
+
+---
+
+- **23**
+
+1. PRUEBAS UNITARIAS
+
+![image](https://user-images.githubusercontent.com/72580574/220447077-519f9942-8d0d-4ba3-8c88-e5bd35560f5e.png)
+
+![image](https://user-images.githubusercontent.com/72580574/220447137-76e85c97-989f-46e4-908a-9c9995858cce.png)
+
+
+2. PRUEBAS DE INTEGRACION
+
+![image](https://user-images.githubusercontent.com/72580574/220447054-3c1295b3-7526-407b-9e75-d6fa12a1a6c5.png)
+
+![image](https://user-images.githubusercontent.com/72580574/220447107-77ce7e1a-f6ff-4542-9d77-626509fa9694.png)
+
+3. PRUEBAS DE SISTEMA
+
+![image](https://user-images.githubusercontent.com/72580574/220447186-f0f4f7b1-80ae-4c61-b1f2-35d819e03da3.png)
+
+4. PRUEBAS DE ACEPTACION
+
+![image](https://user-images.githubusercontent.com/72580574/220447219-feabfedc-178c-47e6-acb0-1c0b574950f2.png)
+
+---
