@@ -6,7 +6,7 @@
 
 # :book: Temario
 
-## :book: INTRODUCCIÓN A QA
+## :star: INTRODUCCIÓN A QA :star:
 
 -> Encuentros: 17
 
@@ -59,8 +59,11 @@
 
 - [**Proyecto final integrador**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/integrador.md)
 
+![image](https://user-images.githubusercontent.com/72580574/220447929-54b0a87c-da3d-420a-91dd-f4e664899066.png)
 
-## :book: TESTING MANUAL
+---
+
+## :star: TESTING MANUAL :star:
 
 -> Encuentros: 20
 
@@ -68,7 +71,9 @@
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
-## :book: TESTING AUTOMATION I
+---
+
+## :star: TESTING AUTOMATION I :star: 
 
 -> Encuentros: 30
 
@@ -76,7 +81,9 @@
 
 -> Aprendizaje: **Automatización de pruebas web**
 
-## :book: TESTING AUTOMATION II
+---
+
+## :star:  TESTING AUTOMATION II :star: 
 
 -> Encuentros: 20
 
@@ -84,7 +91,9 @@
 
 -> Aprendizaje: **Automatización de pruebas de APIs**
 
-## :book: PERFORMANCE
+---
+
+## :star:  PERFORMANCE :star: 
 
 -> Encuentros: 15
 
