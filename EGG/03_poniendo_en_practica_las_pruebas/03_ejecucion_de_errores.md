@@ -11,7 +11,7 @@ MODULO 3 - ENCUENTRO 16 / 17
 
 Una vez que hemos aprendido cómo funcionan los procedimientos y ciclos de prueba, al ejecutar las pruebas deberemos reportar los errores encontrados. A continuación, analizaremos cómo encontrar errores y cómo reportarlos efectivamente para lograr su resolución, y así, aportar como tester, calidad al producto.
 
-## Proceso de gestión de defectos
+## :star: Proceso de gestión de defectos :star:
 
 La gestión de defectos es un proceso sistemático para identificar y corregir errores. Un ciclo de 
 gestión de defectos contiene las siguientes etapas:
@@ -131,7 +131,9 @@ En general incluyen los siguientes elementos:
 
 - Registro histórico (history log)
 
-### Métricas de errores importantes
+---
+
+###  :star: Métricas de errores importantes
 
 ##### ¿Cómo medir y evaluar la calidad de la ejecución de las pruebas?
 
@@ -164,7 +166,7 @@ En este proyecto, el valor recomendado de relación aceptable es 5 ~ 10%. Signif
 
 ---
 
-## :stars:  Reportar un defecto paso a paso
+## :star:  Reportar un defecto paso a paso :star:
 
 1. **Definir el error**
 
@@ -252,8 +254,9 @@ La sección "pasos para reproducir" debe ser precisa. Si no puede reproducir el 
 
 7 - Haga clic en el botón Ingresar medicamento del menú principal para agregar un medicamento. Utilice la ventana Buscar/Seleccionar para elegir la penicilina. Haga clic en Aceptar en la ventana emergente para confirmar la selección del medicamento.
 
+---
 
-## Elementos importantes en el informe de errores
+##  :star: Elementos importantes en el informe de errores :star:
 
 A continuación, se presentan las características importantes en el informe de error:
 
@@ -282,8 +285,9 @@ Aquí te dejamos un reporte de ejemplo: [QA E16 - Ejemplo Reporte de error.docx]
 
 ---
 
-#### Ejemplo de informe completo de defectos
+### :star: Ejemplo de informe completo de defectos
 
+```
 Nro: swb001
 
 Título: El botón de alergia no está resaltado en rojo y el usuario puede ingresar el medicamento.
@@ -323,6 +327,7 @@ Evidencia y documentación de respaldo:
 Vea la flecha roja en la captura de pantalla de muestra a continuación. El botón de alergia debe mostrarse donde se dibuja el rectángulo rojo.
 
 NOTA: Configuración configurada para bloquear la entrada de medicamentos cuando existe alguna alergia relacionada en el registro del paciente, independientemente del valor de gravedad. El usuario es un MD con acceso completo. La tabla de la base de datos muestra el valor de alergia correcto en el paciente. No se generaron errores en el registro de errores.
+```
 
 ---
 
@@ -332,7 +337,7 @@ Revisa todo el informe de defectos antes de enviarlo. La credibilidad de los mie
 
 ---
 
-### ¿Cuáles son los estados de un defecto?
+## :star: ¿Cuáles son los estados de un defecto? :star:
 
 El número de estados soportados por herramientas es variable, veamos a continuación una categorización de defectos en un ciclo:
 
@@ -356,7 +361,7 @@ El número de estados soportados por herramientas es variable, veamos a continua
 
 ---
 
-### Análisis y modificación de estados
+### :star: Análisis y modificación de estados :star:
 
 Normalmente el jefe de pruebas o responsable decide si un defecto debe ser corregido o rechazado - de forma alternativa el consejo de control de cambio puede decidir sobre la corrección de un defecto teniendo en cuenta el coste de reparación. En el caso en que no haya un responsable de testing, muchas veces dicho rol es tomado por el líder de proyecto.
 
@@ -381,8 +386,9 @@ Preguntas para tener en cuenta:
 
 Estás en camino a convertirte en un Tester, te dejamos una plantilla para que reportes todos tus errores. [QA E16 - Plantilla Reporte de errores.docx](https://docs.google.com/document/d/1qLfTlZv7eUExHbk4azE6NPut9u1-6J6Y/edit?usp=sharing&ouid=100957054197686802986&rtpof=true&sd=true)
 
+---
 
-## Plantilla de reporte de errores
+##  :star: Plantilla de reporte de errores :star:
 
 Utilice la siguiente plantilla de informe de error simple:
 
@@ -453,7 +459,8 @@ Los tipos de informes incluyen:
 ---
 
 
-## ✋ ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA!  ✋
+
 
 #### Ejercicio #1
 
@@ -467,18 +474,17 @@ Utilizando la plantilla que te dimos antes, reporta al menos 3 errores. Al termi
 
 💡 Ayudín: ¿Encontraste la lista de errores que brinda la página?
 
+
 #### Ejercicio #2
 
-El ejercicio se va poniendo desafiante… ¡Llegó la hora de investigar en la web!
+El ejercicio se va poniendo desafiante… **¡Llegó la hora de investigar en la web!**
 
-Te dejamos aquí este sitio de prueba:
-
-[Automation Practice Site](https://practice.automationtesting.in/)
+Te dejamos aquí este sitio de prueba: [Automation Practice Site](https://practice.automationtesting.in/)
 
 Escribe el reporte de error correspondiente. Luego, pueden compartir con el equipo los errores que identificaron para cada caso.
 
 Utiliza esta plantilla: QA E16- Reporte de errores
 
-¡Recuerda que aquí no hay respuestas correctas y/o incorrectas!
+**¡Recuerda que aquí no hay respuestas correctas y/o incorrectas!**
 
 ---
