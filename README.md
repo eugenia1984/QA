@@ -59,6 +59,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [**Proyecto integrador II**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
 
+---
 
 3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas)
 
@@ -72,6 +73,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ![image](https://user-images.githubusercontent.com/72580574/220447792-ac613ee3-3a4f-4a3f-b633-9c61c7104fa1.png)
 
+---
 
 ## :book: TESTING MANUAL
 
@@ -81,6 +83,8 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
+---
+
 ## :book: TESTING AUTOMATION I
 
 -> Encuentros: 30
@@ -89,6 +93,8 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Automatización de pruebas web**
 
+---
+
 ## :book: TESTING AUTOMATION II
 
 -> Encuentros: 20
@@ -96,6 +102,8 @@ Buenas, aca reuní los cursos realizados de QA:
 -> Horas: 60
 
 -> Aprendizaje: **Automatización de pruebas de APIs**
+
+---
 
 ## :book: PERFORMANCE
 
