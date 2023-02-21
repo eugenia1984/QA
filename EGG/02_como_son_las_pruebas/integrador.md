@@ -351,22 +351,21 @@ En las personas que hacen el ptrabajo y cómo trabajan juntas.
 
 -> PERFECTIVO:
 
-![image](https://user-images.githubusercontent.com/72580574/220177192-f5e5d9dc-6aba-40d1-a5b7-8485fa981ec6.png)
+Se determinó que si un menú se pone horizintal es más visible para el usuario.
 
 
 -> EVOLUTIVO:
 
-![image](https://user-images.githubusercontent.com/72580574/220177107-bfde6dab-eadf-43f4-8b49-14fb5e048629.png)
+El cliente idio que el botón en vez de clickearse se deslice para aceptar
 
 -> ADAPTATIVO:
 
-![image](https://user-images.githubusercontent.com/72580574/220177215-d405ebc0-463d-4096-bf2c-e8ae3ec87d42.png)
+Deberá haber un cambio en el servidor para soportar más usuarios.
 
 
 -> CORRECTIVO:
 
-![image](https://user-images.githubusercontent.com/72580574/220177158-eb4295e8-f11c-4f6a-b349-14a19d7a8f8e.png)
-
+Se detectó un error en la carga en el carrito de compras del producto X, no permite agregar más de 2 a pesar de tener stock.
 
 
 ---
