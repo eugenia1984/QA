@@ -159,3 +159,24 @@ Las pruebas con un paso a paso predefinido son las recomendadas para pruebas bas
 ---
 
 ## :star: 7 - Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
+
+
+En esta clase vemos como medir el rendimiento y la capacidad de respuesta de una página web. Instalación de JAVA + JMeter para hacer pruebas de performance - fuerza - stress en una página web
+
+- **Pruebas de fuerza y estress**: utilizadas para BASE DE DATOS y en PÁGINAS WEBS.
+
+
+:computer: Links útiles
+
+1. {Anotaciones, servidores, usuarios y claves de lo visto en la clase](https://docs.google.com/document/d/1Gvef4I9CTXyrwdDvRnyDI3zN8VLqv440xS3at3VNRCM/edit?usp=share_link)
+
+2. [Archivo de la Prueba de Performance de una página web en JMeter](https://drive.google.com/file/d/1E1fdTBY44z9T1K1oWVQJIhmQYygc2K9z/view?usp=share_link)
+
+
+3. [Driver de Conexión a la base de datos MySql desde JMeter](https://drive.google.com/file/d/1CZF3WZr9bb7z_mvW5o8X83DqzMcI-kru/view?usp=share_link)
+
+
+4. [Archivo de la Prueba JMeter Performance y Stress en Bases de Datos](https://drive.google.com/file/d/1M3DZSRetuTYG9pTff7h_MuTCq2NjMIro/view?usp=share_link)
+
+
+---
