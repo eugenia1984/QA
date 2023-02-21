@@ -70,6 +70,9 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [**Proyecto final integrador**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/integrador.md)
 
+![image](https://user-images.githubusercontent.com/72580574/220447792-ac613ee3-3a4f-4a3f-b633-9c61c7104fa1.png)
+
+
 ## :book: TESTING MANUAL
 
 -> Encuentros: 20
