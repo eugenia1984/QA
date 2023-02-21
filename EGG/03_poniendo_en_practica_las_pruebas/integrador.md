@@ -82,6 +82,74 @@ Por ejemplo: si rendiste tu integrador hasta el 27 de enero 2023, se te habilita
 
 ---
 
+## ¿Cuántos bugs detectaste en la página?
+
+Más de 18
+
+---
+
+- **2 ¿Qué técnicas es correcta para aplicar en la página web?**
+
+Pruebas exploratorias
+
+---
+
+![image](https://user-images.githubusercontent.com/72580574/220438876-0ad091c7-a420-43a7-b2bd-fa86c5fba9eb.png)
+
+---
+
+- **4 Para probar el input EMAIL ¿cuáles son las combinaciones de pruebas correctas de las opciones dadas?**
+
+INPUT -> recuadro o campo donde ingresar la información dle suaurio
+
+PLACEHOLDER -> es un texto colocado dentro de un campo de un formulario que informa que tipo de dato es el requerido.
+
+![image](https://user-images.githubusercontent.com/72580574/220440533-f65e25e6-108e-4ca3-96e7-f452b0521bd6.png)
+
+
+---
+
+- **5 cuando ingresas con las credenciales correctas y apretamos el botón ingresar se despliega una equeña ventana (alert) con el texto: "Hola de vuelta prueba" y un botón de confiramción. Esto es un mecanismo de prueba primaria que realiza el programador para verificar que está pudiendo evitar cierta información pero claramente no debería estar cuando ya se ejecutan las pruebas. Ahora en las opciones dadas abajo identifica cua es el reporte correspondiente a esta clase de error.**
+
+![image](https://user-images.githubusercontent.com/72580574/220440594-105f7b2a-9f4d-4a3f-8b99-26b0751c45f2.png)
+
+---
+
+- **6 En l aplanilla (vista) se ven unos errores ortográficos. Ahora en las opciones dadas abajo identifica cual es el reporte que corresponde a esta clase de error.**
+
+![image](https://user-images.githubusercontent.com/72580574/220441182-c8a4f459-af5e-4aef-af50-3dac8bd03bd2.png)
+
+---
+
+- **7 Determina cuál es la correcta SEVERIDAD de cada reporte**
+
+![image](https://user-images.githubusercontent.com/72580574/220441292-305bcef6-bffc-4813-9952-60b249914ec9.png)
+
+
+-> Critico
+
+---
+
+- **8 Determina cuál es la correcta SEVERIDAD de cada reporte**
+
+![image](https://user-images.githubusercontent.com/72580574/220441385-b1a28273-9998-41c6-a52c-4596e0613dc0.png)
+
+
+-> Bloqueador
+
+---
+
+- **9 Determina cuál es la correcta SEVERIDAD de cada reporte**
+
+![image](https://user-images.githubusercontent.com/72580574/220441544-3f595170-5621-4b7b-9821-31043040ee1b.png)
+
+
+-> Mejora
+
+---
+
+
+
 ![image](https://user-images.githubusercontent.com/72580574/218602203-94e53734-66b4-4a58-9448-dd929264775b.png)
 
 ![image](https://user-images.githubusercontent.com/72580574/218602238-cce72761-41be-48c9-8088-e3a56e3a2ecc.png)
