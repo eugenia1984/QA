@@ -126,4 +126,59 @@ Buscar defectos dentro del software ayuda en proyectos con presupuestos acotados
 
 ## :star: 4 - Clase 4 en vivo. Bases de Datos y revisión en Testing Manual
 
+Relación conceptual, vemos a la base de datos, como una lanilla de excell, que tiene las columnas y las filas.
+
+En la *base de datos** los **datos** se cargan en **tablas**.
+
+Se va definiendo el tio de datos que guarda en cada columno, por ejemplo antes en CP era de Numeros Enteros y ahora es VARCHAR, ya que tiene numeros y letras. Otra cosa que varía es la cantida de caracteres.
+
+EN la CAJA BLANCA se hace consultas a la base de datos, asi se ve si algo eliminado efectivamente se limino de la base de datos.
+
+- **BASE DE DATOS RELACIONAL SQL**: son la de las tablas, **SQL**, **MySQL**, **MariaDB**, **Postgress**, **SQLServer**. Tienen una estructura rìgida, se guardan en tablas. Se usan para bancos, sistema de sueldos, de stock.
+
+- **BASE DE DATOS NO RELACIONALES NOSQL**: son las de documentos, como **MongoDB**, no tienen una estructura rígida, se pueden guardar distintos datos. Son más lentas.
+
+Muestra con BASE DE DATOS RELACIONAL en HOSTINGER, que tiene la opción de CREAR UNA BASE DE DATOS. Va a crear en PHPMyAdmin.
+
+![image](https://user-images.githubusercontent.com/72580574/221376753-dd4a82c8-336d-4901-9830-3672d2aa3c18.png)
+
+-> Nueva -> creo la tabla:
+
+![image](https://user-images.githubusercontent.com/72580574/221376794-2c8c7647-89dc-4b24-8ccf-631cb3c9a536.png)
+
+Completo...
+
+
+... nombre de la tabla
+
+... cada renglon sera una columna de la tabla, en general la primera es : **id**(el identificador numérico de cada fila).
+
+-> En tl tipo va el TIPO de dato: INT(entero), VARCHAR(String), TEXT, DATE
+
+-> En longitudValores: hay que ver bien que numero ponerle, no es bueno ocupar mucho espacio, es mejor poner la cantidad que se va a necesita no demás. Por ejemplo si tengo **Edad** es un **INT** y le pongo 3 ya que mucho más de 100 no voy a tener.
+
+-> Si le hago click en **guardar** me crea la tabla:
+
+![image](https://user-images.githubusercontent.com/72580574/221376940-9f77004b-b525-4b0b-9b4f-e12af0c931ef.png)
+
+
+-> En **EXAMINAR** veo la información de la tabla, y en este lado le puedo **insertar datos**, le voy a ir creando los registros
+
+
+![image](https://user-images.githubusercontent.com/72580574/221376981-70d25495-f070-4415-b9e4-41e791924f8b.png)
+
+Si ahora voy de nuevo en examinar veo los datos, entonces por ejemplo si doy de alto a un nuevo usuario, lo testeo y luego lo veo aca en al base de datos. Asi me aseguro que se guarda todo bien, no se cortan datos. Siempre se trabaja en un **ambiente de testing**, no se modifica en el **ambiente productivo**.
+
+
+Uno de los est más importantes es ver que tengo en el sistema, que me permite y la base de datos, si tnego un maximo de caracteres, deben coincidir.
+
+**PK** -> Primary Key(Clave primaria), por que se me va a ir ordenando.
+
+- En la parte gráfica, arriba tengo como sería la consulta SQL:
+
+![image](https://user-images.githubusercontent.com/72580574/221377555-45e40aba-ab7f-41bd-a102-985341a40aec.png)
+
+![image](https://user-images.githubusercontent.com/72580574/221377570-e704e130-08a9-4b8a-b74d-940e78ebdeb8.png)
+
+
 ---
