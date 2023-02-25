@@ -239,6 +239,21 @@ Donde tengo **GET** - **Ruta**: /foundation/
 -> Me falta **incorporar un informe** para ver cuál es el resultado de la prueba.
 
 
+PLAN DE PRUEBA -> AÑADIR -> RECEPTOR -> ARBOL DE RESULTADOS / REPORTE DE RESUMEN
+
+Se utilizan los dos mencionados
+
+Al ejecutarlo con el Play verde, me salta un pop-up de que antes debo **guardarlo**, entonces le doy al **si**, lo guardo con un **nombre**.
+Y el **plan de prueba** ya se ejecutó.
+
+Ahora en el **reporte de resumen** tnego cuantas muestras hice, el minimo, le maximo, la media, promedio, etc.
+
+
+-> Ahora en los GRUPOS DE HILO voy a ir incrementando los usuarios, cambiando el 1 por 10, por ejemplo, asi simulo 10 usuarios. Y ahora voy a tener 10 peticiones.
+
+Al ir incrementando de a poco la cantidad de usuarios estoy haciendo la **prueba de fuerza**, para saber en qué punto la página deja de soportar bien la cantidad de usuarios.
+
+
 
 ---
 
@@ -555,8 +570,5 @@ Clave: institutoweb
 </jmeterTestPlan>
 ```
 
----
-
-Me faltan los ultimos 30 mins
 
 ---
