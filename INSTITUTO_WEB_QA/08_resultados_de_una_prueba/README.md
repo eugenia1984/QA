@@ -16,7 +16,27 @@
 
 ## :star: 1 - Informes de Resultados de un Test Case
 
-¿Como informar el resultado de un caso de prueba?
+### ¿Como informar el resultado de un caso de prueba?
+
+Me copio tal cual el **Caso de prueba**, borro algunas cosas y dejo:
+
+- Nro.
+
+- datos de entrada
+
+- resultado esperado
+
+
+Agrego una nueva columna con **Resultado**, el lo pone con fondo verde y le escribe Ok. Si el resultado hubiera fallado, entonces le pone fondo rojo, le escribe NO PASO y en **resultado obtenido** aclara que es lo que falló. 
+
+En el caso del test que falló se devuelve, los devs vuelven a trabajar para solucionarlo, y luego nos va a volver como otro nuevo test case a ejecutar, a estos se los llama **test de regresión**.  Por eso es importante que lso test case sean **re utilizables**
+
+Se puede agregar un video de la pantalla con le paso a paso de la prueba, o agregar imagen.
+
+
+-> saco: pre condición, ruta de navegación, requerimiento.
+
+-> Hay empresas que tiene sus sistemas para volcar los test cases.
 
 ---
 
