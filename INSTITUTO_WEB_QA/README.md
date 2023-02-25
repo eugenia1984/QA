@@ -24,7 +24,7 @@
 
 10. [**TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): Clasificación de Pruebas de Testing de software /  Documento Standard de Pruebas Funcionales
 
-**Prácticas - Proyecto a Realizar**:  Buscar errores en Ecommerce / Clase 5 en vivo. Bases de Datos y performance y stress con automatización / Clase 6 en vivo. Testing en Bases de Datos NoSql y SQL API's AWS y Ubuntu Server. Performance y stress
+[**Prácticas - Proyecto a Realizar**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/practicas):  Buscar errores en Ecommerce / Clase 5 en vivo. Bases de Datos y performance y stress con automatización / Clase 6 en vivo. Testing en Bases de Datos NoSql y SQL API's AWS y Ubuntu Server. Performance y stress
 
 11. [**SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
