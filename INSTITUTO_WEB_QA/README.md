@@ -32,6 +32,6 @@
 
 13. [**ESTRUCTURA DE UNA PAGINA WEB**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/12_estructuras_de_una_pagina_web): anatomía HTML básica
 
-14. [**ESTIMACION DE DESARROLLO DE PRUEBAS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/13_estimacion_de_desarrollo_de_pruebas)
+14. [**ESTIMACION DE DESARROLLO DE PRUEBAS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/13_estimacion_de_desarrollo_de_pruebas): Puntos a tener en cuenta
 
 15. [**MATERIAL EXTRA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/14_material_extra)
