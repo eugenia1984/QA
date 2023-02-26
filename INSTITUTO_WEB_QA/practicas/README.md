@@ -87,6 +87,15 @@ Para decidir si se guarda en una base de datos relacional o no relacional hay qu
 
 ## JMeter para hacer pruebas en ambas bases de datos
 
+Dentro de **JMeter** en **bin** para ejecutarlo.
+
+También hay otra carpeta, la de **librerias**(**lib**), una es **mongo-java-drivers** y otra es **mysql-connector-java**, nos ayudan a conectarnos a las bases de datos no relacionales y relacionales.
+
+Ai falta alguna de las dos librerias hay que agregarlas. Y una vez agregadas hay que cerrar JMeter(si ya estaba andando) y volverlo a correr.
+
+AÑADIR -> ELEMENTOS DE CONFIGURACION -> CONFIGURACION DE CONECTOR JBC
+![image](https://user-images.githubusercontent.com/72580574/221427210-b68423af-2133-499d-b8a8-36f7ba3e277d.png)
+
 ---
 
 ## :star:  3 - Clase 6 en vivo. Testing en Bases de Datos NoSql y SQL API's AWS y Ubuntu Server. Performance y stress.
