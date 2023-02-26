@@ -53,21 +53,39 @@ Inserto datos:
 -> Es una tabla **SQL** de una **base de datos relacionales** -> **MySQL**
 ---
 
-##AWS Amazon Web Service
+## AWS Amazon Web Service
 
 Son los servidores de Amazon, hay una versión gratuita, la que usa en la clase, para ver un ejemplo de una **base de datos no relacional**, no tiene la estructura de la tabla, está **orientada a documentos**.
+
+Soportan enorme cantidad de datos y enorme diversidad de datos. Se usa para BigData.
+
+Elásticas en su estrucura, pero muy lentas en la búsqueda de datos (por eso no se usa en los bancos).
 
 -> **DinamoDB** es la base de datos que usa Amazon
 
 ![image](https://user-images.githubusercontent.com/72580574/221426150-877894a6-b1e4-4865-937d-2493981afbaf.png)
 
-En vez de BASE DE DATOS, se llaman **tablas**
+En vez de BASE DE DATOS, se llaman **tablas**.
 
 ![image](https://user-images.githubusercontent.com/72580574/221426435-4d17a48f-3876-4f6d-9442-59810d6f0620.png)
 
 ![image](https://user-images.githubusercontent.com/72580574/221426454-9d6d4a1b-4623-420a-a422-f1a7c376baf2.png)
 
+Se ve como una tabla, pero en realidad es un **JSON**:
 
+![image](https://user-images.githubusercontent.com/72580574/221426512-9fab224c-deb6-4bc3-af2c-ed7f455e6a2e.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/221426497-feb6d994-02e3-4bfd-a510-8ad7eda71e2b.png)
+
+Y cada JSON puede tener distintos tipos de datos, por eso se diferencian de las tablas, que guardan los mismo datos.
+
+
+Para decidir si se guarda en una base de datos relacional o no relacional hay que ver qué tipos de datos vamos a guardar(si van a ser estructurados o flexibles) y el tiempo de respuesta que necesito en la consulta.
+
+---
+
+## JMeter para hacer pruebas en ambas bases de datos
 
 ---
 
