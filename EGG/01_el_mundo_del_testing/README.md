@@ -24,3 +24,42 @@
 ->  [**PROYECTO INTEGRADOR Y SU RESOLUCION**](https://github.com/eugenia1984/QA/blob/main/EGG/01_el_mundo_del_testing/proyecto_integrador.md)
 
 ---
+
+<img src="https://img.icons8.com/bubbles/50/null/question-mark.png"/> ¿ Qué necesito para finalizar el curso ?
+
+- **Cumplir con el 80 % de las asistencia**: hasta 4 inasistencias de as 17 encuentros totales del curso de Introducción a QA.
+
+- **Realizar el TRABAJO INTEGRADOR**
+
+-> Se entregará un **certificado de finalización de curso**
+
+
+---
+
+## <img src="https://img.icons8.com/dusk/50/null/rules.png"/> Código de conducta
+
+![image](https://user-images.githubusercontent.com/72580574/213880231-1a633351-e515-4229-afb6-bbc504ecd49c.png)
+
+
+---
+
+## :book: Aprendizaje cooperativo
+
+![image](https://user-images.githubusercontent.com/72580574/213815541-6cb288ae-f1a0-4c39-a91f-218302e79bf5.png)
+
+
+---
+
+##  <img src="https://img.icons8.com/bubbles/50/null/question-mark.png"/> ¿Quiénes me acompañan durante el curso ?
+
+- **Equipos del día**: coopera con tus compañeros para resolver los ejercicios.
+
+¿Qué podés ser? **facilitador/a**(desde hoy) ó **mentor/a**(cuando estemos más avanzados)
+
+- **Mentor experto**: podrás solicitar su ayuda si surge una duda dentro de tu equipo que no pudieron resolverla.
+
+- **Coaches**: será tu guía durante los encuentros en vivo.
+
+
+---
+
