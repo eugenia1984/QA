@@ -71,6 +71,16 @@
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
+- Principios y ciclos
+
+- Clasificación de pruebas
+
+- Análisis, planificación y ejecución de pruebas
+
+- Base de datos
+
+- Metodología
+
 ---
 
 ## :star: TESTING AUTOMATION I :star: 
