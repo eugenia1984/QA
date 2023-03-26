@@ -83,6 +83,17 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
+
+- Principios y ciclos
+
+- Clasificación de pruebas
+
+- Análisis, planificación y ejecución de pruebas
+
+- Base de datos
+
+- Metodologías
+
 ---
 
 ## :book: TESTING AUTOMATION I
@@ -93,15 +104,6 @@ Buenas, aca reuní los cursos realizados de QA:
 
 -> Aprendizaje: **Automatización de pruebas web**
 
-- Principios y ciclos
-
-- Clasificación de pruebas
-
-- Análisis, planificación y ejecución de pruebas
-
-- Base de datos
-
-- Metodologís
 
 ---
 
