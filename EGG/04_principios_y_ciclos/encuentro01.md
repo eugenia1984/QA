@@ -2,11 +2,11 @@
 
 ---
 
-## :star: Principios y ciclo de vida del testing
+## :star: Principios y ciclo de vida del testing :star:
 
 ---
 
-## :star: Introducción + icebreaker
+## :star: Introducción + icebreaker :star:
 
 **¡Te damos la bienvenida a nuestras guías de trabajo!**
 
@@ -16,7 +16,7 @@ En los primeros encuentros, verás que nuestras guías te indican cómo usar el 
 
 A medida que avances en el recorrido, ya no tendremos tanto para indicarte y tendrás suficiente autonomía para tomar decisiones acerca de tu propia administración del tiempo en relación al curso.
 
-## 10 minutos
+## ⏰ 10 minutos
 
 **¡Demos comienzo a la actividad del día de hoy!**
 
@@ -38,7 +38,7 @@ Utilicen unos 10 minutos para intercambiar y leer las definiciones del resto del
 
 ---
 
-## 10 minutos
+## ⏰ 10 minutos
 
 **Fundamentos de la calidad de software**
 
@@ -65,9 +65,9 @@ Fuentes: [https://dev.to/codemouse92/turning-bugs-into-features-48gl](https://de
 
 ---
 
-## 15 minutos
+## ⏰ 15 minutos
 
-**¡MANOS A LA OBRA!**
+✋ **¡MANOS A LA OBRA!**
 
 ### Entrada en calor: Ejercicio #1
 
@@ -92,7 +92,7 @@ Propone una cuarta razón para comentar con tu equipo y no olvides compartirla e
 
 ---
 
-## 10 minutos
+## ⏰ 10 minutos
 
 ### Entrada en calor: Ejercicio #2: Simulación de un “plan de pruebas”
 
@@ -140,7 +140,7 @@ Al finalizar, vas a utilizar una metodología de evaluación para descubrir si t
 
 ---
 
-## 50 minutos
+## ⏰ 50 minutos
 
 ## :book: MATERIAL DE LECTURA
 
@@ -193,7 +193,7 @@ Estamos para pedirte un último esfuerzo. ¡Un ejercicio más para hoy!*
 
 ---
 
-## Ejercicio #3:
+## ✋ Ejercicio #3:
 
 
 Lean las siguientes definiciones. Les servirá para comprender algunos temas de los próximos encuentros. Pueden comentarlas y leerlas en grupo para consultar dudas
@@ -204,7 +204,7 @@ Lean las siguientes definiciones. Les servirá para comprender algunos temas de 
 
 ---
 
-## 15 minutos
+## ⏰ 15 minutos
 
 ### Extra credits
 
@@ -327,7 +327,7 @@ En la lista de aspectos a testear hay aspectos funcionales y no funcionales
 
 ---
 
-## ¡Hora de cerrar!
+## ⏰ ¡Hora de cerrar!
 
 
 ¡Lo hemos logrado! Has llegado al final del primer encuentro.
