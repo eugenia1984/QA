@@ -7,10 +7,10 @@
 
 ---
 
-- [Encuentro 01](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro01.md)
+- [Encuentro 01: **Principios y ciclos**](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro01.md)
 
-- [Encuentro 02](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro02.md)
+- [Encuentro 02: **Objeto y función dle testing**](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro02.md)
 
-- Encuentro 03
+- [Encuentro 03: **Principios del testing y ciclos de vida de desarrollo](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro03.md)
 
 ---
