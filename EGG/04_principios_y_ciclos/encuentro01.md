@@ -142,6 +142,210 @@ Al finalizar, vas a utilizar una metodología de evaluación para descubrir si t
 
 ## 50 minutos
 
+## :book: MATERIAL DE LECTURA
+
+El crecimiento del área de desarrollo de software puso de manifiesto la necesidad de contar con un profesional que asumiera la responsabilidad de analizar y testear los productos creados. Es así, que el área de QA adquiere relevancia para la industria IT.
+
+El programador desarrolla teniendo en cuenta los requerimientos y especificaciones solicitadas. Sin embargo, en cualquiera de las etapas de su trabajo (creación de un programa o cambios en productos ya en funcionamiento) existen  variables que podrían generar errores en el funcionamiento del producto. 
+
+Por eso,  es fundamental la presencia de profesionales que revisen (testeen) la funcionalidad desde la definición solicitada, hasta su implementación en el código. Todo esto debe realizarse antes de colocar el producto en el mercado. Es decir, mientras antes se evalúen los posibles errores, mejor.
+
+### ¿NECESITAS UN EJEMPLO?
+
+En la industria IT, se testea antes de que un producto o sistema avance a la etapa de producción detectando errores y comprobando que cumpla con los requisitos solicitados.
+
+¿Qué tipos de problemas te imaginás que sucederían si no se hiciese testeo antes de la producción? ¿Cómo afecta eso al negocio -en caso de tratarse de una empresa- o a la reputación de un profesional independiente?
+
+Comenten entre el equipo las respuestas a estas interrogantes 👆
+
+- [Podés seguir profundizando en estas notas de interés](https://www.celerity.com/insights/the-cost-implications-of)
+
+- [The true cost of a software bug at each phase of the SDLC](https://brainhub.eu/library/strategies-for-managing-bugs)
+
+
+
+Al testear, se podrían encontrar con defectos que son productos de gaps o faltas de definiciones.
+
+Analicemos su definición:
+
+Gap o Falta de definición: Algo que no funciona o funciona de manera errática. El escenario que da lugar a ese funcionamiento puede no haber sido considerado al momento de definir los requerimientos y/o especificaciones del sistema.
+
+**En resumen**: El objetivo del testing es asegurar que los requerimientos funcionales y no funcionales sean analizados antes de que un sistema entre en servicio para que cualquier defecto encontrado, sea reportado al equipo de desarrollo y pueda corregirse. Los test a un sistema permiten medir aspectos relacionados a la calidad. 
+
+### Responde las siguientes preguntas:
+
+- El testing por sí solo eleva la calidad del producto por proponer opciones de mejora.
+
+- El testing por sí solo no eleva la calidad pero contribuye a la mejora en la calidad.
+
+Debatan entre ustedes y comenten sus respuestas. Pueden llamar a un mentor para revisar sus respuestas.
+
+**Super pro tip**: Testing y riesgo. 
+
+Desde tu rol, siempre deberás preguntarte: ¿Cuál sería el impacto de encontrar un fallo en el sistema testeado? ¿Qué probabilidad de que ese error suceda? 
+
+**IMPACTO + PROBABILIDAD= RIESGO**
+
+Tendría sentido mencionar que a mayor riesgo, mayor cantidad y complejidad de las pruebas de testeo. 
+
+*Sabemos que has hecho un gran esfuerzo hoy. Tomaste contacto nuevamente con todos los entornos de aprendizaje cooperativo, conociste estudiantes como tú,recuperaste contenidos vistos anteriormente y has asimilado definiciones de palabras nuevas.
+Estamos para pedirte un último esfuerzo. ¡Un ejercicio más para hoy!*
+
+---
+
+## Ejercicio #3:
+
+
+Lean las siguientes definiciones. Les servirá para comprender algunos temas de los próximos encuentros. Pueden comentarlas y leerlas en grupo para consultar dudas
+
+- Requerimientos funcionales: Son requerimientos que especifican y/o describen funciones que debería llevar a cabo el sistema o componente. Es decir: describen en detalle qué es lo que debería hacer el sistema o componente en cada situación. 
+
+- Requerimientos no funcionales: Todos los requerimientos que debe cumplir un sistema y que no son parte del comportamiento del sistema.
+
+---
+
+## 15 minutos
+
+### Extra credits
+
+¿Escuchaste hablar del ciclo virtuoso de deming?
+
+Investiga y relaciona con el proceso de testing y calidad. Luego, realiza la puesta en común para socializar con tu equipo.
+
+
+### :book: MATERIAL DE LECTURA
+
+Profundicemos un poco más en el tema calidad. Existen normas que se usan para medir la calidad se software. Algunas de ellas son: 
+ 
+1. **CALIDAD ISO / IEC 9126**
+
+
+![image](https://user-images.githubusercontent.com/72580574/228072828-b1bade36-a6c3-4a31-8ca8-c46b3973b842.png)
+
+**Super TIP**: A continuación te dejamos el mismo gráfico pero en su versión original. Es importante que puedas aprender vocabulario específico en inglés ya que -como mencionamos en el curso anterior- es el idioma predominante en la industria IT.
+
+![image](https://user-images.githubusercontent.com/72580574/228072912-41fc5bee-ab07-498b-be82-e5df14a127ca.png)
+
+Fuente: Abran, Alain & Al-Qutaish, Rafa. (2010). ISO 9126: Analysis of Quality Models and Measures. 10.1002/9780470606834.ch10. 
+
+2. **ISO / IEC 25010 SQuaRE —  System and Software Quality Requirements and Evaluation.**
+
+Para conocer más sobre esta norma, te invitamos a leer el siguiente [artículo](https://iso25000.com/index.php/normas-iso-25000/iso-25010)
+
+![image](https://user-images.githubusercontent.com/72580574/228073058-6b33bbdf-89ad-4ccd-ba12-1abc51b037e2.png)
+
+Ambas normas abarcan los mismos aspectos. Sin embargo existen algunas diferencias:
+
+- En el gráfico ISO 9126, seguridad y compatibilidad (e interoperabilidad) están considerado dentro de la rama de Funcionalidad
+
+- En el gráfico ISO 25010 esos mismos aspectos aparecen separados y algo más desglosados. 
+
+
+**Secreto de la industria**: Sabemos que en IT la actualización constante es fundamental para ponerse al día con los cambios tecnológicos. Es importante que dediques un tiempo diario o semanal a revisar múltiples fuentes, páginas, foros y comunidades de expertos para estar al día y ofrecer un servicio profesional acorde a la velocidad que caracteriza a la industria.
+
+**Es importante tener en cuenta estas normas referidas a la calidad de software a la hora de desarrollar las tareas de testing: desde el análisis de los requerimientos hasta el diseño del plan de pruebas.**
+
+### ¿Cómo se organiza el área de testing?
+
+![image](https://user-images.githubusercontent.com/72580574/228073300-bb4cf29f-78fa-4fb3-b7f5-efb47943cb0b.png)
+
+### Entrada en calor: Ejercicio #4:
+
+A) Les asignan su primer trabajo: Evaluar y testear un e-commerce.
+
+La compañía te pide que realices las pruebas de evaluación siguiendo y cumpliendo las normas de calidad Iso 9126. ¿Qué pruebas harían?.
+
+B) Clasifiquen las pruebas según su Tipo. ¿Son todas funcionales? Recordá las clasificaciones de las normas ISO9126 y las definiciones que les ofrecimos anteriormente
+
+C) Descarguen la siguiente [plantilla]([)](https://docs.google.com/document/d/1_Feh-F5mUtePN9P0ncBUDhC_mD6aDAL6jY_1zzIqTXU/edit?usp=sharing7dfjTa-jyz-TU/edit) y compartan solo a su equipo.
+
+
+![image](https://user-images.githubusercontent.com/72580574/228073553-278ec52c-1cf0-44f8-837d-a55a18624de1.png)
+
+### :stars: SOLUCION
+
+Como la consigna es amplia seguramente todas sus respuestas fueron correctas. 
+Aquello que testearíamos depende de lo que consideremos que un e-commerce debería incluir en relación a la funcionalidad.
+
+Debajo dejamos algunos ejemplos de aquellos aspectos que podrían probarse. 
+
+**Atención**: Es una lista de funcionalidades a probar. No es una lista de casos de prueba ni tampoco es una lista exhaustiva. 
+
+-> Login: que no se pueda acceder sin usuario ni contraseña válidos. Según especificación, si posee
+
+-> Recuperar contraseña.
+
+-> Creación de usuario.
+
+-> Que no se puedan ingresar scripts en ningún formulario o campo.
+
+-> Procesamiento correcto del pago.
+
+-> Que si se ingresan datos de pago pero se cancela el mismo (usando opción cancelar) se pueda volver o la flecha de navegación hacia atrás del explorador no se procese el pago.
+
+-> Mensajes de error ante el ingreso de datos inválidos.
+
+-> Carrito: que permita agregar y eliminar elementos correctamente
+
+-> Calculo de total, subtotal y descuentos
+
+-> Que el sitio se visualice bien en diferentes dispositivos [resoluciones mobile, tablet, desktop]
+
+-> Que el sitio se visualice bien en múltiples buscadores: Firefox, Edge, Opera, Brave (última versión)
+
+-> Todas las funcionalidades en: Android, ios, Windows 10, macOS Monterey, ubuntu, fedora, linux
+
+-> Tiempos de carga (según requerimiento)
+
+-> Que se pueda proseguir con la compra correctamente aunque la pantalla haya quedado en espera o luego de un time-out
+
+-> Que soporte la cantidad de visitas en simultáneo según lo especificado
+
+-> Que soporte la cantidad de compras en simultáneo según requerimiento
+
+-> Proceso de compra según especificación. 
+
+-> Que las opciones principales para concretar la compra estén visibles según lo especificado en el mock up.
+
+-> Que el sitio pueda ser navegado y se pueda concretar el proceso de compra con asistencia de un lector de pantallas.
+
+-> Recuperación del sistema ante un fallo crítico
+ 
+2. Clasifiquen las pruebas según su Tipo. ¿Son todas funcionales?
+
+En la lista de aspectos a testear hay aspectos funcionales y no funcionales
+
+![image](https://user-images.githubusercontent.com/72580574/228074018-e80e17a2-3228-4e4a-b986-5ac71ec4a32b.png)
+
+![image](https://user-images.githubusercontent.com/72580574/228074059-d14d0cf5-b75b-4a76-bcf1-708c686bbce5.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/228074114-405e058d-8407-4411-8a61-714da368f6d9.png)
+
+
+
+
+---
+
+## ¡Hora de cerrar!
+
+
+¡Lo hemos logrado! Has llegado al final del primer encuentro.
+
+Tómense 15 minutos como equipo para conversar sobre los riesgos que podría ocasionar no realizar testing.
+
+Les dejamos algunas preguntas disparadoras:
+
+- ¿Cuáles son las habilidades blandas que debería desarrollar un tester para cumplir con su rol efectivamente?
+
+- ¿Cómo viene tu aprendizaje? ¿Cómo aprovechas la cooperación para aprender?
+
+Recuerda que los equipos cambian en cada encuentro. En el próximo, no necesariamente te encontrarás con el mismo de hoy.
+
+¡Gran momento para recordar qué son los pulsos. ¿Te gustaría recibir pulsos? no olvides cooperar, dar lo máximo en cada encuentro y colaborar con todos los integrantes. 
+
+Este breve video les recuerda cómo se utilizan los pulsos para armar los equipos en el futuro.
+
 
 
 
