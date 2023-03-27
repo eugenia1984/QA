@@ -62,6 +62,7 @@
 ![image](https://user-images.githubusercontent.com/72580574/220447929-54b0a87c-da3d-420a-91dd-f4e664899066.png)
 
 ---
+---
 
 ## :star: TESTING MANUAL :star:
 
@@ -70,6 +71,8 @@
 -> Horas: 60
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
+
+---
 
 - [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **4 - Principios y ciclos**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
 
@@ -80,6 +83,7 @@
 -[4.3 Encuentro 03](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro03.md): **Principios del testing y ciclos de vida de desarrollo**
 
 
+---
 - Clasificación de pruebas
 
 - Análisis, planificación y ejecución de pruebas
