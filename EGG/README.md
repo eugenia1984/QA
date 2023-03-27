@@ -71,7 +71,14 @@
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
-- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Principios y ciclos**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
+- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **4 - Principios y ciclos**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
+
+-[4.1 Encuentro 01](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro01.md):  **Principios y ciclos**
+
+-[4.2 Encuentro 02](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro02.md): **Objeto y función dle testing**
+
+-[4.3 Encuentro 03](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro03.md): **Principios del testing y ciclos de vida de desarrollo**
+
 
 - Clasificación de pruebas
 
