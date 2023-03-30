@@ -109,7 +109,7 @@ Enumeren - según orden de prioridad- las siguientes condiciones de prueba:
 
 2. Que los formularios usen metodología de envío POST
 
-3. Que el título principal <H1> este en el color definido en el mock up
+3. Que el título principal `<h1>` este en el color definido en el mock up
 
 4. Que los párrafos <p> estén escritos en letra roboto 
 
@@ -130,7 +130,7 @@ Pueden descargar la siguiente plantilla para realizar esta actividad
   
   ![image](https://user-images.githubusercontent.com/72580574/228080077-a659877f-a21b-45ff-9839-e16f2ddd8427.png)
 
- ### RESPPUESTAS
+ ### RESPUESTAS
   
   
  
@@ -140,7 +140,7 @@ Pueden descargar la siguiente plantilla para realizar esta actividad
 
 1. Que las imágenes estén alineadas según la maqueta o mockup
 
-2. Que el título principal <H1> este en el color definido en el mock up
+2. Que el título principal `<h1>` este en el color definido en el mock up
 
 3. Que todas las fotos tengan texto alternativo
 
@@ -153,13 +153,15 @@ Pueden descargar la siguiente plantilla para realizar esta actividad
 7. Que los formularios usen metodología de envío POST
 
 (No Aplica) Que no se pueda ingresar nadie que no tenga una cuenta creada previamente
+
 (No Aplica) Que la persona que se ingresa pueda ver solamente las cosas que correspondan a su nivel de acceso
+
 Las pruebas de login no aplican a una página web de tipo portfolio que generalmente no tiene un sistema de creación de usuarios ya que es solo para mostrar contenido.
 
 
-- >> Un sistema del gobierno de registro de las personas.
+-> Un sistema del gobierno de registro de las personas.
 
-1.Que no se pueda ingresar nadie que no tenga una cuenta creada previamente
+1. Que no se pueda ingresar nadie que no tenga una cuenta creada previamente
 
 2. Que la persona que se ingresa pueda ver solamente las cosas que correspondan a su nivel de acceso
 
@@ -173,7 +175,7 @@ Las pruebas de login no aplican a una página web de tipo portfolio que generalm
 
 7. Que el título principal <H1> este en el color definido en el mock up
 
-8. Que los párrafos <p> estén escritos en letra roboto 
+8. Que los párrafos `<p>` estén escritos en letra roboto 
 
 9. Que las imágenes estén alineadas según la maqueta o mockup
 
