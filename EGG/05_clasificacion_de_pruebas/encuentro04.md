@@ -300,3 +300,120 @@ Si se trata de un sistema que se desarrolla con metodología ágil sin fecha de 
 Cuando los tests de regresión no están automatizados hay que ejecutarlos de manera manual.
 
 ![image](https://user-images.githubusercontent.com/72580574/228984204-136123ca-a136-451e-92ac-ad826b5c3605.png)
+
+
+¿Quieres seguir profundizando? Te dejamos los siguientes recursos de aprendizaje:
+
+[Artículo 1](https://medium.com/@morvader/testing-iceberg-2cc7501f4e06) 
+
+[Video](https://www.youtube.com/watch?v=kXhXBzvxUsM)
+
+[Artículo 2](https://medium.com/@wc.testing.qa/la-famosa-pir%C3%A1mide-de-cohn-y-la-dura-realidad-e1250dfbe5f3)
+
+---
+
+#### ¿NECESITAS UN EJEMPLO? 
+
+¡Un esfuerzo más! Sabemos que has leído bastante material, te proponemos que continúes, puedes hacerlo. ¡La satisfacción de conseguir tu objetivo será muy grande!
+
+#### Enfoque estático y dinámico
+
+Para introducir el tema, veamos el siguiente [:tv: video](https://youtu.be/OEcN5NNScdM) explicativo
+
+
+---
+
+## :star: Pruebas estáticas (static testing)
+
+Las técnicas de pruebas estáticas testean el sistema o software sin ejecutarlo. Su objetivo es encontrar errores y defectos antes de que se construya y ejecute el código debido a que la detección temprana de defectos permite que su corrección sea menos costosa.
+
+Las técnicas que se usan son básicamente de revisión y análisis. 
+Las técnicas de revisión se enfocan en identificar errores en la documentación antes de utilizarlas como insumo para el desarrollo. De esta manera se  reducenlas posibilidades de errores que setrasladen al código. 
+
+Las técnicas de análisis (aka análisis técnico / technical analysis) analizan el código en búsqueda de defectos estructurales o problemas en la lógica de programación que podrían causar defectos. Este análisis técnico suele ser realizado por desarrolladores (P2P review) o por personas con el conocimiento técnico suficiente (technical review team) según sea la organización del equipo de desarrollo de la empresa. 
+Todo lo escrito puede ser objeto de análisis técnico: los insumos disponibles para la construcción del sistema, la base para el diseño de los tests, el código, los programas de especificaciones, las guías de usuario, contratos, modelos de diseño, diagramas, entre otros.
+Se revisa para no encontrar contradicciones, incorrecciones, ambigüedades u omisiones.
+
+Es importante tomar nota de todas las observaciones y preguntas que surjan de esta etapa de revisión y canalizarlas con la persona responsable. 
+
+Desde el punto de vista del análisis técnico se busca evitar defectos de diseño (como el alto acoplamiento o la baja cohesión), defectos de programación (código duplicado, variables mal declaradas o no declaradas, o no usadas, métodos muy largos o con demasiadas responsabilidades), desviaciones de las políticas o estándares de coding (coding policies o coding standards) y todo tipo de incorrecciones en la construcción del código.
+
+
+
+---
+
+## Ejercicio #4
+
+Debatan la siguiente pregunta en equipo:
+
+¿Qué beneficios tiene dedicar esfuerzos a latesting estático?
+
+#### SOLUCIONES
+
+Algunos beneficios:
+
+
+- Reducimos la cantidad de defectos que se traspasan desde la documentación al código.
+
+- Ahorramos tiempo de desarrollo.
+
+- Aumentamos el entendimiento común a nivel equipo sobre el producto o funcionalidad a desarrollar.Todos en la misma sintonía..
+
+- Ahorramos costos de corrección.
+
+- Ahorramos costos y tiempo de ejecución de pruebas (potencialmente incorrectas o innecesarias).
+
+- Evitamos falsos negativos y falsos positivos .
+
+- Contribuimos a aumentar la calidad del producto (menos errores llegan al código).
+
+---
+
+## :star: Pruebas dinámicas (Dynamic testing
+
+Las pruebas dinámicas tienen el mismo objetivo que el testing estático: encontrar defectos lo antes posible. Pero a diferencia de éste, el dinámico se realiza  ejecutando el código, es decir usando el sistema construido. 
+El testing dinámico, por lo tanto prueba y analiza los comportamientos observables cuando el código es ejecutado, es decir  cuando el sistema es puesto en funcionamiento. 
+
+---
+
+## ¡MANOS A LA OBRA! 
+
+## Ejercicio #5
+
+Según lo estudiado en los módulos anteriores, ¿cómo clasificarías las tareas del ciclo de testing? Coloca cada tarea en la columna correspondiente.
+
+![image](https://user-images.githubusercontent.com/72580574/228984893-939b69e0-136c-4eca-9e35-2e013fe854e1.png)
+
+
+### SOLUCION
+
+![image](https://user-images.githubusercontent.com/72580574/228984927-cb9ca954-7170-4305-bf05-a9d09681c9f7.png)
+
+
+---
+
+## ¡Hora de cerrar! 
+
+Has aprendido mucho hoy. Es tiempo de hacer un pequeño desafío llamado Check Point. ¿Estás preparado? 
+
+### Check point
+
+- ¿Qué es testing estático?
+
+- ¿Que es testing dinámico
+
+- ¿Que significa debuggear?
+
+- ¿Qué actividades forman parte de “testear”?
+
+
+Si logran respuestas fundamentadas y validadas por los contenidos explicados durante los encuentros, ¡entonces van por un excelente camino!
+
+¡Llegó el momento de los pulsos. ¿Te gustaría recibir? no olvides cooperar, dar lo máximo en cada encuentro y colaborar con todos los integrantes.
+
+
+
+---
+
+
+---
