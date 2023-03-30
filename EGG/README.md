@@ -84,9 +84,9 @@
 
 
 ---
-- Clasificación de pruebas
+- 5.1 Encuentro 04: Clasificación de pruebas
 
-- Análisis, planificación y ejecución de pruebas
+- 5.2 Encuentros 05 y 06: Revisión de pruebas. Análisis, planificación y ejecución de pruebas
 
 - Base de datos
 
