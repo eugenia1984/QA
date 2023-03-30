@@ -93,7 +93,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ---
 
-5. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **- Clasificación de pruebas*]*](https://github.com/eugenia1984/QA/tree/main/EGG/05_clasificacion_de_pruebas)
+5. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>**- Clasificación de pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/05_clasificacion_de_pruebas)
 
 - [5.1 Encuentro 04](https://github.com/eugenia1984/QA/blob/main/EGG/05_clasificacion_de_pruebas/encuentro04.md): **Clasificación de pruebas**
 
