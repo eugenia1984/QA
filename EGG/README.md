@@ -84,7 +84,7 @@
 
 
 ---
- **<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **5 - Clasificación de pruebas**
+ <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **5 - Clasificación de pruebas**
 
 - 5.1 Encuentro 04: Clasificación de pruebas
 
