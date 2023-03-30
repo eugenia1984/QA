@@ -2,9 +2,9 @@
 
 ---
 
-## 10 minutos
+## ⏰ 10 minutos
 
-### Introducción
+### :star: Introducción
 
 **¡Te damos la bienvenida a tu segundo encuentro de trabajo!**
 
@@ -26,7 +26,7 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones. ¡Anímense
 
 ## :star: Fallas en el sistema:
 
-## Ejercicio #1
+## ✋ Ejercicio #1
 
 Lean la siguiente frase:“An error (or mistake) leads to a defect (or fault), which can cause an observed failure”
 
@@ -56,7 +56,7 @@ Además de las fallas causadas por defectos en el código, las fallas también p
 
 ---
 
-## 30 minutos
+## ⏰ 30 minutos
 
 ### :book: MATERIAL DE LECTURA 
 
@@ -111,9 +111,9 @@ La causa del defecto o root cause, es aquello que dió lugar al defecto. Ejemplo
 
 ---
 
-## 20 minutos
+## ⏰ 20 minutos
 
-## Ejercicio #2:
+##  ✋ Ejercicio #2:
 
 Piensen un ejemplo en el que se exprese claramente un error en algún sistema
 
@@ -172,7 +172,7 @@ Reflexiona unos minutos… ¿Qué tan cerca estás del perfil del tester? Compar
 
 ---
 
-## 15 minutos
+## ⏰ 15 minutos
 
 ### Ejemplo #3
 
@@ -221,7 +221,7 @@ Validar que el cajero no me entregue dinero y que no modifique el dato “saldo�
 
 ---
 
-## Ejercicio #3
+## ✋ Ejercicio #3
 
 Piensen preguntas funcionales que podrían agregar para comprender el sistema.
 
@@ -313,7 +313,7 @@ D) Autoservicio
 
 ---
 
-## 25 minutos
+## ⏰ 25 minutos
 
 **Secreto de la industria 3**: En cada empresa o grupo de trabajo hay una persona asignada que debería tener el conocimiento “funcional” del sistema. Es decir, conocer qué debe hacer el sistema en múltiples situaciones o escenarios.
 
@@ -380,7 +380,7 @@ Estos son solo algunos factores que un analista QA podría querer tener en cuent
 
 ---
 
-## Ejercicio #4
+## ✋ Ejercicio #4
 
 ¿Qué otros factores tendrías en cuenta para el armado del plan de pruebas de un cliente de email como Gmail o Outlook? ¿Escenarios particulares?
 
@@ -408,7 +408,7 @@ Algunos escenarios adicionales que se podrían tener en cuenta:
 
 ---
 
-## Ejercicio#5 Optativo
+## ✋ Ejercicio # 5 (Optativo)
 
 ¿Estás con ganas de profundizar? Si lo deseas y quieres ganar experiencia “haciendo”, puedes hacer un último ejercicio.
 
@@ -480,7 +480,7 @@ Hasta aquí has practicado mucho. ¡Felicitaciones! Te pedimos que continúes ha
 
 ---
 
-## Ejercicio #6
+## ✋ Ejercicio # 6
 
 Este ejercicio consta de una instancia individual y una grupal. Comencemos por la individual. Reflexiona unos minutos…
 
@@ -610,7 +610,7 @@ Esta pregunta tiene múltiples respuestas, sin embargo podríamos decir que es u
 
 ---
 
-## Diccionario de cabecera
+## :book: Diccionario de cabecera
 
 Como sabrás, todas las disciplinas tienen un diccionario propio y específico del campo de conocimiento al que están circunscritas. Es decir vocabulario relacionado a tareas, elementos, objetos, sistemas, programas o actividades.
 A continuación les presentamos las más importantes:
@@ -659,7 +659,7 @@ Es la secuencia de casos de prueba en orden de ejecución. Son todas aquellas ac
 
 ---
 
-### ¡Hora de cerrar! 
+### ⏰ ¡Hora de cerrar! 
 
 ¡Últimos minutos!
 
