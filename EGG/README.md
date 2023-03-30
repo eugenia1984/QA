@@ -85,11 +85,11 @@
 
 ---
 
-5. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> ** - Clasificación de pruebas**
+5. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **- Clasificación de pruebas**
 
-- 5.1 Encuentro 04: Clasificación de pruebas
+- 5.1 Encuentro 04: **Clasificación de pruebas**
 
-- 5.2 Encuentros 05 y 06: Revisión de pruebas.
+- 5.2 Encuentros 05 y 06: **Revisión de pruebas**.
 
 ---
 
