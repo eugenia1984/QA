@@ -2,9 +2,9 @@
 
 ---
 
-## 10 minutos
+## ⏰ 10 minutos
 
-## Introducción
+## :star: Introducción
 
 **¡Te damos la bienvenida a tu tercer encuentro de trabajo!**
 
@@ -25,7 +25,7 @@ Utilicen unos 10 minutos para compartir estas breves presentaciones. ¿Opinan to
 
 ---
 
-## :star: Ejercicio #1
+## ✋ Ejercicio #1
 
 Comencemos activando algunas ideas previas. Ready? Set? ¡Go! Responde V o F según corresponda y justifiquen la respuesta.
 
@@ -93,9 +93,9 @@ En ocasiones los fallos se dan por razones no funcionales:
 
 ---
 
-## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
 
-### Ejercicio #2
+### ✋ Ejercicio #2
 
 Teniendo en cuenta los siguientes sistemas:
 
@@ -192,7 +192,7 @@ Mientras usamos un sistema pueden ocurrir diversas situaciones. Algunas serán p
   
 Estás comprando un pasaje en micro on line. Luego de seleccionar empresa, fechas de viaje, y reserva de asientos debes completar el formulario de pago para abonar con tu tarjeta de crédito. En ese momento suena el teléfono y mantienes una conversación de 20 minutos. Al finalizar vuelves a la página del sitio y decides terminar de completar el formulario-
 
-  ¿Qué sucederá?
+####  ¿Qué sucederá?
   
 ¿Se enviará el formulario correctamente al clickear “enviar”?
   
@@ -217,9 +217,9 @@ En la mayoría de los sistemas  -a menos que sea extremadamente simple- es impos
  Para seleccionar qué pruebas  testear y cuales no, hay que tener en cuenta los objetivos principales del sistema y los riesgos asociados al fallo de sus diferentes componentes.  
 
  
-  ---
+---
   
-  ## :stars: 3 - El testing temprano ahorra tiempo y dinero
+## :stars: 3 - El testing temprano ahorra tiempo y dinero
   
 Luego de todo lo analizado, pareciera claro entonces que mientras más temprano comiencen las pruebas de testing, menos costoso será corregir los bugs encontrados. 
 En ocasiones, si los tester tienen disponible el sistema para la revisión del plan de pruebas pueden encontrar menor cantidad de bugs en el código.
@@ -235,20 +235,20 @@ La siguiente imagen los ayudará a graficar esta situación.
 
 
  
-  ---
+---
   
-  ## :stars: 4 - Defectos agrupados
+## :stars: 4 - Defectos agrupados
 
 Es probable que la mayor cantidad de defectos se concentren en algunas áreas del sistema. Quizás en aquellas que revisten mayor complejidad o que fueron modificadas múltiples veces. También puede deberse al trabajo de desarrolladores con menor experiencia (solo por nombrar algunos factores)
 
 Si bien es importante testear las áreas del sistema más conflictivas o que tiendan a tener defectos, esto no implica dejar de lado la ejecución de pruebas sobre otras partes que -a simple vista- parecen menos complejas. 
 
-  ¿A qué área nos referimos ? ¿Cuáles creen que podrían ser aquellas en donde suelen agruparse más defectos?
+¿A qué área nos referimos ? ¿Cuáles creen que podrían ser aquellas en donde suelen agruparse más defectos?
 
 
-  ---
+---
   
-    ## :stars: 5 - Pesticide paradox/ Paradoja del pesticida
+## :stars: 5 - Pesticide paradox/ Paradoja del pesticida
 
 ¿Conoces la frase que se le atribuye a Albert Einstein: "Si buscas resultados distintos, no hagas siempre lo mismo”? 
 
@@ -257,9 +257,9 @@ Trasladamos el espíritu de la misma, a nuestro campo de estudio: repetir una y 
 Las pruebas de regresión tienen por objetivo revisar que los cambios introducidos en el sistema no rompan lo que funcionaba correctamente. Para esto, es necesario revisar estas pruebas y asegurar que sean relevantes para los requerimientos nuevos. 
 Si el sistema y sus funcionalidades van modificándose con el tiempo, las pruebas deben adaptarse a esos cambios. 
 
-    ---
+---
   
-    ## :stars: 6 - El testing es dependiente del contexto
+## :stars: 6 - El testing es dependiente del contexto
 
 Qué tipo de pruebas implementar y cómo llevarlas a cabo dependerá de aquello que se está testeando.
 
@@ -267,26 +267,27 @@ Una aplicación web que permite el ingreso de datos personales requerirá más p
 
 Un sistema de navegación de un avión va a necesitar pruebas más exhaustivas que los dos sistemas mencionados anteriormente. 
 
-  ---
+---
   
-  ## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
  
-### Ejercicio #3
+### ✋ Ejercicio #3
 
 ¿Cuál crees que sea el factor que determina la cantidad de pruebas a realizar en un sistema? Discutan la respuesta en el equipo
 
 ---
   
-  ## :stars: 7 - La ausencia de errores es una falacia
+## :stars: 7 - La ausencia de errores es una falacia
 
 Que no se hayan descubierto errores en un sistema, antes, durante o al finalizar el testeo no implica que el sistema carece de bugs.
+
 El testing busca que el sistema que revisamos alcance niveles de calidad y sea aceptable (según los criterios establecidos) además de cumplir con los requisitos solicitados al inicio del desarrollo del sistema.
 
 ---
   
-  ## :book: MATERIAL DE LECTURA 
+## :book: MATERIAL DE LECTURA 
   
-  **¡Un esfuerzo más!**
+**¡Un esfuerzo más!**
   
 Sabemos que el encuentro de hoy requiere de habilidades de lectura y concentración. Hoy debes focalizarse en aprender material teórico. ¡Vienes muy bien!
 Te pedimos un esfuerzo más para conocer todo lo que queremos enseñarte.  Toma una pausa de 10 minutos si lo consideras necesario. Conversa con tus compañeros de equipo, respira, mueve tu cuerpo por un rato. Recarga energía para continuar.🧘💪🏻🧎
@@ -336,20 +337,20 @@ Es común que en el proceso de testing haya iteraciones entre alguna de estas ac
 
 ---
   
-  **Secreto de la industria 3**: No todas las empresas desarrollan estas actividades en su totalidad ni las nombran del mismo modo. Si ya trabajas como QA es probable que hayas realizado alguna de estas, conozcas su clasificación o no.
+**Secreto de la industria 3**: No todas las empresas desarrollan estas actividades en su totalidad ni las nombran del mismo modo. Si ya trabajas como QA es probable que hayas realizado alguna de estas, conozcas su clasificación o no.
   
-  ---
+---
   
-  **Diversidad de perfiles:** Las habilidades para cada una de estas actividades, ¿serán similares? ¿Cuál elegirías para desarrollarte profesionalmente?
+**Diversidad de perfiles:** Las habilidades para cada una de estas actividades, ¿serán similares? ¿Cuál elegirías para desarrollarte profesionalmente?
 
  
   
-  ---
+---
 
-  ## Veamos en profundidad cada una de las actividades y responsabilidades:
+## Veamos en profundidad cada una de las actividades y responsabilidades:
 
   
-  - 1 - **Test planning. – planificación de las pruebas**
+- 1 - **Test planning. – planificación de las pruebas**
 
 
 En la etapa de planificación se define cómo abordar y organizar las tareas relacionadas al testing durante el desarrollo del producto. Además se dividen las  funciones, responsabilidades y se asignan las tareas y se coordina la agenda de trabajo
@@ -361,27 +362,31 @@ Atendiendo al tipo de producto con el que se trabajará (junto a otras variables
 Como toda etapa de planificación puede recibir ajustes en caso de ser necesario.
 
 
-  ---
+---
   
-  **Secreto de la industria 4**:  En una metodología de trabajo ágil, al comienzo de cada ciclo o sprint se planifican las tareas de desarrollo y se deciden qué historias de usuario ingresan. Para cada historia se realiza una estimación de tiempo (de manera grupal) que debe incluir el esfuerzo de testing.
+**Secreto de la industria 4**:  En una metodología de trabajo ágil, al comienzo de cada ciclo o sprint se planifican las tareas de desarrollo y se deciden qué historias de usuario ingresan. Para cada historia se realiza una estimación de tiempo (de manera grupal) que debe incluir el esfuerzo de testing.
 
-  ---
+---
   
-  - 2 - **Test monitoring and control – monitoreo y control de las pruebas**
+- 2 - **Test monitoring and control – monitoreo y control de las pruebas**
 
 
 Esta función implica monitorear el avance de las pruebas cotejando con los objetivos definidos en el plan de pruebas. En caso de que no se cumplan, deberán tomarse todas las decisiones necesarias para el logro de los mismos.
 
 Es posible que en algunos proyectos sea necesario emitir “reportes de progreso”  e involucrar a las personas para que estén al tanto de los avances o en caso de ser necesario un ajuste en las acciones.
+
 En todo caso es bueno tener a las personas involucradas que correspondan al tanto de los avances sobre todo cuando haga falta implementar algún tipo de ajuste para alcanzar algún deadline.
+
 Es interesante tener en cuenta qué tipo de audiencia recibirá nuestros reportes. Esto nos permitirá incluir la información pertinente para cada uno. Seguramente, un cliente no recibirá el mismo reporte que el equipo de desarrollo.
 
 ---
   
-  - 3 - **Test Analysis - análisis**
+- 3 - **Test Analysis - análisis**
 
 La etapa de análisis consiste en revisar la base para los tests y para identificar qué es lo que hay que testear.
+
 Incluye  revisar todo aquello que consideremos “insumo”: historias de usuario, casos de uso, requerimientos funcionales y no funcionales, especificaciones o specs, documentación funcional, diagramas, UMLs, hojas de implementación, tablas, reportes etc.
+
 Estos, deben ser claros, precisos y consistentes (es decir, sin contradicciones).
 
 De la revisión de todo lo disponible para análisis se identifica:
@@ -395,84 +400,86 @@ De la revisión de todo lo disponible para análisis se identifica:
   - Los primeros defectos. 
 
 Es importante (y muy útil) generar trazabilidad entre las condiciones identificadas para las pruebas y los elementos de la base para los tests (test basis) que dieron lugar a dichas condiciones. 
+
 De esta manera, si algo se modifica conocemos con exactitud qué otros materiales deberían ajustarse también.
 
   
-  ### ¿NECESITAS UN EJEMPLO? 
+### ¿NECESITAS UN EJEMPLO? 
   
 Como parte de los requerimientos, un cliente solicitó que cuando los usuarios se registren en su sitio, deben recibir un email automático con la siguiente leyenda “Bienvenido a nuestro sitio”. Es probable que tengamos un test que evalúe la condición mencionada. Es decir, un test que evalúe que el usuario recibe el mail indicado.
 
 Supongamos que el cliente cambia de opinión y lo que en realidad desea es que cuando una persona nueva -que no se había registrado antes- se registra para asistir a un evento, se le envíe el siguiente mail: “Bienvenido a nuestro sitio”. Ahora bien, si esa persona (que ya estaba registrada) intenta hacerlo por segunda vez (quizás con otro mail, pero mismo ID, SSN, nro de pasaporte, etc) se le debe mostrar la siguiente leyenda  “gracias por volver. Por favor revisa la configuración de tu cuenta para corroborar que las notificaciones llegarán al email deseado” 
+
 Además  si una persona (ya registrada en el sitio) lo hace para otro evento, las condiciones indican que se envíe otro mail con un contenido diferente, por ejemplo “Gracias por inscribirte al evento x”
 
 ---
   
-  ## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
 
-  ### Ejercicio #1
+### ✋ Ejercicio #1
 
 Cuando se presentan cambios en la especificación, debemos  revisar y modificar las pruebas que ya  teníamos: ¿Qué cambiarían en la prueba? ¿Agregarían algunas? ¿cuántas? ¿cuáles?
 Ofrezcan sus respuestas a un compañero. Al recibirla deberán comparar y proponer alternativas a esas respuestas (en caso de ser necesario).
 
-  Realicen una puesta en común en el equipo.
+Realicen una puesta en común en el equipo.
   
 Pueden ver la solución aquí:
-  
-  ### SOLUCION
+
+### SOLUCION
   
 Ante el cambio en los requerimientos se debería: 
 
-  A ) modificar la prueba que ya había diseñado
+-A ) modificar la prueba que ya había diseñado
 
-  B) agregar nuevas pruebas. 
+-B) agregar nuevas pruebas. 
 
 Por ejemplo:
 
-A) La prueba existente:
+-A) La prueba existente:
 
-  - Envío de mensaje de bienvenida “bienvenido a nuestro sitio” para nuevo usuario registrado
+- Envío de mensaje de bienvenida “bienvenido a nuestro sitio” para nuevo usuario registrado
 
-  - Podría modificarse como:
+- Podría modificarse como:
 
-  - Envío de mensaje de bienvenida “bienvenido a nuestro sitio” para usuario que se registra usando la opción “registrarse” [precondición: no debe existir otro ID / SSN / nro de pasaporte igual en el sistema]
+- Envío de mensaje de bienvenida “bienvenido a nuestro sitio” para usuario que se registra usando la opción “registrarse” [precondición: no debe existir otro ID / SSN / nro de pasaporte igual en el sistema]
 
-B) Nuevas pruebas:
+-B) Nuevas pruebas:
 
-  - Envío de mensaje “gracias por volver, por favor revisa la configuración de tu cuenta para corroborar que las notificaciones llegarán al email deseado” 
+- Envío de mensaje “gracias por volver, por favor revisa la configuración de tu cuenta para corroborar que las notificaciones llegarán al email deseado” 
 para usuario que se registra usando la opción “registrarse” [precondición: debe existir otro ID / SSN / nro de pasaporte igual en el sistema] 
   
 - Envío de mensaje “gracias por inscribirte al evento x” para usuario que se registra usando la opción “registrarse para el evento” [precondición: debe existir otro ID / SSN / nro de pasaporte igual en el sistema] 
 
-  - Mensaje de error “usuario ya registrado” en pantalla para usuario que intenta registrarse con un email ya registrado.
+- Mensaje de error “usuario ya registrado” en pantalla para usuario que intenta registrarse con un email ya registrado.
 
   
 ¿Cómo les fue?
 
 
- ---
+---
   
-  ## Ejercicio #2
+## ✋ Ejercicio #2
 
 ¿Cuál es el costo de corregir defectos encontrados en la documentación en relación al costo de que avancen y lleguen a otras etapas del ciclo de desarrollo?
 
 #### SOLUCION
   
-  El costo de encontrar y corregir defectos aumenta a lo largo del ciclo de vida de desarrollo. Cuanto más temprano detectemos, menor costo e impacto tendrá sobre el sistema y el presupuesto
+El costo de encontrar y corregir defectos aumenta a lo largo del ciclo de vida de desarrollo. Cuanto más temprano detectemos, menor costo e impacto tendrá sobre el sistema y el presupuesto
 
   
-  ![image](https://user-images.githubusercontent.com/72580574/228081897-c3cd1bcf-4dbc-4309-99a8-6d670f484e0f.png)
+![image](https://user-images.githubusercontent.com/72580574/228081897-c3cd1bcf-4dbc-4309-99a8-6d670f484e0f.png)
 
   
   
 Hay algunas técnicas de testing que, sobre todo al principio de tu carrera, pueden ser útiles para esta etapa  ya que pueden ayudarte a visualizar condiciones para las pruebas que a simple vista no resulten tan obvias. Las detallaremos más adelante. 
 
-  ---
+---
   
-  **Secreto de la industria 5**:  En una metodología de trabajo ágil, se seleccionan las pruebas que deberían quedar como pruebas de regresión y se analizan si estas  deberían actualizarse o editarse. 
+**Secreto de la industria 5**:  En una metodología de trabajo ágil, se seleccionan las pruebas que deberían quedar como pruebas de regresión y se analizan si estas  deberían actualizarse o editarse. 
 
 ---
   
-  ## :stars:  4 - Test design – Diseño de casos de prueba
+## :stars:  4 - Test design – Diseño de casos de prueba
 
 
 En esta etapa profundizamos los detalles y definimos cómo se realiza el testeo. 
@@ -492,15 +499,15 @@ Cada caso de prueba debe explicitar:
 Se deben crear la cantidad de casos de prueba necesarios para probar cada condición. 
 
   
-  #### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
   
 Condición: “ Para pagos en efectivo, aplicar un 10% de descuento sobre el total de la compra” 
 
 Esta condición podría dar lugar a tantos casos de prueba como métodos de pago existiesen al menos dos casos de prueba: 
 
-  A ) Se abona en efectivo y en el resultado se debe observar el 10% de descuento. 
+ - A ) Se abona en efectivo y en el resultado se debe observar el 10% de descuento. 
 
-  B ) Se abona con cualquier método de pago (distinto al efectivo) y su resultado esperado NO incluye el. 
+-  B ) Se abona con cualquier método de pago (distinto al efectivo) y su resultado esperado NO incluye el. 
 
   
 Es importante generar trazabilidad entre los casos de prueba creados en esta instancia y las condiciones para las cuales se está creando los casos de prueba. A su vez, los casos de prueba deben haber quedado vinculados a la base para los tests (nuestro insumo fundamental de análisis).
@@ -516,13 +523,13 @@ Estas son algunas de las preguntas que podríamos hacer:
 ¿Tarjeta de débito cuenta como pago en efectivo? ¿Se aplica el descuento para alguno de esos métodos de pago? ¿Pago en efectivo es únicamente con billetes o mediante transacción personal?
 
   
-  ---
+---
   
-  **¡SUPER TIP!**  Lo ideal es tomar nota de todas las preguntas funcionales que nos surgen y comunicarlas de manera ordenada a quien corresponda. Sugerimos que todo el trabajo del tester esté documentado y registrado y la comunicación unificada mediante canales oficiales.
+**¡SUPER TIP!**  Lo ideal es tomar nota de todas las preguntas funcionales que nos surgen y comunicarlas de manera ordenada a quien corresponda. Sugerimos que todo el trabajo del tester esté documentado y registrado y la comunicación unificada mediante canales oficiales.
 
-  ---
+---
   
-  ## Ejercicio #3
+## ✋ Ejercicio #3
 
 Analicen la descripción de requerimientos que se encuentra en el recuadro debajo. 
   
@@ -546,29 +553,30 @@ Hay algún criterio para definir cuando se está vendiendo un rollo entero? ¿Es
   
 Sitio: E-commerce de venta minorista y mayorista de telas por metro y por rollo. 
 
-  - El sitio debe permitir cobro por transferencia bancaria, tarjeta de débito y crédito.
+- El sitio debe permitir cobro por transferencia bancaria, tarjeta de débito y crédito.
 
-  - Debe enviar mensaje de confirmación de compra exitosa.
+- Debe enviar mensaje de confirmación de compra exitosa.
 
-  - Envío de email con listado de los items comprados, total de la compra, información de método de pago utilizado y estado del pago, link de tracking de envío. 
+- Envío de email con listado de los items comprados, total de la compra, información de método de pago utilizado y estado del pago, link de tracking de envío. 
 
-  - Mensaje de pago rechazado
+- Mensaje de pago rechazado
 
-  ---
+---
   
-  ## SUPER TIP
+## SUPER TIP
   
 High level test case – low level test case
 
 Puede suceder que en ciclos de Desarrollo ágil (o trabajando con restricciones de tiempo) sea difícil escribir todos los casos de prueba con el detalle requerido para cada caso de prueba. 
+
 Deberíamos entonces documentar al menos los escenarios de prueba (high level test case)  es decir los que corresponden a las condiciones diferentes que tenemos que probar. Esto se realiza escribiendo generalidades y evitando los  sets de datos específicos que deberían encontrarse en cada caso de prueba.
 Como ventaja se encuentra el menor tiempo empleado y la utilización de este escrito como guía para no olvidar el testeo de ninguna condición del sistema. Si la ejecución de las pruebas la realiza otra persona con poco conocimiento en el sistema se lo considera esto no sería útil, entonces se lo considera  una desventaja. 
 
 
   
-  ---
+---
   
-  ## :stars: 5 - Test implementation - implementación
+## :stars: 5 - Test implementation - implementación
 
 
 En esta etapa (puede suceder de manera independiente o simultánea con las otras) se vinculan los casos de pruebas creados con  la ejecución de los casos de prueba (es decir con hacer correr las pruebas). 
@@ -589,7 +597,7 @@ Aquí analizamos si contamos con todo lo necesario para ejecutar las pruebas:
   
 ¿Hay trazabilidad entre todos los elementos que fuimos creando a partir de otros?
   
-  ### ¿NECESITAS UN EJEMPLO? 
+### ¿NECESITAS UN EJEMPLO? 
   
 Casos de prueba: 
   
@@ -597,12 +605,14 @@ Probar que no puedo registrarme si ya tengo un usuario creado con el mismo email
   
 En el ambiente de prueba debería tener el email que voy a usar creado en el sistema que voy a testear.  La precondición para mi prueba seria: “En el sistema ya hay un usuario creado con el email xxxx”
 
-### Ejercicio #4
+---
+
+### ✋ Ejercicio #4
 
 Teniendo en cuenta la solución del ejercicio anterior (e-commerce). ¿Qué revisarían en la etapa de implementación y qué información agregarían para cumplir con la ejecución?
 Compartan con el resto del equipo. ¿Todos alcanzaron las mismas conclusiones?
 
-  #### SOLUCION
+#### SOLUCION
 
 Teniendo en cuenta la  solución del ejercicio anterior ( e-commerce). ¿Qué revisarían de la etapa de implementación y qué información agregarían para cumplir con la ejecución?
 
@@ -626,11 +636,11 @@ Como mínimo deberíamos contar con:
   
 Un  ambiente de testing dado de alta que contenga los elementos que luego voy a usar para las pruebas: telas en stock, telas sin stock, algún usuario ya dado de alta, etc. 
 
-  Una matriz de prueba con los casos de prueba bien escritos.
+Una matriz de prueba con los casos de prueba bien escritos.
  
 ---
   
-  ## :stars: 6 - Test execution – Ejecución de las pruebas
+## :stars: 6 - Test execution – Ejecución de las pruebas
 
 
 Llamamos a esta es la etapa ecuación de las pruebas ya que es en la cual se “corren los tests” manualmente o con herramientas de ejecución de pruebas
@@ -663,13 +673,13 @@ Como resultado de esta etapa, pueden surgir los siguientes productos:
 
 ---
   
-  ###  Ejercicio #5
+###  ✋ Ejercicio #5
 
 ¿En qué situación un caso de prueba podría quedar marcado como bloqueado?
 
-  #### SOLUCION
+### SOLUCION
   
-  ¿En qué situación un caso de prueba podría quedar marcado como bloqueado?
+En qué situación un caso de prueba podría quedar marcado como bloqueado?
 
 Podemos mencionar al menos tres situaciones:
   
@@ -682,10 +692,11 @@ Cuando parte de la funcionalidad a probar aún no se implementó en el ambiente 
 
 ---
   
-  ## :stars: 7 - Test completion
+## :stars: 7 - Test completion
 
 
 Esta etapa hace alusión a la finalización de la ejecución de las pruebas. También se la denomina “de completitud de las pruebas” 
+
 En inglés las referencias a esta etapa se pueden encontrar como: test completion (completitud de las pruebas), completion criteria (criterio de completitud), exit criterio (criterio de salida), definition of done (definición de hecho).
 
 Qué acciones reviste esta etapa:
@@ -698,9 +709,9 @@ Guardar y archivar el ambiente y la infraestructura para la ejecución de los te
   
 Analizar si existe algún espacio de mejora en base a la experiencia del proceso terminado.
 
-  ---
+---
   
-  ##  Ejercicio #6
+### ✋  Ejercicio #6
 
 
 Pedidos de cambio o reportes de bug [change request / feature request or bug report]
@@ -711,10 +722,10 @@ Imaginen que atravesaron por las etapas de análisis y ejecución de pruebas y q
   
 ¿Cuándo podrían  crear una nueva historia, un pedido de cambio o un pedido de ajuste de funcionalidad?
   
-  #### SOLUCION
+#### SOLUCION
   
   
-  ### Pedidos de cambio o reportes de bug [change request / feature request or bug report]
+### Pedidos de cambio o reportes de bug [change request / feature request or bug report]
 
 Imaginen que atravesaron por las etapas de análisis y ejecución de pruebas y que encontraron algunos comportamientos no esperados. 
 
@@ -722,7 +733,9 @@ Imaginen que atravesaron por las etapas de análisis y ejecución de pruebas y q
 
   - ¿Cuándo podrían  crear una nueva historia, un pedido de cambio o un pedido de ajuste de funcionalidad?
 
-  ### Bug request: 
+
+
+### Bug request: 
   
 Ante un comportamiento obtenido que sea diferente del comportamiento esperado para un caso de prueba que estaba claramente definido en la documentación. 
 
@@ -733,9 +746,9 @@ Ante un comportamiento obtenido que sea diferente del comportamiento esperado pa
   
 Si el comportamiento que obtuve se relaciona a algo que no estaba muy bien documentado o muy claro en el insumo que use como base para diseñar los tests y lo reviso con la persona en el equipo que debería poder decir como se debería comportar el sistema (FA, PO, etc) y me confirma que lo que encontré debería tratarse como una mejora y no como un bug. 
 
-  ---
+ ---
 
-  ## ¿NECESITAS UN EJEMPLO? 
+ ## ¿NECESITAS UN EJEMPLO? 
   
 Encuentras algo que parece un bug. Sin embargo, al reportarlo, el desarrollador no está de acuerdo. A su vez, el responsable (PO, FA, etc) solicita que reporten aquello que encontré como bug. 
 
@@ -743,28 +756,28 @@ Encuentras algo que parece un bug. Sin embargo, al reportarlo, el desarrollador 
 
   En un equipo de desarrollo el abordaje del trabajo es siempre colaborativo, la meta es escucharnos, entendernos y construir y  jamás competir.
 
-  ---
+---
   
-  **TIP ALERT**: La comunicación es fundamental para evitar malos entendidos y comprender cómo continuar frente a ciertos inconvenientes. Recuerda: Organiza reuniones y encuentros para aclarar las diferencias  o para explicar aquello que consideres necesario
+**TIP ALERT**: La comunicación es fundamental para evitar malos entendidos y comprender cómo continuar frente a ciertos inconvenientes. Recuerda: Organiza reuniones y encuentros para aclarar las diferencias  o para explicar aquello que consideres necesario
 
 ---
   
-   **¡Se viene un momento de esfuerzo!**
+**¡Se viene un momento de esfuerzo!**
   
 Ánimo, sabemos que hoy fue un día intenso: mucha lectura, análisis, reflexión y varios ejercicios. Queremos que desarrollen su perfil al máximo. Aquí les ofrecemos las mejores oportunidades para que lo logren 🙂
 
 
-## Ejercicio #7
+## ✋ Ejercicio #7
 
 A continuación les presentamos dos sistemas:
   
-Homebanking
+- Homebanking
   
-Blog de recetas.
+- Blog de recetas.
 
 Debatan y documenten cómo ordenarían las tareas de test para cada uno de estos sistemas dependiendo de si cuentan con tiempo limitado o con tiempo ideal para desarrollar las pruebas de test.
 
-  #### SOLUCION
+#### SOLUCION
   
   ![image](https://user-images.githubusercontent.com/72580574/228083375-da4a4c36-e41c-4e1e-9f68-f6db2dd73aeb.png)
 
@@ -774,9 +787,9 @@ Debatan y documenten cómo ordenarían las tareas de test para cada uno de estos
 
   
 
-  ---
+---
 
-  ## :star: Modelos y metodologías de desarrollo
+## :star: Modelos y metodologías de desarrollo
   
 Las actividades de testing tienen sentido cuando se enmarcan en un ciclo de desarrollo del software. A este ciclo lo atraviesan distintas metodologías compuestas por etapas. En cada una se produce algún tipo de material.
 
@@ -804,11 +817,11 @@ Esta metodología es de carácter secuencial: es decir que cada etapa inicia sol
 
 ![image](https://user-images.githubusercontent.com/72580574/228083625-6d591acc-7478-438a-8506-19b8e322630e.png)
 
-  ### ¿Y el testing?
+### ¿Y el testing?
 
 Se realiza solo cuando el código fue desarrollado por completo. El testing funciona como “evaluación de calidad” ya se  para aceptar o rechazar el producto.
 
-  #### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
   
 En una analogía con una fábrica, el testing podría representar el retiro de la línea de producción de aquellos productos con fallas para que solo salgan al mercado los productos que pasaron las pruebas de calidad.
 
@@ -828,12 +841,12 @@ Al igual que en el desarrollo en cascada, cada etapa debe cerrarse antes de come
 
 
   
-  #### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 La planificación del UAT (user acceptance testing) se genera cuando la especificación de los requerimientos están listos, claros y documentados.
 
 Esto implica que omisiones, inexactitudes y todo tipo de errores humanos (que pueden  dar lugar a defectos) son posibles de identificar y corregir al principio del ciclo, antes de continuar con las etapas siguientes.
 
-  ## Modelos iterativos e incrementales
+## :star: Modelos iterativos e incrementales
 
 Las metodologías ágiles producen software en entregas a lo largo de iteraciones, ciclos o sprints (tres palabras similares para referirnos a lo mismo). 
 
@@ -848,7 +861,7 @@ Esta metodología de trabajo, permite que el software salga a producción con un
 
 Como desventaja puede mencionarse que en ciclos o iteraciones no se documenten correctamente los procesos. Para mitigar este posible error, es importante la tarea de análisis del equipo de testing y la implementación de TDD como método de trabajo. 
   
-  #### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
   Algunos Modelos iterativos son también conocidos como Metodologías Ágiles:
 
@@ -860,17 +873,17 @@ Como desventaja puede mencionarse que en ciclos o iteraciones no se documenten c
 
   - **Spiral** – El factor de riesgo se usa para determinar el nivel de documentación y esfuerzo dedicado a cada fase. 
 
-  ---
+---
   
-  ## Vamos con el siguiente desafío ¿Estás preparado? 
+## Vamos con el siguiente desafío ¿Estás preparado? 
   
 Lee el siguiente artículo (que se encuentra en inglés): [https://www.toolsqa.com/software-testing/waterfall-model/](https://www.toolsqa.com/software-testing/waterfall-model/)
   
-  ---
+---
   
-  ## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
 
-### Ejercicio #8
+### ✋ Ejercicio #8
   
 - Discutan las ventajas y desventajas de cada modelo y completen el siguiente cuadro indicando qué tipo de modelo elegirían para el desarrollo de cada uno de estos productos.
 
@@ -882,18 +895,18 @@ Lee el siguiente artículo (que se encuentra en inglés): [https://www.toolsqa.c
   ![image](https://user-images.githubusercontent.com/72580574/228084142-b840ed3f-366b-4cd8-bab1-d9db95124959.png)
 
   
-  ---
+---
   
-  **¡Pro tip alert!** Siempre deben validarse y chequear con el equipo los procedimientos de testing hasta estar seguro que lo que se está haciendo y que el abordaje elegido es funcional al equipo de desarrollo. 
+**¡Pro tip alert!** Siempre deben validarse y chequear con el equipo los procedimientos de testing hasta estar seguro que lo que se está haciendo y que el abordaje elegido es funcional al equipo de desarrollo. 
 Recuerda que si bien hay buenas prácticas y estándares, cada equipo o empresa, trabaja con metodologías propias. Esto puede derivar en prácticas más específicas, especiales o algo diferentes. 
 Escuchá al equipo, realiza aportes constructivos y decidan en conjunto como trabajar en cada proyecto. 
 
 
   
   
-  ---
+---
   
-  ## ¡Hora de cerrar! 
+  ## ⏰ ¡Hora de cerrar! 
   
 El día de hoy estuvo dedicado a la lectura y a la ejercitación. Sabemos que no todos aprendemos de la misma manera y queremos respetar eso: ¿Cómo se sintieron? ¿Qué contenidos lograron incorporar?
 
