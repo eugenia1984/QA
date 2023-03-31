@@ -410,13 +410,253 @@ Para temperaturas positivas hasta 25 grados: un ícono B
 Para temperaturas mayores a 25 grados: un ícono C
 
 Indiquen cuales son las particiones equivalentes y los valores límite para esta especificación
+
 Indiquen qué casos de prueba armaron, con qué datos o inputs.
 
+#### SOLUCION
+
+Es hora de  analizar el sistema de un protector de tensión. Este debe cortar  cuando la tensión es menor a 182 Volts o cuando es mayor a 242 Volts. 
+
+##### ¿Cuáles son nuestros valores límite?
+
+Usando la versión de la técnica que aconseja agregar un valor más en cada partición, ¿Qué valores límite identifican?
+
+
+- 181v 182v 242v 243v: Para usar la versión de la técnica que aconseja agregar un valor más en cada partición, podríamos identificar: 181v, 182v, 183v y 241v, 242v, 243v
+
+- 181v y 243v serían valores límite válidos. Es decir, los valores del caso positivo. En este caso El protector de tensión corta la tensión.
+
+- 182v, 183v, 241v, 243v serían valores límite inválidos. Es decir, los valores del caso negativo: El protector de tensión no cambia de estado, sigue pasando corriente.
+
+
+#### Ejercicio extra
+
+Crear casos de prueba para una app que debe mostrar un ícono diferente según rangos de temperatura ambiental que muestra en pantalla. El termómetro mide entre -100 y 100 grados celsius:
+
+- Para temperaturas negativas: un ícono A
+
+- Para temperaturas positivas hasta 25 grados: un ícono B
+
+- Para temperaturas mayores a 25 grados: un ícono C
+
+Indiquen cuales son las particiones equivalentes y los valores límite para esta especificación
+
+Indiquen qué casos de prueba armarían, con qué datos o inputs.
+
+
+- Partición A: temperaturas menores a 0 (-100 a -1)
+
+- Partición B: temperaturas entre 1 y 25 grados inclusive
+
+- Partición C: temperaturas mayores a 25 grados (entre 26 y 100)
+
+- Partición D: 0 grados > habría que confirmar a qué grupo pertenece.
+Valores límite: -101, -100.9 , -99, -1, 0, 0.9,  1, 25.9 , 26, 99, 100, 100.9, 101
+
+- Valores límite inválidos: -101, 101
+
+---
+
+## TABLA DE DECISIÓN
+
+:tv: -> ¡Pasen y vean el [siguiente video](https://youtu.be/V6zMUWf-2kA)!
+
+---
+
+### Ejercicio #5
+
+Analicen -utilizando una  tabla de decisión - el siguiente sistema de login:
+
+- Para loguearse exitosamente hace falta ingresar un usuario válido y la contraseña asociada a ese usuario.
+
+- Si el usuario existente ingresa una contraseña incorrecta se muestra el mensaje: “contraseña incorrecta”
+
+- Si el usuario existente ingresa una contraseña incorrecta más de 3 veces se le bloquea la cuenta. 
+
+- Si el usuario existente usa la opción “olvidé mi contraseña” más de 3 veces, se envía un email de alerta a la dirección de correo electrónico asociada al usuario. 
+
+- Si se ingresan datos de un usuario que no existe en la base de datos, se debe mostrar el mensaje: “usuario no encontrado. Puedes crear un nuevo usuario clickeando en Registrarte”
+
+##### SOLUCION
+
+
+![image](https://user-images.githubusercontent.com/72580574/229007530-a1485f6d-f289-4191-96cb-0095ce52e0eb.png)
+
+
+
+---
+
+#### ¡Un esfuerzo más! Ejercicio Extra
+
+Retomando el ejemplo del armado de plan de pruebas para un cliente de email, construyan una tabla de decisión para identificar qué información sobre comportamientos haría falta confirmar para luego poder armar un plan de pruebas. 
+
+#### SOLUCION
+
+![image](https://user-images.githubusercontent.com/72580574/229007652-71dc41b8-369d-4b03-bc55-fa2a21ac2b22.png)
+
+*Si en lugar de V o F utilizaría otra descripción como “x”  algunas de mis opciones deberían ser más explícitas. Por ejemplo: con vpn/sin vpn, con internet/sin internet, con proxy/sin proxy. 
+
+---
+
+## :star: TRANSICIÓN DE ESTADOS
+
+:tv: -> Descubran [aquí](https://www.youtube.com/watch?v=Tz-Y7PAzdZg) de qué se trata este apartado.
+
+---
+
+###  Ejercicio #6
+
+A partir de esta tabla crea los casos de prueba y asegúrate de probar todos los estados.
+
+![image](https://user-images.githubusercontent.com/72580574/229007940-98bf1782-89aa-46ec-8b01-48b3a1ec2aee.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/229007956-eb0c7938-cf2e-4ed1-b909-95cff7820367.png)
+
+
+#### SOLUCION
+
+Ejemplo de cómo podrían quedar divididos algunos casos de prueba:
+
+- Prueba 1: precondición: pantalla en estado inicial. Pasos: insertar tarjeta. Resultado esperado: Pantalla de bienvenida con mensaje “ingresar pin”
+
+- Prueba 2: precondición: intentos inválidos 0 + pantalla de bienvenida con mensaje ingresar pin. Pasos: ingresar pin inválido (1111). Resultado esperado: Mensaje de error indicando que debe ingresarse un pin correcto. Campos de número habilitados para el ingreso de pin
+
+- Prueba 5: precondición: intentos inválidos 2 + pantalla de bienvenida con mensaje ingresar pin. Pasos: ingresar pin inválido (1111). Resultado esperado: Mensaje de error + retención de tarjeta
+
+- Prueba 6: precondición: pantalla de bienvenida con mensaje ingresar pin. Pasos: ingresar pin valido (9406). Resultado esperado: Pantalla principal de la cuenta del cliente.
+
+---
+
+### Ejercicio Extra
+
+Según la tabla, queda claro que no tenemos a disposición todos los estados y acciones posibles para el sistema. ¿Qué preguntas harías para completar tu análisis sobre este sistema?
+
+
+##### SOLUCION
+
+¿Qué preguntas harías para completar tu análisis sobre este sistema?
+
+¿Qué ocurre si en el estado a) no se inserta la tarjeta? > quizás hay una transición de imágenes que debe repetirse esperando tarjeta?
+¿Qué ocurre si en el estado b) o c) o d) no se ingresa ningún pin? Luego de equis cantidad de minutos se devuelve la tarjeta? O el cajero la retiene?
+
+Probablemente el estado f) de lugar a la realización de otras acciones, pero puede que esté por fuera del ámbito de esta funcionalidad particular.
+
+
+
+---
 
 
 https://docs.google.com/document/d/1vwEBGS1l6j5dy9nbRxh_1fFO92U4BxoUaEUOOPEjImk/edit#
 
 ---
 
+### :star:  CASOS DE USO
+
+:tv: ¿Quieren saber de qué se trata? Observen juntos el siguiente [video](https://youtu.be/YdhOoC4VhZE)
+
+---
+
+### Ejercicio #7
+
+Teniendo en cuenta los siguientes casos de uso para un sistema: 
+
+A) Desglosen la información disponible en los casos de uso y analicen sus apartados.
+
+B) ¿De qué sistema se trata?
+
+C) Diseñen los escenarios de prueba que consideren necesarios para testear el sistema. (* Los escenarios de prueba están escritos en alto nivel. No requieren todo el nivel de detalle de un caso de prueba formalmente escrito)
+
+1. Los administradores pueden desbloquear las cuentas de usuario desde el panel de “control de usuario”. Los administradores sólo tienen  permisos de edición para las secciones de administración y manejo de usuario. 
+
+2- Los auditores pueden ingresar al sistema desde la url de inicio y acceder a todas las secciones en modo read-only, sin permisos para editar.
+
+3. Los editores pueden ingresar al sistema desde la url de inicio y acceder a las secciones: página nueva, blog, entradas, librería con permisos de edición. Ellos acceden a todas las herramientas de edición y publicación, pero no de manejo de usuarios (administración)
 
 
+#### SOLUCION
+
+
+A) Diseñen los escenarios de prueba que consideren necesarios para testear el sistema. (* Los escenarios de prueba están escritos en alto nivel. No requieren todo el nivel de detalle de un caso de prueba formalmente escrito)
+
+1. Los administradores pueden desbloquear las cuentas de usuario desde el panel de “control de usuario”. Los administradores sólo tienen  permisos de edición para las secciones de administración y manejo de usuario. 
+
+2. Los auditores pueden ingresar al sistema desde la url de inicio y acceder a todas las secciones en modo read-only, sin permisos para editar.
+
+3. Los editores pueden ingresar al sistema desde la url de inicio y acceder a las secciones: página nueva, blog, entradas, librería con permisos de edición. Ellos acceden a todas las herramientas de edición y publicación, pero no de manejo de usuarios (administración)
+
+
+A) análisis:
+
+Roles:
+
+- admin
+
+- auditor
+
+- editor
+
+Funcionalidades: 
+
+- desbloqueo de cuentas de usuario
+
+- edición
+
+- publicación
+
+Secciones:
+
+- Administración: panel de control de usuario
+
+- página nueva
+
+- blog
+
+- administración de entradas
+
+- librería
+
+Permisos:
+
+- acceder a $sección
+
+- ver $sección
+
+- editar $sección
+
+- desbloquear cuenta
+
+Sistema de publicaciones con roles (simil wordpress)
+
+##### Escenarios de prueba
+
+1. el administrador puede desbloquear cuentas de usuario bloqueadas (desde administracion > panel del usuario)
+
+2. El administrador puede ver blog, librería, y administración de entradas pero no puede clickear en el botón página nueva que lo lleva a la creación de una nueva página (el botón esta deshabilitado)
+
+3. Todo usuario con una cuenta que fue desbloqueada puede acceder al sistema (editor, admin y auditor)
+
+4. El auditor puede acceder a la seccion de administracion en modo read only 
+
+5. El auditor puede acceder al panel de usuario y el botón de desbloquear cuenta no está clickeable
+
+6. El auditor puede ver blog, librería y administración de entradas pero no puede clickear en el botón página nueva que lo lleva a la creación de una nueva página (el botón esta deshabilitado)
+
+7. El editor ve las opciones de menú blog, entradas, librería (administración no está visible) 
+
+8. El editor puede crear una nueva entrada, publicarla y visualizarla en el blog.
+
+9. Luego de “n” intentos de acceso inválidos según la configuración de seguridad del sistema, las cuentas de auditor/editor/administrador quedan bloqueadas
+
+10. El auditor / editor / Administrador con cuenta bloqueada no puede acceder al sistema.
+
+
+---
+
+### ¡Hora de cerrar! 
+
+Hoy fue un día de mucha práctica, revisen las dudas, registren y utilicen Discord para consultar todo aquello aún no logran comprender. ¿Preparados para avanzar?
+
+¡Llegó el momento de los pulsos. ¿Te gustaría recibir? No olvides cooperar, dar lo máximo en cada encuentro y colaborar con todos los integrantes. 
+
+---
