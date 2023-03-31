@@ -105,7 +105,7 @@ Puedes revisar el modelo anterior para recordar la respuesta
 
 ---
 
-4. :star: **Pruebas de aceptación (acceptance testing)**
+4. 📘 **Pruebas de aceptación (acceptance testing)**
 
 El objetivo es probar que el sistema funciona acorde a lo solicitado por el usuario final tanto  a nivel funcional como operacional.
 
@@ -135,7 +135,7 @@ El objetivo final de las pruebas de aceptación no solo encontrar defectos, si n
 
 ---
 
-## :star: Tipos de prueba
+##  📘 Tipos de prueba
 
 A continuación presentamos dos tipos de pruebas 
 
@@ -200,7 +200,7 @@ Justifiquen su respuesta y redacten los aportes que podría ofrecer la experienc
 ![image](https://user-images.githubusercontent.com/72580574/228983727-4d537731-2806-4788-a00d-c708b3b75a4c.png)
 
 
-:star: **B - PRUEBAS NO FUNCIONALES**
+ 📘 **B - PRUEBAS NO FUNCIONALES**
 
 Estas pruebas se enfocan en los aspectos no funcionales del comportamiento del sistema tales como:  performance, accesibilidad, usabilidad, seguridad.
 
@@ -242,7 +242,7 @@ Existen distintas herramientas para realizar las pruebas no funcionales. Algunas
 
 ---
 
-### Para los más curiosos…
+### :book: Para los más curiosos…
 
 Algunas empresas deben cumplir con ciertos niveles de accesibilidad por diversos motivos. 
 
@@ -256,7 +256,7 @@ Ten en cuenta los siguientes tips de diseño para tener en cuenta las condicione
 
 ---
 
-## :star: Pruebas de caja blanca  - (WBT – White-Box Testing / structural testing)
+##  📘 Pruebas de caja blanca  - (WBT – White-Box Testing / structural testing)
 
 
 El testing de “caja blanca”, también conocido como pruebas estructurales,  refiere al hecho de que testeamos sabiendo cómo está construido el código: conocemos la estructura del código. 
@@ -284,7 +284,7 @@ Llamamos pruebas funcionales de caja negra porque son pruebas que se enfocan en 
 ---
 
 
-## :star: Test relacionado a cambios
+##  📘 Test relacionado a cambios
 
 Los defectos pueden aparecer en cualquier nivel del testing y al corregirlos, la calidad del sistema mejora. 
 
@@ -316,14 +316,14 @@ Cuando los tests de regresión no están automatizados hay que ejecutarlos de ma
 
 ¡Un esfuerzo más! Sabemos que has leído bastante material, te proponemos que continúes, puedes hacerlo. ¡La satisfacción de conseguir tu objetivo será muy grande!
 
-#### Enfoque estático y dinámico
+####  📘 Enfoque estático y dinámico
 
 Para introducir el tema, veamos el siguiente [:tv: video](https://youtu.be/OEcN5NNScdM) explicativo
 
 
 ---
 
-## :star: Pruebas estáticas (static testing)
+##  📘 Pruebas estáticas (static testing)
 
 Las técnicas de pruebas estáticas testean el sistema o software sin ejecutarlo. Su objetivo es encontrar errores y defectos antes de que se construya y ejecute el código debido a que la detección temprana de defectos permite que su corrección sea menos costosa.
 
@@ -369,7 +369,7 @@ Algunos beneficios:
 
 ---
 
-## :star: Pruebas dinámicas (Dynamic testing
+##  📘 Pruebas dinámicas (Dynamic testing
 
 Las pruebas dinámicas tienen el mismo objetivo que el testing estático: encontrar defectos lo antes posible. Pero a diferencia de éste, el dinámico se realiza  ejecutando el código, es decir usando el sistema construido. 
 El testing dinámico, por lo tanto prueba y analiza los comportamientos observables cuando el código es ejecutado, es decir  cuando el sistema es puesto en funcionamiento. 
@@ -392,11 +392,11 @@ Según lo estudiado en los módulos anteriores, ¿cómo clasificarías las tarea
 
 ---
 
-##  ¡Hora de cerrar! 
+##  ⏰  ¡Hora de cerrar! 
 
 Has aprendido mucho hoy. Es tiempo de hacer un pequeño desafío llamado Check Point. ¿Estás preparado? 
 
-### Check point
+### 🏁  Check point
 
 - ¿Qué es testing estático?
 
