@@ -25,7 +25,10 @@ En el encuentro anterior estudiaron sobre los tipos de prueba de testing y su cl
 
 Si quedó alguna duda, pueden resolverla en equipo o llamar al mentor para que pueda ayudarlos. Recuerden que ustedes también pueden ser un mentor en caso de recibir los pulsos necesarios 💪
 
+
+
 ## :star: Proceso de revisión y técnicas
+
 
 Las revisiones se realizan para cumplir con diversos objetivos:
 
@@ -35,6 +38,7 @@ Las revisiones se realizan para cumplir con diversos objetivos:
 
 - Debate y toma de decisiones dentro del equipo.
 
+
 #### Hay dos tipos: 
 
 1. **Revisión Informal**: Para la revisión informal no es requerido seguir ningún proceso definido ni generar alguna documentación en particular. 
@@ -42,12 +46,15 @@ Las revisiones se realizan para cumplir con diversos objetivos:
 Según “..... No requiere ningún proceso definido, ni reuniones específicas, ni creación “obligada” de documentación. Quien revisa se organiza como desee. El objetivo es encontrar defectos…” 
 
 
+
 2. **Revisión Formal**: La revisión formal sigue un proceso definido, requiere participación del equipo y documentación sobre los resultados.
 
 El tipo de revisión (informal a lo formal) depende de cada empresa. 
 Usualmente entre más consolidado el proceso de desarrollo, más formal tiende a ser el proceso de revisión.
 
+
 Otros factores que determinan el nivel de formalidad son: 
+
 
 - La complejidad del producto
 
@@ -59,9 +66,9 @@ Otros factores que determinan el nivel de formalidad son:
 
 ---
 
-## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
 
-## Ejercicio #1
+## ✋ Ejercicio #1
 
 Tómense unos minutos para reflexionar individualmente.
 
@@ -125,7 +132,7 @@ Documentar de qué tipo de revisión se trata y sus características. Por ejempl
 Un tester podría o no ser formalmente invitado a un proceso formal de revisión de documentación. Sea invitado o no, tendrá que analizar la documentación para planificar las pruebas que se llevarán a cabo y en esa revisión y buscará identificar cualquier tipo de defectos en la documentación.
 
 
-2. **Inicio de la revisión^^
+2. **Inicio de la revisión**
 
 -> Para el inicio o kick-off de la revisión es necesario: 
 
@@ -139,7 +146,7 @@ Un tester podría o no ser formalmente invitado a un proceso formal de revisión
 
 ---
 
-3. **Revisión individual^^
+3. **Revisión individual**
 
 -> Revisar toda la documentación puesta a disposición.
 
@@ -151,13 +158,16 @@ Un tester podría o no ser formalmente invitado a un proceso formal de revisión
 
 -> Puede ser útil tomar nota de lo que vamos confirmando como comportamientos esperados e ir teniendo en cuenta lo registrado durante la revisión de los documentos. ¿Encontramos contradicciones en la lista final de nuestras notas?Si le hacemos preguntas a nuestro registro ¿encontramos las respuestas?
 
-### ¿NECESITAS UN EJEMPLO? 
+
+#### ¿NECESITAS UN EJEMPLO? 
+
 
 Supongamos que el documento dice:
 
 - Soporte para Firefox y Chrome
 
 - Cuando se hace click en “guardar” el archivo debe guardarse
+
 
 Yo podría preguntarme: 
 
@@ -171,6 +181,7 @@ Yo podría preguntarme:
 
 ---
 
+
 4. **Comunicación y análisis de problemas**
 
 -> Comunicar los registros sobre posibles errores o gaps y las dudas surgidas. Esto podría hacerse vía email o en una reunión de revisión. 
@@ -180,6 +191,7 @@ Yo podría preguntarme:
 -> Revisar si los resultados de la revisión cumplen lo definido como entregable para el fin del proyecto. 
 
 ---
+
 
 5. **Reporte y correcciones**
 
@@ -208,7 +220,9 @@ Recuerda: Analizar cada situación, reflexionar sobre la estrategia a utilizar y
 
 ---
 
-## Ejercicio #2 – Roles y responsabilidades
+## ✋ Ejercicio #2
+
+### Roles y responsabilidades
 
 ¡Atención! Este ejercicio podrá llevarles un poco más de una hora para realizarlo de forma completa.
 
@@ -218,7 +232,9 @@ Analicen la siguiente documentación funcional de forma grupal, cada uno desde s
 
 Generen sus reportes de revisión de forma individual.
 
+
 #### Documentación a revisar: 
+
 
 Creación de sistema para cochera (estacionamiento) de vehículos.
 
@@ -293,7 +309,7 @@ Existen diversidad de técnicas de revisión. Estas pueden clasificarse en aquel
 - **Basadas en perspectiva**: Este modo de revisar la documentación es similar a la técnica basada en roles, pero no se limita solo a ellos sino que utiliza diferentes perspectivas para el análisis. Por ejemplo, la perspectiva de un diseñador UX, la perspectiva de un usuario final, la perspectiva  comercial, o una perspectiva de tester.  
 Cada perspectiva busca información diversa en documentación
   
-### ¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 Mientras que un tester analiza si se comprenden las condiciones para cada escenario, si posee el material para armar su plan de pruebas o si el documento parece libre de defectos, un diseñador UX - probablemente- analiza si están dadas las guías para la construcción de un sistema que contemple usabilidad y experiencia de usuarios según los niveles de calidad esperados. 
 
@@ -305,7 +321,7 @@ En cambio un usuario final sólo podría revisar si el sistema le permite hacer 
 
 ---
 
-Te proponemos el siguiente desafío. 
+### Te proponemos el siguiente desafío. 
 
 It's time to Practice your english💪
 
@@ -346,9 +362,9 @@ Veamos el siguiente video para comprender cómo funciona esta técnica. Hacé [c
 
 ---
 
-### ¡MANOS A LA OBRA! 
+### ✋ ¡MANOS A LA OBRA! 
 
-## Ejercicio #3
+## ✋ Ejercicio #3
 
 Un equipo de desarrolladores ha creado un formulario que tiene como input un campo que solo permite ingresar hasta 64 caracteres alfabéticos juntos. Sin símbolos ni números ni espacios entre medio. 
 
@@ -376,14 +392,14 @@ En este caso también los invitamos a ver el siguiente [video](https://youtu.be/
 
 ---
 
-## Ejercicio #4
+### ✋ Ejercicio #4
 
 Es hora de  analizar el sistema de un protector de tensión. Este debe cortar cuando la tensión es menor a 182 Volts o cuando es mayor a 242 Volts. 
 
 ¿Cuáles son nuestros valores límite? Usando la versión de la técnica que aconseja agregar un valor más en cada partición, ¿qué valores límite identifican?
 
 
-### Ejercicio Extra
+### ✋  Ejercicio Extra
 
 Crear casos de prueba para una app que debe mostrar un ícono diferente según rangos de temperatura ambiental que muestra en pantalla. El termómetro mide entre -100 y 100 grados celsius:
 
