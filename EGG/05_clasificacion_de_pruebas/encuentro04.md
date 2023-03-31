@@ -61,7 +61,7 @@ Los insumo para las pruebas unitarias son:
 
 En general este tipo de pruebas se automatizan y conforman luego,  las pruebas de regresión. 
 
-2. :star: **Pruebas de integración (integration testing^^
+2. :star: **Pruebas de integración (integration testing**
 
 Este tipo de pruebas son creadas por los desarrolladores con foco en probar las interfaces y la interacción e integración entre los distintos componentes del sistema. 
 
