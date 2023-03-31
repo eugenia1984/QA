@@ -96,7 +96,7 @@ Objetivos de las pruebas de sistema:
 ---
 
 
-##  Ejercicio #1
+## ✋  Ejercicio #1
 
 ¿Recuerdan cuáles son los aspectos no funcionales que pueden formar parte de los requerimientos de un sistema?
 
@@ -124,7 +124,7 @@ En estas, se solicita al usuario final (o un representante del grupo de usuarios
 
 - **Pruebas en beta (Beta testing)**: El sistema se prueba desde la experiencia del cliente antes de que la  versión estable.
 
-El testing en Alpha y en Beta se usa (sobre todo) para recibir feedback antes del “go live” () final 
+El testing en **Alpha** y en **Beta** se usa (sobre todo) para recibir feedback antes del “go live” () final 
 
 El objetivo final de las pruebas de aceptación no solo encontrar defectos, si no hacer un chequeo final y comprobar que el sistema se ajusta a las necesidades del negocio y a los requerimientos comunicados. 
 
@@ -180,7 +180,7 @@ Entonces: ¿Cómo podría llevar a cabo esta tarea de análisis si no conozco la
 
 ---
 
-## Ejercicio #2
+## ✋ Ejercicio #2
 
 ¿Qué experiencia sería de utilidad para el testing de los siguientes sistemas…?
 
@@ -268,7 +268,7 @@ Esto significa que su creación requiere conocimientos técnicos tales como capa
 
 ---
 
-##  Ejercicio #3
+##  ✋ Ejercicio #3
 
 Anteriormente señalamos que las pruebas funcionales son conocidas como “black box testing”. Conociendo la definición de White box testing, ¿qué creen que significa black box testing? ¿Por qué se lo denomina así? 
 
@@ -342,7 +342,7 @@ Desde el punto de vista del análisis técnico se busca evitar defectos de dise�
 
 ---
 
-## Ejercicio #4
+## ✋ Ejercicio #4
 
 Debatan la siguiente pregunta en equipo:
 
@@ -376,9 +376,9 @@ El testing dinámico, por lo tanto prueba y analiza los comportamientos observab
 
 ---
 
-## ¡MANOS A LA OBRA! 
+## ✋ ¡MANOS A LA OBRA! 
 
-## Ejercicio #5
+## ✋ Ejercicio #5
 
 Según lo estudiado en los módulos anteriores, ¿cómo clasificarías las tareas del ciclo de testing? Coloca cada tarea en la columna correspondiente.
 
@@ -392,7 +392,7 @@ Según lo estudiado en los módulos anteriores, ¿cómo clasificarías las tarea
 
 ---
 
-## ¡Hora de cerrar! 
+##  ¡Hora de cerrar! 
 
 Has aprendido mucho hoy. Es tiempo de hacer un pequeño desafío llamado Check Point. ¿Estás preparado? 
 
@@ -416,4 +416,4 @@ Si logran respuestas fundamentadas y validadas por los contenidos explicados dur
 ---
 
 
----
+
