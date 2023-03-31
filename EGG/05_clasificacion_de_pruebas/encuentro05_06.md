@@ -429,7 +429,7 @@ Usando la versión de la técnica que aconseja agregar un valor más en cada par
 - 182v, 183v, 241v, 243v serían valores límite inválidos. Es decir, los valores del caso negativo: El protector de tensión no cambia de estado, sigue pasando corriente.
 
 
-#### Ejercicio extra
+#### ✋ Ejercicio extra
 
 Crear casos de prueba para una app que debe mostrar un ícono diferente según rangos de temperatura ambiental que muestra en pantalla. El termómetro mide entre -100 y 100 grados celsius:
 
@@ -457,13 +457,13 @@ Valores límite: -101, -100.9 , -99, -1, 0, 0.9,  1, 25.9 , 26, 99, 100, 100.9, 
 
 ---
 
-## TABLA DE DECISIÓN
+## :star: TABLA DE DECISIÓN
 
 :tv: -> ¡Pasen y vean el [siguiente video](https://youtu.be/V6zMUWf-2kA)!
 
 ---
 
-### Ejercicio #5
+### ✋ Ejercicio #5
 
 Analicen -utilizando una  tabla de decisión - el siguiente sistema de login:
 
@@ -486,7 +486,7 @@ Analicen -utilizando una  tabla de decisión - el siguiente sistema de login:
 
 ---
 
-#### ¡Un esfuerzo más! Ejercicio Extra
+#### ✋ ¡Un esfuerzo más! Ejercicio Extra
 
 Retomando el ejemplo del armado de plan de pruebas para un cliente de email, construyan una tabla de decisión para identificar qué información sobre comportamientos haría falta confirmar para luego poder armar un plan de pruebas. 
 
@@ -504,7 +504,7 @@ Retomando el ejemplo del armado de plan de pruebas para un cliente de email, con
 
 ---
 
-###  Ejercicio #6
+### ✋  Ejercicio #6
 
 A partir de esta tabla crea los casos de prueba y asegúrate de probar todos los estados.
 
@@ -528,7 +528,7 @@ Ejemplo de cómo podrían quedar divididos algunos casos de prueba:
 
 ---
 
-### Ejercicio Extra
+### ✋ Ejercicio Extra
 
 Según la tabla, queda claro que no tenemos a disposición todos los estados y acciones posibles para el sistema. ¿Qué preguntas harías para completar tu análisis sobre este sistema?
 
@@ -557,7 +557,7 @@ https://docs.google.com/document/d/1vwEBGS1l6j5dy9nbRxh_1fFO92U4BxoUaEUOOPEjImk/
 
 ---
 
-### Ejercicio #7
+### ✋ Ejercicio #7
 
 Teniendo en cuenta los siguientes casos de uso para un sistema: 
 
@@ -653,7 +653,7 @@ Sistema de publicaciones con roles (simil wordpress)
 
 ---
 
-### ¡Hora de cerrar! 
+### ⏰ ¡Hora de cerrar! 
 
 Hoy fue un día de mucha práctica, revisen las dudas, registren y utilicen Discord para consultar todo aquello aún no logran comprender. ¿Preparados para avanzar?
 
