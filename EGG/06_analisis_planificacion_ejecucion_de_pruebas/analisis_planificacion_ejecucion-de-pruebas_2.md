@@ -122,4 +122,58 @@ Las prioridades y el criterio de salida nos dan la base que guía la planificaci
 
 ---
 
+## ✋ ¡MANOS A LA OBRA! 
 
+### ✋ Ejercicio #1
+
+Diseñá los planes de pruebas que usarías para testear las aplicaciones de ejemplo que aparecieron en este artículo (Sistema de envío de emails/Aplicación de calendario). Para el plan de pruebas es suficiente con generar una lista con los casos de prueba escritos en orden de prioridades.
+
+Para cada caso de prueba indica:
+
+- Id
+
+- Título
+
+- Descripción
+
+- Precondiciones (si aplica)
+
+- Datos de entrada (si aplica)
+
+- Pasos
+
+- Comportamiento esperado
+
+- Prioridad
+
+- Comentario (si es necesario)
+
+
+Si tu tiempo es justo puedes entregar una versión reducida que incluya:
+
+- Id
+
+- Título
+
+- Descripción
+
+- Comportamiento esperado
+
+- Prioridad
+
+- Comentario (si es necesario)
+
+Para esta segunda versión deberías poder sintetizar y asegurar que el título sea conciso y descriptivo de tal manera que una persona que no conoce el sistema pueda ejecutar la prueba correctamente aún sin tener pasos ni los datos de entrada.
+
+#### SOLUCION
+
+[Aca ver respuestas](https://docs.google.com/document/d/1zYHWG0AYF2epuPMW8R9ACmVAMOVwdQmEBpiXD2AcjfQ/edit)
+
+---
+
+##  ¡Hora de cerrar! 
+
+Finalizamos el encuentro de hoy. ¿Dudas? ¿Sugerencias ? ¿inquietudes? En Discord podrás realizar los comentarios que desees. Busca y ofrece cooperación. ¿Estás preparado/a?
+
+
+---
