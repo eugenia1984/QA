@@ -101,7 +101,15 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ---
 
-- Análisis, planificación y ejecución de pruebas
+6. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Análisis, planificación y ejecución de pruebas**
+
+- 6.1 : Análisis, planificación y ejecución de pruebas I
+
+- 6.2 : Análisis, planificación y ejecución de pruebas II
+
+- 6.3 : Análisis, planificación y ejecución de pruebas III
+
+---
 
 - Base de datos
 
