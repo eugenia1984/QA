@@ -103,7 +103,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 6. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Análisis, planificación y ejecución de pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/06_analisis_planificacion_ejecucion_de_pruebas)
 
-- 6.1 : Análisis, planificación y ejecución de pruebas I
+- [6.1 : Análisis, planificación y ejecución de pruebas I](https://github.com/eugenia1984/QA/blob/main/EGG/06_analisis_planificacion_ejecucion_de_pruebas/analisis_planificacion_ejecucion-de-pruebas_1.md)
 
 - 6.2 : Análisis, planificación y ejecución de pruebas II
 
