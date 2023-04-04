@@ -2,6 +2,11 @@
 
 ---
 
+ENCUENTRO 7 / 20
+
+---
+
+
 ## :star: Introducción
 
 **¡Te damos la bienvenida a tu séptimo encuentro de trabajo!**
