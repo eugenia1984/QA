@@ -325,3 +325,101 @@ Del siguiente listado de casos de pruebas, identifica aquellas que están descri
 -> Intentar ingresar con un usuario registrado y un password válido luego de tres intentos de ingreso fallidos. La cuenta se bloquea y el usuario no puede ingresar. Se muestra el mensaje: usuario bloqueado **Rta: si**
 
 ---
+
+## :book: MATERIAL DE LECTURA 
+
+### :star: Casos de prueba positivos y casos de prueba negativos
+
+Los casos de prueba positivos conocidos también como “el camino feliz” son aquellos pasos que verifican el correcto funcionamiento del uso principal y esperado de una funcionalidad.
+
+#### ¿NECESITAS UN EJEMPLO? 
+
+Para la funcionalidad de login o ingreso a un sistema, el camino feliz sería que se ingrese en el campo “usuario” un nombre de usuario válido para ese sistema y la contraseña correcta relacionada al mismo.
+
+Todos los posibles errores de log in en un sistema, no forman parte del camino feliz si no de caminos alternativos agrupados en lo que llamamos “casos negativos”.
+
+---
+
+Casos positivos = camino feliz
+
+Casos negativos = caminos alternativos
+
+---
+
+En el ejercicio anterior habrás notado que hay una palabra clave que se utiliza para los casos de prueba negativos, esta es: INTENTAR
+Generalmente usamos esta palabra para los casos de prueba negativos ya que da cuenta de que la acción descrita no debería poder realizarse.
+
+---
+
+-> **Secreto de la industria 2**:   Las palabras claves pueden ser útiles para la rápida lectura e interpretación de los casos de prueba que se diseñan.
+
+---
+
+
+## ✋ Ejercicio #2
+
+A continuación, encontrarás dos definiciones funcionales con base en diferentes metodologías: casos de uso e historias de usuario.
+Para cada grupo debes:
+
+- Listar los casos de prueba que propondrías. NO olvides incluir casos de prueba positivos y negativos.
+
+- Ordenar los casos de prueba por prioridades, de la más alta a la más baja. Agregarles la clasificación de prioridad: Alta, media o baja.
+
+**Extra**: Si quieres, puedes usar una matriz de casos de prueba, ya sea en formato tabla / Excel o usando una herramienta gratuita como Zephyr (en Jira)
+
+Pueden utilizar la siguiente plantilla:
+
+![image](https://user-images.githubusercontent.com/72580574/229872488-7386b521-2a26-427b-bc6b-184ee420dc24.png)
+
+
+### SOLUCION 
+
+[ver aca](https://docs.google.com/document/d/15sLL-2vcZZ2vAWcHAayC26cgFDMG3xrUKZ08wYiJGLY/edit)
+
+Tiempo estimado: resolver este ejercicio te podría llevar entre una hora y una hora y media del encuentro en vivo.
+
+---
+
+Caso de uso: El usuario con rol Administrador accede al perfil del usuario y visualiza las opciones, deshabilitar usuario, desbloquear cuenta, restablecer contraseña, editar usuario.
+ 
+- El administrador puede editar: nombre de usuario, email de usuario, rol de usuario.
+
+- El administrador puede clickear en la opción deshabilitar usuario para bloquear el acceso del usuario seleccionado al sistema. Si cliquea en deshabilitar usuario, la cuenta de usuario se bloquea y el texto cambia a “habilitar usuario” . Si cliquea en “habilitar usuario” el usuario recobra el acceso al sistema
+
+- El administrador puede cliquear en desbloquear cuenta para desbloquear una cuenta que se encuentra bloqueada porque el usuario ingresó un contraseña incorrecto más de 5 veces.
+
+- El administrador puede cliquear la opción restablecer contraseña que envía un email a la casilla de correo seleccionada en el campo email de usuario.
+ 
+Si la cuenta del usuario no se encuentra bloqueada, la opción desbloquear cuenta se encuentra deshabilitada.
+
+Si la cuenta del usuario se encuentra deshabilitada, las opciones: restablecer contraseña y desbloquear cuenta se encuentran deshabilitadas.
+
+El panel de usuario solo se encuentra visible en los registros de personas de tipo usuario del sistema. Las personas que no son usuarios del sistema no tienen panel de usuario.
+ 
+Permisos necesarios para el rol administrador: ver panel de usuario, resetear password de usuarios, editar usuarios, deshabilitar/habilitar usuarios, desbloquear cuenta de usuarios.
+
+User story o historia de usuario: Como usuario del sistema quiero poder restablecer mi contraseña de acceso para mantener mi cuenta segura.  
+ 
+- Criterios de aceptación: El email de restablecimiento de contraseña se envía a la dirección de correo electrónico completada en el campo user email del perfil del usuario siempre que el usuario no esté bloqueado ni deshabilitado.
+
+
+---
+
+
+¿Estamos llegando al final del encuentro y aun así te has quedado con ganas de seguir aprendiendo más?
+
+Accede a los siguientes documentos para profundizar en el concepto de “Historia de usuario” o “User Story”.
+
+- [What’s in a Story?](https://dannorth.net/whats-in-a-story/)
+
+- [¿Qué hay en una historia?](http://adrianmoya.com/2012/08/que-hay-en-una-historia/#sthash.xWJibi6q.dpbs)
+
+---
+
+### ¡Hora de cerrar! 
+
+¡Han dado lo mejor! Felicitaciones ¿Tienen dudas? No olviden nuestra comunidad de prácticas, la encuentran en Discord, siempre dispuesta a la cooperación. 
+¡Llegó el momento de los pulsos. ¿Te gustaría recibir? Demuéstrales a tus compañeros qué estás presente para promover su aprendizaje y el tuyo también.
+
+---
+---
