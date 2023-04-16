@@ -14,3 +14,8 @@
 - 7.6 - Base de datos - Sistema MySQL |V
 
 ---
+
+![image](https://user-images.githubusercontent.com/72580574/232261486-d89bf794-b92f-492a-ab89-1d689390a705.png)
+
+
+---
