@@ -105,7 +105,7 @@
 ---
 
 
-- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 7.Base de datos}(https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
+- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 7.Base de datos](https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
 
 - [7.1 - Base de datos - instalación](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/instalacion.md)
 
