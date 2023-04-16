@@ -111,7 +111,7 @@ Podrías notar que todos los campos van a soportar VARCHAR(255, es decir cadenas
 
 ---
 
-## ## ✋ MANOS A LA OBRA - Ejercicio #2
+## ✋ MANOS A LA OBRA - Ejercicio #2
 
 Marca V o F: Justifica y compara tus respuestas con las de tus compañeros.
 
