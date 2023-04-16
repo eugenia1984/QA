@@ -1,7 +1,7 @@
 
 - <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 7.Base de datos
 
-- [7.1 - Base de datos - instalación](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/instalacion.md)
+- [7.1 - Base de datos - Instalación](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/instalacion.md)
 
 - [7.2 - Base de datos - Modelo relacional](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/modelo_relacional.md) 
 
