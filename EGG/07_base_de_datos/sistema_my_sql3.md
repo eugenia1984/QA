@@ -653,7 +653,7 @@ El resultado que mostraría sería:
 
 ---
 
-**TIP^^: Puedes utilizar la cláusula limit (y quizás también combinarla con condiciones WHERE y ORDER BY) para limitar el número de resultados y visualizar exactamente lo que buscas cuando estés ejecutando consultas en bases de datos productivas. Asi colaboras con mantener la buena performance de la BD.
+**TIP**: Puedes utilizar la cláusula limit (y quizás también combinarla con condiciones WHERE y ORDER BY) para limitar el número de resultados y visualizar exactamente lo que buscas cuando estés ejecutando consultas en bases de datos productivas. Asi colaboras con mantener la buena performance de la BD.
 
 ---
 
