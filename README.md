@@ -117,7 +117,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [7.2 - Base de datos - Modelo relacional](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/modelo_relacional.md):  📖 MATERIAL DE LECTURA - Base de datos relacionales / ✋ ¡MANOS A LA OBRA! - Ejercicio #1 /  📖 ¿Qué es un modelo de base de datos? ⭐ Modelo relacional - Características del modelo relacional  ⭐ Relaciones - Tipos de relaciones / ✋ ¡MANOS A LA OBRA! - Ejercicio #2 / 📖 Diagramas DER - ¿Dónde se almacenan los datos de las bases de datos relacionales? - Componentes de una tabla -  Elementos del modelo relacional / ✋ ¡MANOS A LA OBRA! - Ejercicio #3 
 
-- 7.3 - Base de datos - Sistema MySQL |
+- [7.3 - Base de datos - Sistema MySQL |](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql1.md): 📖 MATERIAL DE LECTURA - Introducción / ✋ MANOS A LA OBRA - Ejercicio #1 / 📖 Tipos de datos / ✋ MANOS A LA OBRA - Ejercicio #2 / 📖 ¿Qué es MySQL? / 📖 Lenguaje de consulta estructurado SQL / ⭐ Scripts / ⭐ Consultas de Definición de Datos (DDL) /  ⭐ Veamos cómo crear una tabla / ⭐ Atributos de las columnas - CONSTRAINTS / 
 
 - 7.4 - Base de datos - Sistema MySQL ||
 
