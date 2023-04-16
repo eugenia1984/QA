@@ -11,7 +11,7 @@
 
 - [7.5 - Base de datos - Sistema MySQL |||](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql3.md)
 
-- 7.6 - Base de datos - Sistema MySQL |V
+- [7.6 - Base de datos - Sistema MySQL |V](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql4.md)
 
 ---
 
