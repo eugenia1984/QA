@@ -13,6 +13,8 @@
 
 - [7.6 - Base de datos - Sistema MySQL |V](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql4.md)
 
+- [ChaekPoint](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/checkpoint.md)
+
 ---
 
 ![image](https://user-images.githubusercontent.com/72580574/232261486-d89bf794-b92f-492a-ab89-1d689390a705.png)
