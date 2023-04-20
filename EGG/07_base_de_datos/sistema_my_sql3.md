@@ -468,7 +468,7 @@ El resultado que mostraría sería: **MIN(Salario) - 1000**
 
 ```sql
 SELECT AVG(salario) FROM Empleados;
-
+```
 
 Teniendo la siguiente tabla de empleados: 
 
