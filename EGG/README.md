@@ -72,9 +72,11 @@
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
+-> **Módulos**: 1 - Principios y ciclos de vida de testing / 2 - Clasificaicón de pruebas / 3 - Análisis, planificaicón y ejecución de pruebas / 4 - Base de datos / 5 - Metodologías.
+
 ---
 
-4. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **- Principios y ciclos**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
+4. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **- Múdulo 1 -1 - Principios y ciclos de vida de testing**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
 
 - [4.1 Encuentro 01](https://github.com/eugenia1984/QA/blob/main/EGG/04_principios_y_ciclos/encuentro01.md):  **Principios y ciclos** :book: Fundamentos de la calidad de software / ✋ Entrada en calor: Ejercicio #1 / :book: Rol de QA y Rol del desarrollador: ¿todo junto o separado? / ✋ Entrada en calor: Ejercicio #2: Simulación de un “plan de pruebas” / 📖 MATERIAL DE LECTURA / ✋ Ejercicio #3 / :book: Normas para medir la calidad (CALIDAD ISO / IEC 9126 - ISO / IEC 25010 SQuaRE — System and Software Quality Requirements and Evaluation) - ¿Cómo se organiza el área de testing? / ✋ Entrada en calor: Ejercicio #4 
 
@@ -85,7 +87,7 @@
 
 ---
 
-5. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>**- Clasificación de pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/05_clasificacion_de_pruebas)
+5. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>**- Módulo 2 - Clasificaicón de prueba**](https://github.com/eugenia1984/QA/tree/main/EGG/05_clasificacion_de_pruebas)
 
 - [5.1 Encuentro 04](https://github.com/eugenia1984/QA/blob/main/EGG/05_clasificacion_de_pruebas/encuentro04.md): **Clasificación de pruebas**: Introducción / 📖 MATERIAL DE LECTURA ⭐ Nivel de pruebas / ✋ Ejercicio #1 / :book: Tipos de prueba (Funcionales y No Funcionales) / ✋ Ejercicio #2 / :book: Pruebas de caja blanca - (WBT – White-Box Testing / structural testing) / ✋ Ejercicio #3 / :book: Test relacionado a cambios / :book:  Pruebas estáticas (static testing) / ✋ Ejercicio #4 / :book:  Pruebas dinámicas (Dynamic testing / ✋ Ejercicio #5 / 
 
@@ -94,7 +96,7 @@
 
 ---
 
-6. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Análisis, planificación y ejecución de pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/06_analisis_planificacion_ejecucion_de_pruebas)
+6. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 3 - Análisis, planificación y ejecución de pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/06_analisis_planificacion_ejecucion_de_pruebas)
 
 - [6.1 - Análisis, planificación y ejecución de pruebas I](https://github.com/eugenia1984/QA/blob/main/EGG/06_analisis_planificacion_ejecucion_de_pruebas/analisis_planificacion_ejecucion-de-pruebas_1.md)
 
@@ -105,7 +107,7 @@
 ---
 
 
-- [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 7.Base de datos](https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
+- 7. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 4 - Base de datos**](https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
 
 - [7.1 - Base de datos - instalación](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/instalacion.md): instalación MySQL / scripts / ¿Cómo abrir un script en mysql workbench? / ¿Cómo ejecutamos una consulta? / :book: ¿Qué es una Base de Datos? / :book: ¿Qué es un Sistema de Gestión de Base de Datos (DBMS)? / :book: ¿Cuál es la diferencia entre una base de datos y una hoja de cálculo? / :book: Las bases de datos permiten transacciones ACID - Ventajas ACID / :book: ¿Por qué usar una base de datos en lugar de una hoja de cálculo? / :book: Clasificación de las bases de datos (relacionales, orientadas a objetos y noSQL).
 
@@ -119,10 +121,10 @@
 
 - [7.6 - Base de datos - Sistema MySQL |V](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql4.md)
 
+
+- 8.  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 5 - Metodología**
+
 ---
-
-- Metodología
-
 ---
 
 ## :star: TESTING AUTOMATION I :star: 
@@ -133,6 +135,34 @@
 
 -> Aprendizaje: **Automatización de pruebas web**
 
+-> **Módulos**: Módulo 1 - Automatización de pruebas / Módulo 2 - Java para automatizar / 3 - Selenium
+
+- 9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 1 - Automatización de pruebas 
+
+-DEfinición y principios de pruebas de automatización
+
+-Testing Manual vs. Testing Automatizado.
+
+- 10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 2 - Java para automatizar 
+
+-Introducción a la programación
+
+-Paradigma POO
+
+-Insatalación de IDE para manejar el codigo
+
+- 11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 3 - Selenium
+
+-Pruebas UI
+
+- Primeros pasos con Selenium
+
+-Esperas exlícitas e implícitas
+
+-Page Object Model
+
+-Cucumber
+
 ---
 
 ## :star:  TESTING AUTOMATION II :star: 
@@ -142,6 +172,34 @@
 -> Horas: 60
 
 -> Aprendizaje: **Automatización de pruebas de APIs**
+
+-> **Módulos**: Módulo 1-Pruebas API / Módulo2- JS + NodeJS / Módulo 3- Introducción a Testing Mobile
+
+- 12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 1-Pruebas API 
+
+-DEfinición y bases conceptuales
+
+-Instalación de plataforma de prueba de API
+
+-Pruebas de API mediante plataforma
+
+-Postman
+
+- 13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo2- JS + NodeJS 
+
+-Definición y bases conceptuales JS
+
+-Definición y bases conceptuales NodeJS
+
+-Instalación de Cypress
+
+-Introducción y testing con Cypress
+
+- 14. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 3- Introducción a Testing Mobile
+
+-Prueas Mobile
+
+-Primeros pasos on Appium
 
 ---
 
