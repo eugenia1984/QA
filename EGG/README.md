@@ -47,6 +47,7 @@
 
 - [**Proyecto integrador II**](https://github.com/eugenia1984/QA/blob/main/EGG/02_como_son_las_pruebas/integrador.md)
 
+---
 
 3. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Poniendo en práctica las pruebas**](https://github.com/eugenia1984/QA/tree/main/EGG/03_poniendo_en_practica_las_pruebas)
 
@@ -107,7 +108,7 @@
 ---
 
 
-- 7. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 4 - Base de datos**](https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
+7. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 4 - Base de datos**](https://github.com/eugenia1984/QA/tree/main/EGG/07_base_de_datos)
 
 - [7.1 - Base de datos - instalación](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/instalacion.md): instalación MySQL / scripts / ¿Cómo abrir un script en mysql workbench? / ¿Cómo ejecutamos una consulta? / :book: ¿Qué es una Base de Datos? / :book: ¿Qué es un Sistema de Gestión de Base de Datos (DBMS)? / :book: ¿Cuál es la diferencia entre una base de datos y una hoja de cálculo? / :book: Las bases de datos permiten transacciones ACID - Ventajas ACID / :book: ¿Por qué usar una base de datos en lugar de una hoja de cálculo? / :book: Clasificación de las bases de datos (relacionales, orientadas a objetos y noSQL).
 
@@ -121,8 +122,9 @@
 
 - [7.6 - Base de datos - Sistema MySQL |V](https://github.com/eugenia1984/QA/blob/main/EGG/07_base_de_datos/sistema_my_sql4.md)
 
+---
 
-- 8.  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 5 - Metodología**
+8.  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 5 - Metodología**
 
 ---
 ---
@@ -137,13 +139,17 @@
 
 -> **Módulos**: Módulo 1 - Automatización de pruebas / Módulo 2 - Java para automatizar / 3 - Selenium
 
-- 9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 1 - Automatización de pruebas 
+---
+
+9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 1 - Automatización de pruebas 
 
 -DEfinición y principios de pruebas de automatización
 
 -Testing Manual vs. Testing Automatizado.
 
-- 10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 2 - Java para automatizar 
+---
+
+10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 2 - Java para automatizar 
 
 -Introducción a la programación
 
@@ -151,7 +157,9 @@
 
 -Insatalación de IDE para manejar el codigo
 
-- 11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 3 - Selenium
+---
+
+11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 3 - Selenium
 
 -Pruebas UI
 
@@ -175,7 +183,9 @@
 
 -> **Módulos**: Módulo 1-Pruebas API / Módulo2- JS + NodeJS / Módulo 3- Introducción a Testing Mobile
 
-- 12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 1-Pruebas API 
+---
+
+12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 1-Pruebas API 
 
 -DEfinición y bases conceptuales
 
@@ -185,7 +195,9 @@
 
 -Postman
 
-- 13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo2- JS + NodeJS 
+---
+
+13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo2- JS + NodeJS 
 
 -Definición y bases conceptuales JS
 
@@ -195,7 +207,9 @@
 
 -Introducción y testing con Cypress
 
-- 14. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 3- Introducción a Testing Mobile
+---
+
+14. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 3- Introducción a Testing Mobile
 
 -Prueas Mobile
 
