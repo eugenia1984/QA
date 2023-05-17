@@ -18,9 +18,11 @@ Queremos que sepas qué vas a aprender en este curso para que puedas saber qué 
 
 Antes de avanzar, **te pedimos que por favor respondas a una breve encuesta con el objetivo de mejorar la calidad del curso**: [RESPONDER ENCUESTA](https://eggeducacion.typeform.com/to/THZpi7oP)
 
-¡Tu opinión es muy importante para nosotros!
+**¡Tu opinión es muy importante para nosotros!**
 
-Ahora sí, comencemos:
+---
+
+## Ahora sí, comencemos:
 
 ## :star: ¿Qué es el desarrollo web?
 
