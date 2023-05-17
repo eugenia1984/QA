@@ -26,11 +26,12 @@ Antes de avanzar, **te pedimos que por favor respondas a una breve encuesta con 
 
 ## :star: ¿Qué es el desarrollo web?
 
-El **desarrollo web** es una disciplina que se ha vuelto indispensable en la era digital en la que vivimos. Consiste en la creación y el mantenimiento de páginas y aplicaciones web a los que se puede acceder a través de internet.
+El **desarrollo web** es una disciplina que se ha vuelto indispensable en la era digital en la que vivimos. Consiste en la **creación y el mantenimiento de páginas y aplicaciones web** a los que se puede acceder a través de internet.
 
-Su objetivo principal es proporcionar al usuario una experiencia fluida y atractiva al interactuar con la página web o aplicación. Para lograr esto, es necesario contar con una amplia gama de habilidades técnicas y creativas para poder crear la estructura, diseño y funcionalidad de la misma.
+Su objetivo principal es **proporcionar al usuario una experiencia fluida y atractiva al interactuar con la página web o aplicación**. Para lograr esto, es necesario contar con una **amplia gama de habilidades técnicas y creativas para poder crear la estructura, diseño y funcionalidad de la misma**.
 
 Lo anterior implica una combinación de diseño gráfico, programación, arquitectura de información, análisis de datos y optimización de motores de búsqueda, entre otras habilidades.
+
 El desarrollo web se divide en dos categorías principales: desarrollo front-end (lado del cliente) y desarrollo back-end (lado del servidor).
 
 - El **desarrollo front-end** se refiere a la creación de la parte visual y funcional del sitio web o aplicación que los usuarios pueden ver y con la que pueden interactuar. Esto incluye la disposición de elementos visuales, la programación de botones y otros elementos interactivos, y la optimización del rendimiento para que los tiempos de carga sean rápidos. Los desarrolladores front-end también se encargan de garantizar que la web sea compatible con diferentes navegadores y dispositivos móviles.
@@ -50,17 +51,17 @@ Existen principios básicos del desarrollo web que son fundamentales para crear 
 
 Veamos de qué se trata cada uno de ellos:
 
-- La **navegabilidad** se refiere a qué tan fácil es para los usuarios moverse y encontrar información en un sitio web . Un diseño de navegación claro y fácil de usar es esencial para que los usuarios puedan encontrar rápidamente lo que están buscando y tengan una experiencia satisfactoria.
+- La **navegabilidad** se refiere a **qué tan fácil es para los usuarios moverse y encontrar información en un sitio web**. Un **diseño de navegación claro y fácil de usar** es esencial para que los usuarios puedan encontrar rápidamente lo que están buscando y tengan una experiencia satisfactoria.
 
-- La **interactividad** es la capacidad de un sitio web para interactuar con los usuarios y ofrecerles una experiencia dinámica y personalizada . Esto puede incluir animaciones, formularios, comentarios en tiempo real y otros elementos que permiten a los usuarios participar activamente en el sitio.
+- La **interactividad** es **la capacidad de un sitio web para interactuar con los usuarios y ofrecerles una experiencia dinámica y personalizada**. Esto puede incluir animaciones, formularios, comentarios en tiempo real y otros elementos que permiten a los usuarios participar activamente en el sitio.
 
-- La **arquitectura de la información** se refiere a cómo se organiza y presenta la información en un sitio web. Esto incluye la estructuración de contenidos, la categorización y el etiquetado de estos, y la creación de una jerarquía lógica que facilite a los usuarios encontrar y entender la información que necesitan.
+- La **arquitectura de la información** se refiere a **cómo se organiza y presenta la información en un sitio web**. Esto incluye la estructuración de contenidos, la categorización y el etiquetado de estos, y la creación de una jerarquía lógica que facilite a los usuarios encontrar y entender la información que necesitan.
 
 ---
 
 ## :star:  Editores de código
 
-Los **editores de código** son herramientas que permiten a los programadores escribir y editar código de programación.
+Los **editores de código** son **herramientas que permiten a los programadores escribir y editar código de programación**.
 
 Estas herramientas proporcionan características como resaltado de sintaxis, autocompletado, atajos, sugerencias de código y depuración para ayudar a los desarrolladores a escribir código de manera más eficiente y efectiva.
 
