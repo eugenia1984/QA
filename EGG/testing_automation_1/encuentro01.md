@@ -165,7 +165,7 @@ Ejemplos de etiquetas de cierre automático incluyen:
   
 - **Imagen**: `<img src="imagen.jpg" alt="Una imagen de ejemplo" />`
   
-- **Entrada**:  <input type="text" name="ejemplo" />
+- **Entrada**: `` <input type="text" name="ejemplo" />``
   
 **Es esencial asegurarse de que las etiquetas estén correctamente abiertas y cerradas para evitar errores o representaciones inesperadas en tu página web.**
   
