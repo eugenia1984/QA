@@ -139,7 +139,7 @@
 ---
 ---
 
-## :book: TESTING AUTOMATION I
+## :book: [**TESTING AUTOMATION I**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
 
 -> Encuentros: 30
 
