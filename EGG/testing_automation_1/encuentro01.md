@@ -245,9 +245,119 @@ No te preocupes si tienes dudas, las iremos viendo más adelante. En el próximo
   
 Te proporcionamos un enlace para que puedas acceder al **material complementario** que contiene información muy útil y enriquecedora:
   
+---  
+  
 - [Checklist de buenas prácticas](https://drive.google.com/file/d/1-1YquwpYarCLnRHrwlsvl0wh3UhNcbkH/view)
 
+  
+1. **Siempre cierra tus etiquetas**: Asegúrate de que cada etiqueta de apertura tenga una etiqueta de cierre correspondiente, a menos que sea una etiqueta de cierre automático. Cerrar correctamente tus etiquetas ayuda a mantener la estructura y jerarquía de tu documento HTML.
+  
+2. **Anida las etiquetas correctamente**: Al trabajar con elementos anidados, asegúrate de que las etiquetas internas estén cerradas antes de cerrar las etiquetas externas. Un anidamiento incorrecto puede llevar a errores inesperados de representación o validación. Por ejemplo, la forma correcta de anidar una etiqueta ``<strong>`` dentro de una etiqueta`` <p>`` es:  
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/31d5aa0d-53e2-4751-8a97-8799b7788bba)
+
+3. **Usa nombres de etiquetas en minúsculas**: Aunque HTML no distingue entre mayúsculas y minúsculas, es una buena práctica usar nombres de etiquetas en minúsculas para mantener la coherencia y legibilidad.  
+  
+4. **Indentar elementos anidados**: Para mejorar la legibilidad de tu código HTML, es una buena práctica indentar elementos anidados. Esto te ayuda a ver la estructura y jerarquía de tu documento más fácilmente.  
+  
+---  
+  
 - [Guía rápida de etiquetas HTML](https://drive.google.com/file/d/1ndj5txoh95IF6b3DrWF9GNR8HviYOA-R/view)
+  
+## Hay varios tipos de etiquetas en HTML, pero aquí hay una lista de los tipos de etiquetas más comunes junto con algunos ejemplos:
+
+1. Estructura básica:
+  
+- ``<!DOCTYPE html>`` : Define el tipo de documento y la versión de HTML.
+  
+- ``<html> ``: Contiene todo el documento HTML.
+
+- ``<head>`` : Contiene información meta y el título de la página.
+
+- ``<title> ``: Define el título de la página que se muestra en la pestaña del navegador.
+
+- ``<body>`` : Contiene el contenido que se muestra en la página.
+
+2. Etiquetas de texto:
+  
+- ``<p>`` : Define un párrafo.
+
+- ``<h1>`` a ``<h6>`` : Define encabezados de diferentes niveles.
+
+-  ``<a>`` : Define un enlace.
+
+-  ``<span> ``: Define una sección de texto genérico.
+
+- `` <em> ``: Define texto enfatizado.
+
+-  ``<strong>`` : Define texto con un mayor énfasis.
+
+3. Etiquetas de imagen:
+
+- `` <img>`` : Inserta una imagen en la página web.
+  
+- ``<figure>`` : Define una figura, como una imagen con una descripción.
+
+- `` <figcaption>`` : Define el título o descripción de una figura.
+
+4. Etiquetas de lista:
+
+ - ``<ul>`` : Define una lista desordenada.
+
+- ``<ol>`` : Define una lista ordenada.
+
+- ``<li>`` : Define un elemento de lista.
+
+5. Etiquetas de tabla:
+
+- ``<table>`` : Define una tabla.
+
+-  ``<tr>`` : Define una fila de una tabla.
+
+-  ``<td>`` : Define una celda de una tabla.
+
+6. Etiquetas de formulario:
+
+-  ``<form>`` : Define un formulario de entrada de datos.
+
+-  ``<input>`` : Define un campo de entrada de datos.
+
+-  ``<button>`` : Define un botón.
+
+-  ``<select>`` : Define una lista desplegable.
+
+-  ``<option>`` : Define una opción en una lista desplegable.
+
+-  ``<label>`` : Define una etiqueta para un elemento de formulario.
+
+-  ``<textarea>`` : Define un área de texto editable.
+
+7. Etiquetas de sección:
+  
+- ``<div>`` : Define una sección genérica de un documento.
+  
+- ``<section>`` : Define una sección de un documento.
+  
+- ``<header> ``: Define una cabecera o encabezado.
+  
+- ``<footer> ``: Define un pie de página.
+  
+- ``<nav> ``: Define una sección de navegación.
+  
+- ``<aside> ``: Define una sección que es secundaria al contenido principal.
+  
+
+8. Etiquetas de multimedia:
+  
+- ``<audio>`` : Inserta audio en la página web.
+  
+- ``<video>`` : Inserta video en la página web.
+  
+- ``<source>`` : Define la fuente de un elemento multimedia.
+
+Estas son solo algunas de las etiquetas más comunes en HTML, pero hay muchas más disponibles.  
+  
+---  
   
 :tv: -> [**Realizar test**](https://eggeducacion.typeform.com/to/MAjRC2dD)  
   
