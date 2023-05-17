@@ -90,7 +90,7 @@ Antes de crear tu primer HTML vamos a armar la estructura de carpetas con las qu
 
 La primera pregunta que tenemos que hacer es “¿Dónde creo estos archivos?”, y la respuesta dependerá del orden y organización que quieras darle a las carpetas.
 
-### ¡Manos a la obra!
+###  :star: ¡Manos a la obra!
 
 1. Abrir el explorador de archivos e iremos a documentos.
 
@@ -124,7 +124,7 @@ Te compartimos el link de un video de cómo se crea una estructura básica de HT
 
 Te facilitamos el link de la página que mencionamos en el video sobre la organización: ["World Wide Web Consortium".](https://www.w3.org/)
 
-### Etiquetas
+### :star: Etiquetas
 
 Es importante entender cómo funcionan las etiquetas HTML en términos de apertura y cierre.
 
@@ -171,7 +171,7 @@ Ejemplos de etiquetas de cierre automático incluyen:
   
 ---
   
-## Desafío
+## :star: Desafío
 
 Deberás crear en HTML tu propia página web con encabezados y párrafos que deberá contener como requisito:
 
