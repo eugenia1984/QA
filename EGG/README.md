@@ -129,7 +129,7 @@
 ---
 ---
 
-## :star: TESTING AUTOMATION I :star: 
+## :book: TESTING AUTOMATION I
 
 -> Encuentros: 30
 
@@ -137,93 +137,34 @@
 
 -> Aprendizaje: **Automatización de pruebas web**
 
--> **Módulos**: Módulo 1 - Automatización de pruebas / Módulo 2 - Java para automatizar / 3 - Selenium
+
+8. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
+
+- 8.1 - Definición y principio de pruebas de automatización.
+
+- 8.2 - Testing manual vs. Testing Automatizado
+
+9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Java para automatizar
+
+- 9.1 - Introducción a la programación
+
+- 9.2 - PAradigma POO
+
+- 9.3 - Instalación de IDE para manejo de código
+
+10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Selenium
+
+- 10.1 - Pruebas UI
+
+- 10.2 - Priemros pasos con Selenium
+
+- 10.3 - Esperas específicas e implícitas
+
+- 10.4 - Page Object Model
+
+- 10.5 - Cucumber
 
 ---
-
-9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 1 - Automatización de pruebas 
-
--DEfinición y principios de pruebas de automatización
-
--Testing Manual vs. Testing Automatizado.
-
----
-
-10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Módulo 2 - Java para automatizar 
-
--Introducción a la programación
-
--Paradigma POO
-
--Insatalación de IDE para manejar el codigo
-
----
-
-11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> 3 - Selenium
-
--Pruebas UI
-
-- Primeros pasos con Selenium
-
--Esperas exlícitas e implícitas
-
--Page Object Model
-
--Cucumber
-
----
-
-## :star:  TESTING AUTOMATION II :star: 
-
--> Encuentros: 20
-
--> Horas: 60
-
--> Aprendizaje: **Automatización de pruebas de APIs**
-
--> **Módulos**: Módulo 1-Pruebas API / Módulo2- JS + NodeJS / Módulo 3- Introducción a Testing Mobile
-
----
-
-12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 1-Pruebas API 
-
--DEfinición y bases conceptuales
-
--Instalación de plataforma de prueba de API
-
--Pruebas de API mediante plataforma
-
--Postman
-
----
-
-13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo2- JS + NodeJS 
-
--Definición y bases conceptuales JS
-
--Definición y bases conceptuales NodeJS
-
--Instalación de Cypress
-
--Introducción y testing con Cypress
-
----
-
-14. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/>  Módulo 3- Introducción a Testing Mobile
-
--Prueas Mobile
-
--Primeros pasos on Appium
-
----
-
-## :star:  PERFORMANCE :star: 
-
--> Encuentros: 15
-
--> Horas: 45
-
--> Aprendizaaje: **Pruebas de rendimiento y carga**
 
 ---
 
