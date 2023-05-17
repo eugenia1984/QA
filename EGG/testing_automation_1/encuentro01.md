@@ -203,7 +203,7 @@ Deberás crear en HTML tu propia página web con encabezados y párrafos que deb
 Este código crea la base de un documento HTML. La declaración <!DOCTYPE html> define el tipo de documento y la versión de HTML que se está utilizando. Las etiquetas <html> encierran todo el documento HTML, mientras que las secciones <head> y <body> cumplen propósitos específicos. La sección <head> contiene información meta y el título de la página, mientras que la sección <body> contiene el contenido que se muestra en la página.  
   
   
-3. Agregar un encabezado a tu página web utilizando la etiqueta <h1>. Coloca el siguiente código dentro de las etiquetas`` <body>``: ``<h1>Bienvenidos a mi primer Website!</h1>``
+3. Agregar un encabezado a tu página web utilizando la etiqueta ``<h1>``. Coloca el siguiente código dentro de las etiquetas`` <body>``: ``<h1>Bienvenidos a mi primer Website!</h1>``
   
 4. Agregar un par de párrafos a tu página web utilizando la etiqueta <p>. Coloca el siguiente código debajo de la etiqueta ``<h1>``, aún dentro de la sección`` <body>``:
   
@@ -215,7 +215,7 @@ Este código crea la base de un documento HTML. La declaración <!DOCTYPE html> 
    
 Reemplaza "[Tu Nombre]" con tu nombre real. La etiqueta <p> se utiliza para definir párrafos en HTML. En este paso, hemos agregado tres párrafos para proporcionar información sobre nosotros mismos y nuestros objetivos para el curso.
 
-5. Agregar dos encabezados de tu preferencia a tu página web utilizando la etiqueta <h2>. Recuerda colocarlos dentro de las etiquetas <body>.
+5. Agregar dos encabezados de tu preferencia a tu página web utilizando la etiqueta ``<h2>``. Recuerda colocarlos dentro de las etiquetas`` <body>``.
 
 6. Guardar tu archivo HTML y luego ábrelo en un navegador web (por ejemplo, Chrome, Firefox o Safari) para ver cómo luce tu primera página web. Deberías ver un encabezado y tres párrafos en la página.
   
@@ -247,7 +247,7 @@ Te proporcionamos un enlace para que puedas acceder al **material complementario
   
 - [Checklist de buenas prácticas](https://drive.google.com/file/d/1-1YquwpYarCLnRHrwlsvl0wh3UhNcbkH/view)
 
-  - [Guía rápida de etiquetas HTML](https://drive.google.com/file/d/1ndj5txoh95IF6b3DrWF9GNR8HviYOA-R/view)
+- [Guía rápida de etiquetas HTML](https://drive.google.com/file/d/1ndj5txoh95IF6b3DrWF9GNR8HviYOA-R/view)
   
 :tv: -> [**Realizar test**](https://eggeducacion.typeform.com/to/MAjRC2dD)  
   
@@ -265,9 +265,9 @@ Ten en cuenta que si has llegado hasta aquí, ya has cumplido con el objetivo de
   
 ## Mapa de conceptos vistos
   
-  ![image](https://github.com/eugenia1984/QA/assets/72580574/cb994f53-7499-4315-beec-df5433c50c5e)
+![image](https://github.com/eugenia1984/QA/assets/72580574/cb994f53-7499-4315-beec-df5433c50c5e)
 
   
   
-  ---
+---
   
