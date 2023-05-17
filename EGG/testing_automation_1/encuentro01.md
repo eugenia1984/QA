@@ -2,7 +2,7 @@
 
 ---
 
-## Introducción
+## :star: Introducción
 
 ¡Hola! Te damos la bienvenida al primer encuentro de nuestro curso.
 
@@ -12,7 +12,7 @@ En el mundo digital y conectado de hoy, las habilidades en tecnología de la inf
 
 Queremos que sepas qué vas a aprender en este curso para que puedas saber qué esperar. A continuación, te mostramos los objetivos que vamos a cubrir:
 
-## OBJETIVOS DE APRENDIZAJE
+## :star: OBJETIVOS DE APRENDIZAJE
 
 ![image](https://github.com/eugenia1984/QA/assets/72580574/52a570bf-9ed3-4e4c-ade8-7df475555718)
 
@@ -22,7 +22,7 @@ Antes de avanzar, **te pedimos que por favor respondas a una breve encuesta con 
 
 Ahora sí, comencemos:
 
-## ¿Qué es el desarrollo web?
+## :star: ¿Qué es el desarrollo web?
 
 El **desarrollo web** es una disciplina que se ha vuelto indispensable en la era digital en la que vivimos. Consiste en la creación y el mantenimiento de páginas y aplicaciones web a los que se puede acceder a través de internet.
 
@@ -40,7 +40,9 @@ El desarrollo web es un campo emocionante y en constante evolución. Ya sea que 
 
 En este curso nos centraremos en la parte visual e interactiva del sitio web a la que hacíamos referencia previamente: el desarrollo front-end.
 
-##  Principios básicos del desarrollo web
+---
+
+## :star: Principios básicos del desarrollo web
 
 Existen principios básicos del desarrollo web que son fundamentales para crear sitios exitosos y atractivos. Estos principios incluyen la navegabilidad, la interactividad y la arquitectura de la información.
 
@@ -54,7 +56,7 @@ Veamos de qué se trata cada uno de ellos:
 
 ---
 
-## Editores de código
+## :star:  Editores de código
 
 Los **editores de código** son herramientas que permiten a los programadores escribir y editar código de programación.
 
@@ -77,7 +79,7 @@ Linux ⟶  [Cómo instalar Visual Studio Code en Ubuntu.](https://www.youtube.co
 
 ---
 
-## Ordena tu trabajo
+## :star: Ordena tu trabajo
 
 Antes de crear tu primer HTML vamos a armar la estructura de carpetas con las que vamos a trabajar.
 
@@ -87,7 +89,7 @@ La primera pregunta que tenemos que hacer es “¿Dónde creo estos archivos?”
 
 ### ¡Manos a la obra!
 
-1. Abrir el explorador de archivos e iremos a documentos. 1.
+1. Abrir el explorador de archivos e iremos a documentos.
 
 2. Crear una carpeta con el nombre de “Egg”
 
@@ -97,8 +99,7 @@ La primera pregunta que tenemos que hacer es “¿Dónde creo estos archivos?”
 
 5. Crear otra carpeta con el nombre “primer paso”
 
-6. Una vez dentro de la última carpeta, hacer clic derecho en el espacio vacío y elegir
-“abrir con code”
+6. Una vez dentro de la última carpeta, hacer clic derecho en el espacio vacío y elegir “abrir con code”
 
 ¿No te aparece esa opción? ¡No te preocupes! Puedes abrir directamente el programa de Visual Code, y una vez dentro, ir a “File > Open folder” (“Archivo > Abrir carpeta”).
 
@@ -133,7 +134,7 @@ La sintaxis para una etiqueta de apertura es el nombre de la etiqueta rodeado de
 Aquí hay algunos ejemplos de elementos HTML con etiquetas de apertura y cierre:
 
 
-- **Encabezados**: Hay seis niveles de encabezados, desde <h1> (el más grande) hasta <h6> (el más pequeño).
+- **Encabezados**: Hay seis niveles de encabezados, desde ``<h1>`` (el más grande) hasta`` <h6> ``(el más pequeño).
 
 ```
 <h1>Encabezado 1</h1>
@@ -144,7 +145,8 @@ Aquí hay algunos ejemplos de elementos HTML con etiquetas de apertura y cierre:
   
 - **Parrafo**:   `<p>Este es un párrafo.</p>`
   
-- **Lista (sin numerar):**
+- **Lista (sin numerar)**:
+
 ```
  <ul>
   <li>Elemento de lista 1</li>
@@ -156,7 +158,7 @@ Algunas etiquetas HTML se cierran automáticamente, lo que significa que no requ
   
 Ejemplos de etiquetas de cierre automático incluyen:  
   
-- **Salto de línea:: `<br />`
+- **Salto de línea**: `<br />`
   
 - **Imagen**: `<img src="imagen.jpg" alt="Una imagen de ejemplo" />`
   
