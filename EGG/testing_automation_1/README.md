@@ -11,7 +11,7 @@
 
 - [ENCUENTRO 01 * 17 MAYO  - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md)
 
-- [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md9
+- [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md)
 
 ---
 
