@@ -6,6 +6,14 @@
 
 -> Aprendizaje: **Automatización de pruebas web**
 
+---
+
+
+- ENCUENTRO 01 * 17 MAYO  - INTRODUCCIÓN AL DESARROLLO WEB Y HTML
+
+- ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS
+
+---
 
 8. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
 
