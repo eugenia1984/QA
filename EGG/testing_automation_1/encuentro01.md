@@ -1,4 +1,4 @@
-# :star: ENCUENTRO 01 * Introducción al Desarrollo Web & HTML
+# :star: ENCUENTRO 01 * 17 MAYO  - INTRODUCCIÓN AL DESARROLLO WEB Y HTML
 
 ---
 
