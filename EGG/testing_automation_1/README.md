@@ -13,6 +13,26 @@
 
 - [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md)
 
+- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS]](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md)
+
+- ENCUENTRO 04 - INTRODUCCION A JAVASCRIPT
+
+- ENCUENTRO 05 - INTEGRANDO JAVASCRIOT EN EL SITIO WEB
+
+- ENCUENTRO 06 - A PRACTICAR
+
+- ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE
+
+- ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO 
+
+- ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES 
+
+- ENCUENTRO 10 - A PRACTICAR
+
+- ENCUENTRO 11 - EVALUACION GENERAL 
+
+- ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT
+
 ---
 
 8. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
