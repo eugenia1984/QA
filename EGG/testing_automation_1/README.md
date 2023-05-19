@@ -13,7 +13,7 @@
 
 - [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md)
 
-- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS]](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md)
+- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md)
 
 - ENCUENTRO 04 - INTRODUCCION A JAVASCRIPT
 
