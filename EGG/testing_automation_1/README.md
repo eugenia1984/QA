@@ -9,13 +9,13 @@
 ---
 
 
-- [ENCUENTRO 01 - 17 MAYO  - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md)
+- [ENCUENTRO 01 - 17 MAYO  - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md): Introducción al Desarrollo Web & HTML / Te damos la bienvenida! / ¿Qué es el desarrollo web? / Principios básicos del desarrollo web / Editores de código / Estructura del HTML / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos y encuesta final
 
-- [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md)
+- [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md): Introducción a CSS / Sintaxis del CSS / Propiedades básicas de CSS / Selectores de CSS / Reglas de especificidad / Tipos de CSS / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md)
+- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md): Introducción a diseño y maquetación con CSS / Modelo de cajas / Actividad de Box Model / Display y Position / Flexbox y Grid / Diseño responsivo / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 04 - INTRODUCCION A JAVASCRIPT
+- ENCUENTRO 04 - INTRODUCCION A JAVASCRIPT: Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
 - ENCUENTRO 05 - INTEGRANDO JAVASCRIOT EN EL SITIO WEB
 
