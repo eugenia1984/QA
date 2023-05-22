@@ -17,21 +17,21 @@
 
 - [ENCUENTRO 04 - 22 MAYO INTRODUCCION A JAVASCRIPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro04.md): Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 05 - INTEGRANDO JAVASCRIOT EN EL SITIO WEB
+- ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIOT EN EL SITIO WEB: Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 06 - A PRACTICAR
+- ENCUENTRO 06 - 24 MAYO:  A PRACTICAR: Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
 
-- ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE
+- ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE: Introducción a creación de una barra de navegación responsive / Estructura de la barra de navegación / HTML para la barra de navegación / CSS para la barra de navegación / Barra de navegación responsiva / JavaScript para interactividad / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO 
+- ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO: Introducción a optimización del contenido y estructura del sitio / Actividad 1 / Actividad 2 / Desafío del día / Etiquetas semánticas / Resolución del desafío / Mapa de conceptos vistos 
 
-- ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES 
+- ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES: Introducción / Creando una cuenta de GitHub / Instalando Github Desktop / Subiendo la página web a Internet / Actualizando tu página web / Actividad grupal / Mapa de conceptos vistos 
 
-- ENCUENTRO 10 - A PRACTICAR
+- ENCUENTRO 10 - A PRACTICAR:  Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 /  Fin de la clase 
 
-- ENCUENTRO 11 - EVALUACION GENERAL 
+- ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora 
 
-- ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT
+- ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
 ---
 
