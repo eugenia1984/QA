@@ -15,7 +15,7 @@
 
 - [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md): Introducción a diseño y maquetación con CSS / Modelo de cajas / Actividad de Box Model / Display y Position / Flexbox y Grid / Diseño responsivo / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 04 - INTRODUCCION A JAVASCRIPT: Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 04 - 22 MAYO INTRODUCCION A JAVASCRIPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro04.md): Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
 - ENCUENTRO 05 - INTEGRANDO JAVASCRIOT EN EL SITIO WEB
 
