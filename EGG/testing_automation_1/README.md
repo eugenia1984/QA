@@ -17,7 +17,7 @@
 
 - [ENCUENTRO 04 - 22 MAYO INTRODUCCION A JAVASCRIPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro04.md): Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIOT EN EL SITIO WEB: Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIPT EN EL SITIO WEB](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro05.md): Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
 - ENCUENTRO 06 - 24 MAYO:  A PRACTICAR: Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
 
