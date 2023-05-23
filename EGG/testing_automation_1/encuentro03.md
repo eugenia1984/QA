@@ -346,8 +346,19 @@ Te dejamos a continuación una imagen para que revises los conceptos vistos
 
   
 ---  
+ 
+## :computer: MI PRACTICA
   
+Asi se ve:
+  
+![image](https://github.com/eugenia1984/QA/assets/72580574/609e28a9-1feb-449c-a5db-3883c52bf1fd)
 
+  Es responsive, en pantallas de hasta 600px de ancho:
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/a3785ead-a17c-4094-8dc4-bc6ead478c9d)
+
+  
+[Aca podes ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro03)
   
   
   
