@@ -120,7 +120,7 @@ En este ejemplo el bloque “try” envuelve el código que realiza la división
 
 ---
 
-##:star: Manipulación del DOM
+## :star: Manipulación del DOM
 
 
 El DOM (“Document Object Model” o “Modelo de Objetos del Documento”) es una representación de la estructura de un documento HTML que se organiza como un árbol de objetos (“nodos”), donde cada objeto representa una parte del documento, como un elemento o un atributo.
@@ -277,7 +277,7 @@ Ahora, cada vez que el usuario haga clic en el botón se ejecutará la función 
 
 ---
 
-##Ahora es tu turno:
+## Ahora es tu turno:
 
 ¡Manos a la obra!
 
