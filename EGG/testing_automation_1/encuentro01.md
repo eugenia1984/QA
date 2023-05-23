@@ -213,7 +213,7 @@ Este código crea la base de un documento HTML. La declaración <!DOCTYPE html> 
 <p>A lo largo de este curso, estaré aprendiendo HTML, CSS y JavaScript. Estos lenguajes me ayudarán a crear una base sólida en el desarrollo web front-end.</p>
 ```
    
-Reemplaza "[Tu Nombre]" con tu nombre real. La etiqueta <p> se utiliza para definir párrafos en HTML. En este paso, hemos agregado tres párrafos para proporcionar información sobre nosotros mismos y nuestros objetivos para el curso.
+Reemplaza "[Tu Nombre]" con tu nombre real. La etiqueta ``<p>`` se utiliza para definir párrafos en HTML. En este paso, hemos agregado tres párrafos para proporcionar información sobre nosotros mismos y nuestros objetivos para el curso.
 
 5. Agregar dos encabezados de tu preferencia a tu página web utilizando la etiqueta ``<h2>``. Recuerda colocarlos dentro de las etiquetas`` <body>``.
 
