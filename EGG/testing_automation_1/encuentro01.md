@@ -358,8 +358,7 @@ Te proporcionamos un enlace para que puedas acceder al **material complementario
 Estas son solo algunas de las etiquetas más comunes en HTML, pero hay muchas más disponibles.  
   
 ---  
-  
-:tv: -> [**Realizar test**](https://eggeducacion.typeform.com/to/MAjRC2dD)  
+
   
 Ten en cuenta que si has llegado hasta aquí, ya has cumplido con el objetivo del encuentro.
 
@@ -380,4 +379,9 @@ Ten en cuenta que si has llegado hasta aquí, ya has cumplido con el objetivo de
   
   
 ---
+
+ ## Mi práctica
   
+:computer: -> [Aca pueden ver mi práctica](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro01)
+  
+---
