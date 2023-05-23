@@ -396,4 +396,13 @@ Además, te proponemos realizar una autoevaluación para poner a prueba los prin
   ![image](https://github.com/eugenia1984/QA/assets/72580574/31071de9-706f-4944-a35c-bf17a790e8e4)
 
 ---
-  ---  
+---  
+
+  
+## MI PRACTICA  
+  
+ Asi se ve mi practica:
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/897a0611-0d96-4572-93e0-6fc429d542ef)
+  
+  [Aca podes ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro02)
