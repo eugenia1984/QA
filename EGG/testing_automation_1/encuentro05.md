@@ -350,9 +350,9 @@ Veamos un ejemplo de una estructura HTML básica para un formulario:
 
 - ``<textarea>``: Se utiliza para crear áreas de texto más grandes. En este caso, se utiliza para el campo de mensaje.
 
-- ``<select>``: Se utiliza para crear listas desplegables. En este caso, se utiliza para el campo de selección de país. Cada opción dentro del elemento <select> se crea con el elemento <option>, que contiene un valor y el texto a mostrar en la lista.
+- ``<select>``: Se utiliza para crear listas desplegables. En este caso, se utiliza para el campo de selección de país. Cada opción dentro del elemento`` <select> ``se crea con el elemento ``<option>``, que contiene un valor y el texto a mostrar en la lista.
 
-- ``<button>``: Se utiliza para crear botones en el formulario. En este caso, se utiliza para el botón de envío del formulario. El atributo "type" se establece en "submit" para enviar el formulario.
+- ``<button>``: Se utiliza para crear botones en el formulario. En este caso, se utiliza para el botón de envío del formulario. El atributo **"type"** se establece en **"submit"** para enviar el formulario.
 
 ¡Genial! Ahora, pasemos a ver cómo manejar y validar los formularios con JavaScript…
   
