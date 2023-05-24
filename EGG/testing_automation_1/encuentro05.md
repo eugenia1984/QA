@@ -450,6 +450,13 @@ Aquí la función “validateEmail()” indica que el mail contenga un “@” y
 
 ¡Desafío terminado! 🙌
 
+
+## :computer: ASI ME QUEDO
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/da81ccbb-fca3-4675-a07a-0251724efe85)
+
+
+
 ---
   
 ## Resolución del desafío
