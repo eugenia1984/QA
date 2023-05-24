@@ -326,7 +326,7 @@ myBtn.addEventListener('click', handleClick)
 :computer: -> [Aca pueden ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro05)
 ---
 
-## :star: Frmularios
+## :star: Formularios
 
 
 Un formulario es un elemento que se utiliza para recopilar información ingresada por el usuario como nombres, correos electrónicos, contraseñas, comentarios, entre otros. Son esenciales en las páginas web para permitir interacciones entre el usuario y el servidor, como iniciar sesión, registrarse, enviar comentarios y realizar pedidos en línea.
