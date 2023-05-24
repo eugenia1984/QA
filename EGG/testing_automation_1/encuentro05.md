@@ -309,12 +309,21 @@ Ahora, cada vez que el usuario haga clic en el botón se ejecutará la función 
 
 5. Agregar un oyente de eventos al botón. Para ello, se utiliza el método “addEventListener” y se pasa el evento que se quiere escuchar, en este caso “click”, y la función que se va a ejecutar cuando se dispare el evento, “handleClick”:
 
+```JavaScript
+myBtn.addEventListener('click', handleClick)
+```
+
 6. Abrir el archivo "index.html" en tu navegador web.
 
 7. Hacer clic en el botón de la página web.
 
 ¡Listo! Debería aparecer una alerta con el mensaje "¡Hola! Has hecho clic en el botón."
 
+## Asi me quedo:
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/e19c1d83-017b-473d-a4f5-79fe0c03bc59)
+
+:computer: -> [Aca pueden ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro05)
 ---
 
 ## :star: Frmularios
