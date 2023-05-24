@@ -385,3 +385,15 @@ clearInterval() - cancela una función establecida para ejecutarse cada cierto
 intervalo de tiempo
 
 ---
+
+## :computer: MI PRACTICA
+
+
+Asi se ve:
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/b915cf8c-9ada-4cc1-a34e-246972a6555c)
+
+
+[Aca pueden ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro04)
+
+---
