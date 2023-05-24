@@ -321,7 +321,7 @@ myBtn.addEventListener('click', handleClick)
 
 ## Asi me quedo:
 
-![image](https://github.com/eugenia1984/QA/assets/72580574/e19c1d83-017b-473d-a4f5-79fe0c03bc59)
+![image](https://github.com/eugenia1984/QA/assets/72580574/fa7e6af0-c578-40f9-bf01-b27280a7772a)
 
 :computer: -> [Aca pueden ver el codigo](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1/practicas/encuentro05)
 ---
