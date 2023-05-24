@@ -105,7 +105,7 @@ Aquí te dejamos unos artículos para que profundices:
 Seguramente, con tiempo y experiencia, tus estimaciones se vuelvan más acertadas. Es perfectamente normal hacer estimaciones erróneas durante las primeras tareas, pero esto sirve de experiencia.
 
 
-####¿NECESITAS UN EJEMPLO? 
+#### ¿NECESITAS UN EJEMPLO? 
 
 Si estimé que la prueba de un login llevaría 4 hs o 2 puntos y el tiempo no fue suficiente, tengo un nuevo parámetro para saber que la próxima vez que tenga algo de complejidad similar, me llevará más puntos y horas.
 
@@ -113,9 +113,9 @@ Ese mismo parámetro me va a servir para estimar el esfuerzo para pruebas sobre 
 
 ---
 
-## ¡MANOS A LA OBRA! 
+##  ✋ ¡MANOS A LA OBRA! 
 
-### Ejercicio #1
+###  ✋ Ejercicio #1
 
 - Estimar en puntos y en horas los planes de prueba que preparaste en ejercicios anteriores. Elige el plan de prueba con el que más cómodo te sientas, dentro de los que ya hayas realizado, para estimar los puntos.
 
@@ -126,7 +126,7 @@ Ese mismo parámetro me va a servir para estimar el esfuerzo para pruebas sobre 
 
 ---
 
-### Ejercicio #2
+###   ✋ Ejercicio #2
 
 **Peer review**
 
@@ -260,7 +260,7 @@ De esta manera sabemos con certeza que aquello que fue reportado como crítico y
 
 ---
 
-### ¡Encontré un defecto! ¿Cómo lo reporto?
+### :star: ¡Encontré un defecto! ¿Cómo lo reporto?
 
 A continuación, les presentamos las características comunes de un informe o reporte de defecto. Puede ser llamado incidente, informe de incidente o incidencia.
 
@@ -350,7 +350,7 @@ Como verán las preguntas nos llevan a un profundo análisis.
 
 ---
 
-## Ejercicio #3
+## ✋ Ejercicio #3
 
 Para cada uno de los siguientes escenarios o reportes:
 Analiza y decide si se trata de un bug, un comportamiento esperado,  una funcionalidad no soportada, un error de configuración.
@@ -362,7 +362,6 @@ Genera el reporte de bug para aquellos casos que identifiques como tal.
 Disclaimer: En este ejercicio se está simulando reportes como si fueran de la vida real. Generalmente cuando nos reporta algo un cliente, el reporte suele venir con información escasa y hay mucho por inferir o preguntar por parte de quien recibe el reporte.
 
 
- 
 
 ![image](https://user-images.githubusercontent.com/72580574/229880600-0ed45070-b426-494e-8b64-cfbc15062936.png)
 
@@ -448,9 +447,9 @@ Sin embargo creemos que es importante para tu labor diaria saber que se están t
 
 ---
 
-## Ejercicio #4
-Si quieres eres cur
-ioso y quieres profundizar,  puedes pasar a Zephyr scale algún plan de prueba que hayas diseñado e investigar -en la herramienta- cómo crear estos reportes y dashboards.
+##  ✋ Ejercicio #4
+
+Si quieres eres curioso y quieres profundizar,  puedes pasar a Zephyr scale algún plan de prueba que hayas diseñado e investigar -en la herramienta- cómo crear estos reportes y dashboards.
 
 Si estuviste usando Excel y te sientes más cómodo con esa herramienta, puedes crearlos allí.
 
