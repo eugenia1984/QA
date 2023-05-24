@@ -335,7 +335,7 @@ Un formulario es un elemento que se utiliza para recopilar información ingresad
 ![image](https://github.com/eugenia1984/QA/assets/72580574/d6d4b973-e082-4ad5-9b2e-c6f4f61218bf)
 
 
-Un formulario típico de HTML se crea utilizando la etiqueta ``<form> ``y contiene varios elementos de entrada como ``<input>``, <textarea>, <select> y <button> que facilitan la recopilación de datos de los usuarios.
+Un formulario típico de HTML se crea utilizando la etiqueta ``<form> ``y contiene varios elementos de entrada como ``<input>``, ``<textarea>``, ``<select>`` y ``<button>`` que facilitan la recopilación de datos de los usuarios.
 
 Veamos un ejemplo de una estructura HTML básica para un formulario:
 
