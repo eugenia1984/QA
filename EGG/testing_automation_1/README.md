@@ -19,7 +19,7 @@
 
 - [ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIPT EN EL SITIO WEB](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro05.md): Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 06 - 24 MAYO:  A PRACTICAR: Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
+- [ENCUENTRO 06 - 24 MAYO:  A PRACTICAR](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro06.md): Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
 
 - ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE: Introducción a creación de una barra de navegación responsive / Estructura de la barra de navegación / HTML para la barra de navegación / CSS para la barra de navegación / Barra de navegación responsiva / JavaScript para interactividad / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
