@@ -146,15 +146,15 @@ Buenas, aca reuní los cursos realizados de QA:
 -> Aprendizaje: **Automatización de pruebas web**
 
 
-ENCUENTRO 01 - 17 MAYO - INTRODUCCIÓN AL DESARROLLO WEB Y HTML: Introducción al Desarrollo Web & HTML / Te damos la bienvenida! / ¿Qué es el desarrollo web? / Principios básicos del desarrollo web / Editores de código / Estructura del HTML / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos y encuesta final
+- [ENCUENTRO 01 - 17 MAYO - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md): Introducción al Desarrollo Web & HTML / Te damos la bienvenida! / ¿Qué es el desarrollo web? / Principios básicos del desarrollo web / Editores de código / Estructura del HTML / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos y encuesta final
 
-ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS: Introducción a CSS / Sintaxis del CSS / Propiedades básicas de CSS / Selectores de CSS / Reglas de especificidad / Tipos de CSS / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md): Introducción a CSS / Sintaxis del CSS / Propiedades básicas de CSS / Selectores de CSS / Reglas de especificidad / Tipos de CSS / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS: Introducción a diseño y maquetación con CSS / Modelo de cajas / Actividad de Box Model / Display y Position / Flexbox y Grid / Diseño responsivo / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 03 - 19 MAYO - MAQUETACION Y DISEÑO EN CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro03.md): Introducción a diseño y maquetación con CSS / Modelo de cajas / Actividad de Box Model / Display y Position / Flexbox y Grid / Diseño responsivo / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-ENCUENTRO 04 - 22 MAYO INTRODUCCION A JAVASCRIPT: Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 04 - 22 MAYO INTRODUCCION A JAVASCRIPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro04.md): Introducción a JavaScript / ¿Qué es JavaScript? / Características de JavaScript 7 Sintaxis de JavaScript / Variables y constantes / Tipos de datos / Operadores / Funciones / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIOT EN EL SITIO WEB: Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIPT EN EL SITIO WEB](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro05.md): Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
 ENCUENTRO 06 - 24 MAYO: A PRACTICAR: Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
 
