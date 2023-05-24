@@ -1,0 +1,63 @@
+html {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1, h2 {
+  text-align: center;
+  padding: 2rem 0.5rem;
+}
+
+
+h1 {
+  font-weight: 900;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+hr {
+  margin: 2rem 0rem;
+}
+
+/* Seccion eventos */
+.evento {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+#miBoton,
+.enviar {
+  background-color: #14d83f;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+  padding: 12px 24px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  border: 1px solid #14d83f;
+}
+
+#miBoton:hover,
+.enviar:hover {
+  background-color: #1417d8;
+} 
+
+/* Seccion Formulario*/
+input {
+  display: block;
+  margin: 1rem 0rem;
+}
