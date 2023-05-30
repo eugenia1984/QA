@@ -23,7 +23,7 @@
 
 - [ENCUENTRO 07 - 29 MAYO - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro07.md): Introducción a creación de una barra de navegación responsive / Estructura de la barra de navegación / HTML para la barra de navegación / CSS para la barra de navegación / Barra de navegación responsiva / JavaScript para interactividad / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-- ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO: Introducción a optimización del contenido y estructura del sitio / Actividad 1 / Actividad 2 / Desafío del día / Etiquetas semánticas / Resolución del desafío / Mapa de conceptos vistos 
+- [ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro08.md): Introducción a optimización del contenido y estructura del sitio / Actividad 1 / Actividad 2 / Desafío del día / Etiquetas semánticas / Resolución del desafío / Mapa de conceptos vistos 
 
 - ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES: Introducción / Creando una cuenta de GitHub / Instalando Github Desktop / Subiendo la página web a Internet / Actualizando tu página web / Actividad grupal / Mapa de conceptos vistos 
 
