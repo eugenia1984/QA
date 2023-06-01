@@ -1,0 +1,158 @@
+/* Reset */
+*, ::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --primary: #e8f806;
+  --secondary: #0e0542;
+  --white: #fcf3f3;
+  --bg-box-1: #eb833e;
+  --bg-box-2: #85da54;
+  --bg-box-3: #ada4a4;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;;
+}
+
+main {
+  min-height: 90vh;
+  max-width: 980px;
+  margin: 1rem auto;
+}
+
+h2 {
+  text-align: center;
+  padding: 1rem;
+}
+
+header, footer {
+  background-color: var(--primary);
+  padding: 1.75rem 0.25rem;
+  text-align: center;
+  color: var(--secondary);
+}
+
+footer a:hover {
+  background-color: var(--white);
+  padding: 12px 24px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  text-decoration: none;
+}
+
+
+/********** Primer ejercicio *****************/
+#first-box {
+  margin-left: 70px;
+  padding-top: 2px;
+  width: 460px;
+  height: 260px;
+  background-color: var(--bg-box-1);
+}
+
+#second-box {
+  margin: 30px;
+  padding: 20px;
+  width: 400px;
+  height: 200px;
+  background-color: var(--bg-box-2);
+}
+
+#third-box {
+  margin: -10px;
+  padding: 0px;
+  width: 380px;
+  height: 180px;
+  background-color: var(--bg-box-3);
+}
+
+/********* Segundo ejercicio *****************/
+.coral {
+  background-color: coral;
+}
+
+.cornflowerblue {
+  background-color: cornflowerblue;
+}
+
+.darkseagreen {
+  background-color: darkseagreen;
+}
+
+aside#ejercicio-2-1,
+aside#ejercicio-2-2, 
+aside#ejercicio-2-3 {
+  height: 400px;
+  border: 1px solid var(--secondary);
+  margin: 1rem;
+}
+
+/* primer recuadro */
+aside#ejercicio-2-1 .coral {
+  width: 100px;
+  height: 100px;
+  margin-left: 100px;
+}
+
+aside#ejercicio-2-1 .cornflowerblue {
+  width: 100px;
+  height: 100px;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+aside#ejercicio-2-1 .darkseagreen {
+  width: 100px;
+  height: 100px;
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+/* segundo recuadro */
+aside#ejercicio-2-2 .coral,
+aside#ejercicio-2-2 .darkseagreen  {
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+}
+
+aside#ejercicio-2-2 .cornflowerblue {
+  height: 100px;
+  width: 100%;
+  margin: 30px 0px;
+}
+/* tercer recuadro */
+aside#ejercicio-2-3 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+aside#ejercicio-2-3 .coral,
+aside#ejercicio-2-3 .cornflowerblue,
+aside#ejercicio-2-3 .darkseagreen {
+  width: 100px;
+  height: 100px;
+}
+
+aside#ejercicio-2-3 .coral {
+  order: 2;
+}
+
+aside#ejercicio-2-3 .cornflowerblue {
+  order: 1;
+}
+
+aside#ejercicio-2-3 .darkseagreen  {
+  order: 0;
+}
