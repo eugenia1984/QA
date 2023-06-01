@@ -60,6 +60,10 @@ En la estructura final deberías ver como los div están anidados y centrados un
 ¡Muy bien! Avancemos al próximo ejercicio.
 
 
+## :computer: asi me quedo a mi
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/d210581e-c719-4abd-b3b3-64181361d847)
+
 
 ---
 
