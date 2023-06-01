@@ -107,9 +107,15 @@ En este ejercicio, te desafiamos a crear un archivo HTML y utilizar contenedores
 ¿Todo bien hasta aquí? Continuemos.
 
 
-
- 
+## :computer: Asi me quedo:
   
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/3dd2c8ad-fe42-4c28-b856-c8f8f043613f)
+
+  
+ ![image](https://github.com/eugenia1984/QA/assets/72580574/ad7b2ebc-b9c2-406e-a19d-ed27acd1b331)
+
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/17acca10-c56b-4ad0-85d1-64906e774588)
+
 ---
 
 ## :stars:  Ejercicio 03 
