@@ -94,7 +94,7 @@ En este ejercicio, te desafiamos a crear un archivo HTML y utilizar contenedores
 
 - Caja 3: darkseagreen
 
-6. Dentro de cada uno de los contenedores, en tu archivo HTML, agregar otras tres etiquetas <div> para representar los elementos internos.
+6. Dentro de cada uno de los contenedores, en tu archivo HTML, agregar otras tres etiquetas ``<div> ``para representar los elementos internos.
 
 7. Guardar el archivo HTML y CSS.
 
