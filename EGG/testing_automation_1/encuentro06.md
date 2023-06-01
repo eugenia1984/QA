@@ -25,7 +25,7 @@ Sigue los siguientes pasos para completar el ejercicio:
 
 2. Dentro del archivo HTML, crear la estructura básica de un documento HTML agregando las etiquetas ``<html>``, ``<head>`` y ``<body>``.
 
-3. Dentro del <body>, agregar tres etiquetas <div> y anidarlas una dentro de la otra para crear una estructura en capas.
+3. Dentro del ``<body``>, agregar tres etiquetas <div> y anidarlas una dentro de la otra para crear una estructura en capas.
 
 4. Crear un nuevo archivo CSS (por ejemplo, “estilos.css”) y enlazarlo con el archivo HTML utilizando la etiqueta <link>.
 
