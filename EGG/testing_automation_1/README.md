@@ -27,7 +27,7 @@
 
 - [ENCUENTRO 09 - 31 MAYO - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro09.md): Introducción / Creando una cuenta de GitHub / Instalando Github Desktop / Subiendo la página web a Internet / Actualizando tu página web / Actividad grupal / Mapa de conceptos vistos 
 
-- ENCUENTRO 10 - A PRACTICAR:  Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 /  Fin de la clase 
+- [ENCUENTRO 10 - 01 JUNIO - A PRACTICAR]([)](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro10.md):  Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 /  Fin de la clase 
 
 - ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora 
 
