@@ -148,6 +148,21 @@ Otra media query para agregar otro estilo para cambiar el color de fondo cuando 
 
 ¡Ahora pasemos al próximo ejercicio!
   
+## Asi quedo:
+  
+- mas de 601px:
+  
+ ![image](https://github.com/eugenia1984/QA/assets/72580574/71de21a2-061f-407c-bebb-8eb06cf5f340)
+
+- emtre 402px y 600px:
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/62f9fbdd-111c-44cd-8b61-7686a8d49971)
+
+  
+- hasta 400px:
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/3f1e5b76-1878-4308-bbd3-5738f96069dd)
+
   
 ---
 
