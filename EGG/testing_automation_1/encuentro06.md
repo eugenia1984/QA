@@ -192,6 +192,11 @@ Sigue los siguientes pasos para completar el ejercicio:
 9. Ejecutar el script y pasar diferentes strings como argumento a la función para comprobar si las palabras están siendo invertidas correctamente.
 
 💡Ten presente que el objetivo de este ejercicio es escribir una función que invierta las palabras de un string.
+ 
+ ## Asi quedo:
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/e254d4c3-1191-4028-9cd9-6c9cf1983fa0)
+
   
 ---
 
