@@ -266,6 +266,12 @@ Este mismo ejercicio puede resolverse en una sola línea de código usando dos m
 
 ¿Te animas a descubrir en grupo cómo hacerlo?.
   
+  
+## Asi se ve por consola
+  
+  ![image](https://github.com/eugenia1984/QA/assets/72580574/51ade7ac-0fca-4041-9718-053845c0a687)
+
+  
 ---
 
 ## :stars:  Ejercicio 07 
