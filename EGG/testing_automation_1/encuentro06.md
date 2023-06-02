@@ -306,7 +306,7 @@ El tercer hijo debe ser otro botón (``<button>``) con el texto "bajar".
 
 10. Guardar el archivo y abrirlo en un navegador web.
 
-11. . Verificar que la lista numerada y los botones "subir" y "bajar" se muestren correctamente. Haz clic en los botones "subir" y "bajar" para comprobar si se produce el desplazamiento de los elementos <li> dentro de la lista numerada.
+11. . Verificar que la lista numerada y los botones "subir" y "bajar" se muestren correctamente. Haz clic en los botones "subir" y "bajar" para comprobar si se produce el desplazamiento de los elementos ``<li>`` dentro de la lista numerada.
 
 💡Ten presente que el objetivo de este ejercicio es crear una lista numerada con elementos ``<li>`` que contengan botones "subir" y "bajar", y asignar funciones a los botones para permitir el desplazamiento de los elementos. 
   
