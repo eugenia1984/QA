@@ -225,6 +225,10 @@ A continuación, te presentamos los pasos que debes seguir para completar el eje
 9. Ejecutar el script y pasar diferentes pares de números como argumentos a la función para comprobar si las operaciones están siendo realizadas correctamente y si el objeto resultado es impreso adecuadamente por la consola.
 
 💡Recuerda que el objetivo de este ejercicio es escribir una función que realice diferentes operaciones matemáticas entre dos números y que devuelva un objeto con los resultados. 
+## Asi quedo:
+  
+![image](https://github.com/eugenia1984/QA/assets/72580574/d75c1aa8-88df-4cd2-8436-3eb0ba2b6a89)
+
   
 ---
 
