@@ -29,7 +29,7 @@
 
 - [ENCUENTRO 10 - 01 JUNIO - A PRACTICAR]([)](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro10.md):  Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 /  Fin de la clase 
 
-- ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora 
+- ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora -> Me saque 58/60: APROBADO
 
 - ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
