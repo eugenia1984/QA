@@ -31,7 +31,7 @@
 
 - ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora -> Me saque 58/60: APROBADO
 
-- ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
+- [ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro12.md): Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
 - ENCUENTRO 13 - Sistema de control de versiones: Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
 
