@@ -33,6 +33,16 @@
 
 - ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
+- ENCUENTRO 13 - Sistema de control de versiones: Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
+
+- ENCUENTRO 14 - Resolución de conflictos: Introducción / Conflictos de fusión / Git stash / Git cherry-pick / Git reset & Git revert / Git restore / Desafío
+Mapa de conceptos vistos 
+
+- ENCUENTRO 15 - Git & GitHub: Repositorios y colaboración en proyectos: Introducción / GitHub & Git / Subir repositorio local a Github / Descargar un repositorio remoto de GitHub / Descargar cambios remotos a repositorio local / Desafío / Mapa de conceptos vistos
+
+- ENCUENTRO 16 - Colaboración y buenas prácticas: Introducción / Pull requests / Pull request colaborativo / Eliminar repositorios en GitHub / Git ignore /
+Git Workflow /  Visual Studio Code & Git / Mapa de conceptos vistos
+
 ---
 
 8. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
