@@ -36,7 +36,7 @@ Prepárate para adquirir nuevos conocimientos y potenciar tus habilidades como d
 
 ---
 
-##:computer: La importancia de Git 
+## :computer: La importancia de Git 
 
 Para comprender mejor la necesidad de uso de Git y su impacto en el control de versiones, iniciaremos con la siguiente actividad práctica que tiene como objetivo cambiar el color de fondo de tu página web en cinco ocasiones diferentes.
 
