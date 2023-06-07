@@ -1,6 +1,6 @@
 # :star: ENCUENTRO 13 - Sistema de control de versiones: Introducción a Git
 
-##:book: Temas:
+## :book: Temas:
 
 - Introducción 
 
