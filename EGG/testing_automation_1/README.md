@@ -33,9 +33,9 @@
 
 - [ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro12.md): Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
-- ENCUENTRO 13 - Sistema de control de versiones: Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
+- [ENCUENTRO 13 - Sistema de control de versiones](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro13.md): Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
 
-- ENCUENTRO 14 - Resolución de conflictos: Introducción / Conflictos de fusión / Git stash / Git cherry-pick / Git reset & Git revert / Git restore / Desafío
+- [ENCUENTRO 14 - Resolución de conflictos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro14.md): Introducción / Conflictos de fusión / Git stash / Git cherry-pick / Git reset & Git revert / Git restore / Desafío
 Mapa de conceptos vistos 
 
 - ENCUENTRO 15 - Git & GitHub: Repositorios y colaboración en proyectos: Introducción / GitHub & Git / Subir repositorio local a Github / Descargar un repositorio remoto de GitHub / Descargar cambios remotos a repositorio local / Desafío / Mapa de conceptos vistos
