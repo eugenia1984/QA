@@ -140,7 +140,7 @@
 ---
 
 
-## :computer: [Relleno de HTML, CSS, JavaScript y Git y GitHub](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
+## :computer: [**Testing Automation 1** - Relleno de HTML, CSS, JavaScript y Git y GitHub](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
 
 - [ENCUENTRO 01 - 17 MAYO - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md): Introducción al Desarrollo Web & HTML / Te damos la bienvenida! / ¿Qué es el desarrollo web? / Principios básicos del desarrollo web / Editores de código / Estructura del HTML / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos y encuesta final
 
@@ -178,7 +178,7 @@
 ---
 
 
-## :book: [**TESTING AUTOMATION I**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
+## :book: [**TESTING AUTOMATION I - Java**]((https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_java))
 
 -> Aprendizaje: **Java** y **Automatización de pruebas web**
 
