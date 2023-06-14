@@ -96,6 +96,6 @@ f. float
 
 3. Declarar una variable para edad y otra para nombre e imprimir en pantalla un texto que diga “Mi nombre es [nombre], y tengo [edad] años”.
 
-💡A tener en cuenta - Para concatenar un texto y una variable se usa el símbolo “+”. - Para conocer todos los tipos de datos, podrás revisar el apartado de “Variables y Tipos de datos” del 👉[material teórico}(https://drive.google.com/file/d/1_p-ph7cgFDqv5sar1EQs56pZ22JeN5dr/view?usp=drive_link)
+💡A tener en cuenta - Para concatenar un texto y una variable se usa el símbolo “+”. - Para conocer todos los tipos de datos, podrás revisar el apartado de “Variables y Tipos de datos” del 👉[material teórico](https://drive.google.com/file/d/1_p-ph7cgFDqv5sar1EQs56pZ22JeN5dr/view?usp=drive_link)
 
 ---
