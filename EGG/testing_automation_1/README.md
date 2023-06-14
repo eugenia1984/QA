@@ -1,10 +1,4 @@
-## :book: TESTING AUTOMATION I
-
--> Encuentros: 30
-
--> Horas: 90
-
--> Aprendizaje: **Automatización de pruebas web**
+## :book: TESTING AUTOMATION I - HTML, CSS, JavaSCript, Git y GitHub
 
 ---
 
