@@ -137,14 +137,9 @@ Buenas, aca reuní los cursos realizados de QA:
 
 
 ---
-## :book: TESTING AUTOMATION I
+---
 
--> Encuentros: 30
-
--> Horas: 90
-
--> Aprendizaje: **Automatización de pruebas web**
-
+## :computer: [Relleno de HTML, CSS, JavaScript y Git y GitHub](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
 
 - [ENCUENTRO 01 - 17 MAYO - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md): Introducción al Desarrollo Web & HTML / Te damos la bienvenida! / ¿Qué es el desarrollo web? / Principios básicos del desarrollo web / Editores de código / Estructura del HTML / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos y encuesta final
 
@@ -156,46 +151,79 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - [ENCUENTRO 05 - 23 MAYO: INTEGRANDO JAVASCRIPT EN EL SITIO WEB](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro05.md): Introducción a Integrando Javascript en el sitio web / Estructuras de control de flujo / Manipulación del DOM / Eventos / Manejo de eventos / Formularios / Manejo y validación de formularios / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-ENCUENTRO 06 - 24 MAYO: A PRACTICAR: Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
+- [ENCUENTRO 06 - 24 MAYO: A PRACTICAR](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro06.md): Introducción / Ejercicio 01 / Ejercicio 02 / Ejercicio 03 / Ejercicio 04 / Ejercicio 05 / Ejercicio 06 / Ejercicio 07 / Ejercicio 08 / Resolución de ejercicios
 
-ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE: Introducción a creación de una barra de navegación responsive / Estructura de la barra de navegación / HTML para la barra de navegación / CSS para la barra de navegación / Barra de navegación responsiva / JavaScript para interactividad / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
+- [ENCUENTRO 07 - CREACION DE UNA BARRA DE NAVEGACION RESPONSIVE](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro07.md): Introducción a creación de una barra de navegación responsive / Estructura de la barra de navegación / HTML para la barra de navegación / CSS para la barra de navegación / Barra de navegación responsiva / JavaScript para interactividad / Desafío del día / Resolución del desafío / Valida tus conocimientos / Mapa de conceptos vistos
 
-ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO: Introducción a optimización del contenido y estructura del sitio / Actividad 1 / Actividad 2 / Desafío del día / Etiquetas semánticas / Resolución del desafío / Mapa de conceptos vistos
+- [ENCUENTRO 08 - OPTIMIZACION DE CONTENIDO Y ESTRUCTURA DEL SITIO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro08.md): Introducción a optimización del contenido y estructura del sitio / Actividad 1 / Actividad 2 / Desafío del día / Etiquetas semánticas / Resolución del desafío / Mapa de conceptos vistos
 
-ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES: Introducción / Creando una cuenta de GitHub / Instalando Github Desktop / Subiendo la página web a Internet / Actualizando tu página web / Actividad grupal / Mapa de conceptos vistos
+- [ENCUENTRO 09 - CREACION DE PORTAFOLIO EN GUTHUB Y SUBIDA DEL SITIO EN GITHUB PAGES](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md): Introducción / Creando una cuenta de GitHub / Instalando Github Desktop / Subiendo la página web a Internet / Actualizando tu página web / Actividad grupal / Mapa de conceptos vistos
 
-ENCUENTRO 10 - A PRACTICAR: Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 / Fin de la clase
+- [ENCUENTRO 10 - A PRACTICAR](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro10.md): Introducción / Ejercicio 1 / Ejercicio 2 / Ejercicio 3 / Fin de la clase
 
-ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora
+- ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora -> Me saque 58/60: APROBADO
 
-ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
+- [ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT]((https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro12.md)): Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
+
+- [ENCUENTRO 13 - Sistema de control de versiones](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro13.md): Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
+
+- [ENCUENTRO 14 - Resolución de conflictos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro14.md): Introducción / Conflictos de fusión / Git stash / Git cherry-pick / Git reset & Git revert / Git restore / Desafío Mapa de conceptos vistos
+
+- [ENCUENTRO 15 - Git & GitHub](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro15.md): Repositorios y colaboración en proyectos: Introducción / GitHub & Git / Subir repositorio local a Github / Descargar un repositorio remoto de GitHub / Descargar cambios remotos a repositorio local / Desafío / Mapa de conceptos vistos
+
+- [ENCUENTRO 16 - Colaboración y buenas prácticas](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro16.md): Introducción / Pull requests / Pull request colaborativo / Eliminar repositorios en GitHub / Git ignore / Git Workflow / Visual Studio Code & Git / Mapa de conceptos vistos
+
+---
+---
 
 
-8. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
+## :book: [**TESTING AUTOMATION I**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
 
-- 8.1 - Definición y principio de pruebas de automatización.
+-> Aprendizaje: **Java** y **Automatización de pruebas web**
 
-- 8.2 - Testing manual vs. Testing Automatizado
 
-9. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Java para automatizar
+9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
 
-- 9.1 - Introducción a la programación
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Primeros pasos con Java
 
-- 9.2 - PAradigma POO
+- 9.1 - Primeros pasos con Java: Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos
 
-- 9.3 - Instalación de IDE para manejo de código
+- 9.2 - Primeros pasos cpn Java: Scanner, operaciones y operadores.
 
-10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Selenium
+- 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
 
-- 10.1 - Pruebas UI
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
 
-- 10.2 - Priemros pasos con Selenium
+- 9.4 - Estructuras de control: try-catch  Class String y Math 
 
-- 10.3 - Esperas específicas e implícitas
+- 9.5 - Estructuras de control: Desafíos
 
-- 10.4 - Page Object Model
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
 
-- 10.5 - Cucumber
+- 9.6 - Bucles y Arrays: Parte |
+
+- 9.7 - Bucles y Arrays: Parte ||
+
+- 9.8 - Bucles y Arrays: Parte |||
+
+10. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
+
+- 10.1 - Definición y principio de pruebas de automatización.
+
+- 10.2 - Testing manual vs. Testing Automatizado
+
+
+11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Selenium
+
+- 11.1 - Pruebas UI
+
+- 11.2 - Primeros pasos con Selenium
+
+- 11.3 - Esperas específicas e implícitas
+
+- 11.4 - Page Object Model
+
+- 11.5 - Cucumber
 
 ---
 
@@ -207,25 +235,25 @@ ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Intro
 
 -> Aprendizaje: **Automatización de pruebas de APIs**
 
-11. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Pruebas de API
+12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Pruebas de API
 
-- 11.1 - Definición y bases conceptuales
+- 12.1 - Definición y bases conceptuales
 
-- 11.2 - Instalaicón de plataforma de pruebas e API
+- 12.2 - Instalaicón de plataforma de pruebas e API
 
-- 11.3 - Pruebas de API mediante plataforma.
+- 12.3 - Pruebas de API mediante plataforma.
 
-- 11.4 - Postman
+- 12.4 - Postman
 
-12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> JS + NodeJS
+13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> JS + NodeJS
 
-- 12.1 - Definición y bases conceptuales JS.
+- 13.1 - Definición y bases conceptuales JS.
 
-- 12.2 - Definiciòn y bases conceptuales NodeJS
+- 13.2 - Definiciòn y bases conceptuales NodeJS
 
-- 12.3 - Instalación de Cypress
+- 13.3 - Instalación de Cypress
 
-- 12.4 - Inroducción a Testing con Cypress
+- 13.4 - Inroducción a Testing con Cypress
 
 
 
@@ -244,6 +272,9 @@ ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT: Intro
 - 13.1 - Pruebas mobile
 
 - 13.2 - Primeros pasos con Appium
+
+---
+---
 
 ---
 ---
