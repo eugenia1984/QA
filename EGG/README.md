@@ -73,7 +73,7 @@
 
 -> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
 
--> **Módulos**: 1 - Principios y ciclos de vida de testing / 2 - Clasificaicón de pruebas / 3 - Análisis, planificaicón y ejecución de pruebas / 4 - Base de datos / 5 - Metodologías.
+-> **Módulos**: 1 - Principios y ciclos de vida de testing / 2 - Clasificación de pruebas / 3 - Análisis, planificaicón y ejecución de pruebas / 4 - Base de datos / 5 - Metodologías.
 
 ---
 
