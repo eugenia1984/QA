@@ -178,7 +178,7 @@
 ---
 
 
-## :book: [**TESTING AUTOMATION I - Java**]((https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_java))
+## :book: [**TESTING AUTOMATION I - Java**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_java)
 
 -> Aprendizaje: **Java** y **Automatización de pruebas web**
 
