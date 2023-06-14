@@ -1,4 +1,4 @@
-# :book: [**TESTING AUTOMATION I - Java**]
+# :book: TESTING AUTOMATION I - Java
 
 -> Aprendizaje: **Java** y **Automatización de pruebas web**
 
