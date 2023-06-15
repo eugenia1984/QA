@@ -16,7 +16,7 @@
 
 - 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
 
-[:book: **teorìa**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
+[:book: **teoría**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
 
 ---
 
