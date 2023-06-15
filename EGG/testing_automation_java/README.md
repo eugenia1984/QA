@@ -16,6 +16,8 @@
 
 - 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
 
+[:book: **teorìa**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
+
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
