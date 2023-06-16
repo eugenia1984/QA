@@ -12,7 +12,7 @@
 
 - [9.1 - Primeros pasos con Java: Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro01.md)
 
-- 9.2 - Primeros pasos cpn Java: Scanner, operaciones y operadores.
+- [9.2 - Primeros pasos con Java: Scanner, operaciones y operadores](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro02.md)
 
 - 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
 
