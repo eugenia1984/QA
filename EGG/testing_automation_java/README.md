@@ -22,7 +22,7 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
 
-- 9.4 - Estructuras de control: try-catch  Class String y Math 
+- [9.4 - Estructuras de control: try-catch  Class String y Math](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro04.md) 
 
 - 9.5 - Estructuras de control: Desafíos
 
