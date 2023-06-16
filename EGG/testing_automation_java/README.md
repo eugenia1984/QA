@@ -14,7 +14,7 @@
 
 - [9.2 - Primeros pasos con Java: Scanner, operaciones y operadores](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro02.md)
 
-- 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
+- [9.3 - Primeros pasos con Java - Desafíos: Desafios en Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro03.md)
 
 [:book: **teoría**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
 
