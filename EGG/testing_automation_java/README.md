@@ -18,6 +18,8 @@
 
 [:book: **teoría**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
 
+[:book: Teoria 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md)
+
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
