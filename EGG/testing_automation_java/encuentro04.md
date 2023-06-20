@@ -24,7 +24,7 @@ El objetivo de los siguientes ejercicios es aplicar los conceptos de las estruct
 Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://youtu.be/Mf-mc45qbSE) y [ver video](https://youtu.be/rKchWAH7_yE)
 
 
-¡Manos a la obra!
+## ¡Manos a la obra!
 
 Ejercicio de calificación: Escribir un programa que solicite al usuario una puntuación entre 0 y 100. Luego, mostrar en pantalla la calificación correspondiente según la siguiente escala:
 
