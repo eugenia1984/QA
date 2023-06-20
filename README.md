@@ -20,11 +20,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :book: INTRODUCCIÓN A QA
 
--> Encuentros: 17
-
--> Horas: 50
-
--> Aprendizaje: **Necesidad de las pruebas**
+**Encuentros**: 17, **Horas**: 50, **Aprendizaje**: **Necesidad de las pruebas**
 
 1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing)
 
@@ -73,14 +69,11 @@ Buenas, aca reuní los cursos realizados de QA:
 ![image](https://user-images.githubusercontent.com/72580574/220447792-ac613ee3-3a4f-4a3f-b633-9c61c7104fa1.png)
 
 ---
+---
 
 ## :book: TESTING MANUAL
 
--> Encuentros: 20
-
--> Horas: 60
-
--> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
+**Encuentros**: 20, **Horas**: 60 y **Aprendizaje**: **Análisis, planificación y ejecución de pruebas**
 
 4. [<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **- Principios y ciclos**](https://github.com/eugenia1984/QA/tree/main/EGG/04_principios_y_ciclos)
 
@@ -140,6 +133,8 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :computer: [**Testing Automation 1 - Relleno de HTML, CSS, JavaScript y Git y GitHub**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_1)
 
+**Encuentros**: 16, **Horas**: 48.
+
 - [ENCUENTRO 01 - 17 MAYO - INTRODUCCIÓN AL DESARROLLO WEB Y HTML](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro01.md)
 
 - [ENCUENTRO 02 - 18 MAYO - INTRODUCCIÓN A CSS](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro02.md)
@@ -178,7 +173,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :book: [**TESTING AUTOMATION I - Java**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_java)
 
--> Aprendizaje: **Java** y **Automatización de pruebas web**
+Aprendizaje: **Java** y **Automatización de pruebas web**
 
 
 9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
@@ -234,11 +229,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :book: TESTING AUTOMATION II
 
--> Encuentros: 20
-
--> Horas: 60
-
--> Aprendizaje: **Automatización de pruebas de APIs**
+**Encuentros**: 20, **Horas**: 60 y **Aprendizaje**: **Automatización de pruebas de APIs**
 
 12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Pruebas de API
 
@@ -263,14 +254,11 @@ Buenas, aca reuní los cursos realizados de QA:
 
 
 ---
+---
 
 ## :book: PERFORMANCE
 
--> Encuentros: 15
-
--> Horas: 45
-
--> Aprendizaaje: **Pruebas de rendimiento y carga**
+**Encuentros**: 15, **Horas**: 45 y **Aprendizaaje**: **Pruebas de rendimiento y carga**
 
 13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Introducción a Testing Mobile
 
@@ -278,8 +266,7 @@ Buenas, aca reuní los cursos realizados de QA:
 
 - 13.2 - Primeros pasos con Appium
 
----
----
+
 
 ---
 ---
@@ -288,33 +275,33 @@ Buenas, aca reuní los cursos realizados de QA:
 
 ## :book: TEMAS
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**1 - INTRODUCCION**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/01_introduccion): ¿qué es el testing?¿para qué sirve el testing?¿cuál es el alcance del testing? práctica - probando mi velocidad de conexión, desarrollo de software ¿cómo funciona internet?
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**1 - INTRODUCCION**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/01_introduccion)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**2 -ROLES**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/02_roles): gestión de calidad - QA, sector de QC
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**2 -ROLES**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/02_roles)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**3 - PRACTICAS CON HERRAMIENTAS DE TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/03_practicas_con_herramientas_de_testing): práctica - chequear la velocidad de carga de una web, práctica - test visual de página web, chequear inconsistencias del código, chequear links.
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**3 - PRACTICAS CON HERRAMIENTAS DE TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/03_practicas_con_herramientas_de_testing)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**4- CICLO DE VIDA DEL TESTING**](https://github.com/eugenia1984/QA/blob/main/INSTITUTO_WEB_QA/04_ciclo_de_vida_del_testing.md): Mapa del Testing, Práctica de Contenido n° 5 y Clase 2 en Vivo. Curso de Testing. Transmisión en vivo de Instituto Web.
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**4- CICLO DE VIDA DEL TESTING**](https://github.com/eugenia1984/QA/blob/main/INSTITUTO_WEB_QA/04_ciclo_de_vida_del_testing.md)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**5 - HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio): Concepto de Historia de Usuario (¿Que es? ¿Como se registra? ¿Para que sirve?) , Como registrar una Historia de Usuario, Relación con los usuarios
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**5 - HISTORIA DE USUARIO**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/04_historia_de_usurio)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**6 -PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba): ejemplos, información que contiene
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**6 -PLANES DE PUREBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/05_planes_de_prueba)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**7- REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos): Requisitos Funcionales y No Funcionales, Validación y Verificación y Test de los requerimientos
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**7- REQUERIMIENTOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/06_requerimientos)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**8 - CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba): ¿Como registrar un caso de prueba? / Técnicas TDD y BDD / Tips para crear buenos casos de pruebas / El Método de Clases de equivalencia (CE) en test de Caja Negra / Descripción en un caso de prueba / Pruebas Exploratorias / Clase 3 en Vivo. JAVA + JMeter performance - fuerza - stress en página web
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**8 - CASOS DE PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/07_casos_de_prueba)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**9 - RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba): Informes de Resultados de un Test Case / ¿ Es un defecto? ¿ Es una falla? ¿ Es un Error? / - Entrevista a un QA / Clase 4 en vivo. Bases de Datos y revisión en Testing Manual
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**9 - RESULTADOS DE UNA PRUEBA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/08_resultados_de_una_prueba)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**10 - TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test): Clasificación de Pruebas de Testing de software / Documento Standard de Pruebas Funcionales
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**10 - TIPOS DE TEST**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/09_tipos_de_test)
 
 **Prácticas - Proyecto a Realizar**: Buscar errores en Ecommerce / Clase 5 en vivo. Bases de Datos y performance y stress con automatización / Clase 6 en vivo. Testing en Bases de Datos NoSql y SQL API's AWS y Ubuntu Server. Performance y stress
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**11 - SCRUM EN TESTING**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/10_scrum_en_testing)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**12 - CALIDAD EN PROCESOS INTERNOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/11_calidad_en_procesos_internos): mejora continua, transición del servicio.
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**12 - CALIDAD EN PROCESOS INTERNOS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/11_calidad_en_procesos_internos)
 
-- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**13 - ESTRUCTURA DE UNA PAGINA WEB**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/12_estructuras_de_una_pagina_web): anatomía HTML básica
+- <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**13 - ESTRUCTURA DE UNA PAGINA WEB**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/12_estructuras_de_una_pagina_web)
 
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/>  [**14 - ESTIMACION DE DESARROLLO DE PRUEBAS**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/13_estimacion_de_desarrollo_de_pruebas)
 
