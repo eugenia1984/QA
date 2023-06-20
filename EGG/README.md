@@ -193,7 +193,7 @@
 - 9.5 - Estructuras de control: Desafíos
 
 
-- [:book: Teoría 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md)
+- [:book: Teoría 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md): Estructuras de control: if if-else / if-else if-else / switch / switch expression // Exhaustividad // Coincidencia de patrones: Bloque try-catch // Manejo de excepciones // Ámbito de las variables // Clase String (Anexo A) // Clase Math (Anexo B)
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
 
