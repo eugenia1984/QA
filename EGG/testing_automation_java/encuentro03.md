@@ -6,7 +6,8 @@ En esta sección, te enfrentarás a emocionantes desafíos que te ayudarán a fo
 
 ¡Ponte a prueba y demuestra tu destreza en Java! 💪
 
-## Desafío I
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
+ Desafío I
 
 El objetivo de este desafío es escribir un programa que use un operador ternario para determinar si un número es par o impar.
 
@@ -20,7 +21,8 @@ Crear un programa que identifique si el número es par o impar.
 
 Mostrar el resultado en la consola.
 
-## Desafío II
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
+ Desafío II
 
 El objetivo de este desafío es crear una calculadora básica en Java que pueda realizar operaciones aritméticas simples, como suma, resta, multiplicación y división. 
 
@@ -35,5 +37,7 @@ Vas a tener que:
 3. Permitir al usuario elegir qué operación quiere realizar.
 
 4. Mostrar el resultado de la operación en la consola.
+
+---
 
 ---
