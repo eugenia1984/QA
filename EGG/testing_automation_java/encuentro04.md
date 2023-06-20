@@ -26,7 +26,7 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 ## ¡Manos a la obra!
 
-Ejercicio de calificación: Escribir un programa que solicite al usuario una puntuación entre 0 y 100. Luego, mostrar en pantalla la calificación correspondiente según la siguiente escala:
+- **Ejercicio de calificación**: Escribir un programa que solicite al usuario una puntuación entre 0 y 100. Luego, mostrar en pantalla la calificación correspondiente según la siguiente escala:
 
 Si la puntuación está entre 90 y 100, muestra "A".
 
@@ -38,24 +38,24 @@ Si la puntuación está entre 60 y 69, muestra "D".
 
 Si la puntuación es menor a 60, muestra "F".
 
-Ejercicio de números positivos y negativos: Escribir un programa que solicite al usuario un número y determine si es positivo, negativo o cero. Mostrar el resultado en pantalla.
+- **Ejercicio de números positivos y negativos**: Escribir un programa que solicite al usuario un número y determine si es positivo, negativo o cero. Mostrar el resultado en pantalla.
 
-Ejercicio de divisibilidad: Escribir un programa que solicite al usuario un número y determine si es divisible por 5 y por 3, por ninguno de los dos o por ambos. Mostrar el resultado en pantalla.
+- **Ejercicio de divisibilidad**: Escribir un programa que solicite al usuario un número y determine si es divisible por 5 y por 3, por ninguno de los dos o por ambos. Mostrar el resultado en pantalla.
 
-Ejercicio de verificación de contraseña: Escribir un programa que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida. Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso concedido". De lo contrario, mostrar un mensaje de "Acceso denegado".
+- **Ejercicio de verificación de contraseña**: Escribir un programa que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida. Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso concedido". De lo contrario, mostrar un mensaje de "Acceso denegado".
 
-Ejercicio de cálculo de descuento: Escribir un programa que solicite al usuario el precio de un producto y determine si tiene derecho a un descuento. Si el precio es mayor o igual a $100, aplicar un descuento del 10% y mostrar el nuevo precio. De lo contrario, mostrar el precio original sin descuento.
+- **Ejercicio de cálculo de descuento**: Escribir un programa que solicite al usuario el precio de un producto y determine si tiene derecho a un descuento. Si el precio es mayor o igual a $100, aplicar un descuento del 10% y mostrar el nuevo precio. De lo contrario, mostrar el precio original sin descuento.
 
 ---
 
-## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Switch
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Switch
 
 El objetivo de estos otros ejercicios es aplicar la estructura de control "switch" en Java. Aprenderemos a utilizar esta estructura para realizar diferentes acciones en función de múltiples casos, y mejoraremos nuestra capacidad para tomar decisiones más complejas y resolver problemas de manera eficiente.
 
 Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://youtu.be/uVuFODP9j2k)
 
 
-## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  ¡Manos a la obra!
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  ¡Manos a la obra!
 
 1. **Ejercicio de días de la semana**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y muestre en pantalla el nombre correspondiente a ese día. Utilizar la estructura "switch" para implementar este programa.
 
