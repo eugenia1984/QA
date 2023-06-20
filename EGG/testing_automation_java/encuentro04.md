@@ -291,6 +291,58 @@ public class Encuentro04 {
 
 5: "Sobresaliente". Utilizar la estructura "switch" para implementar este programa.
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("* * * * * * * * Ejercicio 7 * * * * * * *");
+        /*
+        Ejercicio de conversión de calificaciones: Escribir un programa que 
+        solicite al usuario una calificación numérica del 1 al 5 y muestre 
+        en pantalla la calificación correspondiente en letras, 
+        utilizando la siguiente escala:
+        1: "Muy deficiente"
+        2: "Deficiente"
+        3: "Suficiente"
+        4: "Notable"
+        5: "Sobresaliente". Utilizar la estructura "switch" para implementar este programa.
+        */
+        int calificacionAConvertir;
+        do {
+            System.out.println("Ingrese la caliicación (1/5): ");
+            calificacionAConvertir = sc.nextInt();
+            switch(calificacionAConvertir) {
+                case 1:
+                    System.out.println("Muy deficiente");
+                    break;
+                case 2:
+                    System.out.println("Deficiente");
+                    break;
+                case 3:
+                    System.out.println("Suficiente");
+                    break;
+                case 4:
+                    System.out.println("Notable");
+                    break;
+                case 5:
+                    System.out.println("Sobresaliente");
+                    break;
+                default:
+                       System.out.println("Opción invalida");
+            }
+        } while (calificacionAConvertir <0 || calificacionAConvertir > 5);
+        
+    } 
+}
+
+```
+
 - **Ejercicio de selección de figura geométrica**: Escribir un programa que solicite al usuario un número del 1 al 3 para seleccionar una figura geométrica (1: círculo, 2: cuadrado, 3: triángulo). Luego, mostrar en pantalla el área correspondiente a la figura seleccionada. Utilizar la estructura "switch" para implementar este programa.
 
 ```Java
