@@ -458,4 +458,47 @@ Opción 2: "Cargar"
 
 Opción 3: "Salir"  Solicitar al usuario que ingrese un número del 1 al 3 para seleccionar una opción. Utilizar la estructura "switch" para implementar este programa y mostrar en pantalla el mensaje correspondiente a la opción seleccionada.
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("* * * * * * * * Ejercicio 10 * * * * * * *");
+        /*
+        Ejercicio de selección de opción: Escribir un programa que muestre un menú 
+        con las siguientes opciones:
+        Opción 1: "Guardar"
+        Opción 2: "Cargar"
+        Opción 3: "Salir" Solicitar al usuario que ingrese un número del 1 al 3 
+        para seleccionar una opción. Utilizar la estructura "switch" para 
+        implementar este programa y mostrar en pantalla el mensaje correspondiente 
+        a la opción seleccionada.
+        */
+        int seleccionIngresada2;
+        do {
+            System.out.println("Ingrese: \n1 - Guardar\n2 - Cargar\n3 - Salir");
+            seleccionIngresada2 = sc.nextInt();
+            switch(seleccionIngresada2) {
+                case 1:
+                    System.out.println("GUARDAR");
+                    break;
+                case 2:
+                    System.out.println("CARGAR");
+                    break;
+                case 3:
+                    System.out.println("SALIR");
+                    break;
+                default:
+                    System.out.println("Opción incorrecta");
+            }
+        } while(seleccionIngresada2<1 || seleccionIngresada2>3);
+     
+    } 
+}
+```
 ---
