@@ -293,6 +293,63 @@ public class Encuentro04 {
 
 - **Ejercicio de selección de figura geométrica**: Escribir un programa que solicite al usuario un número del 1 al 3 para seleccionar una figura geométrica (1: círculo, 2: cuadrado, 3: triángulo). Luego, mostrar en pantalla el área correspondiente a la figura seleccionada. Utilizar la estructura "switch" para implementar este programa.
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("* * * * * * * * Ejercicio 8 * * * * * * *");
+        /*
+        Ejercicio de selección de figura geométrica: Escribir un programa que 
+        solicite al usuario un número del 1 al 3 para seleccionar una figura 
+        geométrica (1: círculo, 2: cuadrado, 3: triángulo). 
+        Luego, mostrar en pantalla el área correspondiente a la figura seleccionada. 
+        Utilizar la estructura "switch" para implementar este programa.
+        */
+        int eleccionFigura;
+        double area;
+        do {
+            System.out.println("Inserte un número para elegir la figura geometrica: "+
+                    "1-circulo / 2-cuadrado / 3-triangulo");
+            eleccionFigura = sc.nextInt();
+        } while (eleccionFigura<0 || eleccionFigura >3);
+        switch(eleccionFigura) {
+            case 1: // circulo
+                double radio;
+                System.out.println("Ingrese el RADIO del círculo: ");
+                radio = sc.nextDouble();
+                area = Math.sqrt(Math.PI * radio);
+                System.out.println("El área del círculo es: " + area);
+                break;
+            case 2: // cuadrado
+                double lado;
+                System.out.println("Ingrese el LADO del cuadrado: ");
+                lado = sc.nextDouble();
+                area = lado * lado;
+                System.out.println("El area del cuadrado es: " + area);
+                break;
+            case 3: // triangulo
+                double base, altura;
+                System.out.println("Ingresa la BASE del triángulo: ");
+                base = sc.nextDouble();
+                System.out.println("Ingresa la ALTURA del triángulo: ");
+                altura = sc.nextDouble();
+                area = (base * altura) / 2;
+                System.out.println("El área del triángulo es: "+area);
+                break;
+            default:
+                System.out.println("Opción incorrecta");
+                break;
+        }
+    } 
+}
+```
+
 - **Ejercicio de verificación de día hábil**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y determine si es un día hábil o un día no hábil. Mostrar el resultado en pantalla.  Considerar que los días hábiles son del 1 al 5 (de lunes a viernes), y utilizar la estructura "switch" para implementar este programa.
 
 - **Ejercicio de selección de opción**: Escribir un programa que muestre un menú con las siguientes opciones:
