@@ -127,7 +127,7 @@ En cuanto a la “parte 2”, la sintaxis “System.out.println();” indica que
 
 ## Variables
 
-Las ^^variables^^ desempeñan un papel fundamental en la programación, ya que **actúan como contenedores donde podemos almacenar información, conocida como datos**.
+Las **variables** desempeñan un papel fundamental en la programación, ya que **actúan como contenedores donde podemos almacenar información, conocida como datos**.
 
 Siguiendo con nuestra analogía de las recetas, al igual que los ingredientes se almacenan en recipientes, los datos también necesitan un lugar donde se puedan guardar para poder manipularlos y darle instrucciones a la computadora sobre qué hacer con ellos. En programación, estos contenedores se llaman variables.
 
