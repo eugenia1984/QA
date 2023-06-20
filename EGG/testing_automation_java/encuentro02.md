@@ -86,6 +86,40 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver vide](https://y
 💡Los operadores de comparación más utilizados en Java son: igualdad (==), distinto que (!=), mayor que (>), menor que (<), mayor o igual que (>=), menor o igual que (<=).
 
 
+
+```Java
+package encuentro02;
+
+import java.util.Scanner;
+
+public class Encuentro02 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        // 6 - Pedir al usuario que introduzca dos números, y:
+        // 1 - Comparar si número 1 es mayor a número 2.
+        // 2 - Entender si número 1 es distinto a número 2.
+        // 3 - Entender si número 1 es divisible por 2.
+        System.out.println("* * * * * Ejercicio 6 * * * * *");
+        System.out.print("Ingrese un primer numero: ");
+        int num5 = sc.nextInt();
+        System.out.print("Ingrese un segundo número: ");
+        int num6 = sc.nextInt();
+        boolean esMayor = num5>num6;
+        boolean esDistinto = num5 != num6;
+        boolean esDivisible = num5 % num6 == 0;
+        System.out.println("Es "+num5+" mayor a "+num6+": "+ esMayor);
+        System.out.println("Es "+num5+" distinto a "+num6+": "+ esDistinto);
+         System.out.println("Es "+num5+" es divisible a "+num6+": "+ esDivisible);
+    }
+}
+
+```
+
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/64a3e065-cc02-4072-846e-ed928d4791e4)
+
+
 1. Pedir al usuario que ingrese 4 números y comparar:
 
 - 1 - Si el número 1 es mayor al número 2 y si el número 3 es mayor al número 4.
