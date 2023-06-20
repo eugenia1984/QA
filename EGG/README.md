@@ -8,11 +8,7 @@
 
 ## :star: INTRODUCCIÓN A QA :star:
 
--> Encuentros: 17
-
--> Horas: 50
-
--> Aprendizaje: **Necesidad de las pruebas**
+**Encuentros**: 17 | **Horas**: 50 | **Aprendizaje**: **Necesidad de las pruebas**
 
 
 1. [**<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> El mundo del testing**](https://github.com/eugenia1984/QA/tree/main/EGG/01_el_mundo_del_testing)
@@ -60,6 +56,8 @@
 
 - [**Proyecto final integrador**](https://github.com/eugenia1984/QA/blob/main/EGG/03_poniendo_en_practica_las_pruebas/integrador.md)
 
+## Certificado:
+
 ![image](https://user-images.githubusercontent.com/72580574/220447929-54b0a87c-da3d-420a-91dd-f4e664899066.png)
 
 ---
@@ -67,13 +65,7 @@
 
 ## :star: TESTING MANUAL :star:
 
--> Encuentros: 20
-
--> Horas: 60
-
--> Aprendizaje: **Análisis, planificación y ejecución de pruebas**
-
--> **Módulos**: 1 - Principios y ciclos de vida de testing / 2 - Clasificación de pruebas / 3 - Análisis, planificaicón y ejecución de pruebas / 4 - Base de datos / 5 - Metodologías.
+**Encuentros**: 20 | **Horas**: 60 | **Aprendizaje**: **Análisis, planificación y ejecución de pruebas** | **Módulos**: 1 - Principios y ciclos de vida de testing / 2 - Clasificación de pruebas / 3 - Análisis, planificaicón y ejecución de pruebas / 4 - Base de datos / 5 - Metodologías.
 
 ---
 
@@ -128,7 +120,6 @@
 8.  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> **Módulo 5 - Metodología**
 
 ---
----
 
 
 ## Certificado 
@@ -180,7 +171,7 @@
 
 ## :book: [**TESTING AUTOMATION I - Java**](https://github.com/eugenia1984/QA/tree/main/EGG/testing_automation_java)
 
--> Aprendizaje: **Java** y **Automatización de pruebas web**
+**Aprendizaje**: **Java** y **Automatización de pruebas web**
 
 
 9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
@@ -235,11 +226,7 @@
 
 ## :book: TESTING AUTOMATION II
 
--> Encuentros: 20
-
--> Horas: 60
-
--> Aprendizaje: **Automatización de pruebas de APIs**
+**Encuentros**: 20 | **Horas**: 60 | **Aprendizaje**: **Automatización de pruebas de APIs**
 
 12. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Pruebas de API
 
@@ -267,11 +254,7 @@
 
 ## :book: PERFORMANCE
 
--> Encuentros: 15
-
--> Horas: 45
-
--> Aprendizaaje: **Pruebas de rendimiento y carga**
+**Encuentros**: 15 | **Horas**: 45 | **Aprendizaaje**: **Pruebas de rendimiento y carga**
 
 13. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Introducción a Testing Mobile
 
