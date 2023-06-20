@@ -97,19 +97,7 @@ Para mayor contexto, te invitamos a ver el [siguiente video](https://youtu.be/vW
 
 ¡Manos a la obra!
 
-1. Crear una variable por cada uno de los siguientes tipos de dato:
-
-a. boolean
-
-b. char
-
-c. String
-
-d. Int
-
-e. long
-
-f. float
+1. Crear una variable por cada uno de los siguientes tipos de dato: a. boolean / b. char / c. String / d. int / e. long / f. float
 
 2. Imprimir en consola el contenido de al menos una de las variables que creamos en el paso anterior.
 
