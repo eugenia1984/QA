@@ -128,4 +128,37 @@ public class Encuentro02 {
 
 💡Los operadores lógicos más utilizados en Java son: AND (&&), OR (||), siendo AND = y  / OR = o.
 
+
+```Java
+package encuentro02;
+
+import java.util.Scanner;
+
+public class Encuentro02 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("* * * * * * * * * Ejercicio 7 * * * * * * * * *");
+        // 7 Pedir al usuario que ingrese 4 números y comparar:
+        // 1 - Si el número 1 es mayor al número 2 y si el número 3 es mayor al número 4.
+        // 2 - Si el número 1 es mayor al número 2 o si el número 3 es mayor al número 4.
+         System.out.print("Ingrese un primer numero: ");
+        int num7 = sc.nextInt();
+        System.out.print("Ingrese un segundo número: ");
+        int num8 = sc.nextInt();
+         System.out.print("Ingrese un primer numero: ");
+        int num9 = sc.nextInt();
+        System.out.print("Ingrese un segundo número: ");
+        int num10 = sc.nextInt();
+        boolean condicion1 = (num7 >num8) && (num9 > num10);
+        boolean condicion2 = (num7>num8) || (num9 > num10);
+        System.out.println("¿El número 1 es mayor al número 2 y si el número 3 es mayor al número 4? "+condicion1);
+        System.out.println("¿El número 1 es mayor al número 2 o si el número 3 es mayor al número 4? "+condicion2);
+    }
+}
+```
+
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/1b736889-247a-4137-abce-02b9e83fc93a)
+
 ---
