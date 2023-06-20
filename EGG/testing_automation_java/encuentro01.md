@@ -117,4 +117,27 @@ f. float
 
 💡A tener en cuenta - Para concatenar un texto y una variable se usa el símbolo “+”. - Para conocer todos los tipos de datos, podrás revisar el apartado de “Variables y Tipos de datos” del 👉[material teórico](https://drive.google.com/file/d/1_p-ph7cgFDqv5sar1EQs56pZ22JeN5dr/view?usp=drive_link)
 
+
+
+```Java
+package encuentro01;
+
+public class Encuentro01 {
+
+    public static void main(String[] args) {
+        boolean boleana = true;
+        char caracter = 'a';
+        String cadena = "Esta es una cadena de texto";
+        int entero = 4;
+        long numeroLong = 9_223_372_036_854_775_805L;
+        float numeroFloat = 5.4f; 
+        String nombre = "María Eugenia";
+        int anios = 38;
+        System.out.println("Mi nombre es "+nombre+", y tengo "+anios+" años.");
+    }  
+}
+```
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/66febefe-b97e-4514-a36b-cd6000571237)
+
 ---
