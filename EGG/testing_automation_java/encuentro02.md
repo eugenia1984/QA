@@ -2,7 +2,7 @@
 
 ---
 
-## :star: Scanner
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Scanner
 
 El objetivo del siguiente ejercicio es utilizar la clase Scanner de Java para interactuar con el usuario y solicitarle datos de entrada. A través de la lectura de datos ingresados por el usuario, se practica la asignación de valores a variables y la impresión de información en la consola.
 
@@ -19,7 +19,7 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 ---
 
-## :star:  Operaciones
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>   Operaciones
 
 El objetivo del siguiente ejercicio es practicar el uso de operaciones aritméticas en Java. A través de la realización de diversas operaciones entre números, se busca reforzar el conocimiento sobre las operaciones básicas disponibles en el lenguaje, como la suma (+), resta (-), multiplicación (*), división (/) y módulo (%). Se realizarán operaciones tanto con valores predeterminados como con valores ingresados por el usuario. 
 
@@ -33,7 +33,7 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 ---
 
-## :star: Operadores
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Operadores
 
 El objetivo de este otro ejercicio es practicar el uso de operadores de comparación y lógicos en Java. A través de la interacción con el usuario, se buscará comparar dos números ingresados y evaluar diversas condiciones utilizando operadores como mayor que, distinto que y divisible por dos. Se espera comprender el funcionamiento y la sintaxis de estos operadores, así como su aplicación en la lógica de programación. Además, se realizarán comparaciones adicionales utilizando operadores lógicos para evaluar condiciones combinadas. Al finalizar el ejercicio, se podrá determinar si se cumplen ciertas condiciones lógicas establecidas.
 
