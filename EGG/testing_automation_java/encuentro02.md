@@ -17,6 +17,9 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 3. Solicitar al usuario su nombre, luego solicita su edad e imprime en pantalla un mensaje que diga “Su nombres es [nombre del usuario] y su edad es [edad del usuario]”.
 
 
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/bb651913-fafe-4c99-a4fe-fe8f8568ce2e)
+
 ---
 
 ## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>   Operaciones
