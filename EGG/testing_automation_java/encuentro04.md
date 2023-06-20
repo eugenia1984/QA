@@ -109,14 +109,41 @@ public class Encuentro04 {
         } else {
             System.out.println("Ingresó un número positivo.");
         }
-        
-        System.out.println("* * * * * * * * Ejercicio 3 * * * * * * *");
     } 
 }
 
 ```
 
 - **Ejercicio de divisibilidad**: Escribir un programa que solicite al usuario un número y determine si es divisible por 5 y por 3, por ninguno de los dos o por ambos. Mostrar el resultado en pantalla.
+
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("* * * * * * * * Ejercicio 3 * * * * * * *");
+        /*
+        Ejercicio de divisibilidad: Escribir un programa que solicite al usuario 
+        un número y determine si es divisible por 5 y por 3, por ninguno de los 
+        dos o por ambos. Mostrar el resultado en pantalla.
+        */
+        int num3;
+        System.out.println("Ingrese un número para ver si es divisible por 5 y 3 o por ninguno de los dos: ");
+        num3 = sc.nextInt();
+        if (num3 % 5 == 0 && num3 % 3 == 0) {
+            System.out.println(num3+" es divisible por 3 y 5.");
+        }
+        if (num3 % 5 != 0 && num3 % 3 != 0) {
+            System.out.println(num3+" NO es divisible por 3 y 5.");
+        }
+    } 
+}
+
+```
 
 - **Ejercicio de verificación de contraseña**: Escribir un programa que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida. Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso concedido". De lo contrario, mostrar un mensaje de "Acceso denegado".
 
