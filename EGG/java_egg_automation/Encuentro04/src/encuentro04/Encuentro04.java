@@ -50,7 +50,7 @@ public class Encuentro04 {
         num1 = sc.nextInt();
         if(num1 == 0) {
             System.out.println("Ingresó 0.");
-        } else if( num1 > 0) {
+        } else if( num1 < 0) {
             System.out.println("Ingresó un número negativo.");
         } else {
             System.out.println("Ingresó un número positivo.");
