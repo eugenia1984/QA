@@ -65,10 +65,28 @@ Todo lo que aparezca entre [ ] indica que el contenido debe ser reemplazado. Por
 
 Por el momento, todas las instrucciones que ejecutemos deben estar dentro del bloque de código "public static void main(String[] args) throws Exception { }".
 
-Podrás apoyarte en el apartado de "Programación con Java" del 👉material teórico.
-
 
 ![image](https://github.com/eugenia1984/QA/assets/72580574/a22c1f97-3ce0-4e40-8a27-63141c7b85a4)
+
+```Java
+package encuentro01;
+
+public class Encuentro01 {
+
+    public static void main(String[] args) {
+        String name = "María Eugenia";
+        int age = 38;
+        // 1 - Crear un programa que imprima "Hola Mundo" en la consola.
+        System.out.println("Hola mundo");
+        // 2 - Crear un programa que imprima "Mi nombre es [tu nombre]" en la consola.
+        System.out.println("Mi nombre es: " + name);
+        // 3 - Crear un programa que imprima "Mi edad es [edad]" en la consola.
+        System.out.println("Mi edad es: " + age);
+    }  
+}
+```
+
+![image](https://github.com/eugenia1984/QA/assets/72580574/72d0514d-7d17-4b36-87fc-ca7295baed86)
 
 
 ## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Variables y tipos de datos
