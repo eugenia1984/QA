@@ -72,8 +72,7 @@ Podrás apoyarte en el apartado de "Programación con Java" del 👉material te�
 ![image](https://github.com/eugenia1984/QA/assets/72580574/a22c1f97-3ce0-4e40-8a27-63141c7b85a4)
 
 
-## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
- Variables y tipos de datos
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Variables y tipos de datos
  
 El objetivo de los siguientes ejercicios es familiarizarnos con la declaración de variables y los diferentes tipos de datos en Java. A través de la creación de variables de distintos tipos, buscamos practicar la asignación de valores y la impresión de información en la consola. Al finalizar, esperamos lograr imprimir un mensaje personalizado que incluya el nombre y la edad almacenados en las variables correspondientes.
 
