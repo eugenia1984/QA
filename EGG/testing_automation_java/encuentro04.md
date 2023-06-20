@@ -147,6 +147,35 @@ public class Encuentro04 {
 
 - **Ejercicio de verificación de contraseña**: Escribir un programa que solicite al usuario una contraseña y verifique si coincide con una contraseña predefinida. Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso concedido". De lo contrario, mostrar un mensaje de "Acceso denegado".
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);        
+        System.out.println("* * * * * * * * Ejercicio 4 * * * * * * *");
+        /*
+        Ejercicio de verificación de contraseña: Escribir un programa que solicite 
+        al usuario una contraseña y verifique si coincide con una contraseña predefinida. 
+        Si la contraseña ingresada es correcta, mostrar un mensaje de "Acceso concedido". 
+        De lo contrario, mostrar un mensaje de "Acceso denegado".
+        */
+        String pass = "HolaMundo";
+        String passIngresado;
+        System.out.println("Ingrese la contraseña: ");
+        passIngresado = sc.nextLine();
+        if(passIngresado.equals(pass)) {
+            System.out.println("Acceso concedido");
+        } else {
+            System.out.println("Acceso denegado");
+        }
+    } 
+}
+```
+
 - **Ejercicio de cálculo de descuento**: Escribir un programa que solicite al usuario el precio de un producto y determine si tiene derecho a un descuento. Si el precio es mayor o igual a $100, aplicar un descuento del 10% y mostrar el nuevo precio. De lo contrario, mostrar el precio original sin descuento.
 
 ---
