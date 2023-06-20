@@ -224,6 +224,61 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 - **Ejercicio de días de la semana**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y muestre en pantalla el nombre correspondiente a ese día. Utilizar la estructura "switch" para implementar este programa.
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+    
+        System.out.println("* * * * * * * * Ejercicio 6 * * * * * * *");
+        /*
+        Ejercicio de días de la semana: Escribir un programa que solicite al 
+        usuario un número del 1 al 7, representando un día de la semana, 
+        y muestre en pantalla el nombre correspondiente a ese día. 
+        Utilizar la estructura "switch" para implementar este programa.
+        */
+        String dia;
+        int diaElegido;
+        System.out.println("Ingrese un número del 1 al 7 para decirle que día de la semana es: ");
+        diaElegido = sc.nextInt();
+        if(diaElegido > 7 || diaElegido < 1) {
+            System.out.println("Debería elegir entre 1 al 7.");
+        } else {
+            switch(diaElegido) {
+                case 1:
+                    System.out.println("1 - Lunes.");
+                    break;
+                case 2:
+                    System.out.println("2 - Martes.");
+                    break;
+                case 3:
+                    System.out.println("3 - Miércoles.");
+                    break;
+                case 4:
+                    System.out.println("4 - Jueves.");
+                    break;
+                case 5:
+                    System.out.println("5 - Viernes.");
+                    break;
+                case 6:
+                    System.out.println("6 - Sábado.");
+                    break;
+                case 7:
+                    System.out.println("7 - Domingo.");
+                    break;
+                default:
+                    System.out.println("Opción erronea.");
+                    break;
+            }
+        }
+    } 
+}
+```
+
 - **Ejercicio de conversión de calificaciones**: Escribir un programa que solicite al usuario una calificación numérica del 1 al 5 y muestre en pantalla la calificación correspondiente en letras, utilizando la siguiente escala:
 
 1: "Muy deficiente"
