@@ -178,6 +178,39 @@ public class Encuentro04 {
 
 - **Ejercicio de cálculo de descuento**: Escribir un programa que solicite al usuario el precio de un producto y determine si tiene derecho a un descuento. Si el precio es mayor o igual a $100, aplicar un descuento del 10% y mostrar el nuevo precio. De lo contrario, mostrar el precio original sin descuento.
 
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);       
+        
+        System.out.println("* * * * * * * * Ejercicio 5 * * * * * * *");
+        /*
+        Ejercicio de cálculo de descuento: Escribir un programa que solicite al 
+        usuario el precio de un producto y determine si tiene derecho a un descuento. 
+        Si el precio es mayor o igual a $100, aplicar un descuento del 10% y 
+        mostrar el nuevo precio. De lo contrario, mostrar el precio original 
+        sin descuento.
+        */
+        double precio;
+        double precioFinal;
+        System.out.print("Ingrese el precio del producto: $");
+        precio = sc.nextDouble();
+        if(precio >= 100) {
+            precioFinal = precio *0.9;
+            System.out.println("Precio final: $ "+ precioFinal);
+        } else {
+            System.out.println("Precio final: $ "+precio);
+        }
+    } 
+}
+
+```
+
 ---
 
 ## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Switch
