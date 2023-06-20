@@ -164,7 +164,7 @@
 
 - ENCUENTRO 11 - EVALUACION GENERAL: Evaluación Integradora -> Me saque 58/60: APROBADO
 
-- [ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT]((https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro12.md)): Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
+- [ENCUENTRO 12 - INTRODUCCION A VERSIONES DE UN SITIO EN GITHUB CON CHATGPT](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro12.md): Introducción a versiones de un sitio en Github con ChatGPT / ChatGPT como herramienta de optimización / ChatGPT para la página principal / ChatGPT para la página de “servicios” / ChatGPT para mejorar el CSS / Desafío del día / Recuperatorio / Despedida
 
 - [ENCUENTRO 13 - Sistema de control de versiones](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_1/encuentro13.md): Introducción a Git / Introducción / La importancia de Git / Instalación de Git / Repositorio de Git local / Conceptos esenciales de Git / Desafío de Git / Ramas o “branches” en Git / Git Merge / Mapa de conceptos
 
@@ -187,17 +187,21 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Primeros pasos con Java
 
-- 9.1 - Primeros pasos con Java: Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos
+- 9.1 - [Primeros pasos con Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro01.md): Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos
 
-- 9.2 - Primeros pasos cpn Java: Scanner, operaciones y operadores.
+- 9.2 - [Primeros pasos con Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro02.md): Scanner, operaciones y operadores.
 
-- 9.3 - Primeros pasos con Java - Desafíos: Desafios en Java
+- 9.3 - [Primeros pasos con Java - Desafíos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro03.md): Desafios en Java
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
 
-- 9.4 - Estructuras de control: try-catch  Class String y Math 
+- 9.4 - [Estructuras de control](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro04.md): try-catch  Class String y Math 
 
 - 9.5 - Estructuras de control: Desafíos
+
+- [:book: Teoría 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md): Servicios backend / Introducción a Java / Instalación de Java / Programación con Java / Sintaxis básica de un programa en Java / Variables (sentencia de declaración de una variable / declarar e inicializar una variable / variables vs. constantes) / Tipos de datos primitivos (boolean, char, numericos-byte, short, int, long, float, double-) / clase Scanner ( nextBoolean, nextInt, nextDouble, nextLine) / Operaciones y Operadores de: asignación(=), aritméticos(+,-,*, /, %), de comparación(<, <=, >, >=, ==, !=) y lógicos (&&, ||, !) / Operador ternario / 📖 Material complementario: Tipos de datos estructurados: String, Arrays y Tipos definidos por el usuario / Tipos envoltorio o wrapper
+
+- [:book: Teoría 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md)
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
 
