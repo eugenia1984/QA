@@ -180,11 +180,11 @@ Aprendizaje: **Java** y **Automatización de pruebas web**
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Primeros pasos con Java
 
-- 9.1 - [Primeros pasos con Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro01.md): Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos
+- 9.1 - [Primeros pasos con Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro01.md): Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos //  [:computer: Ejercicio clase 1](https://github.com/eugenia1984/QA/tree/main/EGG/java_egg_automation/Encuentro01)
 
-- 9.2 - [Primeros pasos cpn Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro02.md): Scanner, operaciones y operadores.
+- 9.2 - [Primeros pasos cpn Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro02.md): Scanner, operaciones y operadores. //  [:computer: Ejercicio clase 2](https://github.com/eugenia1984/QA/tree/main/EGG/java_egg_automation/Encuentro02)
 
-- 9.3 - [Primeros pasos con Java - Desafíos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro03.md): Desafios en Java
+- 9.3 - [Primeros pasos con Java - Desafíos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro03.md): Desafios en Java //  [:computer: Ejercicio clase 3](https://github.com/eugenia1984/QA/tree/main/EGG/java_egg_automation/Encuentro03)
 
 - [Teoría 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria.md)
 
