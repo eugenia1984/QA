@@ -2,7 +2,8 @@
 
 ---
 
-## Introducción
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
+ Introducción
 
 Llegó el momento de adentrarnos en una emocionante serie de ejercicios que nos brindarán la oportunidad de aplicar de manera práctica las **estructuras de control** y las **clases fundamentales** de Java.
 
@@ -15,9 +16,9 @@ No dudes en aprovecharlo para afianzar tus conocimientos y tener una base sólid
 
 ---
 
-## :star: Estructuras de control: If, If-else y Switch
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Estructuras de control: If, If-else y Switch
 
-## If & If-else
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  If & If-else
 
 El objetivo de los siguientes ejercicios es aplicar los conceptos de las estructuras de control "if" y "if-else" en Java. A través de una serie de ejercicios prácticos, donde abordaremos situaciones diferentes, aprenderemos a utilizar estas estructuras para tomar decisiones basadas en condiciones específicas.
 
@@ -48,14 +49,14 @@ Ejercicio de cálculo de descuento: Escribir un programa que solicite al usuario
 
 ---
 
-## :star: Switch
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  Switch
 
 El objetivo de estos otros ejercicios es aplicar la estructura de control "switch" en Java. Aprenderemos a utilizar esta estructura para realizar diferentes acciones en función de múltiples casos, y mejoraremos nuestra capacidad para tomar decisiones más complejas y resolver problemas de manera eficiente.
 
 Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://youtu.be/uVuFODP9j2k)
 
 
-## ¡Manos a la obra!
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  ¡Manos a la obra!
 
 1. **Ejercicio de días de la semana**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y muestre en pantalla el nombre correspondiente a ese día. Utilizar la estructura "switch" para implementar este programa.
 
