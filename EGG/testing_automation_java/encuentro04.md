@@ -404,6 +404,52 @@ public class Encuentro04 {
 
 - **Ejercicio de verificación de día hábil**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y determine si es un día hábil o un día no hábil. Mostrar el resultado en pantalla.  Considerar que los días hábiles son del 1 al 5 (de lunes a viernes), y utilizar la estructura "switch" para implementar este programa.
 
+
+```Java
+package encuentro04;
+
+import java.util.Scanner;
+
+public class Encuentro04 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        System.out.println("* * * * * * * * Ejercicio 9 * * * * * * *");
+        /*
+        Ejercicio de verificación de día hábil: Escribir un programa que solicite 
+        al usuario un número del 1 al 7, representando un día de la semana, 
+        y determine si es un día hábil o un día no hábil. Mostrar el resultado
+        en pantalla. Considerar que los días hábiles son del 1 al 5 (de lunes a viernes), 
+        y utilizar la estructura "switch" para implementar este programa.
+        */
+         int diaSeleccionado;
+        do {
+            System.out.println("Ingrese un número del 1 al 7, donde 1 es Lunes, 2 es Martes,"+
+                    " ,..., 7 es Domingo, para decirle si es día hábilo no: ");
+            diaSeleccionado = sc.nextInt();
+            switch(diaSeleccionado) {
+                case 1:
+                case 2:
+                case 3:
+                case 4:
+                case 5:
+                    System.out.println("Es día HÁBIL");
+                    break;
+                case 6:
+                case 7:
+                    System.out.println("Es FIN DE SEMANA");
+                    break;
+                default:
+                    System.out.println("Opción incorrecta");
+                    break;
+            }
+        } while (diaSeleccionado<0 || diaSeleccionado>7);
+    } 
+}
+
+```
+
 - **Ejercicio de selección de opción**: Escribir un programa que muestre un menú con las siguientes opciones:
 
 Opción 1: "Guardar"
