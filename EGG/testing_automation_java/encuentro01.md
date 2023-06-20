@@ -45,8 +45,7 @@ Una vez completada esta instalación, hemos configurado nuestro entorno de traba
 
 Es hora de sumergirnos en una serie de ejercicios que nos permitirán aplicar de manera práctica los conceptos básicos de Java.
 
-## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
- Imprimir en consola
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Imprimir en consola
 
 El objetivo de los siguiente tres ejercicios es familiarizarse con la impresión en la consola utilizando Java. Nos permitirán practicar la sintaxis básica y comprender cómo mostrar información en la consola.
 
