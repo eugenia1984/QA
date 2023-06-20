@@ -45,7 +45,8 @@ Una vez completada esta instalación, hemos configurado nuestro entorno de traba
 
 Es hora de sumergirnos en una serie de ejercicios que nos permitirán aplicar de manera práctica los conceptos básicos de Java.
 
-## Imprimir en consola
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
+ Imprimir en consola
 
 El objetivo de los siguiente tres ejercicios es familiarizarse con la impresión en la consola utilizando Java. Nos permitirán practicar la sintaxis básica y comprender cómo mostrar información en la consola.
 
@@ -71,7 +72,9 @@ Podrás apoyarte en el apartado de "Programación con Java" del 👉material te�
 ![image](https://github.com/eugenia1984/QA/assets/72580574/a22c1f97-3ce0-4e40-8a27-63141c7b85a4)
 
 
-## Variables y tipos de datos
+## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> 
+ Variables y tipos de datos
+ 
 El objetivo de los siguientes ejercicios es familiarizarnos con la declaración de variables y los diferentes tipos de datos en Java. A través de la creación de variables de distintos tipos, buscamos practicar la asignación de valores y la impresión de información en la consola. Al finalizar, esperamos lograr imprimir un mensaje personalizado que incluya el nombre y la edad almacenados en las variables correspondientes.
 
 Para mayor contexto, te invitamos a ver el [siguiente video](https://youtu.be/vWMQdzA85lI)
