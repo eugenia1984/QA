@@ -45,7 +45,7 @@ ejecución de nuestro programa**.
 
 ---
 
-## :computter: If
+## :computer: If
 
 El “if” es una estructura de control condicional que nos permite ejecutar un
 bloque de código si se cumple una condición determinada.
