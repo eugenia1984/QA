@@ -57,9 +57,9 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 ## <img width="40" height="40" src="https://img.icons8.com/plasticine/40/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>  ¡Manos a la obra!
 
-1. **Ejercicio de días de la semana**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y muestre en pantalla el nombre correspondiente a ese día. Utilizar la estructura "switch" para implementar este programa.
+- **Ejercicio de días de la semana**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y muestre en pantalla el nombre correspondiente a ese día. Utilizar la estructura "switch" para implementar este programa.
 
-2. **Ejercicio de conversión de calificaciones**: Escribir un programa que solicite al usuario una calificación numérica del 1 al 5 y muestre en pantalla la calificación correspondiente en letras, utilizando la siguiente escala:
+- **Ejercicio de conversión de calificaciones**: Escribir un programa que solicite al usuario una calificación numérica del 1 al 5 y muestre en pantalla la calificación correspondiente en letras, utilizando la siguiente escala:
 
 1: "Muy deficiente"
 
@@ -71,11 +71,11 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 5: "Sobresaliente". Utilizar la estructura "switch" para implementar este programa.
 
-3. **Ejercicio de selección de figura geométrica**: Escribir un programa que solicite al usuario un número del 1 al 3 para seleccionar una figura geométrica (1: círculo, 2: cuadrado, 3: triángulo). Luego, mostrar en pantalla el área correspondiente a la figura seleccionada. Utilizar la estructura "switch" para implementar este programa.
+- **Ejercicio de selección de figura geométrica**: Escribir un programa que solicite al usuario un número del 1 al 3 para seleccionar una figura geométrica (1: círculo, 2: cuadrado, 3: triángulo). Luego, mostrar en pantalla el área correspondiente a la figura seleccionada. Utilizar la estructura "switch" para implementar este programa.
 
-4. **Ejercicio de verificación de día hábil**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y determine si es un día hábil o un día no hábil. Mostrar el resultado en pantalla.  Considerar que los días hábiles son del 1 al 5 (de lunes a viernes), y utilizar la estructura "switch" para implementar este programa.
+- **Ejercicio de verificación de día hábil**: Escribir un programa que solicite al usuario un número del 1 al 7, representando un día de la semana, y determine si es un día hábil o un día no hábil. Mostrar el resultado en pantalla.  Considerar que los días hábiles son del 1 al 5 (de lunes a viernes), y utilizar la estructura "switch" para implementar este programa.
 
-5. **Ejercicio de selección de opción**: Escribir un programa que muestre un menú con las siguientes opciones:
+- **Ejercicio de selección de opción**: Escribir un programa que muestre un menú con las siguientes opciones:
 
 Opción 1: "Guardar"
 
