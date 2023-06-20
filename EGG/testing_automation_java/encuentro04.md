@@ -8,7 +8,7 @@ Llegó el momento de adentrarnos en una emocionante serie de ejercicios que nos 
 
 Durante la realización de los ejercicios es natural que puedan surgir dudas. Por ese motivo, **además de contar con tu mesa de trabajo como apoyo, recuerda que tienes a tu disposición el material teórico**. Si en algún momento necesitas repasar un concepto o recordar cómo utilizar una clase o método en particular, puedes acceder al mismo a través del siguiente enlace:
 
-👉Teoría Java II
+[👉Teoría Java II](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md)
 
 No dudes en aprovecharlo para afianzar tus conocimientos y tener una base sólida mientras avanzas en los desafíos de programación. 
 
