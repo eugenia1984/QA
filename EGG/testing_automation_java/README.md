@@ -35,37 +35,37 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
 
-- [9.6 - Bucles y Arrays - Parte |](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro07.md): Introduccción // Arrays // Bucles
+- [9.7 - Bucles y Arrays - Parte |](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro07.md): Introduccción // Arrays // Bucles
 
-- 9.7 - Bucles y Arrays - Parte ||: Recorrer Arrays // While / Do While
+- 9.8 - Bucles y Arrays - Parte ||: Recorrer Arrays // While / Do While
 
-- 9.8 - Bucles y Arrays- Desafios: Clase Arrays // Envoltura Wrappers // Desafíos
+- 9.9 - Bucles y Arrays- Desafios: Clase Arrays // Envoltura Wrappers // Desafíos
 
 ---
 
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso
 
-- 9.9 Repaso 1
+- 9.10 Repaso 1
 
-- 9.10 Repaso 2
+- 9.11 Repaso 2
 
-- 9.11 Repaso 3
+- 9.12 Repaso 3
   
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Práctica
 
-- 9.12 - Practica II: Introducción // Matrices // Matrices // Matrices
-
-- 9.13 - Practica II: Matrices
+- 9.13 - Practica II: Introducción // Matrices // Matrices // Matrices
 
 - 9.14 - Practica II: Matrices
 
-- 9.15 - Practica III: Matrices
+- 9.15 - Practica II: Matrices
 
 - 9.16 - Practica III: Matrices
 
 - 9.17 - Practica III: Matrices
+
+- 9.18 - Practica III: Matrices
 
 ---
