@@ -1,4 +1,4 @@
-# :computer: ENCUENTRO 06
+# :computer: ENCUENTRO 06 - DESAFIOS
 
 ---
 
