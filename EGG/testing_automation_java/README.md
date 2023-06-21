@@ -25,7 +25,7 @@
 
 - [9.4 - Estructuras de control](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro04.md): Estructuras de control: If, If-else y Switch // try-catch // Class String y Math
 
-- 9.5 - Estructuras de control: Desafíos
+- [9.5 - Estructuras de control: Desafíos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro05.md):  try-catch // Class String y Math
 
 
 [:book: **Teoria 2**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria2.md): Estructuras de control: if if-else / if-else if-else / switch / switch expression // Exhaustividad // Coincidencia de patrones: Bloque try-catch // Manejo de excepciones // Ámbito de las variables // Clase String (Anexo A) //  Clase Math (Anexo B)
