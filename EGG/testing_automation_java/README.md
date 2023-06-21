@@ -41,6 +41,8 @@
 
 - 9.9 - Bucles y Arrays- Desafios: Clase Arrays // Envoltura Wrappers // Desafíos
 
+[:book: **Teoría 3**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria3.md): Arrays / Bucles (For i / While /  Do While /  For each) / Clase Arrays / Clases de Envoltura “Wrappers”
+
 ---
 
 
