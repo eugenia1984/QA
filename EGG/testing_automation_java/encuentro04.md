@@ -1,4 +1,4 @@
-## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Estructuras de control: If, If-else y Switch
+# :computer: ENCUENTRO 04 - Estructuras de control: If, If-else y Switch
 
 ## Introducción
 
