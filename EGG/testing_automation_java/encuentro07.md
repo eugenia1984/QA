@@ -56,3 +56,34 @@ Escribir un programa que solicite al usuario 4 nombres, lo cuales debes ordenar 
 
 ---
 
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Bucles - Bucle “for”
+
+El objetivo de los siguientes ejercicios es practicar el uso del bucle for i y desarrollar habilidades para realizar operaciones específicas con arrays. Te ayudarán a mejorar tu comprensión y dominio del bucle for, así como a reforzar tus conocimientos en programación.
+
+Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://youtu.be/u8iJ4o02VgU)
+
+---
+
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> ¡Manos a la obra!
+
+## Imprimir elementos: 
+
+Escribir un programa que recorra un array de enteros e imprima cada elemento en una línea separada.
+
+## Calcular suma acumulada: 
+
+Escribir un programa que recorra un array de enteros y calcule la suma acumulada de los elementos, reemplazando cada elemento por la suma acumulada hasta ese punto.
+
+## Encontrar el valor mínimo: 
+
+Escribir un programa que recorra un array de enteros y encuentre el valor mínimo presente en el array.
+
+## Imprimir elementos en orden inverso: 
+
+Escribir un programa que recorra un array de enteros y los imprima en orden inverso, comenzando desde el último elemento.
+
+## Invertir un array: 
+
+Escribir un programa que recorra un array de enteros y lo invierta (es decir, el primer elemento pasa a ser el último y viceversa) y lo imprima por consola.
+
+---
