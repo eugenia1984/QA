@@ -1,4 +1,4 @@
-# :computer: encuentro 05 - String & Math
+# :computer: ENCUENTRO 05 - String & Math
 
 ---
 
