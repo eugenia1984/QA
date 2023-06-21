@@ -39,7 +39,7 @@
 
 - [9.8 - Bucles y Arrays - Parte ||](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro08.md): Recorrer Arrays // While / Do While
 
-- 9.9 - Bucles y Arrays- Desafios: Clase Arrays // Envoltura Wrappers // Desafíos
+- [9.9 - Bucles y Arrays- Desafios](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro09.md): Clase Arrays // Envoltura Wrappers // Desafíos
 
 [:book: **Teoría 3**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria3.md): Arrays / Bucles (For i / While /  Do While /  For each) / Clase Arrays / Clases de Envoltura “Wrappers”
 
