@@ -1,4 +1,5 @@
-# <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Primeros pasos con Java
+
+# :computer: ENCUENTRO 01 -  Primeros pasos con Java
 
 ## 9.1 - Primeros pasos con Java: Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos
 
