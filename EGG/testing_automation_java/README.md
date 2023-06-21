@@ -37,7 +37,7 @@
 
 - [9.7 - Bucles y Arrays - Parte |](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro07.md): Introduccción // Arrays // Bucles
 
-- 9.8 - Bucles y Arrays - Parte ||: Recorrer Arrays // While / Do While
+- [9.8 - Bucles y Arrays - Parte ||](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro08.md): Recorrer Arrays // While / Do While
 
 - 9.9 - Bucles y Arrays- Desafios: Clase Arrays // Envoltura Wrappers // Desafíos
 
