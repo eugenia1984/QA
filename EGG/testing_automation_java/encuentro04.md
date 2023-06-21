@@ -1,8 +1,6 @@
-# :computer: Estructuras de control: try-catch Class String y Math
+## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Estructuras de control: If, If-else y Switch
 
----
-
-## <img width="60" height="60" src="https://img.icons8.com/plasticine/60/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/> Introducción
+## Introducción
 
 Llegó el momento de adentrarnos en una emocionante serie de ejercicios que nos brindarán la oportunidad de aplicar de manera práctica las **estructuras de control** y las **clases fundamentales** de Java.
 
