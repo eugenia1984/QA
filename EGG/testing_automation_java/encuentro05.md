@@ -75,6 +75,30 @@ public class ConcatenacionCadena {
 
 Escribir un programa que solicite al usuario una frase y dos números enteros, representando un índice inicial y un índice final. Utilizar el método substring() de la clase String para extraer la subcadena que se encuentra entre los índices ingresados por el usuario, y mostrar la subcadena resultante en pantalla.
 
+```Java
+package encuentro05;
+
+import java.util.Scanner;
+
+public class ExtraccionDeSubcadena {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String frase, subcadena;
+        int indiceInicial, indiceFinal;
+        System.out.print("Ingresa una frase: ");
+        frase = sc.nextLine();
+        System.out.print("Ingrese un número menor a ("+frase.length()+
+                ") para empezar a cortar su frase ingresada: ");
+        indiceInicial = sc.nextInt();
+        System.out.print("Ingrese otro número menor a ("+frase.length()+
+                ") para finalizar el corte de su grase ingresada: ");
+        indiceFinal = sc.nextInt();
+        subcadena = frase.substring(indiceInicial, indiceFinal);
+        System.out.println("La frase cortada: "+subcadena);
+    }
+}
+```
+
 ## Ejercicio de búsqueda de caracteres: 
 
 Escribir un programa que solicite al usuario una palabra y un carácter, y determine si el carácter ingresado se encuentra en la palabra utilizando el método indexOf() de la clase String. Mostrar un mensaje adecuado en pantalla indicando si el carácter se encuentra o no en la palabra.
