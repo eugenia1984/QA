@@ -53,6 +53,24 @@ public class LongitudDeCadena {
 
 Escribir un programa que solicite al usuario su nombre y apellido por separado, y luego muestre en pantalla el nombre completo utilizando el método concat() de la clase String.
 
+```Java
+package encuentro05;
+
+import java.util.Scanner;
+
+public class ConcatenacionCadena {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String nombre, apellido;
+        System.out.print("Ingrese su nombre: ");
+        nombre = sc.nextLine();
+        System.out.print("Ingrese su apellido: ");
+        apellido = sc.nextLine();
+        System.out.println(nombre.concat(" " +apellido));
+    }
+}
+```
+
 ## Ejercicio de extracción de subcadena: 
 
 Escribir un programa que solicite al usuario una frase y dos números enteros, representando un índice inicial y un índice final. Utilizar el método substring() de la clase String para extraer la subcadena que se encuentra entre los índices ingresados por el usuario, y mostrar la subcadena resultante en pantalla.
