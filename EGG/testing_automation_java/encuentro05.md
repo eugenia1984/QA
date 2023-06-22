@@ -14,6 +14,38 @@ Para mayor contexto, te invitamos a ver el siguiente video: [video](https://yout
 
 Escribe un programa que solicite al usuario dos números enteros y realice la división del primer número entre el segundo número. Utiliza un bloque "try-catch" para manejar la excepción en caso de que se intente realizar una división por cero. En caso de que se produzca la excepción, muestra un mensaje adecuado en pantalla.
 
+```Java
+package encuentro05;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+
+public class DivisionSegura {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        double numerador, divisor, resultado;
+        try {
+            System.out.print("Ingrese un primer numero: ");
+            numerador = sc.nextDouble();
+            System.out.print("Ingrese un segundo numero para dividirlo por el ingresado anteriormente: ");
+            divisor = sc.nextDouble();
+  
+            if(divisor == 0) {
+                System.out.println("No podemos dividir por cero");
+            } else {
+                resultado = numerador / divisor;
+                System.out.println("resultado = " + resultado);
+            }
+        } catch(InputMismatchException e) {
+            System.out.println("No ingresó un número entero");
+        } catch(Exception e) {
+            System.out.println("Error: "+e.getMessage());
+        }
+    }
+}
+```
+
 ## Ejercicio de conversión de cadena a entero: 
 
 Escribe un programa que solicite al usuario una cadena de caracteres que represente un número entero. Utiliza el método Integer.parseInt() para convertir la cadena a un número entero. Utiliza un bloque "try-catch" para manejar la excepción en caso de que la cadena ingresada no pueda ser convertida a un número entero. En caso de que se produzca la excepción, muestra un mensaje adecuado en pantalla.
