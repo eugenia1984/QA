@@ -78,8 +78,3 @@ Escribir un programa que solicite al usuario dos números enteros, representando
 Escribir un programa que solicite al usuario un número positivo y calcule su raíz cuadrada utilizando el método sqrt() de la clase Math. Si el número ingresado es negativo, mostrar un mensaje adecuado en pantalla.
 
 ---
-
-
-
-Para mayor contexto, te invitamos a ver el siguiente video:
-
