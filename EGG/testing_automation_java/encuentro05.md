@@ -33,6 +33,22 @@ Para mayor contexto, te invitamos a ver el siguiente video: [ver video](https://
 
 Escribir un programa que solicite al usuario una cadena de texto y muestre en pantalla la longitud de la cadena utilizando el método length() de la clase String.
 
+```Java
+package encuentro05;
+
+import java.util.Scanner;
+
+public class LongitudDeCadena {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String textoIngresado;
+        System.out.print("Ingresa una cadena de texto: ");
+        textoIngresado = sc.nextLine();
+        System.out.println("Ha ingresado: "+textoIngresado.length()+" caracteres.");
+    }
+}
+```
+
 ## Ejercicio de concatenación de cadenas: 
 
 Escribir un programa que solicite al usuario su nombre y apellido por separado, y luego muestre en pantalla el nombre completo utilizando el método concat() de la clase String.
