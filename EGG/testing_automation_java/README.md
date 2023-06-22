@@ -48,26 +48,26 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso
 
-- 9.10 Repaso 1
+- [9.10 Repaso 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro10.md)
 
-- 9.11 Repaso 2
+- [9.11 Repaso 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro11.md)
 
-- 9.12 Repaso 3
+- [9.12 Repaso 3](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro12.md)
   
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Práctica
 
-- 9.13 - Practica II: Introducción // Matrices // Matrices // Matrices
+- [9.13 - Practica II: Introducción // Matrices // Matrices // Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
 
-- 9.14 - Practica II: Matrices
+- [9.14 - Practica II: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro14.md)
 
-- 9.15 - Practica II: Matrices
+- [9.15 - Practica II: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro15.md)
 
-- 9.16 - Practica III: Matrices
+- [9.16 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro16.md)
 
-- 9.17 - Practica III: Matrices
+- [9.17 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro17.md)
 
-- 9.18 - Practica III: Matrices
+- [9.18 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro18.md)
 
 ---
