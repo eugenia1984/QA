@@ -151,6 +151,23 @@ El objetivo de los siguientes ejercicios es practicar y aplicar los métodos de 
 
 Escribir un programa que solicite al usuario un número entero y muestre en pantalla su valor absoluto utilizando el método abs() de la clase Math.
 
+
+```Java
+package encuentro05;
+
+import java.util.Scanner;
+
+public class CalculoDeValorAbsoluto {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int numeroIngresado;
+        System.out.println("Ingrese un número entero: ");
+        numeroIngresado = sc.nextInt();
+        System.out.println("Su valor absoluto es: " + Math.abs(numeroIngresado));
+    }
+}
+```
+
 ## Ejercicio de redondeo de números: 
 
 Escribir un programa que solicite al usuario un número decimal y muestre en pantalla su valor redondeado utilizando el método round() de la clase Math.
