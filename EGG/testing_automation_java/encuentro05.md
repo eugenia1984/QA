@@ -197,6 +197,20 @@ public class RedondeoDeNumeros {
 
 Escribir un programa que genere y muestre en pantalla un número aleatorio en el rango del 1 al 100 utilizando el método random() de la clase Math. Puedes utilizar el método floor() para redondear el número aleatorio hacia abajo.
 
+```Java
+package encuentro05;
+
+import java.util.Scanner;
+
+public class GeneracionNumerosAleatorios {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int numeroAleatorio =(int) (Math.random() * 100);
+        System.out.println("numero aleatorio entre 1 y 100: " + numeroAleatorio);
+    }
+}
+```
+
 ## Ejercicio de cálculo de potencia: 
 
 Escribir un programa que solicite al usuario dos números enteros, representando la base y el exponente, y calcular el resultado de elevar la base al exponente utilizando el método pow() de la clase Math. Mostrar el resultado en pantalla.
