@@ -172,6 +172,27 @@ public class CalculoDeValorAbsoluto {
 
 Escribir un programa que solicite al usuario un número decimal y muestre en pantalla su valor redondeado utilizando el método round() de la clase Math.
 
+```Java
+package encuentro05;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class RedondeoDeNumeros {
+    public static void main(String[] args) {
+        try {
+            Scanner sc = new Scanner(System.in);
+            double numeroIngresado;
+            System.out.print("Ingrese un número decimal (usar la , como separador): ");
+            numeroIngresado = sc.nextDouble();
+            System.out.println("El número redondeado es: " + Math.round(numeroIngresado));
+        } catch(InputMismatchException e) {
+            System.out.println("Debe ingresar un número");
+        }
+    }
+}
+```
+
 ## Ejercicio de generación de números aleatorios: 
 
 Escribir un programa que genere y muestre en pantalla un número aleatorio en el rango del 1 al 100 utilizando el método random() de la clase Math. Puedes utilizar el método floor() para redondear el número aleatorio hacia abajo.
