@@ -71,3 +71,30 @@
 - [9.18 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro18.md)
 
 ---
+
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Métodos
+
+- [9.19 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro19.md): Introducción / Ejercicios métodos 1
+
+- [9.20 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro20.md): Ejercicios métodos 2
+
+- [9.21 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro21.md): Ejercicios métodos 3
+
+- [9.22 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro22.md): Ejercicios métodos 4
+
+- [9.23 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro23.md): Ejercicios métodos 5
+ 
+- [9.24 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro24.md): Ejercicios métodos 6
+
+---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
+
+- 10.1 - Testing
+
+- 10.2 - Práctica Testing 1
+
+- 10.3 - Práctica Tsting 2
+
+---
