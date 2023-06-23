@@ -58,7 +58,7 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Práctica
 
-- [9.13 - Practica II: Introducción // Matrices // Matrices // Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
+- [9.13 - Practica II: Introducción // Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
 
 - [9.14 - Practica II: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro14.md)
 
