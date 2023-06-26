@@ -87,6 +87,8 @@
  
 - [9.24 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro24.md): Ejercicios métodos 6
 
+[Teoria 5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria5.md)
+
 ---
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
