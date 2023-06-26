@@ -1,4 +1,4 @@
-# :computer: ENCUENTRO 22 - Métodos:  Ejercicios 
+# :computer: ENCUENTRO 22 - Métodos:  Ejercicios  / Debugger
 
 ---
 
