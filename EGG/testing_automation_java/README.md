@@ -81,7 +81,7 @@
 
 - [9.21 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro21.md): Ejercicios métodos 3
 
-- [9.22 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro22.md): Ejercicios métodos 4
+- [9.22 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro22.md): Ejercicios métodos 4 / Debugger
 
 - [9.23 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro23.md): Ejercicios métodos 5
  
