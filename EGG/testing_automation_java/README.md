@@ -93,10 +93,16 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
 
-- 10.1 - Testing
+- 10.1 - Testing: Introducciòn / Configuración para crear una clase Test / Ejercicio Testing
 
-- 10.2 - Práctica Testing 1
+- 10.2 - Práctica Testing 1: Ejercicio Testing
 
-- 10.3 - Práctica Tsting 2
+- 10.3 - Práctica Testing 2: Ejercicio Testing
+
+- 10.4 - Práctica Testing 3: Ejercicio Testing
+  
+- 10.5 - Práctica Testing 4: Ejercicio Testing
+
+- 10.6 - Práctica Testing 5: Ejercicio Testing
 
 ---
