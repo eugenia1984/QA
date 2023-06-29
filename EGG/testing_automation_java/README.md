@@ -93,9 +93,9 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
 
-- 10.1 - Testing: Introducciòn / Configuración para crear una clase Test / Ejercicio Testing
+- [10.25 - Testing](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro25.md): Introducción / Configuración para crear una clase Test / Ejercicio Testing
 
-- 10.2 - Práctica Testing 1: Ejercicio Testing
+- [10.26 - Práctica Testing 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro26.md): Ejercicio Testing
 
 - 10.3 - Práctica Testing 2: Ejercicio Testing
 
