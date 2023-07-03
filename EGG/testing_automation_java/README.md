@@ -104,9 +104,9 @@
 
 - [10.26 - Práctica Testing 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro26.md): Ejercicio Testing
 
-- 10.3 - Práctica Testing 2: Ejercicio Testing
+- [10.3 - Práctica Testing 2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro27.md): Ejercicio Testing
 
-- 10.4 - Práctica Testing 3: Ejercicio Testing
+- [10.4 - Práctica Testing 3](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro28.md): Ejercicio Testing
   
 - 10.5 - Práctica Testing 4: Ejercicio Testing
 
