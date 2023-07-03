@@ -108,9 +108,16 @@
 
 - [10.4 - Práctica Testing 3](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro28.md): Ejercicio Testing
   
-- 10.5 - Práctica Testing 4: Ejercicio Testing
+- [10.5 - Práctica Testing 4](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro29.md): Ejercicio Testing
 
-- 10.6 - Práctica Testing 5: Ejercicio Testing
+- [10.6 - Práctica Testing 5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro30.md): Ejercicio Testing
+
+- [10.7 - Práctica Testing 6](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro31.md): Ejercicio Testing
+
+- [10.8 - Práctica Testing 7](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro32.md): Ejercicio Testing
+
+- [10.9 - Práctica Testing 8](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro33.md): Ejercicio Testing
+
 
 :book: [Teoria 8](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria8.md): Testing: Pruebas unitarias / JUnit: Un marco de pruebas para Java / Estructura de una clase Test con JUnit / Convención de nomenclatura para nombres de clases y métodos / Aserciones / 
 
