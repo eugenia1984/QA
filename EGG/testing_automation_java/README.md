@@ -93,6 +93,7 @@
  
 - [9.24 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro24.md): Ejercicios métodos 6
 
+:book: [Teoria 7](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria7.md): Métodos: Declaración de un método / Uso de un método / Sobrecarga de métodos / Variables globales / Parámetros por valor o por referencia / :tv: video
 
 
 ---
