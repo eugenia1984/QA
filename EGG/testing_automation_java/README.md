@@ -58,7 +58,7 @@
 
 ##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Práctica
 
-- [9.13 - Practica II: Introducción // Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
+- [9.13 - Practica II: Introducción / Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
 
 - [9.14 - Practica II: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro14.md)
 
@@ -69,6 +69,12 @@
 - [9.17 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro17.md)
 
 - [9.18 - Practica III: Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro18.md)
+
+
+:book: [Teoria 5 - **Matrices**](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria5.md):
+
+:book: [Teoria 6](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria6.md):  Debugger /  Watch y expresiones /  Inspección de la pila de llamadas / Control de flujo: excepciones
+
 
 ---
 
@@ -87,7 +93,7 @@
  
 - [9.24 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro24.md): Ejercicios métodos 6
 
-[Teoria 5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria5.md)
+
 
 ---
 
