@@ -122,3 +122,14 @@
 :book: [Teoria 8](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria8.md): Testing: Pruebas unitarias / JUnit: Un marco de pruebas para Java / Estructura de una clase Test con JUnit / Convención de nomenclatura para nombres de clases y métodos / Aserciones / 
 
 ---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Maven
+
+- [11.1: Maven](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro34.md): Introducción / Instalación y configuración / Práctica Maven
+
+- [11.2 : Maven](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro35.md): Práctica
+
+- [11.3 : Maven](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro36.md): Práctica
+
+
+---
