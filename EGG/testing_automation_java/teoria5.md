@@ -145,9 +145,9 @@ constante mientras se ejecutan las iteraciones del bucle "for" interno.
 Comprender cómo se realizan las iteraciones en estos bucles será fundamental
 para los ejercicios futuros.
 
---
+---
 
-## break y continue
+## :computer: break y continue
 
 break y continue son dos palabras claves que se pueden usar dentro de los
 bucles para salir de ellos o saltar a la siguiente iteración.
