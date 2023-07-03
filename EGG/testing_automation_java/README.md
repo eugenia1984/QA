@@ -112,4 +112,6 @@
 
 - 10.6 - Práctica Testing 5: Ejercicio Testing
 
+:book: [Teoria 8](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria8.md): Testing
+
 ---
