@@ -1,4 +1,4 @@
-# :computer: TEORIA JAVA 5
+# :computer: TEORIA JAVA 6 - Debugger /  Watch y expresiones /  Inspección de la pila de llamadas / Control de flujo: excepciones
 
 ---
 
