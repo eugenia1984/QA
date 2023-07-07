@@ -1,7 +1,3 @@
-# :computer: ENCUENTRO 36 - Maven
-
----
-
 #  💻 ENCUENTRO 35 - Maven
 
 --
