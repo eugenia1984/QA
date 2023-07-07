@@ -149,6 +149,9 @@
 
 :book: [Teoria 10](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria10.md)
 
+
+:book: [Toria 11](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria11.md)
+
 ### Principio SOLID
 
 - [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
@@ -156,6 +159,8 @@
 - [12.6 - RPrincipios SOLID II](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro42.md): Patrón experto
 
 - [12.5 - Principios SOLID III](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro43.md): Patrón experto
+
+:book: [Toria 12](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria12.md)
 
 ### ENUMS
 
