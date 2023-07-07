@@ -147,6 +147,8 @@
 
 - [12.4 - Asociación de objetos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro40.md):  Introducción / Práctica - Asociación de objetos
 
+:book: [Teoria 10](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria10.md)
+
 ### Principio SOLID
 
 - [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
