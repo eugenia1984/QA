@@ -133,3 +133,33 @@
 
 
 ---
+
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
+
+### POO
+
+- [12.1: POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro37.md): Introduccion / Objetos personalizados
+
+- [12.2 - Practica POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro38.md): Practica POO
+
+- [12.3 - Practica POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro39.md): Practica POO
+
+- [12.4 - Asociación de objetos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro40.md):  Introducción / Práctica - Asociación de objetos
+
+### Principio SOLID
+
+- [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
+
+- [12.6 - RPrincipios SOLID II](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro42.md): Patrón experto
+
+- [12.5 - Principios SOLID III](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro43.md): Patrón experto
+
+### ENUMS
+
+- [12.6 - Enums](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro44.md): Enums
+
+### MOCKITO
+
+### HERENCIA
+
+---
