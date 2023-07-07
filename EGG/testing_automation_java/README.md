@@ -166,6 +166,8 @@
 
 - [12.6 - Enums](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro44.md): Enums
 
+:book:  [Teoria 13](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria13.md)
+
 ### MOCKITO
 
 ### HERENCIA
