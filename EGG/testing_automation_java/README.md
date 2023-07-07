@@ -131,6 +131,7 @@
 
 - [11.3 : Maven](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro36.md): Práctica
 
+:book: [Tooria 9](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria9.md)
 
 ---
 
