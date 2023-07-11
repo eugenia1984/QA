@@ -170,6 +170,9 @@
 
 ### MOCKITO
 
+- [13.1 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro45.md): Enums
+
+
 ### HERENCIA
 
 ---
