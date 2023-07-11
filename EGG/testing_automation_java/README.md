@@ -135,9 +135,9 @@
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
+##  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
 
-### POO
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> POO
 
 - [12.1: POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro37.md): Introduccion / Objetos personalizados
 
@@ -152,7 +152,8 @@
 
 :book: [Toria 11](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria11.md)
 
-### Principio SOLID
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Principio SOLID
 
 - [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
 
@@ -162,17 +163,19 @@
 
 :book: [Toria 12](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria12.md)
 
-### ENUMS
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> ENUMS
 
 - [12.6 - Enums](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro44.md): Enums
 
 :book:  [Teoria 13](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria13.md)
 
-### MOCKITO
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> MOCKITO
 
 - [13.1 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro45.md): Enums
 
 
-### HERENCIA
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> HERENCIA
 
 ---
