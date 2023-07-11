@@ -196,4 +196,6 @@
 - [15.3 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro51.md): Itroducción / Ejercicios
 
 
+:book: [Teoria 16 - Interfaces](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria16.md)
+
 ---
