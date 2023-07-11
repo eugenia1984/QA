@@ -175,6 +175,7 @@
 
 - [13.1 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro45.md): Introducción / Ejercicios
 
+:book: [Teoria 14 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria14.md)
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> HERENCIA
 
