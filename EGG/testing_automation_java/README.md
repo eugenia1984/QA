@@ -173,9 +173,24 @@
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> MOCKITO
 
-- [13.1 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro45.md): Enums
+- [13.1 - Mockito](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro45.md): Introducción / Ejercicios
 
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> HERENCIA
+
+- [14.1 - Herencia](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro46.md): Introducción / Practica
+
+- [14.2 - Herencia](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro47.md): Ejericios de Herencia 
+
+- [14.3 - Herencia](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro48.md): Ejericios de Herencia
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> INTERFACES
+
+- [15.1 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro49.md): Itroducción / Ejercicios
+
+- [15.2 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro50.md): Itroducción / Ejercicios
+
+- [15.3 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro51.md): Itroducción / Ejercicios
+
 
 ---
