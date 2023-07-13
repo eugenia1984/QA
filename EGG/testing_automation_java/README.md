@@ -189,7 +189,7 @@
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> INTERFACES
 
-- [15.1 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro49.md): Itroducción / Ejercicios
+- [15.1 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro49.md): Introducción / Ejercicios
 
 - [15.2 - Interface](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro50.md): Itroducción / Ejercicios
 
@@ -202,6 +202,6 @@
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  EXCEPCIONES
 
-- [16.1: Introduccion / Ejercicios](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro52.md)
+- [16.1: Excepciones](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro52.md): Introduccion / Ejercicios
 
 ---
