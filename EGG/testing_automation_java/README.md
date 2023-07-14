@@ -205,3 +205,27 @@
 - [16.1: Excepciones](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro52.md): Introduccion / Ejercicios
 
 ---
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> GENERICOS
+
+- [17.1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro53.md): Genericos: Introduccion / Practica
+
+- [17.2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro54.md): Genericos
+
+---
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> TIME API
+
+- [18.1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro55.md): Time API
+  
+- [18.2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro56.md): Tima API - Practica
+
+- [18.3](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro57.md): Tima API - Practica
+
+- [18.4](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro58.md): Tima API - Practica
+
+- [18.5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro59.md): Tima API - Practica
+
+- [18.6](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro60.md): Tima API - Practica
+
+---
