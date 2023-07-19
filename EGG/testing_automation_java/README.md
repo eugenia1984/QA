@@ -229,3 +229,7 @@
 - [18.6](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro60.md): Tima API - Practica
 
 ---
+
+## :computer: [TEST](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/test.md)
+
+---
