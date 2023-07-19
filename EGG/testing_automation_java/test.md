@@ -2,7 +2,7 @@
 
 1. ¿Qué son las "sealed classes"?
 
-- Son clases cuya herencia está restringida a un número limitado de otras clases o interfaces.
+- Son clases cuya herencia está restringida a un número limitado de otras clases o interfaces. ---> RESPUESTA
 
 - Son clases que solo pueden tener una instancia.
 
