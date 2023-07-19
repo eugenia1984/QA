@@ -605,7 +605,7 @@ de prueba?
 
 - Usando la anotación @RunMultiple y especificando el número de repeticiones
 
-- Usando la anotación @RepeatedTest y especificando el número de repeticiones 
+- Usando la anotación @RepeatedTest y especificando el número de repeticiones ---> RESPUESTA
 
 
 ---
