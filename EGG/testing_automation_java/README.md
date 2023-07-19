@@ -46,7 +46,7 @@
 ---
 
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso / Ejercicios
 
 - [9.10 Repaso 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro10.md)
 
@@ -56,7 +56,7 @@
   
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Práctica
+##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Matrices
 
 - [9.13 - Practica II: Introducción / Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
 
