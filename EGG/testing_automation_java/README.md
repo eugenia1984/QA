@@ -4,11 +4,11 @@
 
 ---
 
-9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
+## <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Primeros pasos con Java
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Primeros pasos con Java
 
 - [9.1 - Primeros pasos con Java](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro01.md): Instalación de Java y setear ambiente de trabajo en visual / Programas y tipos de datos / [:computer: ejercicios de practica de la clase](https://github.com/eugenia1984/QA/tree/main/EGG/java_egg_automation/Encuentro01)
 
@@ -21,7 +21,7 @@
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Estructuras de control
 
 - [9.4 - Estructuras de control](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro04.md): Estructuras de control: If, If-else y Switch // try-catch // Class String y Math
 
@@ -33,7 +33,7 @@
 
 ----
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Bucles y Arrays
 
 - [9.7 - Bucles y Arrays - Parte |](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro07.md): Introduccción // Arrays // Bucles
 
@@ -46,7 +46,7 @@
 ---
 
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso / Ejercicios
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Repaso / Ejercicios
 
 - [9.10 Repaso 1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro10.md)
 
@@ -56,7 +56,7 @@
   
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Matrices
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Matrices
 
 - [9.13 - Practica II: Introducción / Matrices](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro13.md)
 
@@ -79,7 +79,7 @@
 ---
 
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Métodos
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Métodos
 
 - [9.19 - Métodos](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro19.md): Introducción / Ejercicios métodos 1
 
@@ -98,7 +98,7 @@
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Testing
 
 - [10.25 - Testing](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro25.md): Introducción / Configuración para crear una clase Test / Ejercicio Testing
 
@@ -123,7 +123,7 @@
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Maven
+###  <img width="48" height="48" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Maven
 
 - [11.1: Maven](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro34.md): Introducción / Instalación y configuración / Práctica Maven
 
@@ -135,9 +135,9 @@
 
 ---
 
-##  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
+###  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
 
-###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> POO
+####  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> POO
 
 - [12.1: POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro37.md): Introduccion / Objetos personalizados
 
@@ -153,7 +153,9 @@
 :book: [Toria 11](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria11.md)
 
 
-###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Principio SOLID
+---
+
+####  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Principio SOLID
 
 - [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
 
@@ -163,13 +165,16 @@
 
 :book: [Toria 12](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria12.md)
 
+---
 
-###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> ENUMS
+
+####  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> ENUMS
 
 - [12.6 - Enums](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro44.md): Enums
 
 :book:  [Teoria 13](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria13.md)
 
+---
 
 ###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> MOCKITO
 
