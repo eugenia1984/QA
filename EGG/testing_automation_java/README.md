@@ -231,11 +231,25 @@
 
 - [18.5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro59.md): Tima API - Practica
 
-- [18.6](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro60.md): Tima API - Practica
 
 :book: [Teoria 20](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/teoria20.md)
 
 ---
+
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> JAVA COLLECTIONS
+
+- [19.1](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro60.md): Java Collections: Introduccion / Practica
+
+- [19.2](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro61.md): Java Collections: Practica
+
+- [19.3](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro62.md): Java Collections:Practica
+
+- [19.4](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro63.md): Java Collections: Practica
+
+- [19.5](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro64.md): Java Collections: Practica
+  
+---
+
 
 ## :computer: [TEST](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/test.md)
 
