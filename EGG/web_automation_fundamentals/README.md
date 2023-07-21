@@ -14,7 +14,7 @@
 
 - 21.1 - [Introducción a Web Automation 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/04_introduccion_a_web_automation_4.md): Objetivo / Configuración de Selenium en Visual Studio Code
 
-- 21.2 - Introducción a Web Automation 2: Introducción a Selenium / Práctica 1 / Práctica 2 / Práctica 3
+- 21.2 - [Introducción a Web Automation 2](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/05_introduccion_a_web_automation_5.md): Introducción a Selenium / Práctica 1 / Práctica 2 / Práctica 3
 
 - 21.3 - Introducción a Web Automation 3: Práctica Integradora - Perfeccionamiento
 
