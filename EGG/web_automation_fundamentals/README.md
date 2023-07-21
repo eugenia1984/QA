@@ -8,7 +8,7 @@
 
 - 20.2 - [Introducción a Web Automation 2](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/02_introducci%C3%B3n_a_web_automation_2.md): Introducción a Selenium / Práctica 1 / Práctica 2 / Práctica 3
 
-- 20.3 - Introducción a Web Automation 3: Práctica Integradora - Perfeccionamiento
+- 20.3 - [Introducción a Web Automation 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/03_introduccion_a_web_automation_3.md): Práctica Integradora - Perfeccionamiento
 
 ### Web Locators & Elementos Web 1
 
