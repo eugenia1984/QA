@@ -174,10 +174,8 @@
 **Aprendizaje**: **Java** y **Automatización de pruebas web**
 
 
-9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
+## 9. <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
 
----
-## <img width="48" height="48" src="https://img.icons8.com/color/30/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> Java para automatizar
 
 ---
 
