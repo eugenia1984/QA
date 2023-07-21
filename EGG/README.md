@@ -306,9 +306,7 @@
 
 ---
 
-###  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  POO
-
-####  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> POO
+###  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> POO
 
 - [12.1: POO](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro37.md): Introduccion / Objetos personalizados
 
@@ -326,7 +324,7 @@
 
 ---
 
-####  <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Principio SOLID
+### <img width="30" height="30" src="https://img.icons8.com/color/20/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  Principio SOLID
 
 - [12.5 - Principios SOLID I](https://github.com/eugenia1984/QA/blob/main/EGG/testing_automation_java/encuentro41.md): Introducción / Patrón experto
 
