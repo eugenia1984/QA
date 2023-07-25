@@ -22,7 +22,7 @@
 
 ### Web Locators & Elementos Web 1
 
-- 22.1 - Web Locators & Elementos Web 1: Objetivos del encuentro / Inspección de páginas web / Elementos Web / Identificación por ID / Identificar por Name / Identificar por LinkText / Integración
+- 22.1 - [Web Locators & Elementos Web 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/07_web_llocators_elementos_web_1.md): Objetivos del encuentro / Inspección de páginas web / Elementos Web / Identificación por ID / Identificar por Name / Identificar por LinkText / Integración
 
 ---
 
