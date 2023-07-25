@@ -16,6 +16,17 @@ En grupo, **miren el siguiente [video](https://youtu.be/eISATKwvlS0)** que abord
 
 ---
 
+## :computer: Práctica III - Perfeccionamiento
+
+✨ Este ejercicio es de perfeccionamiento. Esto quiere decir que te ayudará a avanzar en profundidad en el tema visto.
+
+### Ejercicio 3: Navegación hacia atrás y hacia delante
+
+El WebDriver de Selenium también nos permite navegar hacia atrás y hacia delante en nuestro historial del navegador, al igual que cuando hacemos clic en los botones de atrás y adelante en el mismo.
+
+Para este ejercicio, escribe un script que abra la página principal de Google, luego vaya a la página principal de OpenAI, luego navegue hacia atrás a Google, luego hacia delante a OpenAI, y finalmente cierre el navegador.
+
+🔑 Palabra clave para encontrar la acción de navegar: navigate
 ## :computer: Práctica I - Fundamental
 
 
