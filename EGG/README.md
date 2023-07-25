@@ -428,7 +428,6 @@
 
 ## [:star: Web Automation - Fundaments](https://github.com/eugenia1984/QA/tree/main/EGG/web_automation_fundamentals)
 
-# :computer:Web Automation - fundamentals:computer:
 
 ## 20. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
 
@@ -446,7 +445,7 @@
 
 - 21.2 - [Introducción a Web Automation 2](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/05_introduccion_a_web_automation_5.md): Introducción a Selenium / Práctica 1 / Práctica 2 / Práctica 3
 
-- 21.3 - Introducción a Web Automation 3: Práctica Integradora - Perfeccionamiento
+- 21.3 - [Introducción a Web Automation 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/06_introduccion_a_web_automation_6.md): Práctica Integradora - Perfeccionamiento
 
 ### Web Locators & Elementos Web 1
 
