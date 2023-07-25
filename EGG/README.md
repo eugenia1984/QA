@@ -429,8 +429,6 @@
 ## [:star: Web Automation - Fundaments](https://github.com/eugenia1984/QA/tree/main/EGG/web_automation_fundamentals)
 
 
-## 20. <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automatización de pruebas
-
 ### Principios de Testing Automation
 
 - 20.1 - [Introducción a Automation](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/01_introducci%C3%B3n_a_web_automation_1.md): Encuesta / Bienvenida / Objetivos del encuentro / Debate I
