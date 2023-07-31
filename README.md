@@ -1,8 +1,6 @@
-# QA
+# :computer: QA
 
----
-
-Buenas, aca reuní los cursos realizados de QA:
+Dos cursos realizados de QA:
 
 1. [**EGG**](https://github.com/eugenia1984/QA/tree/main/EGG)
 
