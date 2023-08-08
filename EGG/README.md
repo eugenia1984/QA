@@ -445,9 +445,21 @@
 
 - 21.3 - [Introducción a Web Automation 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/06_introduccion_a_web_automation_6.md): Práctica Integradora - Perfeccionamiento
 
-### Web Locators & Elementos Web 1
+### Web Locators & Elementos Web 
 
-- 22.1 - [Web Locators & Elementos Web 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/07_web_llocators_elementos_web_1.md): Objetivos del encuentro / Inspección de páginas web / Elementos Web / Identificación por ID / Identificar por Name / Identificar por LinkText / Integración
+- 22.1 - [Web Locators & Elementos Web 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/07_web_locators_elementos_web_1.md): Objetivos del encuentro / Inspección de páginas web / Elementos Web / Identificación por ID / Identificar por Name / Identificar por LinkText / Integración
+
+- 22.2 - [Web Locators & Elementos Web 2](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/08_web_locators_elementos_web_2.md): Introducción / ClassNAme / P´ractica ClassName / TagName / Práctica TagName
+
+- 22.3 - [Web Locators & Elementos Web 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/09_web_locators_elementos_web_3.md): Práctica integradora
+
+- 22.4 - [Web Locators & Elementos Web 4](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/10_web_locators_elementos_web_4.md):
+
+- 22.5 - [Web Locators & Elementos Web 5](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/11_web_locators_elementos_web_5.md):
+
+- 22.6 - [Web Locators & Elementos Web 6](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/12_web_locators_elementos_web_6.md):
+
+- 22.7 - [Web Locators & Elementos Web 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/13_web_locators_elementos_web_7.md):  
 
 ### Driver Actions & waits
 
