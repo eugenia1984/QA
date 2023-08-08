@@ -36,13 +36,13 @@
 
 - 22.3 - [Web Locators & Elementos Web 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/09_web_locators_elementos_web_3.md): Práctica integradora
 
-- 22.4 - [Web Locators & Elementos Web 4](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/10_web_locators_elementos_web_4.md):
+- 22.4 - [Web Locators & Elementos Web 4](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/10_web_locators_elementos_web_4.md): Introducción a Selectores CSS / tag + ID / Tag + className / Tag + Attribute / Tag + className + Attribute
 
-- 22.5 - [Web Locators & Elementos Web 5](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/11_web_locators_elementos_web_5.md):
+- 22.5 - [Web Locators & Elementos Web 5](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/11_web_locators_elementos_web_5.md): Verificación de elementos
 
-- 22.6 - [Web Locators & Elementos Web 6](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/12_web_locators_elementos_web_6.md):
+- 22.6 - [Web Locators & Elementos Web 6](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/12_web_locators_elementos_web_6.md): Práctica de Selectores CSS
 
-- 22.7 - [Web Locators & Elementos Web 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/13_web_locators_elementos_web_7.md):  
+- 22.7 - [Web Locators & Elementos Web 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/13_web_locators_elementos_web_7.md): Práctica Integradora de Selectores 
 
 ---
 
