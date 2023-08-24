@@ -62,9 +62,9 @@
 
 - 23.7 - [Driver Actions & awaits 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/20_driver_actions_awaits_7.md) - Fluent Waits
 
-- 23.8 - Driver Actions & awaits 8 -
+- [23.8 - Driver Actions & awaits 8](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/21_driver_actions_awaits_8.md) -
 
-- 23.9 - Driver Actions & awaits 9 -
+- 23.9 - [Driver Actions & awaits 9](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/22_driver_actions_awaits_9.md) -
 
 ---
 
