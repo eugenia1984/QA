@@ -70,11 +70,11 @@
 
 ### Integración awaits y localizadores
 
-- 24.1 - Integración awaits y localizadores 1 - Ejercicio 1: Búsqueda en Google con Implicit Wait
+- 24.1 - [Integración awaits y localizadores 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/23_integraci%C3%B3n_awaits_localizadores_1.md) - Ejercicio 1: Búsqueda en Google con Implicit Wait
 
-- 24.2 - Integración awaits y localizadores 2 - Ejercicio 2: Esperar por la Imagen Principal en la Página de la BBC con Explicit Wait
+- 24.2 - [Integración awaits y localizadores 2](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/24_integraci%C3%B3n_awaits_localizadores_2.md) - Ejercicio 2: Esperar por la Imagen Principal en la Página de la BBC con Explicit Wait
 
-- 24.3 - Integración awaits y localizadores 3 - Ejercicio 3: Interacción con Wikipedia usando Fluent Wait
+- [24.3 - Integración awaits y localizadores 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/25_integraci%C3%B3n_awaits_localizadores_3.md) - Ejercicio 3: Interacción con Wikipedia usando Fluent Wait
 
 ---
 
