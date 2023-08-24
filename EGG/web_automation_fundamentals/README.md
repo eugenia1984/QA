@@ -60,7 +60,7 @@
   
 - 23.6 - [Driver Actions & awaits 6](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/19_driver_actions_awaits_6.md) - Práctica Explicit Waits
 
-- 23.7 - Driver Actions & awaits 7 -
+- 23.7 - [Driver Actions & awaits 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/20_driver_actions_awaits_7.md) - Fluent Waits
 
 - 23.8 - Driver Actions & awaits 8 -
 
