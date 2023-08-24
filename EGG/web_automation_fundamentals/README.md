@@ -70,56 +70,60 @@
 
 ### Integración awaits y localizadores
 
-- 24.1 - Integración awaits y localizadores 1 -
+- 24.1 - Integración awaits y localizadores 1 - Ejercicio 1: Búsqueda en Google con Implicit Wait
 
-- 24.2 - Integración awaits y localizadores 2 -
+- 24.2 - Integración awaits y localizadores 2 - Ejercicio 2: Esperar por la Imagen Principal en la Página de la BBC con Explicit Wait
+
+- 24.3 - Integración awaits y localizadores 3 - Ejercicio 3: Interacción con Wikipedia usando Fluent Wait
 
 ---
 
 ### Assertions
 
-- 25.1 - Assertions 1 -
+- 25.1 - Assertions 1 - Introducción a Assertions / Tipos de Assertions / Métodos para Assertions
 
-- 25.2 - Assertions 2 -
+- 25.2 - Assertions 2 - Práctica assertEquals / Verificación de resultado en consola
 
-- 25.3 - Assertions 3 -
+- 25.3 - Assertions 3 - Práctica assertNotEquals
 
-- 25.4 - Assertions 4 -
+- 25.4 - Assertions 4 - Práctica assertTrue
 
-- 25.5 - Assertions 5 -
+- 25.5 - Assertions 5 - Práctica assertFalse
 
-- 25.6 - Assertions 6 -
+- 25.6 - Assertions 6 - Práctica assertNull
 
-- 25.7 - Integración Assertions 1 -
+- 25.7 - Integración Assertions 1 - Parte 1
 
-- 25.8 - Integración Assertions 2 -
+- 25.8 - Integración Assertions 2 - Parte 2
 
-- 25.9 - Integración Assertions 3 -
+- 25.9 - Integración Assertions 3 - Parte 3
 
-- 25.10 - Integración Assertions 4 -
+- 25.10 - Otros tipos de Assertions - assertSame, assertArrayEquals, assertIterableEquals, assertThrows
 
-- 25.11 - Integración Assertions 5 -  
+- 25.11 - Integración Assertions 4 -  Práctica 1
+
+- 25.12 - Integración Assertions 5 -  Práctica 2
 
 
 ### POM / Page Factory
 
-- 26.1 - Introduccion
+- 26.1 - Introduccion - Introducción a Page Object Model
 
-- 26.2 - Primeros pasos con POM
+- 26.2 - Primeros pasos con POM - Primeros pasos con POM
 
-- 26.3 - Diseño de POM
+- 26.3 - Diseño de POM - Plantilla POM
 
-- 26.4 - Práctica de POM 1
+- 26.4 - Práctica de POM 1 - Práctica POM I
 
-- 26.5 - Práctica de POM 2
+- 26.5 - Práctica de POM 2 - Práctica POM 2
 
-- 26.6 - Práctica de POM 3
+- 26.6 - Práctica de POM 3 - Práctica POM 3
 
-- 26.7 - Integrador POM 1
+- 26.7 - Integrador POM 1 - Ejercicio 1
+ 
+- 26.7 - Integrador POM 2 - Ejercicio 2
 
-- 26.7 - Integrador POM 2
-
-- 26.7 - Integrador POM 3  
+- 26.7 - Integrador POM 3  - Ejercicio 3
 
 ---
 
