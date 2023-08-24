@@ -463,13 +463,13 @@
 
 ### Driver Actions & awaits
 
-- 23.1 - Driver Actions & awaits 1 -
+- 23.1 - [Driver Actions & awaits 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/14_driver_actions_awaits_1.md) - Introducción Waits / Tipos de Waits
 
-- 23.2 - Driver Actions & awaits 2 -
+- 23.2 - Driver Actions & awaits 2 - Implicit Waits
 
-- 23.3 - Driver Actions & awaits 3 -
+- 23.3 - Driver Actions & awaits 3 - Práctica Implicit Waits
 
-- 23.4 - Driver Actions & awaits 4 -
+- 23.4 - Driver Actions & awaits 4 - Explicit Waits
 
 - 23.5 - Driver Actions & awaits 5 -
   
