@@ -469,9 +469,9 @@
 
 - 23.3 - [Driver Actions & awaits 3](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/16_driver_actions_awaits_3.md) - Práctica Implicit Waits
 
-- 23.4 - Driver Actions & awaits 4 - Explicit Waits
+- 23.4 - [Driver Actions & awaits 4](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/17_driver_actions_awaits_4.md) - Explicit Waits
 
-- 23.5 - Driver Actions & awaits 5 -
+- 23.5 - [Driver Actions & awaits 5](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/18_driver_actions_awaits_5.md) - Expective Conditions
   
 - 23.6 - Driver Actions & awaits 6 -
 
