@@ -473,7 +473,7 @@
 
 - 23.5 - [Driver Actions & awaits 5](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/18_driver_actions_awaits_5.md) - Expective Conditions
   
-- 23.6 - Driver Actions & awaits 6 -
+- 23.6 - [Driver Actions & awaits 6](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/19_driver_actions_awaits_6.md) -
 
 - 23.7 - Driver Actions & awaits 7 -
 
