@@ -80,7 +80,7 @@
 
 ### Assertions
 
-- 25.1 - Assertions 1 - Introducción a Assertions / Tipos de Assertions / Métodos para Assertions
+- 25.1 - [Assertions 1](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/26_assertions_1.md) - Introducción a Assertions / Tipos de Assertions / Métodos para Assertions
 
 - 25.2 - Assertions 2 - Práctica assertEquals / Verificación de resultado en consola
 
