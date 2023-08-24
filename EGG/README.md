@@ -461,22 +461,90 @@
 
 - 22.7 - [Web Locators & Elementos Web 7](https://github.com/eugenia1984/QA/blob/main/EGG/web_automation_fundamentals/13_web_locators_elementos_web_7.md):  Práctica Integradora de Selectores
 
-### Driver Actions & waits
+### Driver Actions & awaits
+
+- 23.1 - Driver Actions & awaits 1 -
+
+- 23.2 - Driver Actions & awaits 2 -
+
+- 23.3 - Driver Actions & awaits 3 -
+
+- 23.4 - Driver Actions & awaits 4 -
+
+- 23.5 - Driver Actions & awaits 5 -
+  
+- 23.6 - Driver Actions & awaits 6 -
+
+- 23.7 - Driver Actions & awaits 7 -
+
+- 23.8 - Driver Actions & awaits 8 -
+
+- 23.9 - Driver Actions & awaits 9 -
+
+### Integración awaits y localizadores
+
+- 24.1 - Integración awaits y localizadores 1 -
+
+- 24.2 - Integración awaits y localizadores 2 -
 
 ### Assertions
 
+- 25.1 - Assertions 1 -
+
+- 25.2 - Assertions 2 -
+
+- 25.3 - Assertions 3 -
+
+- 25.4 - Assertions 4 -
+
+- 25.5 - Assertions 5 -
+
+- 25.6 - Assertions 6 -
+
+- 25.7 - Integración Assertions 1 -
+
+- 25.8 - Integración Assertions 2 -
+
+- 25.9 - Integración Assertions 3 -
+
+- 25.10 - Integración Assertions 4 -
+
+- 25.11 - Integración Assertions 5 -  
+
+
 ### POM / Page Factory
+
+- 26.1 - Introduccion
+
+- 26.2 - Primeros pasos con POM
+
+- 26.3 - Diseño de POM
+
+- 26.4 - Práctica de POM 1
+
+- 26.5 - Práctica de POM 2
+
+- 26.6 - Práctica de POM 3
+
+- 26.7 - Integrador POM 1
+
+- 26.7 - Integrador POM 2
+
+- 26.7 - Integrador POM 3  
 
 ### Alertas, iframes & Dropdawns
 
+---
 ---
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Automation en Mobile
 
 ---
+---
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Testing Automatizado de API
 
+---
 ---
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/null/external-qa-agile-flaticons-flat-flat-icons.png"/> Serenity + Screenplay
