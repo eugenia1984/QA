@@ -552,3 +552,6 @@ Dos cursos realizados de QA:
 - <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/null/external-qa-customer-feedback-flaticons-lineal-color-flat-icons-3.png"/> [**15 - MATERIAL EXTRA**](https://github.com/eugenia1984/QA/tree/main/INSTITUTO_WEB_QA/14_material_extra)
 
 ---
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/) 😊 and follow me at [LinkedIn](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/)
+
