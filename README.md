@@ -553,5 +553,5 @@ Dos cursos realizados de QA:
 
 ---
 
-I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/) 😊 and follow me at [LinkedIn](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/)
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/) 😊 and follow me at [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
